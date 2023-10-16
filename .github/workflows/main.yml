@@ -3,7 +3,8 @@ name: Update RSS Data
 on:
   schedule:
     # 定期的な実行スケジュールを設定
-    - cron: '0 0 * * *'  # 毎日UTCの0:00に実行
+    # 日本時間で10時から25時（協定世界時で毎日、1時から4時、10時から16時）まで3時間ごとに実行
+    - cron: '0 1-4/3,10-16/3 * * *' 
   workflow_dispatch:  # 手動で実行できるように設定
 
 jobs:
@@ -27,8 +28,8 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          git config --local user.email "actions@github.com"
-          git config --local user.name "GitHub Actions"
-          git add .
-          git commit -m "Update RSS data"
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add Y_Sche.xml
+          git commit -m "Update schedule RSS feed" || exit 0 # 変更がない場合はエラーを無視
           git push
