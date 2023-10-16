@@ -1,0 +1,34 @@
+name: Update RSS Data
+
+on:
+  schedule:
+    # 定期的な実行スケジュールを設定
+    - cron: '0 0 * * *'  # 毎日UTCの0:00に実行
+  workflow_dispatch:  # 手動で実行できるように設定
+
+jobs:
+  update-rss:
+    runs-on: ubuntu-latest  # 使用するランナー環境を指定
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2  # リポジトリのコードをチェックアウト
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'  # 使用するPythonバージョンを指定
+
+      - name: Install dependencies
+        run: pip install requests  # 必要なPythonパッケージをインストール
+
+      - name: Run Python script
+        run: python makeRSS_GoogleNews.py  # 実行したいPythonスクリプトのファイル名を指定
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git add .
+          git commit -m "Update RSS data"
+          git push
