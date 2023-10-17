@@ -24,7 +24,7 @@ jobs:
         pip install feedparser
 
     - name: Fetch RSS and Update XML
-      run: python fetch_rss.py
+      run: python makeRSS_GoogleNews.py
 
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
