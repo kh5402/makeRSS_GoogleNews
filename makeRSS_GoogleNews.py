@@ -16,7 +16,9 @@ def fetch_and_save_feeds(url_and_xmls):
         xml_filename = item['xml']
 
         # RSSフィードを取得
+        print(f'Fetching RSS feed from {url}')
         feed = feedparser.parse(url)
+        print(f'Fetched {len(feed.entries)} entries.')
         
         # 既存のXMLファイルがあるか確認
         try:
@@ -42,11 +44,13 @@ def fetch_and_save_feeds(url_and_xmls):
             description.text = entry.description
 
         # XMLファイルに保存
+        print(f'Saving to {xml_filename}')
         xml_str = ET.tostring(root, encoding='utf-8', method='xml')
         dom = minidom.parseString(xml_str)
         pretty_xml_str = dom.toprettyxml(indent='\t')
         with open(xml_filename, 'w', encoding='utf-8') as f:
             f.write(pretty_xml_str)
+        print(f'Saved to {xml_filename}')
 
 # 実行
 if __name__ == "__main__":
