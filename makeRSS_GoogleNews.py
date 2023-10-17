@@ -1,3 +1,4 @@
+import os
 import requests
 from lxml import etree
 
@@ -16,6 +17,9 @@ def fetch_and_save_feeds(url_and_xmls):
     for item in url_and_xmls:
         url = item['url']
         xml_filename = item['xml']
+
+        # 現在の作業ディレクトリを確認
+        print(f'Current working directory: {os.getcwd()}')
 
         # RSSフィードを取得
         print(f'Fetching RSS feed from {url}')
