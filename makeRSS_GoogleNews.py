@@ -114,6 +114,11 @@ url_and_xmls = [
         'xml': 'feed_GoogleNews_GeneretiveAI.xml',
         'exclude_phrase': []
     },
+    {
+        'url': 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB/sections/CAQiQ0NCQVNMQW9JTDIwdk1EZGpNWFlTQW1WdUdnSlZVeUlOQ0FRYUNRb0hMMjB2TUcxcmVpb0pFZ2N2YlM4d2JXdDZLQUEqKggAKiYICiIgQ0JBU0Vnb0lMMjB2TURkak1YWVNBbVZ1R2dKVlV5Z0FQAVAB?hl=en-US&gl=US&ceid=US%3Aen',
+        'xml': 'feed_GoogleNews_GeneretiveAI_en.xml',
+        'exclude_phrase': [] 
+    },
 ]
 
 
