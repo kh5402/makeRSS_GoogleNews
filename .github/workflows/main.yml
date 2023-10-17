@@ -23,9 +23,11 @@ jobs:
         python -m pip install --upgrade pip
         pip install requests lxml
 
-    - name: Fetch RSS and Update XML
+    - name: Run script
       run: python makeRSS_GoogleNews.py
-
+      env:
+        XML_FILENAME: feed_GoogleNews_Yumiki.xml
+        
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
       with:
