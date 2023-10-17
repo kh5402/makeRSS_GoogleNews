@@ -71,6 +71,11 @@ url_and_xmls = [
         'url': 'https://news.google.com/rss/search?q=%E3%82%AA%E3%83%BC%E3%83%89%E3%83%AA%E3%83%BC&hl=ja&gl=JP&ceid=JP%3Aja',
         'xml': 'feed_GoogleNews_Audley.xml'
     },
+
+    {
+        'url': 'https://news.google.com/news/rss/search?q=site%3Awww.softbank.jp%2Fcorp%2Fnews%2F&&hl=ja-JP&gl=JP&ceid=JP:ja',
+        'xml': 'feed_GoogleNews_Softbank.xml'
+    }
 ]
 
 def fetch_and_save_feeds(url_and_xmls):
