@@ -1,25 +1,36 @@
-name: Fetch RSS and Update XML
+name: RSS Workflow
 
 on:
-  schedule:
-    - cron: '0 * * * *'
   workflow_dispatch:
+  push:
+    branches:
+      - main
 
 jobs:
-  build:
+  create-rss:
     runs-on: ubuntu-latest
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v2
-    - name: Set up Python
-      uses: actions/setup-python@v2
-      with:
-        python-version: 3.8
-    - name: Install dependencies
-      run: |
-        python -m pip install --upgrade pip
-        pip install requests lxml
-    - name: Run script
-      run: python makeRSS_GoogleNews.py
+      - name: Check out repository
+        uses: actions/checkout@v2
 
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.8
 
+      - name: Install dependencies
+        run: |
+          pip install requests lxml
+
+      - name: Run script to create XML
+        run: python makeRSS_GoogleNews.py
+
+      - name: Commit and push XML files
+        run: |
+          git config --global user.email "action@github.com"
+          git config --global user.name "GitHub Action"
+          git add -A
+          git diff --quiet && git diff --staged --quiet || (
+            git commit -m "Updated XML with new RSS entries" &&
+            git push
+          )
