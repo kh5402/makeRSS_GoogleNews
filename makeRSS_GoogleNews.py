@@ -99,6 +99,12 @@ url_and_xmls = [
         'exclude_phrase': ['パ・リーグ','パシフィック・リーグ','野球' ,'西部' ,'ペルソール' ,'西日本新聞me' ,'seibulions.jp' ,'softbankhawks.co.jp' ,'始球式' ,'NPB' ,'フルカウント' ,'スポーツナビ' ,'ライオンズ' ,'北海道日本ハムファイターズ' ,'東北楽天ゴールデンイーグルス' ,'ニッカンスポーツ' ,'THE ANSWER（ジアンサー）' ,'DAZN' ,'スポーツ報知' ,'千葉ロッテマリーンズ' ,'オリックス・バファローズ' ,'パーソル クライマックスシリーズ'
 ]
     },
+
+    {
+        'url': 'https://news.google.com/rss/search?q=AI+OR+GPT+site:peatix.com&&hl=ja&gl=JP&ceid=JP:ja',
+        'xml': 'feed_GoogleNews_Peatix.xm',
+        'exclude_phrase': []
+    },
 ]
 
 
