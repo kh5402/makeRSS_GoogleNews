@@ -106,7 +106,7 @@ def fetch_and_save_feeds(url_and_xmls):
     for item in url_and_xmls:
         url = item['url']
         xml_filename = item['xml']
-        exclude_phrases = item['exclude_phrases']
+        exclude_phrases = item.get('exclude_phrases', [])  
 
         print(f'Current working directory: {os.getcwd()}')
         print(f'Fetching RSS feed from {url}')
