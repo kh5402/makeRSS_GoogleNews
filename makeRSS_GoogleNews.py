@@ -11,7 +11,66 @@ url_and_xmls = [
     {
         'url': 'https://news.google.com/rss/topics/CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZvTXpoMGJHcDNPUklDYW1Fb0FBUAE?hl=ja&gl=JP&ceid=JP%3Aja',
         'xml': 'feed_GoogleNews_Kanagawa.xml'
-    }
+    },
+    {
+        'url': 'https://news.google.com/rss/topics/CAAqJAgKIh5DQkFTRUFvS0wyMHZNR2d6YlhoM1p4SUNhbUVvQUFQAQ?hl=ja&gl=JP&ceid=JP:ja',
+        'xml': 'feed_GoogleNews_Nogizaka.xml'
+    },
+    {
+        'url': 'https://news.google.com/rss/search?q=%E6%97%A5%E5%90%91%E5%9D%8246&hl=ja&gl=JP&ceid=JP%3Aja',
+        'xml': 'feed_GoogleNews_Hinatazaka.xml'
+    },
+    {
+        'url': 'https://news.google.com/rss/topics/CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtYTIxcllqWmlOeElDYW1Fb0FBUAE?hl=ja&gl=JP&ceid=JP%3Aja',
+        'xml': 'feed_GoogleNews_Hinatazaka.xml'
+    },
+    {
+        'url': 'https://news.google.com/rss/topics/CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTmpRM2VIZHlZaElDYW1Fb0FBUAE?hl=ja&gl=JP&ceid=JP%3Aja',
+        'xml': 'feed_GoogleNews_kosaka.xml'
+    },
+    {
+        'url': 'https://news.google.com/rss/topics/CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTURGNWJHMTRjQklDYW1Fb0FBUAE?hl=ja&gl=JP&ceid=JP%3Aja',
+        'xml': 'feed_GoogleNews_kanemura.xml'
+    },    {
+        'url': 'https://news.google.com/rss/topics/CAAqJAgKIh5DQkFTRUFvS0wyMHZNSG81Ymw5dFp4SUNhbUVvQUFQAQ?hl=ja&gl=JP&ceid=JP%3Aja',
+        'xml': 'feed_GoogleNews_yamazaki.xml'
+    },
+    {
+        'url': 'https://news.google.com/rss/topics/CAAqJAgKIh5DQkFTRUFvS0wyMHZNRE5vTTNCa05CSUNhbUVvQUFQAQ?hl=ja&gl=JP&ceid=JP:ja&oc=11',
+        'xml': 'feed_GoogleNews_ijuin.xml'
+    },
+    {
+        'url': 'https://news.google.com/rss/topics/CAAqIggKIhxDQkFTRHdvSkwyMHZNR1ExWmpSakVnSnFZU2dBUAE?hl=ja&gl=JP&ceid=JP:ja&oc=11',
+        'xml': 'feed_GoogleNews_bakusho.xml'
+    },
+    {
+        'url': 'https://news.google.com/rss/search?q=%E7%88%86%E7%AC%91%E5%95%8F%E9%A1%8C&hl=ja&gl=JP&ceid=JP%3Aja',
+        'xml': 'feed_GoogleNews_bakusho.xml'
+    },
+    {
+        'url': 'https://news.google.com/rss/topics/CAAqJAgKIh5DQkFTRUFvS0wyMHZNREkxZG1wd2RCSUNhbUVvQUFQAQ?hl=ja&gl=JP&ceid=JP%3Aja',
+        'xml': 'feed_GoogleNews_bakusho.xml'
+    },
+    {
+        'url': 'https://news.google.com/rss/search?q=%22%E3%82%A2%E3%83%AB%E3%82%B3%EF%BC%86%E3%83%94%E3%83%BC%E3%82%B9%22+OR+%22%E3%82%A2%E3%83%AB%E3%83%94%E3%83%BC%22&&hl=ja&gl=JP&ceid=JP:ja',
+        'xml': 'feed_GoogleNews_AlcoAndPeace.xml'
+    },
+    {
+        'url': 'https://news.google.com/rss/topics/CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtZURrMVgzbDZNQklDYW1Fb0FBUAE?hl=ja&gl=JP&ceid=JP%3Aja',
+        'xml': 'feed_GoogleNews_AlcoAndPeace.xml'
+    },
+    {
+        'url': 'https://news.google.com/rss/topics/CAAqJAgKIh5DQkFTRUFvS0wyMHZNRjk0YW1veU1CSUNhbUVvQUFQAQ?hl=ja&gl=JP&ceid=JP%3Aja',
+        'xml': 'feed_GoogleNews_audley.xml'
+    },
+    {
+        'url': 'https://news.google.com/rss/topics/CAAqJAgKIh5DQkFTRUFvS0wyMHZNRFl6ZW5aNmF4SUNhbUVvQUFQAQ?hl=ja&gl=JP&ceid=JP%3Aja',
+        'xml': 'feed_GoogleNews_audley.xml'
+    },
+    {
+        'url': 'https://news.google.com/rss/search?q=%E3%82%AA%E3%83%BC%E3%83%89%E3%83%AA%E3%83%BC&hl=ja&gl=JP&ceid=JP%3Aja',
+        'xml': 'feed_GoogleNews_audley.xml'
+    },
 ]
 
 def fetch_and_save_feeds(url_and_xmls):
