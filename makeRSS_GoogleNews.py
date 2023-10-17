@@ -1,6 +1,16 @@
 import requests
 from lxml import etree
-import json
+
+url_and_xmls = [
+    {
+        'url': 'https://news.google.com/rss/topics/CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtZERCc2NIaDZNaElDYW1Fb0FBUAE?hl=ja&gl=JP&ceid=JP%3Aja',
+        'xml': 'feed_GoogleNews_Yumiki.xml'
+    },
+    {
+        'url': 'https://news.google.com/rss/topics/CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZvTXpoMGJHcDNPUklDYW1Fb0FBUAE?hl=ja&gl=JP&ceid=JP%3Aja',
+        'xml': 'feed_GoogleNews_Kanagawa.xml'
+    }
+]
 
 def fetch_and_save_feeds(url_and_xmls):
     for item in url_and_xmls:
@@ -23,10 +33,6 @@ def fetch_and_save_feeds(url_and_xmls):
         with open(xml_filename, 'wb') as f:
             f.write(xml_str)
         print(f'Saved to {xml_filename}')
-
-# JSONファイルからURLとXMLの情報を読み込む
-with open('url_and_xmls.json', 'r') as f:
-    url_and_xmls = json.load(f)
 
 # RSSフィードを取得して保存
 fetch_and_save_feeds(url_and_xmls)
