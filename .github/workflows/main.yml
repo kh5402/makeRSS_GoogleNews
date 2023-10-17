@@ -2,8 +2,8 @@ name: Fetch RSS and Update XML
 
 on:
   schedule:
-    - cron: '0 * * * *'  # この行は毎時実行する設定だよ、変更する場合はこの行を修正してね！
-  workflow_dispatch:  # この行を追加すると、手動で実行することもできるようになるよ！
+    - cron: '0 * * * *'
+  workflow_dispatch:
 
 jobs:
   fetch-rss:
@@ -16,7 +16,7 @@ jobs:
     - name: Set up Python
       uses: actions/setup-python@v2
       with:
-        python-version: 3.8  # Pythonのバージョンを指定するよ！
+        python-version: 3.8
 
     - name: Install dependencies
       run: |
@@ -24,15 +24,10 @@ jobs:
         pip install feedparser
 
     - name: Fetch RSS and Update XML
-      run: python makeRSS_GoogleNews.py
+      run: python fetch_rss.py
 
-    - name: Commit and push if changed
-      run: |
-        git config --global user.email "action@github.com"
-        git config --global user.name "GitHub Action"
-        git add -A
-        git diff --quiet && git diff --staged --quiet || (
-          git commit -m "Updated XML with new RSS entries" &&
-          git push https://${{secrets.MY_SECRET_TOKEN}}@github.com/${{github.repository}}.git
-        )
-
+    - name: Deploy to GitHub Pages
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.MY_SECRET_TOKEN }}
+        publish_dir: .
