@@ -36,4 +36,3 @@ jobs:
           git push https://${{secrets.MY_SECRET_TOKEN}}@github.com/${{github.repository}}.git
         )
 
-
