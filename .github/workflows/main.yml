@@ -2,7 +2,7 @@ name: Run RSS Generator
 on:
   workflow_dispatch: # 手動で実行できるようにする
   schedule:
-    - cron: '0 1-4/3,10-16/3 * * *'  # 日本時間で10時から25時（協定世界時で毎日、1時から4時、10時から16時）まで3時間ごとに実行
+    - cron: '0 * * * *'  # 毎時0分に実行
 
 jobs:
   run-script:
