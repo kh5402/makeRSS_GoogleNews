@@ -32,5 +32,5 @@ jobs:
           git add -A
           git diff --quiet && git diff --staged --quiet || (
             git commit -m "Updated XML with new RSS entries" &&
-            git push
+            git push https://${{secrets.MY_SECRET_TOKEN}}@github.com/kh5402/makeRSS_GoogleNews.git
           )
