@@ -1,37 +1,35 @@
-name: RSS Workflow
-
+name: Run RSS Generator
 on:
-  workflow_dispatch:
-  push:
-    branches:
-      - main
+  workflow_dispatch: # 手動で実行できるようにする
+  schedule:
+    - cron: '0 1-4/3,10-16/3 * * *'  # 日本時間で10時から25時（協定世界時で毎日、1時から4時、10時から16時）まで3時間ごとに実行
 
 jobs:
-  create-rss:
+  run-script:
     runs-on: ubuntu-latest
+    
     steps:
-      - name: Check out repository
-        uses: actions/checkout@v2
+    - name: Checkout code
+      uses: actions/checkout@v2
+      with:
+        token: ${{ secrets.MY_SECRET_TOKEN }}
+    
+    - name: Set up Python
+      uses: actions/setup-python@v3
+      with:
+        python-version: '3.x'
 
-      - name: Set up Python
-        uses: actions/setup-python@v2
-        with:
-          python-version: 3.8
+    - name: Install dependencies
+      run: |
+        pip3 install -r requirements.txt
 
-      - name: Install dependencies
-        run: |
-          pip install requests lxml
-
-      - name: Run script to create XML
-        run: python makeRSS_GoogleNews.py
-
-      - name: Push changes
-        run: |
-          git config --global user.email "action@github.com"
-          git config --global user.name "GitHub Action"
-          git add -A
-          git diff --quiet && git diff --staged --quiet || (
-            git commit -m "Updated XML with new RSS entries" &&
-            git push https://${{ secrets.MY_SECRET_TOKEN }}@github.com/kh5402/makeRSS_GoogleNews.git
-          )
-
+    - name: Run makeRSS_GoogleNews.py Script
+      run: python3 makeRSS_GoogleNews.py  # Pythonファイルのパスを適切に設定してね
+    
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add -A  # 全ての変更をステージング
+        git commit -m "Updated XML with new RSS entries" || exit 0  # 変更がない場合はエラーを無視
+        git push https://${{ secrets.MY_SECRET_TOKEN }}@github.com/kh5402/makeRSS_GoogleNews.git
