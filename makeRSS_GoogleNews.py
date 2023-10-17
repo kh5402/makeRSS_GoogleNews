@@ -109,6 +109,11 @@ url_and_xmls = [
         'xml': 'feed_GoogleNews_Speakerdeck.xml',
         'exclude_phrase': []
     },
+    {
+        'url': 'https://news.google.com/rss/search?q=AI&hl=ja&gl=JP&ceid=JP:ja',
+        'xml': 'feed_GoogleNews_GeneretiveAI.xml',
+        'exclude_phrase': []
+    },
 ]
 
 
