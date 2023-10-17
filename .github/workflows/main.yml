@@ -1,35 +1,33 @@
-name: Update RSS Data
+name: Fetch RSS and Update XML
 
 on:
   schedule:
-    # 定期的な実行スケジュールを設定
-    # 日本時間で10時から25時（協定世界時で毎日、1時から4時、10時から16時）まで3時間ごとに実行
-    - cron: '0 1-4/3,10-16/3 * * *' 
-  workflow_dispatch:  # 手動で実行できるように設定
+    - cron: '0 * * * *'  # この行は毎時実行する設定だよ、変更する場合はこの行を修正してね！
 
 jobs:
-  update-rss:
-    runs-on: ubuntu-latest  # 使用するランナー環境を指定
+  fetch-rss:
+    runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v2  # リポジトリのコードをチェックアウト
+    - name: Checkout code
+      uses: actions/checkout@v2
 
-      - name: Set up Python
-        uses: actions/setup-python@v2
-        with:
-          python-version: '3.x'  # 使用するPythonバージョンを指定
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.8  # Pythonのバージョンを指定するよ！
 
-      - name: Install dependencies
-        run: pip install requests  # 必要なPythonパッケージをインストール
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install feedparser
 
-      - name: Run Python script
-        run: python makeRSS_GoogleNews.py  # 実行したいPythonスクリプトのファイル名を指定
+    - name: Fetch RSS and Update XML
+      run: python fetch_rss.py
 
-      - name: Commit and push changes
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add feed_GoogleNews_Yumiki.xml
-          git commit -m "Update schedule RSS feed" || exit 0 # 変更がない場合はエラーを無視
-          git push
+    - name: Commit and push if changed
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add -A
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Updated XML with new RSS entries" && git push)
