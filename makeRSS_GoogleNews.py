@@ -18,6 +18,12 @@ def fetch_and_save_feeds(url_and_xmls):
         # RSSフィードを取得
         print(f'Fetching RSS feed from {url}')
         feed = feedparser.parse(url)
+        
+        # エラーのチェック
+        if feed.bozo:
+            print(f'Error: {feed.bozo_exception}')
+            continue  # エラーがあれば、このフィードの処理をスキップ
+
         print(f'Fetched {len(feed.entries)} entries.')
         
         # 既存のXMLファイルがあるか確認
