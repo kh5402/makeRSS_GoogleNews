@@ -26,30 +26,30 @@ url_and_xmls = [
     },
     {
         'url': 'https://news.google.com/rss/topics/CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTmpRM2VIZHlZaElDYW1Fb0FBUAE?hl=ja&gl=JP&ceid=JP%3Aja',
-        'xml': 'feed_GoogleNews_kosaka.xml'
+        'xml': 'feed_GoogleNews_Kosaka.xml'
     },
     {
         'url': 'https://news.google.com/rss/topics/CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTURGNWJHMTRjQklDYW1Fb0FBUAE?hl=ja&gl=JP&ceid=JP%3Aja',
-        'xml': 'feed_GoogleNews_kanemura.xml'
+        'xml': 'feed_GoogleNews_Kanemura.xml'
     },    {
         'url': 'https://news.google.com/rss/topics/CAAqJAgKIh5DQkFTRUFvS0wyMHZNSG81Ymw5dFp4SUNhbUVvQUFQAQ?hl=ja&gl=JP&ceid=JP%3Aja',
-        'xml': 'feed_GoogleNews_yamazaki.xml'
+        'xml': 'feed_GoogleNews_Yamazaki.xml'
     },
     {
         'url': 'https://news.google.com/rss/topics/CAAqJAgKIh5DQkFTRUFvS0wyMHZNRE5vTTNCa05CSUNhbUVvQUFQAQ?hl=ja&gl=JP&ceid=JP:ja&oc=11',
-        'xml': 'feed_GoogleNews_ijuin.xml'
+        'xml': 'feed_GoogleNews_Ijuin.xml'
     },
     {
         'url': 'https://news.google.com/rss/topics/CAAqIggKIhxDQkFTRHdvSkwyMHZNR1ExWmpSakVnSnFZU2dBUAE?hl=ja&gl=JP&ceid=JP:ja&oc=11',
-        'xml': 'feed_GoogleNews_bakusho.xml'
+        'xml': 'feed_GoogleNews_Bakusho.xml'
     },
     {
         'url': 'https://news.google.com/rss/search?q=%E7%88%86%E7%AC%91%E5%95%8F%E9%A1%8C&hl=ja&gl=JP&ceid=JP%3Aja',
-        'xml': 'feed_GoogleNews_bakusho.xml'
+        'xml': 'feed_GoogleNews_Bakusho.xml'
     },
     {
         'url': 'https://news.google.com/rss/topics/CAAqJAgKIh5DQkFTRUFvS0wyMHZNREkxZG1wd2RCSUNhbUVvQUFQAQ?hl=ja&gl=JP&ceid=JP%3Aja',
-        'xml': 'feed_GoogleNews_bakusho.xml'
+        'xml': 'feed_GoogleNews_Bakusho.xml'
     },
     {
         'url': 'https://news.google.com/rss/search?q=%22%E3%82%A2%E3%83%AB%E3%82%B3%EF%BC%86%E3%83%94%E3%83%BC%E3%82%B9%22+OR+%22%E3%82%A2%E3%83%AB%E3%83%94%E3%83%BC%22&&hl=ja&gl=JP&ceid=JP:ja',
@@ -61,15 +61,15 @@ url_and_xmls = [
     },
     {
         'url': 'https://news.google.com/rss/topics/CAAqJAgKIh5DQkFTRUFvS0wyMHZNRjk0YW1veU1CSUNhbUVvQUFQAQ?hl=ja&gl=JP&ceid=JP%3Aja',
-        'xml': 'feed_GoogleNews_audley.xml'
+        'xml': 'feed_GoogleNews_Audley.xml'
     },
     {
         'url': 'https://news.google.com/rss/topics/CAAqJAgKIh5DQkFTRUFvS0wyMHZNRFl6ZW5aNmF4SUNhbUVvQUFQAQ?hl=ja&gl=JP&ceid=JP%3Aja',
-        'xml': 'feed_GoogleNews_audley.xml'
+        'xml': 'feed_GoogleNews_Audley.xml'
     },
     {
         'url': 'https://news.google.com/rss/search?q=%E3%82%AA%E3%83%BC%E3%83%89%E3%83%AA%E3%83%BC&hl=ja&gl=JP&ceid=JP%3Aja',
-        'xml': 'feed_GoogleNews_audley.xml'
+        'xml': 'feed_GoogleNews_Audley.xml'
     },
 ]
 
