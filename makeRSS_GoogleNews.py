@@ -102,7 +102,7 @@ url_and_xmls = [
 
     {
         'url': 'https://news.google.com/rss/search?q=AI+OR+GPT+site:peatix.com&&hl=ja&gl=JP&ceid=JP:ja',
-        'xml': 'feed_GoogleNews_Peatix.xm',
+        'xml': 'feed_GoogleNews_Peatix.xml',
         'exclude_phrase': []
     },
 ]
