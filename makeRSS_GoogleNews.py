@@ -95,12 +95,11 @@ def fetch_and_save_feeds(url_and_xmls):
                 existing_root = etree.parse(f).getroot()
             existing_entries = existing_root.xpath('//item')
         except FileNotFoundError:
-            existing_entries = []
             existing_root = etree.Element("rss")
             channel = etree.SubElement(existing_root, "channel")
-            channel.append(new_root.find('title'))
-            channel.append(new_root.find('link'))
-            channel.append(new_root.find('description'))
+            for entry in new_entries:
+                channel.append(entry)
+            existing_entries = []
 
         # 重複を避けて、新しいエントリーを追加
         existing_guids = {entry.find('guid').text for entry in existing_entries}
