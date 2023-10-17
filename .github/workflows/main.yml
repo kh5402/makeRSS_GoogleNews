@@ -31,5 +31,9 @@ jobs:
         git config --global user.email "action@github.com"
         git config --global user.name "GitHub Action"
         git add -A
-        git diff --quiet && git diff --staged --quiet || (git commit -m "Updated XML with new RSS entries" && git push)
+        git diff --quiet && git diff --staged --quiet || (
+          git commit -m "Updated XML with new RSS entries" &&
+          git push https://${{secrets.MY_SECRET_TOKEN}}@github.com/${{github.repository}}.git
+        )
+
 
