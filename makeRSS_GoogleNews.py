@@ -156,6 +156,8 @@ def fetch_and_save_feeds(url_and_xmls):
 
         print(f'Saving to {xml_filename}')
         xml_str = etree.tostring(new_root, encoding='utf-8', pretty_print=True)
+        # 不正なXML文字を取り除く
+        xml_str = re.sub(u'[\x00-\x08\x0B\x0C\x0E-\x1F\x7F]', '', xml_str.decode()).encode()
         with open(xml_filename, 'wb') as f:
             f.write(xml_str)
         print(f'Saved to {xml_filename}')
