@@ -1,4 +1,5 @@
 import os
+import re
 import requests
 from lxml import etree
 from datetime import datetime
