@@ -6,7 +6,7 @@
     <language>ja</language>
     <webMaster>news-webmaster@google.com</webMaster>
     <copyright>2023 Google Inc.</copyright>
-    <lastBuildDate>Sun, 22 Oct 2023 06:19:26 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Oct 2023 07:12:52 GMT</lastBuildDate>
     <description>Google ニュース</description>
     <item>
       <title>AIアプリDojo #3: Hugging Face Transformers モデルのチューニング入門 - Speaker Deck</title>
@@ -489,19 +489,19 @@
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
+      <title>最新AI技術「カプセルネットワーク」「転移学習」「QRNN」をKerasでサクっと実装する - Speaker Deck</title>
+      <link>https://news.google.com/rss/articles/CBMiemh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3BpYWNlcmV4L3p1aS14aW4tYWlqaS1zaHUta2FwdXNlcnVuZXR1dG93YWt1LXpodWFuLXlpLXh1ZS14aS1xcm5uLXdva2VyYXNkZXNha3V0dXRvc2hpLXpodWFuZy1zdXJ10gEA?oc=5</link>
+      <guid isPermaLink="false">CBMiemh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3BpYWNlcmV4L3p1aS14aW4tYWlqaS1zaHUta2FwdXNlcnVuZXR1dG93YWt1LXpodWFuLXlpLXh1ZS14aS1xcm5uLXdva2VyYXNkZXNha3V0dXRvc2hpLXpodWFuZy1zdXJ10gEA</guid>
+      <pubDate>Sat, 30 Jun 2018 07:00:00 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiemh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3BpYWNlcmV4L3p1aS14aW4tYWlqaS1zaHUta2FwdXNlcnVuZXR1dG93YWt1LXpodWFuLXlpLXh1ZS14aS1xcm5uLXdva2VyYXNkZXNha3V0dXRvc2hpLXpodWFuZy1zdXJ10gEA?oc=5" target="_blank"&gt;最新AI技術「カプセルネットワーク」「転移学習」「QRNN」をKerasでサクっと実装する&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
+      <source url="https://speakerdeck.com">Speaker Deck</source>
+    </item>
+    <item>
       <title>2023/09/23 「AIキャラクターの言動に深みを持たせる」 - Speaker Deck</title>
       <link>https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3NyMm1nNC8yMy1haWtpeWFyYWt1dGFub3lhbi1kb25nLW5pc2hlbi1taXdvY2hpLXRhc2VyddIBAA?oc=5</link>
       <guid isPermaLink="false">CBMiTmh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3NyMm1nNC8yMy1haWtpeWFyYWt1dGFub3lhbi1kb25nLW5pc2hlbi1taXdvY2hpLXRhc2VyddIBAA</guid>
       <pubDate>Sat, 23 Sep 2023 07:00:00 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3NyMm1nNC8yMy1haWtpeWFyYWt1dGFub3lhbi1kb25nLW5pc2hlbi1taXdvY2hpLXRhc2VyddIBAA?oc=5" target="_blank"&gt;2023/09/23 「AIキャラクターの言動に深みを持たせる」&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
-      <source url="https://speakerdeck.com">Speaker Deck</source>
-    </item>
-    <item>
-      <title>他言語がメインの場合のRustの活用法 - csbindgenによるC# x Rust FFI実践事例 - Speaker Deck</title>
-      <link>https://news.google.com/rss/articles/CBMif2h0dHBzOi8vc3BlYWtlcmRlY2suY29tL25ldWVjYy90YS15YW4teXUtZ2FtZWlubm9jaGFuZy1oZS1ub3J1c3Rub2h1by15b25nLWZhLWNzYmluZGdlbm5peW9ydWMtbnVtYmVyLXgtcnVzdC1mZmlzaGktamlhbi1zaGktbGnSAQA?oc=5</link>
-      <guid isPermaLink="false">CBMif2h0dHBzOi8vc3BlYWtlcmRlY2suY29tL25ldWVjYy90YS15YW4teXUtZ2FtZWlubm9jaGFuZy1oZS1ub3J1c3Rub2h1by15b25nLWZhLWNzYmluZGdlbm5peW9ydWMtbnVtYmVyLXgtcnVzdC1mZmlzaGktamlhbi1zaGktbGnSAQA</guid>
-      <pubDate>Sat, 21 Oct 2023 07:27:13 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMif2h0dHBzOi8vc3BlYWtlcmRlY2suY29tL25ldWVjYy90YS15YW4teXUtZ2FtZWlubm9jaGFuZy1oZS1ub3J1c3Rub2h1by15b25nLWZhLWNzYmluZGdlbm5peW9ydWMtbnVtYmVyLXgtcnVzdC1mZmlzaGktamlhbi1zaGktbGnSAQA?oc=5" target="_blank"&gt;他言語がメインの場合のRustの活用法 - csbindgenによるC# x Rust FFI実践事例&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
@@ -606,14 +606,6 @@
       <guid isPermaLink="false">CBMiXGh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3l1c2hpa3UvYWlqaS1jaHUtamlhbmctenVvLWRpLTRodWEtZGktMWNpLWFpYnVtdS10dWktbHVuLXRvdGFuLXN1by0y0gEA</guid>
       <pubDate>Sat, 02 May 2020 07:00:00 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3l1c2hpa3UvYWlqaS1jaHUtamlhbmctenVvLWRpLTRodWEtZGktMWNpLWFpYnVtdS10dWktbHVuLXRvdGFuLXN1by0y0gEA?oc=5" target="_blank"&gt;AI基礎講座 第4話 第1次AIブーム 推論と探索 (2)&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
-      <source url="https://speakerdeck.com">Speaker Deck</source>
-    </item>
-    <item>
-      <title>フロントエンドのパラダイムを参考にバックエンド開発を再考する / TypeScript による GraphQL バックエンド開発 - Speaker Deck</title>
-      <link>https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vc3BlYWtlcmRlY2suY29tL25hb3lhL3R5cGVzY3JpcHQtbml5b3J1LWdyYXBocWwtYmF0dWt1ZW5kb2thaS1mYdIBAA?oc=5</link>
-      <guid isPermaLink="false">CBMiSGh0dHBzOi8vc3BlYWtlcmRlY2suY29tL25hb3lhL3R5cGVzY3JpcHQtbml5b3J1LWdyYXBocWwtYmF0dWt1ZW5kb2thaS1mYdIBAA</guid>
-      <pubDate>Sat, 01 Oct 2022 07:00:00 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vc3BlYWtlcmRlY2suY29tL25hb3lhL3R5cGVzY3JpcHQtbml5b3J1LWdyYXBocWwtYmF0dWt1ZW5kb2thaS1mYdIBAA?oc=5" target="_blank"&gt;フロントエンドのパラダイムを参考にバックエンド開発を再考する / TypeScript による GraphQL バックエンド開発&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
@@ -758,6 +750,14 @@
       <guid isPermaLink="false">CBMiamh0dHBzOi8vc3BlYWtlcmRlY2suY29tL25lanVtaS9ndWFuLXhpLWthZ2dsZXJodWktcGVpLWJ1LWJhbi1rb21peXVuaXRlaWtvbnBlbm9qaS1zb2stZGUtbmFrYWktY3VpLW5pdHVpdGXSAQA</guid>
       <pubDate>Fri, 20 Oct 2023 14:34:39 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiamh0dHBzOi8vc3BlYWtlcmRlY2suY29tL25lanVtaS9ndWFuLXhpLWthZ2dsZXJodWktcGVpLWJ1LWJhbi1rb21peXVuaXRlaWtvbnBlbm9qaS1zb2stZGUtbmFrYWktY3VpLW5pdHVpdGXSAQA?oc=5" target="_blank"&gt;[関西Kaggler会 配布版] コミュニティコンペの継続的な開催について&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
+      <source url="https://speakerdeck.com">Speaker Deck</source>
+    </item>
+    <item>
+      <title>Java 21の概要 / outline of Java 21 - Speaker Deck</title>
+      <link>https://news.google.com/rss/articles/CBMiMmh0dHBzOi8vc3BlYWtlcmRlY2suY29tL2tpc2hpZGEvb3V0bGluZS1vZi1qYXZhLTIx0gEA?oc=5</link>
+      <guid isPermaLink="false">CBMiMmh0dHBzOi8vc3BlYWtlcmRlY2suY29tL2tpc2hpZGEvb3V0bGluZS1vZi1qYXZhLTIx0gEA</guid>
+      <pubDate>Fri, 20 Oct 2023 12:11:44 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiMmh0dHBzOi8vc3BlYWtlcmRlY2suY29tL2tpc2hpZGEvb3V0bGluZS1vZi1qYXZhLTIx0gEA?oc=5" target="_blank"&gt;Java 21の概要 / outline of Java 21&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
