@@ -6,7 +6,7 @@
     <language>ja</language>
     <webMaster>news-webmaster@google.com</webMaster>
     <copyright>2023 Google Inc.</copyright>
-    <lastBuildDate>Sun, 22 Oct 2023 04:17:49 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Oct 2023 05:14:14 GMT</lastBuildDate>
     <description>Google ニュース</description>
     <item>
       <title>今さら聞けない「生成AI」の仕組みや活用の注意点をこっそり学ぼう - ＠IT</title>
@@ -23,6 +23,14 @@
       <pubDate>Wed, 18 Oct 2023 07:04:00 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vanAucmV1dGVycy5jb20vbWFya2V0cy9nbG9iYWwtbWFya2V0cy9MU1FPVEU2NkpGTVFWRFJZQ0FDWFNSUjI2WS0yMDIzLTEwLTE4L9IBAA?oc=5" target="_blank"&gt;鴻海、ＡＩデータ工場建設へ 米エヌビディアと提携&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;ロイター (Reuters Japan)&lt;/font&gt;</description>
       <source url="https://jp.reuters.com">ロイター (Reuters Japan)</source>
+    </item>
+    <item>
+      <title>サイバーエージェント、生成AIの活用推進する「AIオペレーション室」 - Impress Watch</title>
+      <link>https://news.google.com/rss/articles/CBMiNmh0dHBzOi8vd3d3LndhdGNoLmltcHJlc3MuY28uanAvZG9jcy9uZXdzLzE1NDAwNTYuaHRtbNIBAA?oc=5</link>
+      <guid isPermaLink="false">CBMiNmh0dHBzOi8vd3d3LndhdGNoLmltcHJlc3MuY28uanAvZG9jcy9uZXdzLzE1NDAwNTYuaHRtbNIBAA</guid>
+      <pubDate>Wed, 18 Oct 2023 03:12:20 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiNmh0dHBzOi8vd3d3LndhdGNoLmltcHJlc3MuY28uanAvZG9jcy9uZXdzLzE1NDAwNTYuaHRtbNIBAA?oc=5" target="_blank"&gt;サイバーエージェント、生成AIの活用推進する「AIオペレーション室」&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Impress Watch&lt;/font&gt;</description>
+      <source url="https://www.watch.impress.co.jp">Impress Watch</source>
     </item>
     <item>
       <title>調査レポート：通信業界における生成系AIの活用、課題、そして未来 ... - amazon.com</title>
@@ -87,14 +95,6 @@
       <pubDate>Tue, 17 Oct 2023 10:09:50 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vbmV3cy5nb2xmZGlnZXN0LmNvLmpwL25ld3MvcGdhL2FydGljbGUvMTYxNDkwLzEv0gFHaHR0cHM6Ly9uZXdzLmdvbGZkaWdlc3QuY28uanAvbmV3cy9wZ2EvYXJ0aWNsZS8xNjE0OTAvMS8_Zm9ybWF0PWFtcGh0bWw?oc=5" target="_blank"&gt;フェースが透け透け、なんじゃこりゃ!? ZOZOで発見「Ai-ONEパター」&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;ゴルフダイジェスト・オンライン&lt;/font&gt;</description>
       <source url="https://news.golfdigest.co.jp">ゴルフダイジェスト・オンライン</source>
-    </item>
-    <item>
-      <title>サイバーエージェント、生成AIで業務6割減 開発･採用に - 日本経済新聞</title>
-      <link>https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3Lm5pa2tlaS5jb20vYXJ0aWNsZS9ER1haUU9VQzE2MTVFMFczQTAxMUMyMDAwMDAwL9IBAA?oc=5</link>
-      <guid isPermaLink="false">CBMiPGh0dHBzOi8vd3d3Lm5pa2tlaS5jb20vYXJ0aWNsZS9ER1haUU9VQzE2MTVFMFczQTAxMUMyMDAwMDAwL9IBAA</guid>
-      <pubDate>Tue, 17 Oct 2023 09:00:00 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3Lm5pa2tlaS5jb20vYXJ0aWNsZS9ER1haUU9VQzE2MTVFMFczQTAxMUMyMDAwMDAwL9IBAA?oc=5" target="_blank"&gt;サイバーエージェント、生成AIで業務6割減 開発･採用に&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;日本経済新聞&lt;/font&gt;</description>
-      <source url="https://www.nikkei.com">日本経済新聞</source>
     </item>
     <item>
       <title>AIイラスト投稿サイト「アワートAI」無料で生成回数無制限モードを ... - PR TIMES</title>
@@ -273,11 +273,19 @@
       <source url="https://forbesjapan.com">Forbes JAPAN</source>
     </item>
     <item>
-      <title>「AIを使って人間の可能性を底上げする」Google日本法人代表が語るAI ... - @DIME</title>
+      <title>英副首相 AIの安全な活用へ各国連携の重要性を強調 国連総会 - nhk.or.jp</title>
+      <link>https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vd3d3My5uaGsub3IuanAvbmV3cy9odG1sLzIwMjMwOTIzL2sxMDAxNDIwNDQ5MTAwMC5odG1s0gFCaHR0cHM6Ly93d3czLm5oay5vci5qcC9uZXdzL2h0bWwvMjAyMzA5MjMvYW1wL2sxMDAxNDIwNDQ5MTAwMC5odG1s?oc=5</link>
+      <guid isPermaLink="false">CBMiPmh0dHBzOi8vd3d3My5uaGsub3IuanAvbmV3cy9odG1sLzIwMjMwOTIzL2sxMDAxNDIwNDQ5MTAwMC5odG1s0gFCaHR0cHM6Ly93d3czLm5oay5vci5qcC9uZXdzL2h0bWwvMjAyMzA5MjMvYW1wL2sxMDAxNDIwNDQ5MTAwMC5odG1s</guid>
+      <pubDate>Sat, 23 Sep 2023 07:00:00 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vd3d3My5uaGsub3IuanAvbmV3cy9odG1sLzIwMjMwOTIzL2sxMDAxNDIwNDQ5MTAwMC5odG1s0gFCaHR0cHM6Ly93d3czLm5oay5vci5qcC9uZXdzL2h0bWwvMjAyMzA5MjMvYW1wL2sxMDAxNDIwNDQ5MTAwMC5odG1s?oc=5" target="_blank"&gt;英副首相 AIの安全な活用へ各国連携の重要性を強調 国連総会&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;nhk.or.jp&lt;/font&gt;</description>
+      <source url="https://www3.nhk.or.jp">nhk.or.jp</source>
+    </item>
+    <item>
+      <title>「AIを使って人間の可能性を底上げする」Google日本法人代表が ... - @DIME</title>
       <link>https://news.google.com/rss/articles/CBMiHmh0dHBzOi8vZGltZS5qcC9nZW5yZS8xNjU5MzgwL9IBAA?oc=5</link>
       <guid isPermaLink="false">CBMiHmh0dHBzOi8vZGltZS5qcC9nZW5yZS8xNjU5MzgwL9IBAA</guid>
       <pubDate>Sat, 21 Oct 2023 22:31:55 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiHmh0dHBzOi8vZGltZS5qcC9nZW5yZS8xNjU5MzgwL9IBAA?oc=5" target="_blank"&gt;「AIを使って人間の可能性を底上げする」Google日本法人代表が語るAI ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;@DIME&lt;/font&gt;</description>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiHmh0dHBzOi8vZGltZS5qcC9nZW5yZS8xNjU5MzgwL9IBAA?oc=5" target="_blank"&gt;「AIを使って人間の可能性を底上げする」Google日本法人代表が ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;@DIME&lt;/font&gt;</description>
       <source url="https://dime.jp">@DIME</source>
     </item>
     <item>
@@ -345,6 +353,14 @@
       <source url="https://www.nikkei.com">日本経済新聞</source>
     </item>
     <item>
+      <title>AIが混雑を感知、第2のハロウィーン惨事を防ぐ ／ソウル - 朝鮮日報</title>
+      <link>https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3LmNob3N1bm9ubGluZS5jb20vc2l0ZS9kYXRhL2h0bWxfZGlyLzIwMjMvMTAvMTkvMjAyMzEwMTk4MDEzMy5odG1s0gEA?oc=5</link>
+      <guid isPermaLink="false">CBMiTWh0dHBzOi8vd3d3LmNob3N1bm9ubGluZS5jb20vc2l0ZS9kYXRhL2h0bWxfZGlyLzIwMjMvMTAvMTkvMjAyMzEwMTk4MDEzMy5odG1s0gEA</guid>
+      <pubDate>Sat, 21 Oct 2023 15:14:00 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3LmNob3N1bm9ubGluZS5jb20vc2l0ZS9kYXRhL2h0bWxfZGlyLzIwMjMvMTAvMTkvMjAyMzEwMTk4MDEzMy5odG1s0gEA?oc=5" target="_blank"&gt;AIが混雑を感知、第2のハロウィーン惨事を防ぐ ／ソウル&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;朝鮮日報&lt;/font&gt;</description>
+      <source url="https://www.chosunonline.com">朝鮮日報</source>
+    </item>
+    <item>
       <title>さまざまなチャットAIを簡単にローカル環境で動かせるアプリ ... - GIGAZINE（ギガジン）</title>
       <link>https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vZ2lnYXppbmUubmV0L25ld3MvMjAyMzEwMjEtb2xsYW1hLWRvY2tlci_SAQA?oc=5</link>
       <guid isPermaLink="false">CBMiMWh0dHBzOi8vZ2lnYXppbmUubmV0L25ld3MvMjAyMzEwMjEtb2xsYW1hLWRvY2tlci_SAQA</guid>
@@ -383,14 +399,6 @@
       <pubDate>Sat, 21 Oct 2023 06:13:00 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiNmh0dHBzOi8vd3d3LnlvbWl1cmkuY28uanAvc2NpZW5jZS8yMDIzMTAyMS1PWVQxVDUwMTIxL9IBAA?oc=5" target="_blank"&gt;ＡＩが直筆漢字３０００字を学習、「空海」の筆遣い再現 ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;読売新聞オンライン&lt;/font&gt;</description>
       <source url="https://www.yomiuri.co.jp">読売新聞オンライン</source>
-    </item>
-    <item>
-      <title>老眼は他人事じゃない。AIを使った遠近両用メガネで世界が変わった話 - GIZMODO JAPAN</title>
-      <link>https://news.google.com/rss/articles/CBMiMmh0dHBzOi8vd3d3Lmdpem1vZG8uanAvMjAyMy8xMC92YXJpbHV4LXhyLXByby5odG1s0gEA?oc=5</link>
-      <guid isPermaLink="false">CBMiMmh0dHBzOi8vd3d3Lmdpem1vZG8uanAvMjAyMy8xMC92YXJpbHV4LXhyLXByby5odG1s0gEA</guid>
-      <pubDate>Sat, 21 Oct 2023 04:00:00 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiMmh0dHBzOi8vd3d3Lmdpem1vZG8uanAvMjAyMy8xMC92YXJpbHV4LXhyLXByby5odG1s0gEA?oc=5" target="_blank"&gt;老眼は他人事じゃない。AIを使った遠近両用メガネで世界が変わった話&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;GIZMODO JAPAN&lt;/font&gt;</description>
-      <source url="https://www.gizmodo.jp">GIZMODO JAPAN</source>
     </item>
     <item>
       <title>死を知らぬバービー 人里に降りて考えるAI時代の「人間らしさ ... - 朝日新聞デジタル</title>
@@ -452,7 +460,7 @@
       <title>すでに転換期の予兆あり、生成AIは2024年に「冷や水」を浴びせられる - Forbes JAPAN</title>
       <link>https://news.google.com/rss/articles/CBMiLWh0dHBzOi8vZm9yYmVzamFwYW4uY29tL2FydGljbGVzL2RldGFpbC82NjYzMtIBAA?oc=5</link>
       <guid isPermaLink="false">CBMiLWh0dHBzOi8vZm9yYmVzamFwYW4uY29tL2FydGljbGVzL2RldGFpbC82NjYzMtIBAA</guid>
-      <pubDate>Mon, 16 Oct 2023 01:00:11 GMT</pubDate>
+      <pubDate>Mon, 16 Oct 2023 01:00:15 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiLWh0dHBzOi8vZm9yYmVzamFwYW4uY29tL2FydGljbGVzL2RldGFpbC82NjYzMtIBAA?oc=5" target="_blank"&gt;すでに転換期の予兆あり、生成AIは2024年に「冷や水」を浴びせられる&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Forbes JAPAN&lt;/font&gt;</description>
       <source url="https://forbesjapan.com">Forbes JAPAN</source>
     </item>
@@ -527,14 +535,6 @@
       <pubDate>Fri, 20 Oct 2023 13:26:12 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiNmh0dHBzOi8vd3d3LnlvbWl1cmkuY28uanAvZWNvbm9teS8yMDIzMTAyMC1PWVQxVDUwMjY3L9IBAA?oc=5" target="_blank"&gt;伊藤園のお～いお茶ＣＭ、ＡＩ作成の女性タレント&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;読売新聞オンライン&lt;/font&gt;</description>
       <source url="https://www.yomiuri.co.jp">読売新聞オンライン</source>
-    </item>
-    <item>
-      <title>体と心の痛みを可視化するサービスとは？AI技術を駆使し、瞳孔から ... - xTECH（クロステック）</title>
-      <link>https://news.google.com/rss/articles/CBMiJWh0dHBzOi8veHRlY2gubWVjLmNvLmpwL2FydGljbGVzLzk0NDDSAQA?oc=5</link>
-      <guid isPermaLink="false">CBMiJWh0dHBzOi8veHRlY2gubWVjLmNvLmpwL2FydGljbGVzLzk0NDDSAQA</guid>
-      <pubDate>Fri, 20 Oct 2023 10:33:21 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiJWh0dHBzOi8veHRlY2gubWVjLmNvLmpwL2FydGljbGVzLzk0NDDSAQA?oc=5" target="_blank"&gt;体と心の痛みを可視化するサービスとは？AI技術を駆使し、瞳孔から ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;xTECH（クロステック）&lt;/font&gt;</description>
-      <source url="https://xtech.mec.co.jp">xTECH（クロステック）</source>
     </item>
     <item>
       <title>8週連続的中へ競馬AIが富士Sを大予想 厳選ワイド3点＆3連複10点で ... - スポーツナビ</title>
