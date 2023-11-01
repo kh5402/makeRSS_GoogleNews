@@ -6,7 +6,7 @@
     <language>ja</language>
     <webMaster>news-webmaster@google.com</webMaster>
     <copyright>2023 Google Inc.</copyright>
-    <lastBuildDate>Wed, 01 Nov 2023 14:14:12 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Nov 2023 15:16:14 GMT</lastBuildDate>
     <description>Google ニュース</description>
     <item>
       <title>AIアプリDojo #3: Hugging Face Transformers モデルのチューニング入門 - Speaker Deck</title>
@@ -150,6 +150,14 @@
       <guid isPermaLink="false">CBMirAFodHRwczovL3NwZWFrZXJkZWNrLmNvbS9iYnFhbGxzdGFycy94aWFuLXJhcmV0YXJlbi1zaHUtZGUtbWl4aS1ub2FyYXl1cnVnb25nLXNoaS1zYWl0b3F1bi13b2Jhby1zaG91LXl1bi15b25nLXN1cnUtbm91aGF1dG9zb25vdGktemhpLW1peGktc3JlcWl1LWppLXJpLW1peGlub21vdWhpdG90dW5vc3Jl0gEA</guid>
       <pubDate>Tue, 31 Oct 2023 15:05:24 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMirAFodHRwczovL3NwZWFrZXJkZWNrLmNvbS9iYnFhbGxzdGFycy94aWFuLXJhcmV0YXJlbi1zaHUtZGUtbWl4aS1ub2FyYXl1cnVnb25nLXNoaS1zYWl0b3F1bi13b2Jhby1zaG91LXl1bi15b25nLXN1cnUtbm91aGF1dG9zb25vdGktemhpLW1peGktc3JlcWl1LWppLXJpLW1peGlub21vdWhpdG90dW5vc3Jl0gEA?oc=5" target="_blank"&gt;限られた人数で MIXI のあらゆる公式サイト群を保守・運用する ノウハウとその体制 | MIXI SRE秋祭り 〜 MIXIのもう ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
+      <source url="https://speakerdeck.com">Speaker Deck</source>
+    </item>
+    <item>
+      <title>GraphQLをServer Componentsで使いたい - Speaker Deck</title>
+      <link>https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vc3BlYWtlcmRlY2suY29tL3Rhcm8yOC9ncmFwaHFsd29zZXJ2ZXItY29tcG9uZW50c2Rlc2hpLWl0YWnSAQA?oc=5</link>
+      <guid isPermaLink="false">CBMiQ2h0dHBzOi8vc3BlYWtlcmRlY2suY29tL3Rhcm8yOC9ncmFwaHFsd29zZXJ2ZXItY29tcG9uZW50c2Rlc2hpLWl0YWnSAQA</guid>
+      <pubDate>Tue, 31 Oct 2023 15:05:23 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vc3BlYWtlcmRlY2suY29tL3Rhcm8yOC9ncmFwaHFsd29zZXJ2ZXItY29tcG9uZW50c2Rlc2hpLWl0YWnSAQA?oc=5" target="_blank"&gt;GraphQLをServer Componentsで使いたい&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
@@ -393,19 +401,19 @@
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
-      <title>React - Speaker Deck</title>
-      <link>https://news.google.com/rss/articles/CBMiM2h0dHBzOi8vc3BlYWtlcmRlY2suY29tL3JlY3J1aXRlbmdpbmVlcnMvcmVhY3QtMjAyM9IBAA?oc=5</link>
-      <guid isPermaLink="false">CBMiM2h0dHBzOi8vc3BlYWtlcmRlY2suY29tL3JlY3J1aXRlbmdpbmVlcnMvcmVhY3QtMjAyM9IBAA</guid>
-      <pubDate>Thu, 10 Aug 2023 07:00:00 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiM2h0dHBzOi8vc3BlYWtlcmRlY2suY29tL3JlY3J1aXRlbmdpbmVlcnMvcmVhY3QtMjAyM9IBAA?oc=5" target="_blank"&gt;React&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
-      <source url="https://speakerdeck.com">Speaker Deck</source>
-    </item>
-    <item>
       <title>Next.js - Speaker Deck</title>
       <link>https://news.google.com/rss/articles/CBMiNGh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3JlY3J1aXRlbmdpbmVlcnMvbmV4dGpzLTIwMjPSAQA?oc=5</link>
       <guid isPermaLink="false">CBMiNGh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3JlY3J1aXRlbmdpbmVlcnMvbmV4dGpzLTIwMjPSAQA</guid>
       <pubDate>Thu, 10 Aug 2023 07:00:00 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiNGh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3JlY3J1aXRlbmdpbmVlcnMvbmV4dGpzLTIwMjPSAQA?oc=5" target="_blank"&gt;Next.js&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
+      <source url="https://speakerdeck.com">Speaker Deck</source>
+    </item>
+    <item>
+      <title>React - Speaker Deck</title>
+      <link>https://news.google.com/rss/articles/CBMiM2h0dHBzOi8vc3BlYWtlcmRlY2suY29tL3JlY3J1aXRlbmdpbmVlcnMvcmVhY3QtMjAyM9IBAA?oc=5</link>
+      <guid isPermaLink="false">CBMiM2h0dHBzOi8vc3BlYWtlcmRlY2suY29tL3JlY3J1aXRlbmdpbmVlcnMvcmVhY3QtMjAyM9IBAA</guid>
+      <pubDate>Thu, 10 Aug 2023 07:00:00 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiM2h0dHBzOi8vc3BlYWtlcmRlY2suY29tL3JlY3J1aXRlbmdpbmVlcnMvcmVhY3QtMjAyM9IBAA?oc=5" target="_blank"&gt;React&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
@@ -462,14 +470,6 @@
       <guid isPermaLink="false">CBMiOmh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3RhaXplbi9zaGVuZy1jaGVuZy1haWtvbnNhcnV0ZWluZ3XSAQA</guid>
       <pubDate>Sun, 22 Oct 2023 07:15:59 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3RhaXplbi9zaGVuZy1jaGVuZy1haWtvbnNhcnV0ZWluZ3XSAQA?oc=5" target="_blank"&gt;生成AIコンサルティング&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
-      <source url="https://speakerdeck.com">Speaker Deck</source>
-    </item>
-    <item>
-      <title>脳とAIは似ているか ― NeuroAI の挑戦 - Speaker Deck</title>
-      <link>https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vc3BlYWtlcmRlY2suY29tL3lrYW1pdC9ub3ktdG9haWhhc2ktdGVpcnVrYS1uZXVyb2FpLW5vdGlhby16aGFu0gEA?oc=5</link>
-      <guid isPermaLink="false">CBMiR2h0dHBzOi8vc3BlYWtlcmRlY2suY29tL3lrYW1pdC9ub3ktdG9haWhhc2ktdGVpcnVrYS1uZXVyb2FpLW5vdGlhby16aGFu0gEA</guid>
-      <pubDate>Sun, 17 Sep 2023 07:00:00 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vc3BlYWtlcmRlY2suY29tL3lrYW1pdC9ub3ktdG9haWhhc2ktdGVpcnVrYS1uZXVyb2FpLW5vdGlhby16aGFu0gEA?oc=5" target="_blank"&gt;脳とAIは似ているか ― NeuroAI の挑戦&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
