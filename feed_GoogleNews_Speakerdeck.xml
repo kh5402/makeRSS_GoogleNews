@@ -6,7 +6,7 @@
     <language>ja</language>
     <webMaster>news-webmaster@google.com</webMaster>
     <copyright>2023 Google Inc.</copyright>
-    <lastBuildDate>Mon, 06 Nov 2023 02:26:21 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Nov 2023 03:16:25 GMT</lastBuildDate>
     <description>Google ニュース</description>
     <item>
       <title>AI自動テストツールMagic Podで テストをもっと簡単に - Speaker Deck</title>
@@ -169,6 +169,14 @@
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
+      <title>Retrieval-based LM (RAG system) ざっくり理解する - Speaker Deck</title>
+      <link>https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vc3BlYWtlcmRlY2suY29tL3NtaXlhd2FraTA4MjAvcmV0cmlldmFsLWJhc2VkLWxtLXJhZy1zeXN0ZW0temF0dWt1cmlsaS1qaWUtc3VyddIBAA?oc=5</link>
+      <guid isPermaLink="false">CBMiV2h0dHBzOi8vc3BlYWtlcmRlY2suY29tL3NtaXlhd2FraTA4MjAvcmV0cmlldmFsLWJhc2VkLWxtLXJhZy1zeXN0ZW0temF0dWt1cmlsaS1qaWUtc3VyddIBAA</guid>
+      <pubDate>Wed, 01 Nov 2023 04:11:03 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vc3BlYWtlcmRlY2suY29tL3NtaXlhd2FraTA4MjAvcmV0cmlldmFsLWJhc2VkLWxtLXJhZy1zeXN0ZW0temF0dWt1cmlsaS1qaWUtc3VyddIBAA?oc=5" target="_blank"&gt;Retrieval-based LM (RAG system) ざっくり理解する&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
+      <source url="https://speakerdeck.com">Speaker Deck</source>
+    </item>
+    <item>
       <title>何でも微分する - Speaker Deck</title>
       <link>https://news.google.com/rss/articles/CBMiM2h0dHBzOi8vc3BlYWtlcmRlY2suY29tL2pvaXNpbm8vaGUtZGVtb3dlaS1mZW4tc3VyddIBAA?oc=5</link>
       <guid isPermaLink="false">CBMiM2h0dHBzOi8vc3BlYWtlcmRlY2suY29tL2pvaXNpbm8vaGUtZGVtb3dlaS1mZW4tc3VyddIBAA</guid>
@@ -198,14 +206,6 @@
       <guid isPermaLink="false">CBMigQFodHRwczovL3NwZWFrZXJkZWNrLmNvbS9uaXJ5dXUvZGEtZ3VpLW1vLXlhbi15dS1tb2RlcnVuaWppLWR1aXRhZHVpLWh1YS14aW5nLWFpbml5b3J1eWFuLWppdS16aGkteXVhbi1uaWd1YW4tc3VydWNodS1idS1kZS1mZW4teGnSAQA</guid>
       <pubDate>Tue, 28 Mar 2023 07:00:00 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMigQFodHRwczovL3NwZWFrZXJkZWNrLmNvbS9uaXJ5dXUvZGEtZ3VpLW1vLXlhbi15dS1tb2RlcnVuaWppLWR1aXRhZHVpLWh1YS14aW5nLWFpbml5b3J1eWFuLWppdS16aGkteXVhbi1uaWd1YW4tc3VydWNodS1idS1kZS1mZW4teGnSAQA?oc=5" target="_blank"&gt;大規模言語モデルに基づいた対話型AIによる研究支援に関する初歩的分析&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
-      <source url="https://speakerdeck.com">Speaker Deck</source>
-    </item>
-    <item>
-      <title>Trustworthy AI &amp; Researcher (ML・Privacy)_2022 LINE Internship AI Course - Speaker Deck</title>
-      <link>https://news.google.com/rss/articles/CBMibmh0dHBzOi8vc3BlYWtlcmRlY2suY29tL2xpbmVfcmVjcnVpdGluZy90cnVzdHdvcnRoeS1haS1hbmQtcmVzZWFyY2hlci1tbHByaXZhY3ktMjAyMi1saW5lLWludGVybnNoaXAtYWktY291cnNl0gEA?oc=5</link>
-      <guid isPermaLink="false">CBMibmh0dHBzOi8vc3BlYWtlcmRlY2suY29tL2xpbmVfcmVjcnVpdGluZy90cnVzdHdvcnRoeS1haS1hbmQtcmVzZWFyY2hlci1tbHByaXZhY3ktMjAyMi1saW5lLWludGVybnNoaXAtYWktY291cnNl0gEA</guid>
-      <pubDate>Tue, 26 Apr 2022 07:00:00 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMibmh0dHBzOi8vc3BlYWtlcmRlY2suY29tL2xpbmVfcmVjcnVpdGluZy90cnVzdHdvcnRoeS1haS1hbmQtcmVzZWFyY2hlci1tbHByaXZhY3ktMjAyMi1saW5lLWludGVybnNoaXAtYWktY291cnNl0gEA?oc=5" target="_blank"&gt;Trustworthy AI &amp; Researcher (ML・Privacy)_2022 LINE Internship AI Course&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
