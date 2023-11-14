@@ -6,7 +6,7 @@
     <language>ja</language>
     <webMaster>news-webmaster@google.com</webMaster>
     <copyright>2023 Google Inc.</copyright>
-    <lastBuildDate>Tue, 14 Nov 2023 11:12:56 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Nov 2023 12:29:48 GMT</lastBuildDate>
     <description>Google ニュース</description>
     <item>
       <title>AIアプリDojo #3: Hugging Face Transformers モデルのチューニング入門 - Speaker Deck</title>
@@ -214,6 +214,14 @@
       <guid isPermaLink="false">CBMiqAFodHRwczovL3NwZWFrZXJkZWNrLmNvbS9uYW9raV8wNTMxL2FtYXpvbi1iZWRyb2NrdG9hbWF6b24ta2VuZHJhZGV6aHVhbi1tZW4temhpLXNoaS1rYXJhaHVpLWRhLWRla2lydXNoZW5nLWNoZW5nLXhpLWFpc2FiaXN1d29nb3Utemh1LXllLXd1LXhpYW8tbHUtaHVhLW5pdHVuYWdldGVpcnVodWHSAQA</guid>
       <pubDate>Tue, 24 Oct 2023 07:00:00 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiqAFodHRwczovL3NwZWFrZXJkZWNrLmNvbS9uYW9raV8wNTMxL2FtYXpvbi1iZWRyb2NrdG9hbWF6b24ta2VuZHJhZGV6aHVhbi1tZW4temhpLXNoaS1rYXJhaHVpLWRhLWRla2lydXNoZW5nLWNoZW5nLXhpLWFpc2FiaXN1d29nb3Utemh1LXllLXd1LXhpYW8tbHUtaHVhLW5pdHVuYWdldGVpcnVodWHSAQA?oc=5" target="_blank"&gt;Amazon BedrockとAmazon Kendraで専門知識から回答できる生成系AIサービスを構築！～業務効率化につなげている ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
+      <source url="https://speakerdeck.com">Speaker Deck</source>
+    </item>
+    <item>
+      <title>Livebook＋Nx＋AxonではじめるElixir AI・ML入門 - Speaker Deck</title>
+      <link>https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3BpYWNlcmV4L2xpdmVib29rLXBsdXMtbngtcGx1cy1heG9uZGVoYXppbWVydWVsaXhpci1haW1scnUtbWVu0gEA?oc=5</link>
+      <guid isPermaLink="false">CBMiVmh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3BpYWNlcmV4L2xpdmVib29rLXBsdXMtbngtcGx1cy1heG9uZGVoYXppbWVydWVsaXhpci1haW1scnUtbWVu0gEA</guid>
+      <pubDate>Tue, 22 Nov 2022 08:00:00 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3BpYWNlcmV4L2xpdmVib29rLXBsdXMtbngtcGx1cy1heG9uZGVoYXppbWVydWVsaXhpci1haW1scnUtbWVu0gEA?oc=5" target="_blank"&gt;Livebook＋Nx＋AxonではじめるElixir AI・ML入門&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
@@ -726,14 +734,6 @@
       <guid isPermaLink="false">CBMigwFodHRwczovL3NwZWFrZXJkZWNrLmNvbS9taXhpX2VuZ2luZWVycy9pbnRyb2R1Y3Rpb24tb2YtYWktYmFzZWQtaG9yc2UtcmFjZS1wcmVkaWN0aW9uLW1ldGhvZC1hbmQtaXRzLXBvdGVudGlhbC1hcHBsaWNhdGlvbi10by1nYW1lc9IBAA</guid>
       <pubDate>Fri, 28 Jul 2023 07:00:00 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMigwFodHRwczovL3NwZWFrZXJkZWNrLmNvbS9taXhpX2VuZ2luZWVycy9pbnRyb2R1Y3Rpb24tb2YtYWktYmFzZWQtaG9yc2UtcmFjZS1wcmVkaWN0aW9uLW1ldGhvZC1hbmQtaXRzLXBvdGVudGlhbC1hcHBsaWNhdGlvbi10by1nYW1lc9IBAA?oc=5" target="_blank"&gt;AIを用いた競馬オッズ予測手法の紹介とゲームへの応用可能性&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
-      <source url="https://speakerdeck.com">Speaker Deck</source>
-    </item>
-    <item>
-      <title>HTTPを手で書いて学ぶ ファイルアップロードの仕組み - Speaker Deck</title>
-      <link>https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vc3BlYWtlcmRlY2suY29tL2lrdW1hdGFkb2tvcm8vaHR0cHdvc2hvdS1kZXNodS1pdGV4dWUtYnUtaHVhaXJ1YXR1cHVyb2Rvbm9zaGktenUtbWnSAQA?oc=5</link>
-      <guid isPermaLink="false">CBMiW2h0dHBzOi8vc3BlYWtlcmRlY2suY29tL2lrdW1hdGFkb2tvcm8vaHR0cHdvc2hvdS1kZXNodS1pdGV4dWUtYnUtaHVhaXJ1YXR1cHVyb2Rvbm9zaGktenUtbWnSAQA</guid>
-      <pubDate>Fri, 27 Oct 2023 07:00:00 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vc3BlYWtlcmRlY2suY29tL2lrdW1hdGFkb2tvcm8vaHR0cHdvc2hvdS1kZXNodS1pdGV4dWUtYnUtaHVhaXJ1YXR1cHVyb2Rvbm9zaGktenUtbWnSAQA?oc=5" target="_blank"&gt;HTTPを手で書いて学ぶ ファイルアップロードの仕組み&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
