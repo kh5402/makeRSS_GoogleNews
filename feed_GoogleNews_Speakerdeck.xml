@@ -6,7 +6,7 @@
     <language>ja</language>
     <webMaster>news-webmaster@google.com</webMaster>
     <copyright>2023 Google Inc.</copyright>
-    <lastBuildDate>Sat, 18 Nov 2023 14:12:54 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Nov 2023 15:14:26 GMT</lastBuildDate>
     <description>Google ニュース</description>
     <item>
       <title>AIアプリDojo #3: Hugging Face Transformers モデルのチューニング入門 - Speaker Deck</title>
@@ -185,14 +185,6 @@
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
-      <title>DRIVE CHART における OSS を活用した実践 AI 開発【DeNA TechCon 2023】 - Speaker Deck</title>
-      <link>https://news.google.com/rss/articles/CBMiM2h0dHBzOi8vc3BlYWtlcmRlY2suY29tL21vdF90ZWNodGFsay9kcml2ZWNoYXJ0LW9zc9IBAA?oc=5</link>
-      <guid isPermaLink="false">CBMiM2h0dHBzOi8vc3BlYWtlcmRlY2suY29tL21vdF90ZWNodGFsay9kcml2ZWNoYXJ0LW9zc9IBAA</guid>
-      <pubDate>Tue, 28 Feb 2023 08:00:00 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiM2h0dHBzOi8vc3BlYWtlcmRlY2suY29tL21vdF90ZWNodGFsay9kcml2ZWNoYXJ0LW9zc9IBAA?oc=5" target="_blank"&gt;DRIVE CHART における OSS を活用した実践 AI 開発【DeNA TechCon 2023】&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
-      <source url="https://speakerdeck.com">Speaker Deck</source>
-    </item>
-    <item>
       <title>Trustworthy AI &amp; Researcher (ML・Privacy)_2022 LINE Internship AI Course - Speaker Deck</title>
       <link>https://news.google.com/rss/articles/CBMibmh0dHBzOi8vc3BlYWtlcmRlY2suY29tL2xpbmVfcmVjcnVpdGluZy90cnVzdHdvcnRoeS1haS1hbmQtcmVzZWFyY2hlci1tbHByaXZhY3ktMjAyMi1saW5lLWludGVybnNoaXAtYWktY291cnNl0gEA?oc=5</link>
       <guid isPermaLink="false">CBMibmh0dHBzOi8vc3BlYWtlcmRlY2suY29tL2xpbmVfcmVjcnVpdGluZy90cnVzdHdvcnRoeS1haS1hbmQtcmVzZWFyY2hlci1tbHByaXZhY3ktMjAyMi1saW5lLWludGVybnNoaXAtYWktY291cnNl0gEA</guid>
@@ -342,6 +334,14 @@
       <guid isPermaLink="false">CBMiYGh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3BpYWNlcmV4L2VsaXhpcmRlbWFpa3Vyb3NhYmlzdXBhdGFuLXFpYW4tYmlhbi1haW1sdG9ldHV6aWtvbnBpeXV0ZWluZ3Vtb9IBAA</guid>
       <pubDate>Thu, 17 Aug 2023 07:00:00 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3BpYWNlcmV4L2VsaXhpcmRlbWFpa3Vyb3NhYmlzdXBhdGFuLXFpYW4tYmlhbi1haW1sdG9ldHV6aWtvbnBpeXV0ZWluZ3Vtb9IBAA?oc=5" target="_blank"&gt;Elixirでマイクロサービスパターン【前編】 ～AI・MLとエッジコンピューティングも～&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
+      <source url="https://speakerdeck.com">Speaker Deck</source>
+    </item>
+    <item>
+      <title>フロントエンドの書くべきだったテスト、書かなくてよかったテスト - Speaker Deck</title>
+      <link>https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3Rha2VmdW1peW9zaGlpL2h1cm9udG9lbnRvbm9zaHUta3VoZWtpdGF0dXRhdGVzdXRvLXNodS1rYW5ha3V0ZXlva2F0dXRhdGVzdXRv0gEA?oc=5</link>
+      <guid isPermaLink="false">CBMiZWh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3Rha2VmdW1peW9zaGlpL2h1cm9udG9lbnRvbm9zaHUta3VoZWtpdGF0dXRhdGVzdXRvLXNodS1rYW5ha3V0ZXlva2F0dXRhdGVzdXRv0gEA</guid>
+      <pubDate>Thu, 16 Nov 2023 13:57:13 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3Rha2VmdW1peW9zaGlpL2h1cm9udG9lbnRvbm9zaHUta3VoZWtpdGF0dXRhdGVzdXRvLXNodS1rYW5ha3V0ZXlva2F0dXRhdGVzdXRv0gEA?oc=5" target="_blank"&gt;フロントエンドの書くべきだったテスト、書かなくてよかったテスト&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
@@ -545,6 +545,14 @@
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
+      <title>なぜコピペで使うコンポーネント集を利用するのか？ - Speaker Deck</title>
+      <link>https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vc3BlYWtlcmRlY2suY29tL21vdHRveDIvbmFzZWtvaGloZXRlc2hpLXVrb25ob25lbnRvamktd29saS15b25nLXN1cnVub2th0gEA?oc=5</link>
+      <guid isPermaLink="false">CBMiUGh0dHBzOi8vc3BlYWtlcmRlY2suY29tL21vdHRveDIvbmFzZWtvaGloZXRlc2hpLXVrb25ob25lbnRvamktd29saS15b25nLXN1cnVub2th0gEA</guid>
+      <pubDate>Sat, 18 Nov 2023 08:06:01 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vc3BlYWtlcmRlY2suY29tL21vdHRveDIvbmFzZWtvaGloZXRlc2hpLXVrb25ob25lbnRvamktd29saS15b25nLXN1cnVub2th0gEA?oc=5" target="_blank"&gt;なぜコピペで使うコンポーネント集を利用するのか？&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
+      <source url="https://speakerdeck.com">Speaker Deck</source>
+    </item>
+    <item>
       <title>AIミュージックバトル！『弁財天』/AI music battle -- benzAIten - Speaker Deck</title>
       <link>https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vc3BlYWtlcmRlY2suY29tL2pvaGFubnlqbS9haS1tdXNpYy1iYXR0bGUtYmVuemFpdGVuLTQ2MzZhMTcxLTZlZDktNDdlNy1hNjEzLTJmMjk5ZjczOTM2NtIBAA?oc=5</link>
       <guid isPermaLink="false">CBMiYGh0dHBzOi8vc3BlYWtlcmRlY2suY29tL2pvaGFubnlqbS9haS1tdXNpYy1iYXR0bGUtYmVuemFpdGVuLTQ2MzZhMTcxLTZlZDktNDdlNy1hNjEzLTJmMjk5ZjczOTM2NtIBAA</guid>
@@ -638,14 +646,6 @@
       <guid isPermaLink="false">CBMiQWh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3RyeWN5Y2xlL2RldGFzYWllbnN1cnUtbWVuLWJpdHVndWRldGF0b2Fp0gEA</guid>
       <pubDate>Mon, 15 May 2023 07:00:00 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiQWh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3RyeWN5Y2xlL2RldGFzYWllbnN1cnUtbWVuLWJpdHVndWRldGF0b2Fp0gEA?oc=5" target="_blank"&gt;データサイエンス入門 - ビッグデータとAI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
-      <source url="https://speakerdeck.com">Speaker Deck</source>
-    </item>
-    <item>
-      <title>AI研究コミュニティのダイバーシティ＆インクルージョン / Diversity and Inclusion in AI Research Communities - Speaker Deck</title>
-      <link>https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3lraXlvdGEvZGl2ZXJzaXR5LWFuZC1pbmNsdXNpb24taW4tYWktcmVzZWFyY2gtY29tbXVuaXRpZXPSAQA?oc=5</link>
-      <guid isPermaLink="false">CBMiUmh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3lraXlvdGEvZGl2ZXJzaXR5LWFuZC1pbmNsdXNpb24taW4tYWktcmVzZWFyY2gtY29tbXVuaXRpZXPSAQA</guid>
-      <pubDate>Mon, 15 Feb 2021 08:00:00 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3lraXlvdGEvZGl2ZXJzaXR5LWFuZC1pbmNsdXNpb24taW4tYWktcmVzZWFyY2gtY29tbXVuaXRpZXPSAQA?oc=5" target="_blank"&gt;AI研究コミュニティのダイバーシティ＆インクルージョン / Diversity and Inclusion in AI Research Communities&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
