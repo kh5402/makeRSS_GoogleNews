@@ -6,7 +6,7 @@
     <language>ja</language>
     <webMaster>news-webmaster@google.com</webMaster>
     <copyright>2023 Google Inc.</copyright>
-    <lastBuildDate>Tue, 21 Nov 2023 22:15:04 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Nov 2023 23:16:40 GMT</lastBuildDate>
     <description>Google ニュース</description>
     <item>
       <title>AIアプリDojo #3: Hugging Face Transformers モデルのチューニング入門 - Speaker Deck</title>
@@ -249,11 +249,11 @@
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
-      <title>ソフトウェアの内部品質に生じる様々な問題は組織設計にその原因があることも多い / Internal Quality Issues Caused ... - Speaker Deck</title>
-      <link>https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vc3BlYWtlcmRlY2suY29tL210eDJzL2ludGVybmFsLXF1YWxpdHktaXNzdWVzLWNhdXNlZC1ieS1vcmdhbml6YXRpb25hbC1kZXNpZ27SAQA?oc=5</link>
-      <guid isPermaLink="false">CBMiVWh0dHBzOi8vc3BlYWtlcmRlY2suY29tL210eDJzL2ludGVybmFsLXF1YWxpdHktaXNzdWVzLWNhdXNlZC1ieS1vcmdhbml6YXRpb25hbC1kZXNpZ27SAQA</guid>
-      <pubDate>Tue, 21 Nov 2023 13:28:35 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vc3BlYWtlcmRlY2suY29tL210eDJzL2ludGVybmFsLXF1YWxpdHktaXNzdWVzLWNhdXNlZC1ieS1vcmdhbml6YXRpb25hbC1kZXNpZ27SAQA?oc=5" target="_blank"&gt;ソフトウェアの内部品質に生じる様々な問題は組織設計にその原因があることも多い / Internal Quality Issues Caused ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
+      <title>Modern Java for the Masses! Is Java Still Relevant? - Speaker Deck</title>
+      <link>https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vc3BlYWtlcmRlY2suY29tL2RlZXB1MTA1L21vZGVybi1qYXZhLWZvci10aGUtbWFzc2VzLWlzLWphdmEtc3RpbGwtcmVsZXZhbnTSAQA?oc=5</link>
+      <guid isPermaLink="false">CBMiUmh0dHBzOi8vc3BlYWtlcmRlY2suY29tL2RlZXB1MTA1L21vZGVybi1qYXZhLWZvci10aGUtbWFzc2VzLWlzLWphdmEtc3RpbGwtcmVsZXZhbnTSAQA</guid>
+      <pubDate>Tue, 21 Nov 2023 11:12:24 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vc3BlYWtlcmRlY2suY29tL2RlZXB1MTA1L21vZGVybi1qYXZhLWZvci10aGUtbWFzc2VzLWlzLWphdmEtc3RpbGwtcmVsZXZhbnTSAQA?oc=5" target="_blank"&gt;Modern Java for the Masses! Is Java Still Relevant?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
@@ -377,6 +377,14 @@
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
+      <title>検索システムにAIを搭載する際の考え方 ― 基礎から展望まで - Speaker Deck</title>
+      <link>https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vc3BlYWtlcmRlY2suY29tL2lzaWRhaXRjL2FpZGEtemFpLWppYW4tc3VvLXNpc3V0ZW110gEA?oc=5</link>
+      <guid isPermaLink="false">CBMiO2h0dHBzOi8vc3BlYWtlcmRlY2suY29tL2lzaWRhaXRjL2FpZGEtemFpLWppYW4tc3VvLXNpc3V0ZW110gEA</guid>
+      <pubDate>Thu, 20 Oct 2022 07:00:00 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vc3BlYWtlcmRlY2suY29tL2lzaWRhaXRjL2FpZGEtemFpLWppYW4tc3VvLXNpc3V0ZW110gEA?oc=5" target="_blank"&gt;検索システムにAIを搭載する際の考え方 ― 基礎から展望まで&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
+      <source url="https://speakerdeck.com">Speaker Deck</source>
+    </item>
+    <item>
       <title>AI(ChatGPT-4)によるテスト設計作成の現状を評価する #Ques20 / Ques20th - Speaker Deck</title>
       <link>https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vc3BlYWtlcmRlY2suY29tL25paG9uYnVzb24vcXVlczIwdGjSAQA?oc=5</link>
       <guid isPermaLink="false">CBMiK2h0dHBzOi8vc3BlYWtlcmRlY2suY29tL25paG9uYnVzb24vcXVlczIwdGjSAQA</guid>
@@ -454,14 +462,6 @@
       <guid isPermaLink="false">CBMiL2h0dHBzOi8vc3BlYWtlcmRlY2suY29tL3l1c3VrZWJlL2hvbm8tdjMtYW5kLXY00gEA</guid>
       <pubDate>Sun, 19 Nov 2023 07:53:41 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiL2h0dHBzOi8vc3BlYWtlcmRlY2suY29tL3l1c3VrZWJlL2hvbm8tdjMtYW5kLXY00gEA?oc=5" target="_blank"&gt;Hono v3 and v4 - Yusuke Wada&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
-      <source url="https://speakerdeck.com">Speaker Deck</source>
-    </item>
-    <item>
-      <title>(JSConf JP 2023) LLM (大規模言語モデル) 全盛時代の開発プラクティス - Speaker Deck</title>
-      <link>https://news.google.com/rss/articles/CBMid2h0dHBzOi8vc3BlYWtlcmRlY2suY29tL2Jhc2ViYWxseWFtYS9qc2NvbmYtanAtMjAyMy1sbG0tZGEtZ3VpLW1vLXlhbi15dS1tb2RlcnUtcXVhbi1zaGVuZy1zaGktZGFpLW5va2FpLWZhLXB1cmFrdXRlaXN10gEA?oc=5</link>
-      <guid isPermaLink="false">CBMid2h0dHBzOi8vc3BlYWtlcmRlY2suY29tL2Jhc2ViYWxseWFtYS9qc2NvbmYtanAtMjAyMy1sbG0tZGEtZ3VpLW1vLXlhbi15dS1tb2RlcnUtcXVhbi1zaGVuZy1zaGktZGFpLW5va2FpLWZhLXB1cmFrdXRlaXN10gEA</guid>
-      <pubDate>Sun, 19 Nov 2023 03:30:46 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMid2h0dHBzOi8vc3BlYWtlcmRlY2suY29tL2Jhc2ViYWxseWFtYS9qc2NvbmYtanAtMjAyMy1sbG0tZGEtZ3VpLW1vLXlhbi15dS1tb2RlcnUtcXVhbi1zaGVuZy1zaGktZGFpLW5va2FpLWZhLXB1cmFrdXRlaXN10gEA?oc=5" target="_blank"&gt;(JSConf JP 2023) LLM (大規模言語モデル) 全盛時代の開発プラクティス&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
