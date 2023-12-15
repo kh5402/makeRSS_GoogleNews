@@ -6,7 +6,7 @@
     <language>ja</language>
     <webMaster>news-webmaster@google.com</webMaster>
     <copyright>2023 Google Inc.</copyright>
-    <lastBuildDate>Fri, 15 Dec 2023 16:21:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 Dec 2023 17:14:29 GMT</lastBuildDate>
     <description>Google ニュース</description>
     <item>
       <title>AIアプリDojo #3: Hugging Face Transformers モデルのチューニング入門 - Speaker Deck</title>
@@ -209,6 +209,14 @@
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
+      <title>2023サンフランシスコ出張報告 〜ダッシュボードが自動生成される時代に、 データ人材に求められる働き方を考える ... - Speaker Deck</title>
+      <link>https://news.google.com/rss/articles/CBMiKWh0dHBzOi8vc3BlYWtlcmRlY2suY29tL2themFuZXlhLzIwMjMxMjEy0gEA?oc=5</link>
+      <guid isPermaLink="false">CBMiKWh0dHBzOi8vc3BlYWtlcmRlY2suY29tL2themFuZXlhLzIwMjMxMjEy0gEA</guid>
+      <pubDate>Tue, 12 Dec 2023 08:39:53 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiKWh0dHBzOi8vc3BlYWtlcmRlY2suY29tL2themFuZXlhLzIwMjMxMjEy0gEA?oc=5" target="_blank"&gt;2023サンフランシスコ出張報告 〜ダッシュボードが自動生成される時代に、 データ人材に求められる働き方を考える ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
+      <source url="https://speakerdeck.com">Speaker Deck</source>
+    </item>
+    <item>
       <title>CNDT2023 CloudNative環境におけるトラブルシューティングガイド - Speaker Deck</title>
       <link>https://news.google.com/rss/articles/CBMiKmh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3RqdW4vMjAyMzEyMTItY25kdNIBAA?oc=5</link>
       <guid isPermaLink="false">CBMiKmh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3RqdW4vMjAyMzEyMTItY25kdNIBAA</guid>
@@ -278,14 +286,6 @@
       <guid isPermaLink="false">CBMiSWh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3RraHJlc2svaHVnZ2luZy1mYWNlZGVhaXR1aS1sdW4td29zYWt1dHV0b3lhcm91emXSAQA</guid>
       <pubDate>Thu, 31 Aug 2023 07:00:00 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3RraHJlc2svaHVnZ2luZy1mYWNlZGVhaXR1aS1sdW4td29zYWt1dHV0b3lhcm91emXSAQA?oc=5" target="_blank"&gt;Hugging FaceでAI推論をさくっとやろうぜ&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
-      <source url="https://speakerdeck.com">Speaker Deck</source>
-    </item>
-    <item>
-      <title>gpt-3.5-turboのFine-tuningによる分類タスク改善の試み - Speaker Deck</title>
-      <link>https://news.google.com/rss/articles/CBMihgFodHRwczovL3NwZWFrZXJkZWNrLmNvbS9ueW9zdS9ncHQtMy1kb3QtNS10dXJib25vZmluZS10dW5pbmduaXlvcnVmZW4tbGVpLXRhc3VrdWdhaS1zaGFuLW5vc2hpLW1pLTUyN2RkZGM3LTNjMTgtNGMxMC05ODQyLWRlNGMzMTI4ODZhMdIBAA?oc=5</link>
-      <guid isPermaLink="false">CBMihgFodHRwczovL3NwZWFrZXJkZWNrLmNvbS9ueW9zdS9ncHQtMy1kb3QtNS10dXJib25vZmluZS10dW5pbmduaXlvcnVmZW4tbGVpLXRhc3VrdWdhaS1zaGFuLW5vc2hpLW1pLTUyN2RkZGM3LTNjMTgtNGMxMC05ODQyLWRlNGMzMTI4ODZhMdIBAA</guid>
-      <pubDate>Thu, 31 Aug 2023 07:00:00 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMihgFodHRwczovL3NwZWFrZXJkZWNrLmNvbS9ueW9zdS9ncHQtMy1kb3QtNS10dXJib25vZmluZS10dW5pbmduaXlvcnVmZW4tbGVpLXRhc3VrdWdhaS1zaGFuLW5vc2hpLW1pLTUyN2RkZGM3LTNjMTgtNGMxMC05ODQyLWRlNGMzMTI4ODZhMdIBAA?oc=5" target="_blank"&gt;gpt-3.5-turboのFine-tuningによる分類タスク改善の試み&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
