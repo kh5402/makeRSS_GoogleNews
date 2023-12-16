@@ -6,7 +6,7 @@
     <language>ja</language>
     <webMaster>news-webmaster@google.com</webMaster>
     <copyright>2023 Google Inc.</copyright>
-    <lastBuildDate>Sat, 16 Dec 2023 12:27:45 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 16 Dec 2023 13:16:53 GMT</lastBuildDate>
     <description>Google ニュース</description>
     <item>
       <title>AIアプリDojo #3: Hugging Face Transformers モデルのチューニング入門 - Speaker Deck</title>
@@ -377,6 +377,14 @@
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
+      <title>状態設計から「なんとなく」を無くそう - Speaker Deck</title>
+      <link>https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3FuaWdoeS9tb2RlbGxpbmctcHJvZ3JhbS1zdGF0ZXMtd2l0aC1yYXRpb25hbGXSAQA?oc=5</link>
+      <guid isPermaLink="false">CBMiRmh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3FuaWdoeS9tb2RlbGxpbmctcHJvZ3JhbS1zdGF0ZXMtd2l0aC1yYXRpb25hbGXSAQA</guid>
+      <pubDate>Thu, 07 Dec 2023 08:00:00 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3FuaWdoeS9tb2RlbGxpbmctcHJvZ3JhbS1zdGF0ZXMtd2l0aC1yYXRpb25hbGXSAQA?oc=5" target="_blank"&gt;状態設計から「なんとなく」を無くそう&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
+      <source url="https://speakerdeck.com">Speaker Deck</source>
+    </item>
+    <item>
       <title>Bedrock &amp; Amazon Q のアプデ、結局これってでいう××のこと？？ 生成AIトレンドを俯瞰しながら解説！ - Speaker Deck</title>
       <link>https://news.google.com/rss/articles/CBMilQFodHRwczovL3NwZWFrZXJkZWNrLmNvbS9taW5vcnVuMzY1L2JlZHJvY2stYW5kLWFtYXpvbi1xLW5vYXB1ZGUtamllLWp1LWtvcmV0dXRlLXN0YXItc3Rhci1kZWl1eHhub2tvdG8tc2hlbmctY2hlbmctYWl0b3JlbmRvd29mdS1rYW4tc2luYWdhcmFqaWUtc2h1b9IBAA?oc=5</link>
       <guid isPermaLink="false">CBMilQFodHRwczovL3NwZWFrZXJkZWNrLmNvbS9taW5vcnVuMzY1L2JlZHJvY2stYW5kLWFtYXpvbi1xLW5vYXB1ZGUtamllLWp1LWtvcmV0dXRlLXN0YXItc3Rhci1kZWl1eHhub2tvdG8tc2hlbmctY2hlbmctYWl0b3JlbmRvd29mdS1rYW4tc2luYWdhcmFqaWUtc2h1b9IBAA</guid>
@@ -734,14 +742,6 @@
       <guid isPermaLink="false">CBMiPGh0dHBzOi8vc3BlYWtlcmRlY2suY29tL29yYWNsZTRlbmdpbmVlci9tbC1zZXJ2aWNlLXBvcnRmb2xpb9IBAA</guid>
       <pubDate>Fri, 17 Nov 2023 08:00:00 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vc3BlYWtlcmRlY2suY29tL29yYWNsZTRlbmdpbmVlci9tbC1zZXJ2aWNlLXBvcnRmb2xpb9IBAA?oc=5" target="_blank"&gt;Oracle Cloud AI/ML Service Portfolio&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
-      <source url="https://speakerdeck.com">Speaker Deck</source>
-    </item>
-    <item>
-      <title>オリジンサーバに手を付けないパーフォマンス改善 - Speaker Deck</title>
-      <link>https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vc3BlYWtlcmRlY2suY29tL2Fpamk0Mi9vcml6aW5zYWJhbmlzaG91LXdvZnUta2VuYWlwYWh1b21hbnN1Z2FpLXNoYW7SAQA?oc=5</link>
-      <guid isPermaLink="false">CBMiTGh0dHBzOi8vc3BlYWtlcmRlY2suY29tL2Fpamk0Mi9vcml6aW5zYWJhbmlzaG91LXdvZnUta2VuYWlwYWh1b21hbnN1Z2FpLXNoYW7SAQA</guid>
-      <pubDate>Fri, 15 Dec 2023 08:30:33 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vc3BlYWtlcmRlY2suY29tL2Fpamk0Mi9vcml6aW5zYWJhbmlzaG91LXdvZnUta2VuYWlwYWh1b21hbnN1Z2FpLXNoYW7SAQA?oc=5" target="_blank"&gt;オリジンサーバに手を付けないパーフォマンス改善&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
