@@ -6,7 +6,7 @@
     <language>ja</language>
     <webMaster>news-webmaster@google.com</webMaster>
     <copyright>2023 Google Inc.</copyright>
-    <lastBuildDate>Sun, 17 Dec 2023 05:14:27 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 17 Dec 2023 06:19:32 GMT</lastBuildDate>
     <description>Google ニュース</description>
     <item>
       <title>Google、テキスト→画像生成AIモデル「Imagen 2」をVertex AIでリリース 画質大幅アップ - ITmedia NEWS</title>
@@ -23,6 +23,14 @@
       <pubDate>Wed, 13 Dec 2023 20:00:00 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vd3d3LmFzYWhpLmNvbS9hcnRpY2xlcy9BU1JENjVLNExSRDFVUFFKMDE1Lmh0bWzSAQA?oc=5" target="_blank"&gt;「デジタル立憲主義」という新潮流 AI時代に必要な権力制限の射程：朝日新聞デジタル&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;朝日新聞デジタル&lt;/font&gt;</description>
       <source url="https://www.asahi.com">朝日新聞デジタル</source>
+    </item>
+    <item>
+      <title>AIチャットボットが暴言連発、社長会見も失敗して評判がた落ち - ITpro</title>
+      <link>https://news.google.com/rss/articles/CBMiPGh0dHBzOi8veHRlY2gubmlra2VpLmNvbS9hdGNsL254dC9jb2x1bW4vMTgvMDI2NzkvMTIwNjAwMDA0L9IBAA?oc=5</link>
+      <guid isPermaLink="false">CBMiPGh0dHBzOi8veHRlY2gubmlra2VpLmNvbS9hdGNsL254dC9jb2x1bW4vMTgvMDI2NzkvMTIwNjAwMDA0L9IBAA</guid>
+      <pubDate>Wed, 13 Dec 2023 20:00:00 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiPGh0dHBzOi8veHRlY2gubmlra2VpLmNvbS9hdGNsL254dC9jb2x1bW4vMTgvMDI2NzkvMTIwNjAwMDA0L9IBAA?oc=5" target="_blank"&gt;AIチャットボットが暴言連発、社長会見も失敗して評判がた落ち&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;ITpro&lt;/font&gt;</description>
+      <source url="https://xtech.nikkei.com">ITpro</source>
     </item>
     <item>
       <title>Google、企業に生成AI基盤「Gemini」提供 マイクロソフトに対抗 - 日本経済新聞</title>
@@ -71,14 +79,6 @@
       <pubDate>Wed, 13 Dec 2023 01:30:00 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiKmh0dHBzOi8vd3d3LmJ1c2luZXNzaW5zaWRlci5qcC9wb3N0LTI3OTY5NNIBAA?oc=5" target="_blank"&gt;写真に写った女性を｢脱がせる｣AIアプリの利用者が増加している —— 最新報告&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Business Insider Japan&lt;/font&gt;</description>
       <source url="https://www.businessinsider.jp">Business Insider Japan</source>
-    </item>
-    <item>
-      <title>主要産業でAI活用が広まる中、PoCで終わらず事業で継続的にAIを活用できるインフラの在り方とは - ＠IT</title>
-      <link>https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vYXRtYXJraXQuaXRtZWRpYS5jby5qcC9haXQvYXJ0aWNsZXMvMjMxMi8xMy9uZXdzMDAyLmh0bWzSAQA?oc=5</link>
-      <guid isPermaLink="false">CBMiQGh0dHBzOi8vYXRtYXJraXQuaXRtZWRpYS5jby5qcC9haXQvYXJ0aWNsZXMvMjMxMi8xMy9uZXdzMDAyLmh0bWzSAQA</guid>
-      <pubDate>Wed, 13 Dec 2023 01:00:00 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vYXRtYXJraXQuaXRtZWRpYS5jby5qcC9haXQvYXJ0aWNsZXMvMjMxMi8xMy9uZXdzMDAyLmh0bWzSAQA?oc=5" target="_blank"&gt;主要産業でAI活用が広まる中、PoCで終わらず事業で継続的にAIを活用できるインフラの在り方とは&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;＠IT&lt;/font&gt;</description>
-      <source url="https://atmarkit.itmedia.co.jp">＠IT</source>
     </item>
     <item>
       <title>AIの助けによって到達した見解は誰のものなのか？ グーグル「NotebookLM」を使って考えたこと - WIRED.jp</title>
@@ -217,28 +217,20 @@
       <source url="https://www.itmedia.co.jp">ITmedia NEWS</source>
     </item>
     <item>
-      <title>Linus Torvaldsが語るカーネル開発とメンテナー、AIコーディング、そしてオープンであること ―Open Source Summit ... - Gihyo Jp</title>
-      <link>https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vZ2loeW8uanAvYXJ0aWNsZS8yMDIzLzEyL2xpbnVzLWluLW9zczIwMjPSAQA?oc=5</link>
-      <guid isPermaLink="false">CBMiMWh0dHBzOi8vZ2loeW8uanAvYXJ0aWNsZS8yMDIzLzEyL2xpbnVzLWluLW9zczIwMjPSAQA</guid>
-      <pubDate>Thu, 14 Dec 2023 08:19:00 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vZ2loeW8uanAvYXJ0aWNsZS8yMDIzLzEyL2xpbnVzLWluLW9zczIwMjPSAQA?oc=5" target="_blank"&gt;Linus Torvaldsが語るカーネル開発とメンテナー、AIコーディング、そしてオープンであること ―Open Source Summit ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Gihyo Jp&lt;/font&gt;</description>
-      <source url="https://gihyo.jp">Gihyo Jp</source>
-    </item>
-    <item>
-      <title>実例から学ぶ！新ビジネス創造のヒント～AI、Web3から空飛ぶクルマまで～ - NEC『WISDOM』</title>
-      <link>https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vd2lzZG9tLm5lYy5jb20vamEvZXZlbnQvc2VtaW5lci8yMDIzMTIxNC9pbmRleC5odG1s0gEA?oc=5</link>
-      <guid isPermaLink="false">CBMiO2h0dHBzOi8vd2lzZG9tLm5lYy5jb20vamEvZXZlbnQvc2VtaW5lci8yMDIzMTIxNC9pbmRleC5odG1s0gEA</guid>
-      <pubDate>Thu, 14 Dec 2023 08:00:00 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vd2lzZG9tLm5lYy5jb20vamEvZXZlbnQvc2VtaW5lci8yMDIzMTIxNC9pbmRleC5odG1s0gEA?oc=5" target="_blank"&gt;実例から学ぶ！新ビジネス創造のヒント～AI、Web3から空飛ぶクルマまで～&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;NEC『WISDOM』&lt;/font&gt;</description>
-      <source url="https://wisdom.nec.com">NEC『WISDOM』</source>
-    </item>
-    <item>
       <title>オープンAI ドイツのメディア大手と提携発表 動き広がるか - nhk.or.jp</title>
       <link>https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vd3d3My5uaGsub3IuanAvbmV3cy9odG1sLzIwMjMxMjE0L2sxMDAxNDI4ODIxMTAwMC5odG1s0gFCaHR0cHM6Ly93d3czLm5oay5vci5qcC9uZXdzL2h0bWwvMjAyMzEyMTQvYW1wL2sxMDAxNDI4ODIxMTAwMC5odG1s?oc=5</link>
       <guid isPermaLink="false">CBMiPmh0dHBzOi8vd3d3My5uaGsub3IuanAvbmV3cy9odG1sLzIwMjMxMjE0L2sxMDAxNDI4ODIxMTAwMC5odG1s0gFCaHR0cHM6Ly93d3czLm5oay5vci5qcC9uZXdzL2h0bWwvMjAyMzEyMTQvYW1wL2sxMDAxNDI4ODIxMTAwMC5odG1s</guid>
       <pubDate>Thu, 14 Dec 2023 07:25:21 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vd3d3My5uaGsub3IuanAvbmV3cy9odG1sLzIwMjMxMjE0L2sxMDAxNDI4ODIxMTAwMC5odG1s0gFCaHR0cHM6Ly93d3czLm5oay5vci5qcC9uZXdzL2h0bWwvMjAyMzEyMTQvYW1wL2sxMDAxNDI4ODIxMTAwMC5odG1s?oc=5" target="_blank"&gt;オープンAI ドイツのメディア大手と提携発表 動き広がるか&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;nhk.or.jp&lt;/font&gt;</description>
       <source url="https://www3.nhk.or.jp">nhk.or.jp</source>
+    </item>
+    <item>
+      <title>ソースネクスト、文字起こしAI「オートメモ」に話者判別機能 - Impress Watch</title>
+      <link>https://news.google.com/rss/articles/CBMiNmh0dHBzOi8vd3d3LndhdGNoLmltcHJlc3MuY28uanAvZG9jcy9uZXdzLzE1NTQ1NTEuaHRtbNIBAA?oc=5</link>
+      <guid isPermaLink="false">CBMiNmh0dHBzOi8vd3d3LndhdGNoLmltcHJlc3MuY28uanAvZG9jcy9uZXdzLzE1NTQ1NTEuaHRtbNIBAA</guid>
+      <pubDate>Thu, 14 Dec 2023 04:52:53 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiNmh0dHBzOi8vd3d3LndhdGNoLmltcHJlc3MuY28uanAvZG9jcy9uZXdzLzE1NTQ1NTEuaHRtbNIBAA?oc=5" target="_blank"&gt;ソースネクスト、文字起こしAI「オートメモ」に話者判別機能&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Impress Watch&lt;/font&gt;</description>
+      <source url="https://www.watch.impress.co.jp">Impress Watch</source>
     </item>
     <item>
       <title>グーグルの新AIモデル「Gemini Pro」、プレビュー提供開始 - Impress Watch</title>
@@ -263,6 +255,14 @@
       <pubDate>Thu, 14 Dec 2023 00:27:31 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiJmh0dHBzOi8vY2xvdWQtYWNlLmpwL2NvbHVtbi9kZXRhaWw0NjAv0gEA?oc=5" target="_blank"&gt;Google の最新生成AI モデル「Gemini Pro」、Vertex AI とGoogle AI Studio 上で開発者向けに無償提供開始&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;クラウドエース&lt;/font&gt;</description>
       <source url="https://cloud-ace.jp">クラウドエース</source>
+    </item>
+    <item>
+      <title>生成AIはいずれ創造性を獲得する。そのときクリエイターに価値はある？ (1/3) - ASCII.jp</title>
+      <link>https://news.google.com/rss/articles/CBMiKmh0dHBzOi8vYXNjaWkuanAvZWxlbS8wMDAvMDA0LzE3NC80MTc0MzA0L9IBAA?oc=5</link>
+      <guid isPermaLink="false">CBMiKmh0dHBzOi8vYXNjaWkuanAvZWxlbS8wMDAvMDA0LzE3NC80MTc0MzA0L9IBAA</guid>
+      <pubDate>Sun, 17 Dec 2023 05:41:22 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiKmh0dHBzOi8vYXNjaWkuanAvZWxlbS8wMDAvMDA0LzE3NC80MTc0MzA0L9IBAA?oc=5" target="_blank"&gt;生成AIはいずれ創造性を獲得する。そのときクリエイターに価値はある？ (1/3)&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;ASCII.jp&lt;/font&gt;</description>
+      <source url="https://ascii.jp">ASCII.jp</source>
     </item>
     <item>
       <title>AIとバチカンの「時代の兆し」 - アゴラ</title>
@@ -489,14 +489,6 @@
       <source url="https://news.netkeiba.com">netkeiba.com</source>
     </item>
     <item>
-      <title>ファッション業界に特化した生成AI活用支援ツール「Maison AI」 写真風やイラスト風など好みの画像が作れる機能を ... - 時事通信ニュース</title>
-      <link>https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vd3d3LmppamkuY29tL2pjL2FydGljbGU_az0wMDAwMDAwODMuMDAwMDEyMjg0Jmc9cHJ00gEA?oc=5</link>
-      <guid isPermaLink="false">CBMiO2h0dHBzOi8vd3d3LmppamkuY29tL2pjL2FydGljbGU_az0wMDAwMDAwODMuMDAwMDEyMjg0Jmc9cHJ00gEA</guid>
-      <pubDate>Sat, 16 Dec 2023 09:40:00 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vd3d3LmppamkuY29tL2pjL2FydGljbGU_az0wMDAwMDAwODMuMDAwMDEyMjg0Jmc9cHJ00gEA?oc=5" target="_blank"&gt;ファッション業界に特化した生成AI活用支援ツール「Maison AI」 写真風やイラスト風など好みの画像が作れる機能を ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;時事通信ニュース&lt;/font&gt;</description>
-      <source url="https://www.jiji.com">時事通信ニュース</source>
-    </item>
-    <item>
       <title>[2023.12.22開催]2023 AI データ活用シンポジウム開催：時事ドットコム - 時事通信ニュース</title>
       <link>https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vd3d3LmppamkuY29tL2pjL2FydGljbGU_az0wMDAwMDAwMDEuMDAwMTM0NTEwJmc9cHJ00gEA?oc=5</link>
       <guid isPermaLink="false">CBMiO2h0dHBzOi8vd3d3LmppamkuY29tL2pjL2FydGljbGU_az0wMDAwMDAwMDEuMDAwMTM0NTEwJmc9cHJ00gEA</guid>
@@ -553,14 +545,6 @@
       <source url="https://www.newsweekjapan.jp">ニューズウィーク日本版</source>
     </item>
     <item>
-      <title>米オープンAIのCEO 仮想通貨推進 - goo.ne.jp</title>
-      <link>https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vbmV3cy5nb28ubmUuanAvdG9wc3Rvcmllcy9idXNpbmVzcy9nb28vYWNhYWMwMTJmNDlkYzE4MjRhYTU5MWM5MzJkYjc2OGYuaHRtbNIBAA?oc=5</link>
-      <guid isPermaLink="false">CBMiVGh0dHBzOi8vbmV3cy5nb28ubmUuanAvdG9wc3Rvcmllcy9idXNpbmVzcy9nb28vYWNhYWMwMTJmNDlkYzE4MjRhYTU5MWM5MzJkYjc2OGYuaHRtbNIBAA</guid>
-      <pubDate>Fri, 15 Dec 2023 18:22:00 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vbmV3cy5nb28ubmUuanAvdG9wc3Rvcmllcy9idXNpbmVzcy9nb28vYWNhYWMwMTJmNDlkYzE4MjRhYTU5MWM5MzJkYjc2OGYuaHRtbNIBAA?oc=5" target="_blank"&gt;米オープンAIのCEO 仮想通貨推進&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;goo.ne.jp&lt;/font&gt;</description>
-      <source url="https://news.goo.ne.jp">goo.ne.jp</source>
-    </item>
-    <item>
       <title>米オープンＡＩのアルトマンＣＥＯ、仮想通貨プロジェクトの推進表明 - ロイター (Reuters Japan)</title>
       <link>https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vanAucmV1dGVycy5jb20vbWFya2V0cy9qYXBhbi9mdW5kcy9VWE9RRlhaU0pGT1Q3Rk9MR1Q2TUhFQUtSTS0yMDIzLTEyLTE1L9IBAA?oc=5</link>
       <guid isPermaLink="false">CBMiUWh0dHBzOi8vanAucmV1dGVycy5jb20vbWFya2V0cy9qYXBhbi9mdW5kcy9VWE9RRlhaU0pGT1Q3Rk9MR1Q2TUhFQUtSTS0yMDIzLTEyLTE1L9IBAA</guid>
@@ -582,6 +566,14 @@
       <guid isPermaLink="false">CBMiPGh0dHBzOi8vd3d3Lm5pa2tlaS5jb20vYXJ0aWNsZS9ER1haUU9VQzA1M1I4MFYwMUMyM0EyMDAwMDAwL9IBAA</guid>
       <pubDate>Fri, 15 Dec 2023 17:00:00 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3Lm5pa2tlaS5jb20vYXJ0aWNsZS9ER1haUU9VQzA1M1I4MFYwMUMyM0EyMDAwMDAwL9IBAA?oc=5" target="_blank"&gt;ユーハイム、AIバウムクーヘン焼成機をクラウド化&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;日本経済新聞&lt;/font&gt;</description>
+      <source url="https://www.nikkei.com">日本経済新聞</source>
+    </item>
+    <item>
+      <title>三菱商事系データセンター、エヌビディア認証 AI対応 - 日本経済新聞</title>
+      <link>https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3Lm5pa2tlaS5jb20vYXJ0aWNsZS9ER1haUU9VQzExQUo2MFIxMUMyM0EwMDAwMDAwL9IBAA?oc=5</link>
+      <guid isPermaLink="false">CBMiPGh0dHBzOi8vd3d3Lm5pa2tlaS5jb20vYXJ0aWNsZS9ER1haUU9VQzExQUo2MFIxMUMyM0EwMDAwMDAwL9IBAA</guid>
+      <pubDate>Fri, 15 Dec 2023 17:00:00 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3Lm5pa2tlaS5jb20vYXJ0aWNsZS9ER1haUU9VQzExQUo2MFIxMUMyM0EwMDAwMDAwL9IBAA?oc=5" target="_blank"&gt;三菱商事系データセンター、エヌビディア認証 AI対応&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;日本経済新聞&lt;/font&gt;</description>
       <source url="https://www.nikkei.com">日本経済新聞</source>
     </item>
     <item>
@@ -623,14 +615,6 @@
       <pubDate>Fri, 15 Dec 2023 09:40:00 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3Lml0bWVkaWEuY28uanAvbmV3cy9hcnRpY2xlcy8yMzEyLzE1L25ld3MxODIuaHRtbNIBAA?oc=5" target="_blank"&gt;“子どもが不登校になる可能性”を予測するAI AIベンチャーのPKSHAなどが開発へ&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;ITmedia NEWS&lt;/font&gt;</description>
       <source url="https://www.itmedia.co.jp">ITmedia NEWS</source>
-    </item>
-    <item>
-      <title>人工「超知能」暴走防止へ、 オープンAIが初成果を発表 - MITテクノロジーレビュー</title>
-      <link>https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LnRlY2hub2xvZ3lyZXZpZXcuanAvcy8zMjQ0MDQvbm93LXdlLWtub3ctd2hhdC1vcGVuYWlzLXN1cGVyYWxpZ25tZW50LXRlYW0taGFzLWJlZW4tdXAtdG8v0gEA?oc=5</link>
-      <guid isPermaLink="false">CBMiZWh0dHBzOi8vd3d3LnRlY2hub2xvZ3lyZXZpZXcuanAvcy8zMjQ0MDQvbm93LXdlLWtub3ctd2hhdC1vcGVuYWlzLXN1cGVyYWxpZ25tZW50LXRlYW0taGFzLWJlZW4tdXAtdG8v0gEA</guid>
-      <pubDate>Fri, 15 Dec 2023 08:50:39 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LnRlY2hub2xvZ3lyZXZpZXcuanAvcy8zMjQ0MDQvbm93LXdlLWtub3ctd2hhdC1vcGVuYWlzLXN1cGVyYWxpZ25tZW50LXRlYW0taGFzLWJlZW4tdXAtdG8v0gEA?oc=5" target="_blank"&gt;人工「超知能」暴走防止へ、 オープンAIが初成果を発表&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;MITテクノロジーレビュー&lt;/font&gt;</description>
-      <source url="https://www.technologyreview.jp">MITテクノロジーレビュー</source>
     </item>
     <item>
       <title>混戦の朝日杯FS、AIが指名する2歳王者候補は？ 波乱の配当を呼ぶ“穴馬の素質”も発見 - スポーツナビ - スポーツナビ</title>
@@ -679,6 +663,14 @@
       <pubDate>Fri, 15 Dec 2023 05:01:39 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiKGh0dHBzOi8vdG95b2tlaXphaS5uZXQvYXJ0aWNsZXMvLS83MjA0NTfSAQA?oc=5" target="_blank"&gt;AI画像認識の中国｢センスタイム｣に粉飾疑惑浮上&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;東洋経済オンライン&lt;/font&gt;</description>
       <source url="https://toyokeizai.net">東洋経済オンライン</source>
+    </item>
+    <item>
+      <title>米規制当局、ＡＩが金融安定に突きつけるリスク監視へ－イエレン長官 - ブルームバーグ</title>
+      <link>https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vd3d3LmJsb29tYmVyZy5jby5qcC9uZXdzL2FydGljbGVzLzIwMjMtMTItMTUvUzVPSFNGVDBHMUtXMDDSAQA?oc=5</link>
+      <guid isPermaLink="false">CBMiQ2h0dHBzOi8vd3d3LmJsb29tYmVyZy5jby5qcC9uZXdzL2FydGljbGVzLzIwMjMtMTItMTUvUzVPSFNGVDBHMUtXMDDSAQA</guid>
+      <pubDate>Fri, 15 Dec 2023 01:32:27 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vd3d3LmJsb29tYmVyZy5jby5qcC9uZXdzL2FydGljbGVzLzIwMjMtMTItMTUvUzVPSFNGVDBHMUtXMDDSAQA?oc=5" target="_blank"&gt;米規制当局、ＡＩが金融安定に突きつけるリスク監視へ－イエレン長官&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;ブルームバーグ&lt;/font&gt;</description>
+      <source url="https://www.bloomberg.co.jp">ブルームバーグ</source>
     </item>
     <item>
       <title>Google DeepMind、LLM採用AIシステム「FunSearch」で数学的難問を解決 - ITmedia NEWS</title>
