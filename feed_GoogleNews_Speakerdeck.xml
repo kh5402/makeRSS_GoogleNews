@@ -6,7 +6,7 @@
     <language>ja</language>
     <webMaster>news-webmaster@google.com</webMaster>
     <copyright>2023 Google Inc.</copyright>
-    <lastBuildDate>Fri, 29 Dec 2023 14:14:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 Dec 2023 15:15:29 GMT</lastBuildDate>
     <description>Google ニュース</description>
     <item>
       <title>AIアプリDojo #3: Hugging Face Transformers モデルのチューニング入門 - Speaker Deck</title>
@@ -70,14 +70,6 @@
       <guid isPermaLink="false">CBMiXWh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3l1eWF5L3NodW8tbWluZy1rZS1uZW5nLWFpLWRhaS1iaWFvLWRlLXNob3UtZmEtdG96dWktamluLW5vZG9uZy14aWFuZ9IBAA</guid>
       <pubDate>Wed, 13 Dec 2023 08:00:00 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3l1eWF5L3NodW8tbWluZy1rZS1uZW5nLWFpLWRhaS1iaWFvLWRlLXNob3UtZmEtdG96dWktamluLW5vZG9uZy14aWFuZ9IBAA?oc=5" target="_blank"&gt;説明可能AI：代表的手法と最近の動向&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
-      <source url="https://speakerdeck.com">Speaker Deck</source>
-    </item>
-    <item>
-      <title>情報通信理論から導くVAE等の生成的AIモデルの定量的な理論解析 (PCSJ/IMPS 2022講演資料) - Speaker Deck</title>
-      <link>https://news.google.com/rss/articles/CBMisAFodHRwczovL3NwZWFrZXJkZWNrLmNvbS9ha2lyYW5ha2Fnd2E1NTEvaW1wczIwMjEtamlhbmcteWFuLXppLWxpYW8tc2hlbi1jZW5nLWh1YS14aWFuZy15YS1zdW8ta2FyYWFpZmFsc2VzaGVuZy1jaGVuZy1tb2RlcnVoZS12YWVmYWxzZWRpbmctbGlhbmctZGUtbmFsaS1sdW4tamllLXhpLW5pY2hlbmctZ29uZ9IBAA?oc=5</link>
-      <guid isPermaLink="false">CBMisAFodHRwczovL3NwZWFrZXJkZWNrLmNvbS9ha2lyYW5ha2Fnd2E1NTEvaW1wczIwMjEtamlhbmcteWFuLXppLWxpYW8tc2hlbi1jZW5nLWh1YS14aWFuZy15YS1zdW8ta2FyYWFpZmFsc2VzaGVuZy1jaGVuZy1tb2RlcnVoZS12YWVmYWxzZWRpbmctbGlhbmctZGUtbmFsaS1sdW4tamllLXhpLW5pY2hlbmctZ29uZ9IBAA</guid>
-      <pubDate>Wed, 10 Nov 2021 08:00:00 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMisAFodHRwczovL3NwZWFrZXJkZWNrLmNvbS9ha2lyYW5ha2Fnd2E1NTEvaW1wczIwMjEtamlhbmcteWFuLXppLWxpYW8tc2hlbi1jZW5nLWh1YS14aWFuZy15YS1zdW8ta2FyYWFpZmFsc2VzaGVuZy1jaGVuZy1tb2RlcnVoZS12YWVmYWxzZWRpbmctbGlhbmctZGUtbmFsaS1sdW4tamllLXhpLW5pY2hlbmctZ29uZ9IBAA?oc=5" target="_blank"&gt;情報通信理論から導くVAE等の生成的AIモデルの定量的な理論解析 (PCSJ/IMPS 2022講演資料)&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
@@ -358,6 +350,14 @@
       <guid isPermaLink="false">CBMiUWh0dHBzOi8vc3BlYWtlcmRlY2suY29tL2Nsb3VkYWNlL2R1ZXQtYWktYXNzaXN0ZWQtZGV2ZWxvcG1lbnQtamlhbi16aGVuZy1zaXRlbWl0YdIBAA</guid>
       <pubDate>Thu, 07 Dec 2023 10:31:18 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vc3BlYWtlcmRlY2suY29tL2Nsb3VkYWNlL2R1ZXQtYWktYXNzaXN0ZWQtZGV2ZWxvcG1lbnQtamlhbi16aGVuZy1zaXRlbWl0YdIBAA?oc=5" target="_blank"&gt;Duet AI Assisted development 検証してみた&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
+      <source url="https://speakerdeck.com">Speaker Deck</source>
+    </item>
+    <item>
+      <title>状態設計から「なんとなく」を無くそう - Speaker Deck</title>
+      <link>https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3FuaWdoeS9tb2RlbGxpbmctcHJvZ3JhbS1zdGF0ZXMtd2l0aC1yYXRpb25hbGXSAQA?oc=5</link>
+      <guid isPermaLink="false">CBMiRmh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3FuaWdoeS9tb2RlbGxpbmctcHJvZ3JhbS1zdGF0ZXMtd2l0aC1yYXRpb25hbGXSAQA</guid>
+      <pubDate>Thu, 07 Dec 2023 08:00:00 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3FuaWdoeS9tb2RlbGxpbmctcHJvZ3JhbS1zdGF0ZXMtd2l0aC1yYXRpb25hbGXSAQA?oc=5" target="_blank"&gt;状態設計から「なんとなく」を無くそう&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
