@@ -6,7 +6,7 @@
     <language>ja</language>
     <webMaster>news-webmaster@google.com</webMaster>
     <copyright>2024 Google Inc.</copyright>
-    <lastBuildDate>Fri, 05 Jan 2024 20:16:33 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jan 2024 21:13:35 GMT</lastBuildDate>
     <description>Google ニュース</description>
     <item>
       <title>AIアプリDojo #3: Hugging Face Transformers モデルのチューニング入門 - Speaker Deck</title>
@@ -78,6 +78,14 @@
       <guid isPermaLink="false">CBMiRWh0dHBzOi8vc3BlYWtlcmRlY2suY29tL2tpb25hd2Fsa2VyL21ldGEteDItbGktamllLXN1cnVleHBsYWluYWJsZS1hadIBAA</guid>
       <pubDate>Wed, 09 Nov 2022 08:00:00 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vc3BlYWtlcmRlY2suY29tL2tpb25hd2Fsa2VyL21ldGEteDItbGktamllLXN1cnVleHBsYWluYWJsZS1hadIBAA?oc=5" target="_blank"&gt;Meta x2 理解するExplainable AI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
+      <source url="https://speakerdeck.com">Speaker Deck</source>
+    </item>
+    <item>
+      <title>【AIよくばりパック】CP4DでAIのモデルを (1)作って、(2)比較して、(3)説明しちゃうデモ！ - Speaker Deck</title>
+      <link>https://news.google.com/rss/articles/CBMieGh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3RraHJlc2svYWl5b2t1YmFyaXBhdHVrdS1jcDRkZGVhaWZhbHNlbW9kZXJ1d28tMS16dW8tdHV0ZS0yLWJpLWppYW8tc2l0ZS0zLXNodW8tbWluZy1zaXRpeWF1ZGVtb9IBAA?oc=5</link>
+      <guid isPermaLink="false">CBMieGh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3RraHJlc2svYWl5b2t1YmFyaXBhdHVrdS1jcDRkZGVhaWZhbHNlbW9kZXJ1d28tMS16dW8tdHV0ZS0yLWJpLWppYW8tc2l0ZS0zLXNodW8tbWluZy1zaXRpeWF1ZGVtb9IBAA</guid>
+      <pubDate>Wed, 08 Dec 2021 08:00:00 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMieGh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3RraHJlc2svYWl5b2t1YmFyaXBhdHVrdS1jcDRkZGVhaWZhbHNlbW9kZXJ1d28tMS16dW8tdHV0ZS0yLWJpLWppYW8tc2l0ZS0zLXNodW8tbWluZy1zaXRpeWF1ZGVtb9IBAA?oc=5" target="_blank"&gt;【AIよくばりパック】CP4DでAIのモデルを (1)作って、(2)比較して、(3)説明しちゃうデモ！&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
@@ -758,14 +766,6 @@
       <guid isPermaLink="false">CBMiPGh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3BpY3RpbnkvZ2VuZXJhdGl2ZS1haS1ib3VuZW5rYWktMjAyM9IBAA</guid>
       <pubDate>Fri, 08 Dec 2023 12:17:48 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3BpY3RpbnkvZ2VuZXJhdGl2ZS1haS1ib3VuZW5rYWktMjAyM9IBAA?oc=5" target="_blank"&gt;ドローンの会社は生成AIをどう活用するか / Generative AI Bounenkai 2023&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
-      <source url="https://speakerdeck.com">Speaker Deck</source>
-    </item>
-    <item>
-      <title>AWS Amplify と Amazon Bedrock を使ってオレオレ生成AIサイトを作る #ゆるWeb札幌 - Speaker Deck</title>
-      <link>https://news.google.com/rss/articles/CBMif2h0dHBzOi8vc3BlYWtlcmRlY2suY29tL3RhY2NrL2F3cy1hbXBsaWZ5LXRvLWFtYXpvbi1iZWRyb2NrLXdvc2hpLXR1dGVvcmVvcmVzaGVuZy1jaGVuZy1haXNhaXRvd296dW8tcnUtbnVtYmVyLXl1cnV3ZWJ6aGEtaHVhbmfSAQA?oc=5</link>
-      <guid isPermaLink="false">CBMif2h0dHBzOi8vc3BlYWtlcmRlY2suY29tL3RhY2NrL2F3cy1hbXBsaWZ5LXRvLWFtYXpvbi1iZWRyb2NrLXdvc2hpLXR1dGVvcmVvcmVzaGVuZy1jaGVuZy1haXNhaXRvd296dW8tcnUtbnVtYmVyLXl1cnV3ZWJ6aGEtaHVhbmfSAQA</guid>
-      <pubDate>Fri, 08 Dec 2023 08:00:00 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMif2h0dHBzOi8vc3BlYWtlcmRlY2suY29tL3RhY2NrL2F3cy1hbXBsaWZ5LXRvLWFtYXpvbi1iZWRyb2NrLXdvc2hpLXR1dGVvcmVvcmVzaGVuZy1jaGVuZy1haXNhaXRvd296dW8tcnUtbnVtYmVyLXl1cnV3ZWJ6aGEtaHVhbmfSAQA?oc=5" target="_blank"&gt;AWS Amplify と Amazon Bedrock を使ってオレオレ生成AIサイトを作る #ゆるWeb札幌&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
