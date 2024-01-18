@@ -6,7 +6,7 @@
     <language>ja</language>
     <webMaster>news-webmaster@google.com</webMaster>
     <copyright>2024 Google Inc.</copyright>
-    <lastBuildDate>Thu, 18 Jan 2024 11:14:10 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jan 2024 12:31:01 GMT</lastBuildDate>
     <description>Google ニュース</description>
     <item>
       <title>AIアプリDojo #3: Hugging Face Transformers モデルのチューニング入門 - Speaker Deck</title>
@@ -457,14 +457,6 @@
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
-      <title>【Generative AI Meetup &amp; Google Cloud Next '23 Recap】AI ど素人 SRE の Gen AI 活用事始め - Speaker Deck</title>
-      <link>https://news.google.com/rss/articles/CBMihwFodHRwczovL3NwZWFrZXJkZWNrLmNvbS9oYXNoX2dlbmVyYXRlL2dlbmVyYXRpdmUtYWktbWVldHVwLWFuZC1nb29nbGUtY2xvdWQtbmV4dC0yMy1yZWNhcC1haS1kb3N1LXJlbi1zcmUtbm8tZ2VuLWFpLWh1by15b25nLXNoaS1zaGktbWXSAQA?oc=5</link>
-      <guid isPermaLink="false">CBMihwFodHRwczovL3NwZWFrZXJkZWNrLmNvbS9oYXNoX2dlbmVyYXRlL2dlbmVyYXRpdmUtYWktbWVldHVwLWFuZC1nb29nbGUtY2xvdWQtbmV4dC0yMy1yZWNhcC1haS1kb3N1LXJlbi1zcmUtbm8tZ2VuLWFpLWh1by15b25nLXNoaS1zaGktbWXSAQA</guid>
-      <pubDate>Sun, 15 Oct 2023 07:00:00 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMihwFodHRwczovL3NwZWFrZXJkZWNrLmNvbS9oYXNoX2dlbmVyYXRlL2dlbmVyYXRpdmUtYWktbWVldHVwLWFuZC1nb29nbGUtY2xvdWQtbmV4dC0yMy1yZWNhcC1haS1kb3N1LXJlbi1zcmUtbm8tZ2VuLWFpLWh1by15b25nLXNoaS1zaGktbWXSAQA?oc=5" target="_blank"&gt;【Generative AI Meetup &amp; Google Cloud Next '23 Recap】AI ど素人 SRE の Gen AI 活用事始め&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
-      <source url="https://speakerdeck.com">Speaker Deck</source>
-    </item>
-    <item>
       <title>スタートアップCTOが個人開発で収益化・年13本記事発信・5件登壇を平行するための時間管理 - Speaker Deck</title>
       <link>https://news.google.com/rss/articles/CBMinAFodHRwczovL3NwZWFrZXJkZWNrLmNvbS90ZXhtZWlqaW4vc3V0YXRvYXR1cHVjdG9nYWdlLXJlbi1rYWktZmEtZGVzaG91LXlpLWh1YS1uaWFuLTEzYmVuLWppLXNoaS1mYS14aW4tNWppYW4tZGVuZy10YW4td29waW5nLXhpbmctc3VydXRhbWVub3NoaS1qaWFuLWd1YW4tbGnSAQA?oc=5</link>
       <guid isPermaLink="false">CBMinAFodHRwczovL3NwZWFrZXJkZWNrLmNvbS90ZXhtZWlqaW4vc3V0YXRvYXR1cHVjdG9nYWdlLXJlbi1rYWktZmEtZGVzaG91LXlpLWh1YS1uaWFuLTEzYmVuLWppLXNoaS1mYS14aW4tNWppYW4tZGVuZy10YW4td29waW5nLXhpbmctc3VydXRhbWVub3NoaS1qaWFuLWd1YW4tbGnSAQA</guid>
@@ -598,6 +590,14 @@
       <guid isPermaLink="false">CBMiV2h0dHBzOi8vc3BlYWtlcmRlY2suY29tL2pkbWMvYWlkZXRhaHVvLXlvbmctbmlva2VydWx1bi1saS1odXJlbXV3YWt1LWdvc2hhby1qaWUtemktbGlhb9IBAA</guid>
       <pubDate>Mon, 26 Jun 2023 07:00:00 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vc3BlYWtlcmRlY2suY29tL2pkbWMvYWlkZXRhaHVvLXlvbmctbmlva2VydWx1bi1saS1odXJlbXV3YWt1LWdvc2hhby1qaWUtemktbGlhb9IBAA?oc=5" target="_blank"&gt;AI・データ活用における倫理フレームワーク(ご紹介資料)&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
+      <source url="https://speakerdeck.com">Speaker Deck</source>
+    </item>
+    <item>
+      <title>カンファレンスから見る SRE トレンド 2024 / SRE Trends from Conferences in 2024 #SRE_Findy - Speaker Deck</title>
+      <link>https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3JycmVlZXl5eS9zcmUtdHJlbmRzLWZyb20tY29uZmVyZW5jZXMtaW4tMjAyNC1udW1iZXItc3JlLWZpbmR50gEA?oc=5</link>
+      <guid isPermaLink="false">CBMiVmh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3JycmVlZXl5eS9zcmUtdHJlbmRzLWZyb20tY29uZmVyZW5jZXMtaW4tMjAyNC1udW1iZXItc3JlLWZpbmR50gEA</guid>
+      <pubDate>Mon, 15 Jan 2024 22:15:18 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3JycmVlZXl5eS9zcmUtdHJlbmRzLWZyb20tY29uZmVyZW5jZXMtaW4tMjAyNC1udW1iZXItc3JlLWZpbmR50gEA?oc=5" target="_blank"&gt;カンファレンスから見る SRE トレンド 2024 / SRE Trends from Conferences in 2024 #SRE_Findy&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
@@ -753,11 +753,11 @@
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
-      <title>Collaborative AI: 視覚・言語・行動の融合 - Speaker Deck</title>
-      <link>https://news.google.com/rss/articles/CBMiLWh0dHBzOi8vc3BlYWtlcmRlY2suY29tL2t5b3VuL2NvbGxhYm9yYXRpdmVhadIBAA?oc=5</link>
-      <guid isPermaLink="false">CBMiLWh0dHBzOi8vc3BlYWtlcmRlY2suY29tL2t5b3VuL2NvbGxhYm9yYXRpdmVhadIBAA</guid>
-      <pubDate>Fri, 12 May 2023 07:00:00 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiLWh0dHBzOi8vc3BlYWtlcmRlY2suY29tL2t5b3VuL2NvbGxhYm9yYXRpdmVhadIBAA?oc=5" target="_blank"&gt;Collaborative AI: 視覚・言語・行動の融合&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
+      <title>ありがとう、create-react-app - Speaker Deck</title>
+      <link>https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3V0Z3dray9hcmlnYXRvdS1jcmVhdGUtcmVhY3QtYXBw0gEA?oc=5</link>
+      <guid isPermaLink="false">CBMiOGh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3V0Z3dray9hcmlnYXRvdS1jcmVhdGUtcmVhY3QtYXBw0gEA</guid>
+      <pubDate>Fri, 12 Jan 2024 13:03:10 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3V0Z3dray9hcmlnYXRvdS1jcmVhdGUtcmVhY3QtYXBw0gEA?oc=5" target="_blank"&gt;ありがとう、create-react-app&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
