@@ -6,7 +6,7 @@
     <language>ja</language>
     <webMaster>news-webmaster@google.com</webMaster>
     <copyright>2024 Google Inc.</copyright>
-    <lastBuildDate>Mon, 22 Jan 2024 21:14:22 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jan 2024 22:14:22 GMT</lastBuildDate>
     <description>Google ニュース</description>
     <item>
       <title>AIアプリDojo #3: Hugging Face Transformers モデルのチューニング入門 - Speaker Deck</title>
@@ -721,14 +721,6 @@
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
-      <title>変化するDNS運用とこれからの課題について(DNS設計/運用者の目線から) - Speaker Deck</title>
-      <link>https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vc3BlYWtlcmRlY2suY29tL2x5Y29ycHRlY2hfanAvZWZmb3J0cy10by1pbXByb3ZlLWRucy1vcGVyYXRpb25z0gEA?oc=5</link>
-      <guid isPermaLink="false">CBMiR2h0dHBzOi8vc3BlYWtlcmRlY2suY29tL2x5Y29ycHRlY2hfanAvZWZmb3J0cy10by1pbXByb3ZlLWRucy1vcGVyYXRpb25z0gEA</guid>
-      <pubDate>Fri, 19 Jan 2024 08:25:01 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vc3BlYWtlcmRlY2suY29tL2x5Y29ycHRlY2hfanAvZWZmb3J0cy10by1pbXByb3ZlLWRucy1vcGVyYXRpb25z0gEA?oc=5" target="_blank"&gt;変化するDNS運用とこれからの課題について(DNS設計/運用者の目線から)&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
-      <source url="https://speakerdeck.com">Speaker Deck</source>
-    </item>
-    <item>
       <title>エムスリー AI・機械学習チーム紹介資料 / Introduction of M3 AI Team - Speaker Deck</title>
       <link>https://news.google.com/rss/articles/CBMiQWh0dHBzOi8vc3BlYWtlcmRlY2suY29tL20zX2VuZ2luZWVyaW5nL2ludHJvZHVjdGlvbi1vZi1tMy1haS10ZWFt0gEA?oc=5</link>
       <guid isPermaLink="false">CBMiQWh0dHBzOi8vc3BlYWtlcmRlY2suY29tL20zX2VuZ2luZWVyaW5nL2ludHJvZHVjdGlvbi1vZi1tMy1haS10ZWFt0gEA</guid>
@@ -782,6 +774,14 @@
       <guid isPermaLink="false">CBMiVmh0dHBzOi8vc3BlYWtlcmRlY2suY29tL2Jsb2dpZnlhaS90cmFuc2Zvcm0teW91ci12aWRlby1pbnRvLWEtYmxvZy13aXRoLWJsb2dpZnktZG90LWFp0gEA</guid>
       <pubDate>Fri, 12 Jan 2024 08:06:24 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vc3BlYWtlcmRlY2suY29tL2Jsb2dpZnlhaS90cmFuc2Zvcm0teW91ci12aWRlby1pbnRvLWEtYmxvZy13aXRoLWJsb2dpZnktZG90LWFp0gEA?oc=5" target="_blank"&gt;Transform your video into a blog with blogify.ai&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
+      <source url="https://speakerdeck.com">Speaker Deck</source>
+    </item>
+    <item>
+      <title>AWS Amplify と Amazon Bedrock を使ってオレオレ生成AIサイトを作る #ゆるWeb札幌 - Speaker Deck</title>
+      <link>https://news.google.com/rss/articles/CBMif2h0dHBzOi8vc3BlYWtlcmRlY2suY29tL3RhY2NrL2F3cy1hbXBsaWZ5LXRvLWFtYXpvbi1iZWRyb2NrLXdvc2hpLXR1dGVvcmVvcmVzaGVuZy1jaGVuZy1haXNhaXRvd296dW8tcnUtbnVtYmVyLXl1cnV3ZWJ6aGEtaHVhbmfSAQA?oc=5</link>
+      <guid isPermaLink="false">CBMif2h0dHBzOi8vc3BlYWtlcmRlY2suY29tL3RhY2NrL2F3cy1hbXBsaWZ5LXRvLWFtYXpvbi1iZWRyb2NrLXdvc2hpLXR1dGVvcmVvcmVzaGVuZy1jaGVuZy1haXNhaXRvd296dW8tcnUtbnVtYmVyLXl1cnV3ZWJ6aGEtaHVhbmfSAQA</guid>
+      <pubDate>Fri, 08 Dec 2023 08:00:00 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMif2h0dHBzOi8vc3BlYWtlcmRlY2suY29tL3RhY2NrL2F3cy1hbXBsaWZ5LXRvLWFtYXpvbi1iZWRyb2NrLXdvc2hpLXR1dGVvcmVvcmVzaGVuZy1jaGVuZy1haXNhaXRvd296dW8tcnUtbnVtYmVyLXl1cnV3ZWJ6aGEtaHVhbmfSAQA?oc=5" target="_blank"&gt;AWS Amplify と Amazon Bedrock を使ってオレオレ生成AIサイトを作る #ゆるWeb札幌&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
