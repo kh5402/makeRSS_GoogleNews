@@ -6,7 +6,7 @@
     <language>ja</language>
     <webMaster>news-webmaster@google.com</webMaster>
     <copyright>2024 Google Inc.</copyright>
-    <lastBuildDate>Sun, 28 Jan 2024 05:14:38 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jan 2024 06:18:09 GMT</lastBuildDate>
     <description>Google ニュース</description>
     <item>
       <title>AIアプリDojo #3: Hugging Face Transformers モデルのチューニング入門 - Speaker Deck</title>
@@ -54,14 +54,6 @@
       <guid isPermaLink="false">CBMiV2h0dHBzOi8vc3BlYWtlcmRlY2suY29tL25zYWtraTU1L2N5YmVyYWdlbnQtYWlzaGkteWUtYmVuLWJ1LW1sb3BzeWFuLXhpdS15aW5nLXlvbmctYmlhbtIBAA</guid>
       <pubDate>Wed, 24 May 2023 07:00:00 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vc3BlYWtlcmRlY2suY29tL25zYWtraTU1L2N5YmVyYWdlbnQtYWlzaGkteWUtYmVuLWJ1LW1sb3BzeWFuLXhpdS15aW5nLXlvbmctYmlhbtIBAA?oc=5" target="_blank"&gt;CyberAgent AI事業本部MLOps研修応用編&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
-      <source url="https://speakerdeck.com">Speaker Deck</source>
-    </item>
-    <item>
-      <title>AWS x さくらのクラウドのハイブリッドクラウドによる安価なフレッツ閉域網接続の実装 - Speaker Deck</title>
-      <link>https://news.google.com/rss/articles/CBMigAFodHRwczovL3NwZWFrZXJkZWNrLmNvbS9rdXJvY2hhbi9hd3MteC1zYWt1cmFub2t1cmF1ZG9ub2hhaWJ1cml0dWRva3VyYXVkb25peW9ydWFuLWppYS1uYWh1cmV0dXR1YmkteXUtd2FuZy1qaWUtc29rLW5vc2hpLXpodWFuZ9IBAA?oc=5</link>
-      <guid isPermaLink="false">CBMigAFodHRwczovL3NwZWFrZXJkZWNrLmNvbS9rdXJvY2hhbi9hd3MteC1zYWt1cmFub2t1cmF1ZG9ub2hhaWJ1cml0dWRva3VyYXVkb25peW9ydWFuLWppYS1uYWh1cmV0dXR1YmkteXUtd2FuZy1qaWUtc29rLW5vc2hpLXpodWFuZ9IBAA</guid>
-      <pubDate>Wed, 24 Jan 2024 21:03:45 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMigAFodHRwczovL3NwZWFrZXJkZWNrLmNvbS9rdXJvY2hhbi9hd3MteC1zYWt1cmFub2t1cmF1ZG9ub2hhaWJ1cml0dWRva3VyYXVkb25peW9ydWFuLWppYS1uYWh1cmV0dXR1YmkteXUtd2FuZy1qaWUtc29rLW5vc2hpLXpodWFuZ9IBAA?oc=5" target="_blank"&gt;AWS x さくらのクラウドのハイブリッドクラウドによる安価なフレッツ閉域網接続の実装&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
@@ -497,11 +489,11 @@
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
-      <title>2023年のフロントエンド振り返りと2024年 - Speaker Deck</title>
-      <link>https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3Nha2l0by8yMDIzbmlhbi1ub2h1cm9udG9lbmRvemhlbi1yaWZhbi1yaXRvMjAyNG5pYW7SAQA?oc=5</link>
-      <guid isPermaLink="false">CBMiTGh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3Nha2l0by8yMDIzbmlhbi1ub2h1cm9udG9lbmRvemhlbi1yaWZhbi1yaXRvMjAyNG5pYW7SAQA</guid>
-      <pubDate>Sat, 20 Jan 2024 05:45:03 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3Nha2l0by8yMDIzbmlhbi1ub2h1cm9udG9lbmRvemhlbi1yaWZhbi1yaXRvMjAyNG5pYW7SAQA?oc=5" target="_blank"&gt;2023年のフロントエンド振り返りと2024年&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
+      <title>Asynchronous over Synchronous / 同期という思い込み 世界は非同期で構成されている - Speaker Deck</title>
+      <link>https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vc3BlYWtlcmRlY2suY29tL19rZW5zaC9hc3luY2hyb25vdXMtb3Zlci1zeW5jaHJvbm91c9IBAA?oc=5</link>
+      <guid isPermaLink="false">CBMiPGh0dHBzOi8vc3BlYWtlcmRlY2suY29tL19rZW5zaC9hc3luY2hyb25vdXMtb3Zlci1zeW5jaHJvbm91c9IBAA</guid>
+      <pubDate>Sat, 20 Jan 2024 07:52:37 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vc3BlYWtlcmRlY2suY29tL19rZW5zaC9hc3luY2hyb25vdXMtb3Zlci1zeW5jaHJvbm91c9IBAA?oc=5" target="_blank"&gt;Asynchronous over Synchronous / 同期という思い込み 世界は非同期で構成されている&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
@@ -513,11 +505,11 @@
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
-      <title>AI時代を生き抜くために処理をちゃんと書けるようになろう / write a executable process for AI era - Speaker Deck</title>
-      <link>https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vc3BlYWtlcmRlY2suY29tL2tpc2hpZGEvd3JpdGUtYS1leGVjdXRhYmxlLXByb2Nlc3MtZm9yLWFpLWVyYdIBAA?oc=5</link>
-      <guid isPermaLink="false">CBMiRWh0dHBzOi8vc3BlYWtlcmRlY2suY29tL2tpc2hpZGEvd3JpdGUtYS1leGVjdXRhYmxlLXByb2Nlc3MtZm9yLWFpLWVyYdIBAA</guid>
-      <pubDate>Sat, 20 Jan 2024 04:51:51 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vc3BlYWtlcmRlY2suY29tL2tpc2hpZGEvd3JpdGUtYS1leGVjdXRhYmxlLXByb2Nlc3MtZm9yLWFpLWVyYdIBAA?oc=5" target="_blank"&gt;AI時代を生き抜くために処理をちゃんと書けるようになろう / write a executable process for AI era&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
+      <title>Generative AI and Similarity Search with Vertex AI Matching Engine - Speaker Deck</title>
+      <link>https://news.google.com/rss/articles/CBMihwFodHRwczovL3NwZWFrZXJkZWNrLmNvbS9mb255bGV3L2dlbmVyYXRpdmUtYWktYW5kLXNpbWlsYXJpdHktc2VhcmNoLXdpdGgtdmVydGV4LWFpLW1hdGNoaW5nLWVuZ2luZS1lOGRhYmUzZi02NDJiLTRkODUtYmE5ZC0wNmNhN2IzMzZjNjnSAQA?oc=5</link>
+      <guid isPermaLink="false">CBMihwFodHRwczovL3NwZWFrZXJkZWNrLmNvbS9mb255bGV3L2dlbmVyYXRpdmUtYWktYW5kLXNpbWlsYXJpdHktc2VhcmNoLXdpdGgtdmVydGV4LWFpLW1hdGNoaW5nLWVuZ2luZS1lOGRhYmUzZi02NDJiLTRkODUtYmE5ZC0wNmNhN2IzMzZjNjnSAQA</guid>
+      <pubDate>Sat, 12 Aug 2023 07:00:00 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMihwFodHRwczovL3NwZWFrZXJkZWNrLmNvbS9mb255bGV3L2dlbmVyYXRpdmUtYWktYW5kLXNpbWlsYXJpdHktc2VhcmNoLXdpdGgtdmVydGV4LWFpLW1hdGNoaW5nLWVuZ2luZS1lOGRhYmUzZi02NDJiLTRkODUtYmE5ZC0wNmNhN2IzMzZjNjnSAQA?oc=5" target="_blank"&gt;Generative AI and Similarity Search with Vertex AI Matching Engine&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
@@ -534,6 +526,14 @@
       <guid isPermaLink="false">CBMigwFodHRwczovL3NwZWFrZXJkZWNrLmNvbS9lYXNlMTEyL25hcmV0dXppZ3VyYWh1dHVpLWx1bi10aXlhcmVuemkyMDIzLXNoZW5nLWNoZW5nLWFpc2hpLWRhaS1ub25hcmV0dXppZ3VyYWh1Z291LXpodS1qaS1zaHUtbm9zaGFvLWppZdIBAA</guid>
       <pubDate>Sat, 09 Sep 2023 07:00:00 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMigwFodHRwczovL3NwZWFrZXJkZWNrLmNvbS9lYXNlMTEyL25hcmV0dXppZ3VyYWh1dHVpLWx1bi10aXlhcmVuemkyMDIzLXNoZW5nLWNoZW5nLWFpc2hpLWRhaS1ub25hcmV0dXppZ3VyYWh1Z291LXpodS1qaS1zaHUtbm9zaGFvLWppZdIBAA?oc=5" target="_blank"&gt;ナレッジグラフ推論チャレンジ2023〜生成AI時代のナレッジグラフ構築技術〜の紹介&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
+      <source url="https://speakerdeck.com">Speaker Deck</source>
+    </item>
+    <item>
+      <title>「Lobe」で手軽に始める機械学習と学習結果を活かす通信内蔵AIカメラ「S+ Camera Basic」/easy-start-for-machine ... - Speaker Deck</title>
+      <link>https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3NvcmFjb20vZWFzeS1zdGFydC1mb3ItbWFjaGluZS1sZWFybmluZy13aXRoLWxvYmUtdGhlbi1pbmZlcmVuY2UtYnktYWktY2FtZXJh0gEA?oc=5</link>
+      <guid isPermaLink="false">CBMiZWh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3NvcmFjb20vZWFzeS1zdGFydC1mb3ItbWFjaGluZS1sZWFybmluZy13aXRoLWxvYmUtdGhlbi1pbmZlcmVuY2UtYnktYWktY2FtZXJh0gEA</guid>
+      <pubDate>Sat, 05 Jun 2021 07:00:00 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3NvcmFjb20vZWFzeS1zdGFydC1mb3ItbWFjaGluZS1sZWFybmluZy13aXRoLWxvYmUtdGhlbi1pbmZlcmVuY2UtYnktYWktY2FtZXJh0gEA?oc=5" target="_blank"&gt;「Lobe」で手軽に始める機械学習と学習結果を活かす通信内蔵AIカメラ「S+ Camera Basic」/easy-start-for-machine ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
@@ -633,14 +633,6 @@
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
-      <title>生成AI時代におけるUXデザイン | 生成AIをフル活用したUX設計手法＆生成AI時代のユーザー体験の変化について - Speaker Deck</title>
-      <link>https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vc3BlYWtlcmRlY2suY29tL2thamlrZW50L3NoZW5nLWNoZW5nLWFpc2hpLWRhaS1uaW9rZXJ1dXhkZXphaW7SAQA?oc=5</link>
-      <guid isPermaLink="false">CBMiRmh0dHBzOi8vc3BlYWtlcmRlY2suY29tL2thamlrZW50L3NoZW5nLWNoZW5nLWFpc2hpLWRhaS1uaW9rZXJ1dXhkZXphaW7SAQA</guid>
-      <pubDate>Fri, 26 May 2023 07:00:00 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vc3BlYWtlcmRlY2suY29tL2thamlrZW50L3NoZW5nLWNoZW5nLWFpc2hpLWRhaS1uaW9rZXJ1dXhkZXphaW7SAQA?oc=5" target="_blank"&gt;生成AI時代におけるUXデザイン | 生成AIをフル活用したUX設計手法＆生成AI時代のユーザー体験の変化について&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
-      <source url="https://speakerdeck.com">Speaker Deck</source>
-    </item>
-    <item>
       <title>JetBrains AI Assistant を試してみた - Speaker Deck</title>
       <link>https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vc3BlYWtlcmRlY2suY29tL2NpcmNsZWQ5L2pldGJyYWlucy1haS1hc3Npc3RhbnQtd29zaGktc2l0ZW1pdGHSAQA?oc=5</link>
       <guid isPermaLink="false">CBMiRmh0dHBzOi8vc3BlYWtlcmRlY2suY29tL2NpcmNsZWQ5L2pldGJyYWlucy1haS1hc3Npc3RhbnQtd29zaGktc2l0ZW1pdGHSAQA</guid>
@@ -678,6 +670,14 @@
       <guid isPermaLink="false">CBMiQWh0dHBzOi8vc3BlYWtlcmRlY2suY29tL2Npbm5hbW9uYWkvY2lubmFtb24tY2FpLXlvbmctemktbGlhby0wOTIy0gEA</guid>
       <pubDate>Fri, 22 Sep 2023 07:00:00 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiQWh0dHBzOi8vc3BlYWtlcmRlY2suY29tL2Npbm5hbW9uYWkvY2lubmFtb24tY2FpLXlvbmctemktbGlhby0wOTIy0gEA?oc=5" target="_blank"&gt;シナモンAI会社紹介資料.pdf&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
+      <source url="https://speakerdeck.com">Speaker Deck</source>
+    </item>
+    <item>
+      <title>SPSS Modeler Flow で儲かるAIをつくる - Speaker Deck</title>
+      <link>https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vc3BlYWtlcmRlY2suY29tL21ha2Fpc2hpMi9zcHNzLW1vZGVsZXItZmxvdy1kZWNodS1rYXJ1YWl3b3R1a3VyddIBAA?oc=5</link>
+      <guid isPermaLink="false">CBMiSGh0dHBzOi8vc3BlYWtlcmRlY2suY29tL21ha2Fpc2hpMi9zcHNzLW1vZGVsZXItZmxvdy1kZWNodS1rYXJ1YWl3b3R1a3VyddIBAA</guid>
+      <pubDate>Fri, 21 May 2021 07:00:00 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vc3BlYWtlcmRlY2suY29tL21ha2Fpc2hpMi9zcHNzLW1vZGVsZXItZmxvdy1kZWNodS1rYXJ1YWl3b3R1a3VyddIBAA?oc=5" target="_blank"&gt;SPSS Modeler Flow で儲かるAIをつくる&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
