@@ -6,7 +6,7 @@
     <language>ja</language>
     <webMaster>news-webmaster@google.com</webMaster>
     <copyright>2024 Google Inc.</copyright>
-    <lastBuildDate>Sun, 28 Jan 2024 19:10:57 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jan 2024 20:14:23 GMT</lastBuildDate>
     <description>Google ニュース</description>
     <item>
       <title>超入門！テーブル設計をデータモデリングから考えよう - Speaker Deck</title>
@@ -441,14 +441,6 @@
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
-      <title>型クラスと依存型のカルパッチョ、代数的構造を添えて - Speaker Deck</title>
-      <link>https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3NvdWtvdWtpL3hpbmcta3VyYXN1dG95aS1jdW4teGluZy1ub2thcnVwYXR1dGl5by1kYWktc2h1LWRlLWdvdS16YW8td290aWFuLWV0ZdIBAA?oc=5</link>
-      <guid isPermaLink="false">CBMiZmh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3NvdWtvdWtpL3hpbmcta3VyYXN1dG95aS1jdW4teGluZy1ub2thcnVwYXR1dGl5by1kYWktc2h1LWRlLWdvdS16YW8td290aWFuLWV0ZdIBAA</guid>
-      <pubDate>Sun, 21 Jan 2024 07:03:07 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3NvdWtvdWtpL3hpbmcta3VyYXN1dG95aS1jdW4teGluZy1ub2thcnVwYXR1dGl5by1kYWktc2h1LWRlLWdvdS16YW8td290aWFuLWV0ZdIBAA?oc=5" target="_blank"&gt;型クラスと依存型のカルパッチョ、代数的構造を添えて&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
-      <source url="https://speakerdeck.com">Speaker Deck</source>
-    </item>
-    <item>
       <title>脳とAIは似ているか ― NeuroAI の挑戦 - Speaker Deck</title>
       <link>https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vc3BlYWtlcmRlY2suY29tL3lrYW1pdC9ub3ktdG9haWhhc2ktdGVpcnVrYS1uZXVyb2FpLW5vdGlhby16aGFu0gEA?oc=5</link>
       <guid isPermaLink="false">CBMiR2h0dHBzOi8vc3BlYWtlcmRlY2suY29tL3lrYW1pdC9ub3ktdG9haWhhc2ktdGVpcnVrYS1uZXVyb2FpLW5vdGlhby16aGFu0gEA</guid>
@@ -526,6 +518,14 @@
       <guid isPermaLink="false">CBMiR2h0dHBzOi8vc3BlYWtlcmRlY2suY29tL21pZG5pZ2h0NDgwL3RyeS1yZWRzaGlmdC1zZXJ2ZXJsZXNzLWFpLXNjYWxsaW5n0gEA</guid>
       <pubDate>Sat, 20 Jan 2024 04:52:30 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vc3BlYWtlcmRlY2suY29tL21pZG5pZ2h0NDgwL3RyeS1yZWRzaGlmdC1zZXJ2ZXJsZXNzLWFpLXNjYWxsaW5n0gEA?oc=5" target="_blank"&gt;Try RedShift Serverless AI Scalling&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
+      <source url="https://speakerdeck.com">Speaker Deck</source>
+    </item>
+    <item>
+      <title>Generative AI and Similarity Search with Vertex AI Matching Engine - Speaker Deck</title>
+      <link>https://news.google.com/rss/articles/CBMihwFodHRwczovL3NwZWFrZXJkZWNrLmNvbS9mb255bGV3L2dlbmVyYXRpdmUtYWktYW5kLXNpbWlsYXJpdHktc2VhcmNoLXdpdGgtdmVydGV4LWFpLW1hdGNoaW5nLWVuZ2luZS1lOGRhYmUzZi02NDJiLTRkODUtYmE5ZC0wNmNhN2IzMzZjNjnSAQA?oc=5</link>
+      <guid isPermaLink="false">CBMihwFodHRwczovL3NwZWFrZXJkZWNrLmNvbS9mb255bGV3L2dlbmVyYXRpdmUtYWktYW5kLXNpbWlsYXJpdHktc2VhcmNoLXdpdGgtdmVydGV4LWFpLW1hdGNoaW5nLWVuZ2luZS1lOGRhYmUzZi02NDJiLTRkODUtYmE5ZC0wNmNhN2IzMzZjNjnSAQA</guid>
+      <pubDate>Sat, 12 Aug 2023 07:00:00 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMihwFodHRwczovL3NwZWFrZXJkZWNrLmNvbS9mb255bGV3L2dlbmVyYXRpdmUtYWktYW5kLXNpbWlsYXJpdHktc2VhcmNoLXdpdGgtdmVydGV4LWFpLW1hdGNoaW5nLWVuZ2luZS1lOGRhYmUzZi02NDJiLTRkODUtYmE5ZC0wNmNhN2IzMzZjNjnSAQA?oc=5" target="_blank"&gt;Generative AI and Similarity Search with Vertex AI Matching Engine&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
