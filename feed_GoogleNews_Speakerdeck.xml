@@ -6,7 +6,7 @@
     <language>ja</language>
     <webMaster>news-webmaster@google.com</webMaster>
     <copyright>2024 Google Inc.</copyright>
-    <lastBuildDate>Thu, 01 Feb 2024 01:10:14 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Feb 2024 02:24:57 GMT</lastBuildDate>
     <description>Google ニュース</description>
     <item>
       <title>はじめてのピープルマネジメント - Speaker Deck</title>
@@ -321,6 +321,14 @@
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
+      <title>Feature StoreとVertex AIを使った機械学習基盤の実現 / Machine Learning infrastructure using Feature Store and Vertex ... - Speaker Deck</title>
+      <link>https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vc3BlYWtlcmRlY2suY29tL21lcmNhcmkvbWFjaGluZS1sZWFybmluZy1pbmZyYXN0cnVjdHVyZS11c2luZy1mZWF0dXJlLXN0b3JlLWFuZC12ZXJ0ZXgtYWnSAQA?oc=5</link>
+      <guid isPermaLink="false">CBMiYWh0dHBzOi8vc3BlYWtlcmRlY2suY29tL21lcmNhcmkvbWFjaGluZS1sZWFybmluZy1pbmZyYXN0cnVjdHVyZS11c2luZy1mZWF0dXJlLXN0b3JlLWFuZC12ZXJ0ZXgtYWnSAQA</guid>
+      <pubDate>Thu, 25 Aug 2022 07:00:00 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vc3BlYWtlcmRlY2suY29tL21lcmNhcmkvbWFjaGluZS1sZWFybmluZy1pbmZyYXN0cnVjdHVyZS11c2luZy1mZWF0dXJlLXN0b3JlLWFuZC12ZXJ0ZXgtYWnSAQA?oc=5" target="_blank"&gt;Feature StoreとVertex AIを使った機械学習基盤の実現 / Machine Learning infrastructure using Feature Store and Vertex ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
+      <source url="https://speakerdeck.com">Speaker Deck</source>
+    </item>
+    <item>
       <title>検索システムにAIを搭載する際の考え方 ― 基礎から展望まで - Speaker Deck</title>
       <link>https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vc3BlYWtlcmRlY2suY29tL2lzaWRhaXRjL2FpZGEtemFpLWppYW4tc3VvLXNpc3V0ZW110gEA?oc=5</link>
       <guid isPermaLink="false">CBMiO2h0dHBzOi8vc3BlYWtlcmRlY2suY29tL2lzaWRhaXRjL2FpZGEtemFpLWppYW4tc3VvLXNpc3V0ZW110gEA</guid>
@@ -414,14 +422,6 @@
       <guid isPermaLink="false">CBMijQFodHRwczovL3NwZWFrZXJkZWNrLmNvbS9tYXNhdG90by9yZW4tamlhbi16aG9uZy14aW4tbm9haXB1cm9kYWt1dG9rYWktZmEtbml4aWFuZy1rZXRleWktc2hpLXN1cnVrb3RvLXl1emFuaXp1dG90aS1nb25nLWppYS16aGktbm9taW5nLXF1ZS1odWHSAQA</guid>
       <pubDate>Sun, 26 Mar 2023 07:00:00 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMijQFodHRwczovL3NwZWFrZXJkZWNrLmNvbS9tYXNhdG90by9yZW4tamlhbi16aG9uZy14aW4tbm9haXB1cm9kYWt1dG9rYWktZmEtbml4aWFuZy1rZXRleWktc2hpLXN1cnVrb3RvLXl1emFuaXp1dG90aS1nb25nLWppYS16aGktbm9taW5nLXF1ZS1odWHSAQA?oc=5" target="_blank"&gt;人間中心のAIプロダクト開発に向けて意識すること ~ユーザーニーズと提供価値の明確化~&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
-      <source url="https://speakerdeck.com">Speaker Deck</source>
-    </item>
-    <item>
-      <title>今日から使える！GPT-4によるデータサイエンス - Speaker Deck</title>
-      <link>https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vc3BlYWtlcmRlY2suY29tL3RzdWJhNzc5OS9qaW4tcmkta2FyYXNoaS1lcnUtZ3B0LTRuaXlvcnVkZXRhc2FpZW5zddIBAA?oc=5</link>
-      <guid isPermaLink="false">CBMiS2h0dHBzOi8vc3BlYWtlcmRlY2suY29tL3RzdWJhNzc5OS9qaW4tcmkta2FyYXNoaS1lcnUtZ3B0LTRuaXlvcnVkZXRhc2FpZW5zddIBAA</guid>
-      <pubDate>Sun, 23 Jul 2023 07:00:00 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vc3BlYWtlcmRlY2suY29tL3RzdWJhNzc5OS9qaW4tcmkta2FyYXNoaS1lcnUtZ3B0LTRuaXlvcnVkZXRhc2FpZW5zddIBAA?oc=5" target="_blank"&gt;今日から使える！GPT-4によるデータサイエンス&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
