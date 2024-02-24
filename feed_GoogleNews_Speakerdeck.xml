@@ -6,7 +6,7 @@
     <language>ja</language>
     <webMaster>news-webmaster@google.com</webMaster>
     <copyright>2024 Google Inc.</copyright>
-    <lastBuildDate>Sat, 24 Feb 2024 12:25:28 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Feb 2024 13:15:52 GMT</lastBuildDate>
     <description>Google ニュース</description>
     <item>
       <title>AIアプリDojo #3: Hugging Face Transformers モデルのチューニング入門 - Speaker Deck</title>
@@ -321,6 +321,14 @@
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
+      <title>GitHub Copilotは開発者の生産性をどれだけ上げるのか？ZOZOでの全社導入とその効果 / How Much Does GitHub ... - Speaker Deck</title>
+      <link>https://news.google.com/rss/articles/CBMilQFodHRwczovL3NwZWFrZXJkZWNrLmNvbS9ob3JpZTEwMjQvaG93LW11Y2gtZG9lcy1naXRodWItY29waWxvdC1pbXByb3ZlLWRldmVsb3Blci1wcm9kdWN0aXZpdHktdGhlLWNvbXBhbnktd2lkZS1pbXBsZW1lbnRhdGlvbi1hbmQtaXRzLWVmZmVjdHMtYXQtem96b9IBAA?oc=5</link>
+      <guid isPermaLink="false">CBMilQFodHRwczovL3NwZWFrZXJkZWNrLmNvbS9ob3JpZTEwMjQvaG93LW11Y2gtZG9lcy1naXRodWItY29waWxvdC1pbXByb3ZlLWRldmVsb3Blci1wcm9kdWN0aXZpdHktdGhlLWNvbXBhbnktd2lkZS1pbXBsZW1lbnRhdGlvbi1hbmQtaXRzLWVmZmVjdHMtYXQtem96b9IBAA</guid>
+      <pubDate>Thu, 15 Feb 2024 08:00:00 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMilQFodHRwczovL3NwZWFrZXJkZWNrLmNvbS9ob3JpZTEwMjQvaG93LW11Y2gtZG9lcy1naXRodWItY29waWxvdC1pbXByb3ZlLWRldmVsb3Blci1wcm9kdWN0aXZpdHktdGhlLWNvbXBhbnktd2lkZS1pbXBsZW1lbnRhdGlvbi1hbmQtaXRzLWVmZmVjdHMtYXQtem96b9IBAA?oc=5" target="_blank"&gt;GitHub Copilotは開発者の生産性をどれだけ上げるのか？ZOZOでの全社導入とその効果 / How Much Does GitHub ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
+      <source url="https://speakerdeck.com">Speaker Deck</source>
+    </item>
+    <item>
       <title>Platform Engineering ことはじめ ～コミュニティと一緒に新たな旅に出よう！～ - Speaker Deck</title>
       <link>https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vc3BlYWtlcmRlY2suY29tL2RzaGluYS9wbGF0Zm9ybS1lbmdpbmVlcmluZy1rb3RvaGF6aW1lLWtvbWl5dW5pdGVpdG8teHUtbml4aW4tdGFuYWx1LW5pY2h1LXlvddIBAA?oc=5</link>
       <guid isPermaLink="false">CBMiZmh0dHBzOi8vc3BlYWtlcmRlY2suY29tL2RzaGluYS9wbGF0Zm9ybS1lbmdpbmVlcmluZy1rb3RvaGF6aW1lLWtvbWl5dW5pdGVpdG8teHUtbml4aW4tdGFuYWx1LW5pY2h1LXlvddIBAA</guid>
@@ -542,14 +550,6 @@
       <guid isPermaLink="false">CBMiV2h0dHBzOi8vc3BlYWtlcmRlY2suY29tL2pkbWMvYWlkZXRhaHVvLXlvbmctbmlva2VydWx1bi1saS1odXJlbXV3YWt1LWdvc2hhby1qaWUtemktbGlhb9IBAA</guid>
       <pubDate>Mon, 26 Jun 2023 07:00:00 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vc3BlYWtlcmRlY2suY29tL2pkbWMvYWlkZXRhaHVvLXlvbmctbmlva2VydWx1bi1saS1odXJlbXV3YWt1LWdvc2hhby1qaWUtemktbGlhb9IBAA?oc=5" target="_blank"&gt;AI・データ活用における倫理フレームワーク(ご紹介資料)&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
-      <source url="https://speakerdeck.com">Speaker Deck</source>
-    </item>
-    <item>
-      <title>AWSで構築するCDパイプラインとその改善 - Speaker Deck</title>
-      <link>https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3Nob25hbnN1cnZpdm9ycy9jZC1waXBlbGluZS1jb25zdHJ1Y3Rpb24tYW5kLWltcHJvdmVtZW50cy1vbi1hd3PSAQA?oc=5</link>
-      <guid isPermaLink="false">CBMiWGh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3Nob25hbnN1cnZpdm9ycy9jZC1waXBlbGluZS1jb25zdHJ1Y3Rpb24tYW5kLWltcHJvdmVtZW50cy1vbi1hd3PSAQA</guid>
-      <pubDate>Mon, 19 Feb 2024 08:00:00 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3Nob25hbnN1cnZpdm9ycy9jZC1waXBlbGluZS1jb25zdHJ1Y3Rpb24tYW5kLWltcHJvdmVtZW50cy1vbi1hd3PSAQA?oc=5" target="_blank"&gt;AWSで構築するCDパイプラインとその改善&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
