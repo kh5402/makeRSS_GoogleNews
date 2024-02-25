@@ -6,7 +6,7 @@
     <language>ja</language>
     <webMaster>news-webmaster@google.com</webMaster>
     <copyright>2024 Google Inc.</copyright>
-    <lastBuildDate>Sun, 25 Feb 2024 04:19:02 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Feb 2024 05:14:28 GMT</lastBuildDate>
     <description>Google ニュース</description>
     <item>
       <title>OpenAI、動画生成AI「Sora」を発表 技術レポートで明かされる開発ビジョン、学習の仕組み、課題とは - ＠IT</title>
@@ -57,6 +57,14 @@
       <source url="https://www.nikkei.com">日本経済新聞</source>
     </item>
     <item>
+      <title>グーグル、軽量でオープンな新AIモデル「Gemma」 - Impress Watch</title>
+      <link>https://news.google.com/rss/articles/CBMiNmh0dHBzOi8vd3d3LndhdGNoLmltcHJlc3MuY28uanAvZG9jcy9uZXdzLzE1NzA3NzEuaHRtbNIBAA?oc=5</link>
+      <guid isPermaLink="false">CBMiNmh0dHBzOi8vd3d3LndhdGNoLmltcHJlc3MuY28uanAvZG9jcy9uZXdzLzE1NzA3NzEuaHRtbNIBAA</guid>
+      <pubDate>Wed, 21 Feb 2024 16:17:07 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiNmh0dHBzOi8vd3d3LndhdGNoLmltcHJlc3MuY28uanAvZG9jcy9uZXdzLzE1NzA3NzEuaHRtbNIBAA?oc=5" target="_blank"&gt;グーグル、軽量でオープンな新AIモデル「Gemma」&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Impress Watch&lt;/font&gt;</description>
+      <source url="https://www.watch.impress.co.jp">Impress Watch</source>
+    </item>
+    <item>
       <title>Google、オープンな生成AIモデル「Gemma」公開 商用利用OK、Geminiと同じ技術の軽量LLM - ITmedia NEWS</title>
       <link>https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3Lml0bWVkaWEuY28uanAvbmV3cy9hcnRpY2xlcy8yNDAyLzIyL25ld3MwOTIuaHRtbNIBAA?oc=5</link>
       <guid isPermaLink="false">CBMiPGh0dHBzOi8vd3d3Lml0bWVkaWEuY28uanAvbmV3cy9hcnRpY2xlcy8yNDAyLzIyL25ld3MwOTIuaHRtbNIBAA</guid>
@@ -87,14 +95,6 @@
       <pubDate>Wed, 21 Feb 2024 08:00:00 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vd3d3LnB3Yy5jb20vanAvamEva25vd2xlZGdlL2NvbHVtbi9nZW5lcmF0aXZlLWFpL3ZvbDEzLmh0bWzSAQA?oc=5" target="_blank"&gt;生成AI―新たな働き方革命の波に乗る―テクノロジー最前線 生成AI（Generative AI）編（13）経理・税務業務における ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;PwC&lt;/font&gt;</description>
       <source url="https://www.pwc.com">PwC</source>
-    </item>
-    <item>
-      <title>プリント基板製造のキョウデン、全社員2500人にAIチャットを導入し、社内問い合わせが75％減少 | IT Leaders - IT Leaders</title>
-      <link>https://news.google.com/rss/articles/CBMiKWh0dHBzOi8vaXQuaW1wcmVzcy5jby5qcC9hcnRpY2xlcy8tLzI1OTgw0gEA?oc=5</link>
-      <guid isPermaLink="false">CBMiKWh0dHBzOi8vaXQuaW1wcmVzcy5jby5qcC9hcnRpY2xlcy8tLzI1OTgw0gEA</guid>
-      <pubDate>Wed, 21 Feb 2024 05:12:03 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiKWh0dHBzOi8vaXQuaW1wcmVzcy5jby5qcC9hcnRpY2xlcy8tLzI1OTgw0gEA?oc=5" target="_blank"&gt;プリント基板製造のキョウデン、全社員2500人にAIチャットを導入し、社内問い合わせが75％減少 | IT Leaders&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;IT Leaders&lt;/font&gt;</description>
-      <source url="https://it.impress.co.jp">IT Leaders</source>
     </item>
     <item>
       <title>リアル動画生成AIがもたらすビジネス変革 ～2024年の最新技術と展望～ | 柏村 祐 - 第一生命経済研究所</title>
@@ -143,14 +143,6 @@
       <pubDate>Tue, 20 Feb 2024 12:43:26 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vd3d3My5uaGsub3IuanAvbmV3cy9odG1sLzIwMjQwMjIwL2sxMDAxNDM2NTUwMTAwMC5odG1s0gEA?oc=5" target="_blank"&gt;岸田首相 夏めど AIなど重要技術の新戦略まとめる意向明らかに | NHK&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;nhk.or.jp&lt;/font&gt;</description>
       <source url="https://www3.nhk.or.jp">nhk.or.jp</source>
-    </item>
-    <item>
-      <title>iPhoneやMacのAI機能が徐々に明らかに 24年登場か iOS 18やApple Music、Keynote、Xcodeなど多岐に(1/2) - JBpress</title>
-      <link>https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vamJwcmVzcy5pc21lZGlhLmpwL2FydGljbGVzLy0vNzk1MDDSAQA?oc=5</link>
-      <guid isPermaLink="false">CBMiK2h0dHBzOi8vamJwcmVzcy5pc21lZGlhLmpwL2FydGljbGVzLy0vNzk1MDDSAQA</guid>
-      <pubDate>Tue, 20 Feb 2024 07:00:00 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vamJwcmVzcy5pc21lZGlhLmpwL2FydGljbGVzLy0vNzk1MDDSAQA?oc=5" target="_blank"&gt;iPhoneやMacのAI機能が徐々に明らかに 24年登場か iOS 18やApple Music、Keynote、Xcodeなど多岐に(1/2)&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;JBpress&lt;/font&gt;</description>
-      <source url="https://jbpress.ismedia.jp">JBpress</source>
     </item>
     <item>
       <title>生成AI―新たな働き方革命の波に乗る―テクノロジー最前線 生成AI（Generative AI）編（11）生成AIの技術動向から ... - PwC</title>
@@ -223,6 +215,14 @@
       <pubDate>Thu, 22 Feb 2024 10:00:13 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3Lm5pa2tlaS5jb20vYXJ0aWNsZS9ER1haUU9VQzIyQTJGMFM0QTIyMEMyMDAwMDAwL9IBAA?oc=5" target="_blank"&gt;ルネサス、AI半導体の処理性能16倍に 消費電力も削減&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;日本経済新聞&lt;/font&gt;</description>
       <source url="https://www.nikkei.com">日本経済新聞</source>
+    </item>
+    <item>
+      <title>米エヌビディア株が決算発表で急騰、ＡＩ関連銘柄も連れ高 - ロイター (Reuters Japan)</title>
+      <link>https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vanAucmV1dGVycy5jb20vbWFya2V0cy9qYXBhbi9mdW5kcy9RRkEySkM0UllWTDZOR0NIWTJFTzMzUE5XSS0yMDI0LTAyLTIyL9IBAA?oc=5</link>
+      <guid isPermaLink="false">CBMiUWh0dHBzOi8vanAucmV1dGVycy5jb20vbWFya2V0cy9qYXBhbi9mdW5kcy9RRkEySkM0UllWTDZOR0NIWTJFTzMzUE5XSS0yMDI0LTAyLTIyL9IBAA</guid>
+      <pubDate>Thu, 22 Feb 2024 09:34:33 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vanAucmV1dGVycy5jb20vbWFya2V0cy9qYXBhbi9mdW5kcy9RRkEySkM0UllWTDZOR0NIWTJFTzMzUE5XSS0yMDI0LTAyLTIyL9IBAA?oc=5" target="_blank"&gt;米エヌビディア株が決算発表で急騰、ＡＩ関連銘柄も連れ高&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;ロイター (Reuters Japan)&lt;/font&gt;</description>
+      <source url="https://jp.reuters.com">ロイター (Reuters Japan)</source>
     </item>
     <item>
       <title>エヌビディア、どうしてこんなに強いのか AI向け半導体シェア8割：朝日新聞デジタル - 朝日新聞デジタル</title>
@@ -345,6 +345,14 @@
       <source url="https://www.nikkei.com">日本経済新聞</source>
     </item>
     <item>
+      <title>問題を解くたびにプログラミング脳が育つ小学生向け算数ドリルを開発した医師がAIの開発に数学は不可欠だと断言 ... - @DIME</title>
+      <link>https://news.google.com/rss/articles/CBMiHmh0dHBzOi8vZGltZS5qcC9nZW5yZS8xNzQwNzkyL9IBAA?oc=5</link>
+      <guid isPermaLink="false">CBMiHmh0dHBzOi8vZGltZS5qcC9nZW5yZS8xNzQwNzkyL9IBAA</guid>
+      <pubDate>Sun, 25 Feb 2024 04:30:35 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiHmh0dHBzOi8vZGltZS5qcC9nZW5yZS8xNzQwNzkyL9IBAA?oc=5" target="_blank"&gt;問題を解くたびにプログラミング脳が育つ小学生向け算数ドリルを開発した医師がAIの開発に数学は不可欠だと断言 ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;@DIME&lt;/font&gt;</description>
+      <source url="https://dime.jp">@DIME</source>
+    </item>
+    <item>
       <title>「医師より優秀」韓国医療業界でAI技術の活発化…チャート整理から診断まで - AFPBB News</title>
       <link>https://news.google.com/rss/articles/CBMiKGh0dHBzOi8vd3d3LmFmcGJiLmNvbS9hcnRpY2xlcy8tLzM1MDY2MjnSASpodHRwczovL3d3dy5hZnBiYi5jb20vYXJ0aWNsZXMvYW1wLzM1MDY2Mjk?oc=5</link>
       <guid isPermaLink="false">CBMiKGh0dHBzOi8vd3d3LmFmcGJiLmNvbS9hcnRpY2xlcy8tLzM1MDY2MjnSASpodHRwczovL3d3dy5hZnBiYi5jb20vYXJ0aWNsZXMvYW1wLzM1MDY2Mjk</guid>
@@ -359,6 +367,14 @@
       <pubDate>Sun, 25 Feb 2024 02:32:06 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiHmh0dHBzOi8vZGltZS5qcC9nZW5yZS8xNzM5ODA0L9IBAA?oc=5" target="_blank"&gt;あなたはAIを使いこなす人になる？AIに使われる人になる？加速するAI時代のシン働き方入門｜&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;@DIME&lt;/font&gt;</description>
       <source url="https://dime.jp">@DIME</source>
+    </item>
+    <item>
+      <title>ＡＩ彩色 きょうの歴史巡り〈２月２５日〉 - 山梨日日新聞</title>
+      <link>https://news.google.com/rss/articles/CBMiNmh0dHBzOi8vd3d3LnNhbm5pY2hpLmNvLmpwL2FydGljbGUvMjAyNC8wMi8yNS84MDUyMjM5M9IBAA?oc=5</link>
+      <guid isPermaLink="false">CBMiNmh0dHBzOi8vd3d3LnNhbm5pY2hpLmNvLmpwL2FydGljbGUvMjAyNC8wMi8yNS84MDUyMjM5M9IBAA</guid>
+      <pubDate>Sun, 25 Feb 2024 02:11:29 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiNmh0dHBzOi8vd3d3LnNhbm5pY2hpLmNvLmpwL2FydGljbGUvMjAyNC8wMi8yNS84MDUyMjM5M9IBAA?oc=5" target="_blank"&gt;ＡＩ彩色 きょうの歴史巡り〈２月２５日〉&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;山梨日日新聞&lt;/font&gt;</description>
+      <source url="https://www.sannichi.co.jp">山梨日日新聞</source>
     </item>
     <item>
       <title>AIの画像学習を革新 数式データで偏見回避：片岡裕雄 - 日経サイエンス</title>
@@ -407,6 +423,14 @@
       <pubDate>Sat, 24 Feb 2024 23:00:00 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vd2lyZWQuanAvYXJ0aWNsZS9wbGFpbnRleHQtdGhlLXRoaW5nLWFpLWp1c3QtY2FudC1kby_SAQA?oc=5" target="_blank"&gt;AIにはできない“創作”の本質、それは“人とのつながり”を感じさせること&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;WIRED.jp&lt;/font&gt;</description>
       <source url="https://wired.jp">WIRED.jp</source>
+    </item>
+    <item>
+      <title>動画だけじゃない。効果音も作れるAIが近日登場 - au Webポータル</title>
+      <link>https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vYXJ0aWNsZS5hdW9uZS5qcC9kZXRhaWwvMS8zLzcvMzJfN19yXzIwMjQwMjI1XzE3MDg4MTk4ODE4MTU5NTPSAQA?oc=5</link>
+      <guid isPermaLink="false">CBMiRmh0dHBzOi8vYXJ0aWNsZS5hdW9uZS5qcC9kZXRhaWwvMS8zLzcvMzJfN19yXzIwMjQwMjI1XzE3MDg4MTk4ODE4MTU5NTPSAQA</guid>
+      <pubDate>Sat, 24 Feb 2024 23:00:00 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vYXJ0aWNsZS5hdW9uZS5qcC9kZXRhaWwvMS8zLzcvMzJfN19yXzIwMjQwMjI1XzE3MDg4MTk4ODE4MTU5NTPSAQA?oc=5" target="_blank"&gt;動画だけじゃない。効果音も作れるAIが近日登場&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;au Webポータル&lt;/font&gt;</description>
+      <source url="https://article.auone.jp">au Webポータル</source>
     </item>
     <item>
       <title>動画だけじゃない。効果音も作れるAIが近日登場 - GIZMODO JAPAN</title>
@@ -489,12 +513,12 @@
       <source url="https://tabi-labo.com">TABI LABO</source>
     </item>
     <item>
-      <title>パラダイム Ai スモーク MAX D ドライバーを山城太優が試打「“ほぼMAX”につかまりちょい足し」 - GDO</title>
+      <title>パラダイム Ai スモーク MAX D ドライバーを山城太優が試打「“ほぼMAX”につかまりちょい足し」 - ゴルフダイジェスト・オンライン</title>
       <link>https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vbGVzc29uLmdvbGZkaWdlc3QuY28uanAvZ2Vhci90aHJlZS10ZXN0aW5nL2FydGljbGUvMTY0NjY4LzEv0gFTaHR0cHM6Ly9sZXNzb24uZ29sZmRpZ2VzdC5jby5qcC9nZWFyL3RocmVlLXRlc3RpbmcvYXJ0aWNsZS8xNjQ2NjgvMS8_Zm9ybWF0PWFtcGh0bWw?oc=5</link>
       <guid isPermaLink="false">CBMiRGh0dHBzOi8vbGVzc29uLmdvbGZkaWdlc3QuY28uanAvZ2Vhci90aHJlZS10ZXN0aW5nL2FydGljbGUvMTY0NjY4LzEv0gFTaHR0cHM6Ly9sZXNzb24uZ29sZmRpZ2VzdC5jby5qcC9nZWFyL3RocmVlLXRlc3RpbmcvYXJ0aWNsZS8xNjQ2NjgvMS8_Zm9ybWF0PWFtcGh0bWw</guid>
       <pubDate>Sat, 24 Feb 2024 11:00:00 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vbGVzc29uLmdvbGZkaWdlc3QuY28uanAvZ2Vhci90aHJlZS10ZXN0aW5nL2FydGljbGUvMTY0NjY4LzEv0gFTaHR0cHM6Ly9sZXNzb24uZ29sZmRpZ2VzdC5jby5qcC9nZWFyL3RocmVlLXRlc3RpbmcvYXJ0aWNsZS8xNjQ2NjgvMS8_Zm9ybWF0PWFtcGh0bWw?oc=5" target="_blank"&gt;パラダイム Ai スモーク MAX D ドライバーを山城太優が試打「“ほぼMAX”につかまりちょい足し」&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;GDO&lt;/font&gt;</description>
-      <source url="https://lesson.golfdigest.co.jp">GDO</source>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vbGVzc29uLmdvbGZkaWdlc3QuY28uanAvZ2Vhci90aHJlZS10ZXN0aW5nL2FydGljbGUvMTY0NjY4LzEv0gFTaHR0cHM6Ly9sZXNzb24uZ29sZmRpZ2VzdC5jby5qcC9nZWFyL3RocmVlLXRlc3RpbmcvYXJ0aWNsZS8xNjQ2NjgvMS8_Zm9ybWF0PWFtcGh0bWw?oc=5" target="_blank"&gt;パラダイム Ai スモーク MAX D ドライバーを山城太優が試打「“ほぼMAX”につかまりちょい足し」&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;ゴルフダイジェスト・オンライン&lt;/font&gt;</description>
+      <source url="https://lesson.golfdigest.co.jp">ゴルフダイジェスト・オンライン</source>
     </item>
     <item>
       <title>グーグル、AIのGeminiが生成した「歴史的に不正確」な画像を謝罪 - Forbes JAPAN</title>
@@ -511,14 +535,6 @@
       <pubDate>Sat, 24 Feb 2024 08:00:00 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vZ2lnYXppbmUubmV0L25ld3MvMjAyNDAyMjQtemVuZmV0Y2gtcGVyc29uYWwtYWkv0gEA?oc=5" target="_blank"&gt;ページを保存してAIに記事の内容を覚えさせることで横断的に複数のサイトのデータをまとめて整理できるようにする ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;GIGAZINE（ギガジン）&lt;/font&gt;</description>
       <source url="https://gigazine.net">GIGAZINE（ギガジン）</source>
-    </item>
-    <item>
-      <title>株ブロガー・さなさえ：グロース市場に資金流入！AIや半導体の出遅れ株に熱視線【FISCOソーシャルレポーター ... - Yahoo!ファイナンス</title>
-      <link>https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vZmluYW5jZS55YWhvby5jby5qcC9uZXdzL2RldGFpbC8yNTBjYzQ3NjQ4Y2YzOWJiNmU4MmIxYmFkN2Q4MjYxYTljODBmMzky0gEA?oc=5</link>
-      <guid isPermaLink="false">CBMiUGh0dHBzOi8vZmluYW5jZS55YWhvby5jby5qcC9uZXdzL2RldGFpbC8yNTBjYzQ3NjQ4Y2YzOWJiNmU4MmIxYmFkN2Q4MjYxYTljODBmMzky0gEA</guid>
-      <pubDate>Sat, 24 Feb 2024 08:00:00 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vZmluYW5jZS55YWhvby5jby5qcC9uZXdzL2RldGFpbC8yNTBjYzQ3NjQ4Y2YzOWJiNmU4MmIxYmFkN2Q4MjYxYTljODBmMzky0gEA?oc=5" target="_blank"&gt;株ブロガー・さなさえ：グロース市場に資金流入！AIや半導体の出遅れ株に熱視線【FISCOソーシャルレポーター ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo!ファイナンス&lt;/font&gt;</description>
-      <source url="https://finance.yahoo.co.jp">Yahoo!ファイナンス</source>
     </item>
     <item>
       <title>エヌビディアの時価総額、一時２兆ドル突破－ＡＩブームで急速に拡大 - ブルームバーグ</title>
@@ -599,14 +615,6 @@
       <pubDate>Fri, 23 Feb 2024 23:05:45 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3Lm5pa2tlaS5jb20vYXJ0aWNsZS9ER1haUU9GTDIzM1YzMFQyMEMyNEEyMDAwMDAwL9IBAA?oc=5" target="_blank"&gt;NVIDIA株高、AIゴールドラッシュの教訓(NY特急便)&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;日本経済新聞&lt;/font&gt;</description>
       <source url="https://www.nikkei.com">日本経済新聞</source>
-    </item>
-    <item>
-      <title>エヌビディア、２兆ドル突破 時価総額、生成ＡＩで急騰 - 産経ニュース</title>
-      <link>https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vd3d3LnNhbmtlaS5jb20vYXJ0aWNsZS8yMDI0MDIyNC00SlQzQ1JSRlNCTkNIQ08zRk9TUlRZU0o3QS_SAQA?oc=5</link>
-      <guid isPermaLink="false">CBMiQ2h0dHBzOi8vd3d3LnNhbmtlaS5jb20vYXJ0aWNsZS8yMDI0MDIyNC00SlQzQ1JSRlNCTkNIQ08zRk9TUlRZU0o3QS_SAQA</guid>
-      <pubDate>Fri, 23 Feb 2024 22:55:06 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vd3d3LnNhbmtlaS5jb20vYXJ0aWNsZS8yMDI0MDIyNC00SlQzQ1JSRlNCTkNIQ08zRk9TUlRZU0o3QS_SAQA?oc=5" target="_blank"&gt;エヌビディア、２兆ドル突破 時価総額、生成ＡＩで急騰&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;産経ニュース&lt;/font&gt;</description>
-      <source url="https://www.sankei.com">産経ニュース</source>
     </item>
     <item>
       <title>ベゾス氏やエヌビディアなど、人型ロボット開発フィギュアＡＩに出資＝報道 - ロイター (Reuters Japan)</title>
