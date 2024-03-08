@@ -6,7 +6,7 @@
     <language>ja</language>
     <webMaster>news-webmaster@google.com</webMaster>
     <copyright>2024 Google Inc.</copyright>
-    <lastBuildDate>Fri, 08 Mar 2024 03:15:47 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 Mar 2024 04:18:13 GMT</lastBuildDate>
     <description>Google ニュース</description>
     <item>
       <title>Generative AI - practice and theory - Speaker Deck</title>
@@ -121,6 +121,14 @@
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
+      <title>SansanにおけるエッジAIの実用例とMLOps - Speaker Deck</title>
+      <link>https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3NhbnNhbmJ1aWxkZXJzYm94L3NhbnNhbi0yMDIyMTIxNNIBAA?oc=5</link>
+      <guid isPermaLink="false">CBMiOWh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3NhbnNhbmJ1aWxkZXJzYm94L3NhbnNhbi0yMDIyMTIxNNIBAA</guid>
+      <pubDate>Wed, 14 Dec 2022 08:00:00 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3NhbnNhbmJ1aWxkZXJzYm94L3NhbnNhbi0yMDIyMTIxNNIBAA?oc=5" target="_blank"&gt;SansanにおけるエッジAIの実用例とMLOps&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
+      <source url="https://speakerdeck.com">Speaker Deck</source>
+    </item>
+    <item>
       <title>情報通信理論から導くVAE等の生成的AIモデルの定量的な理論解析 (PCSJ/IMPS 2022講演資料) - Speaker Deck</title>
       <link>https://news.google.com/rss/articles/CBMisAFodHRwczovL3NwZWFrZXJkZWNrLmNvbS9ha2lyYW5ha2Fnd2E1NTEvaW1wczIwMjEtamlhbmcteWFuLXppLWxpYW8tc2hlbi1jZW5nLWh1YS14aWFuZy15YS1zdW8ta2FyYWFpZmFsc2VzaGVuZy1jaGVuZy1tb2RlcnVoZS12YWVmYWxzZWRpbmctbGlhbmctZGUtbmFsaS1sdW4tamllLXhpLW5pY2hlbmctZ29uZ9IBAA?oc=5</link>
       <guid isPermaLink="false">CBMisAFodHRwczovL3NwZWFrZXJkZWNrLmNvbS9ha2lyYW5ha2Fnd2E1NTEvaW1wczIwMjEtamlhbmcteWFuLXppLWxpYW8tc2hlbi1jZW5nLWh1YS14aWFuZy15YS1zdW8ta2FyYWFpZmFsc2VzaGVuZy1jaGVuZy1tb2RlcnVoZS12YWVmYWxzZWRpbmctbGlhbmctZGUtbmFsaS1sdW4tamllLXhpLW5pY2hlbmctZ29uZ9IBAA</guid>
@@ -150,14 +158,6 @@
       <guid isPermaLink="false">CBMiRWh0dHBzOi8vc3BlYWtlcmRlY2suY29tL2lwdWxscmFuay9ldmVyeXRoaW5nLWdvb2dsZS1saWVkLXRvLXVzZS1hYm91dNIBAA</guid>
       <pubDate>Wed, 06 Mar 2024 22:39:29 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vc3BlYWtlcmRlY2suY29tL2lwdWxscmFuay9ldmVyeXRoaW5nLWdvb2dsZS1saWVkLXRvLXVzZS1hYm91dNIBAA?oc=5" target="_blank"&gt;Everything Google Lied to Us About&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
-      <source url="https://speakerdeck.com">Speaker Deck</source>
-    </item>
-    <item>
-      <title>フロントエンドパフォーマンスの変遷とNext.jsに見る次の時代 - Speaker Deck</title>
-      <link>https://news.google.com/rss/articles/CBMigwFodHRwczovL3NwZWFrZXJkZWNrLmNvbS9zdW1pcmVuL2Zyb250ZW5kLXBlcmZvcm1hbmNlLWhpc3RvcnktYW5kLW5ldy1nZW5lcmF0aW9uLW5leHRqcy1kZXNpZ25zLTNjZGM5MGRmLTA1YmUtNDU5Zi05NDhkLTdhNTNkYzRmNDc2NdIBAA?oc=5</link>
-      <guid isPermaLink="false">CBMigwFodHRwczovL3NwZWFrZXJkZWNrLmNvbS9zdW1pcmVuL2Zyb250ZW5kLXBlcmZvcm1hbmNlLWhpc3RvcnktYW5kLW5ldy1nZW5lcmF0aW9uLW5leHRqcy1kZXNpZ25zLTNjZGM5MGRmLTA1YmUtNDU5Zi05NDhkLTdhNTNkYzRmNDc2NdIBAA</guid>
-      <pubDate>Wed, 06 Mar 2024 08:23:03 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMigwFodHRwczovL3NwZWFrZXJkZWNrLmNvbS9zdW1pcmVuL2Zyb250ZW5kLXBlcmZvcm1hbmNlLWhpc3RvcnktYW5kLW5ldy1nZW5lcmF0aW9uLW5leHRqcy1kZXNpZ25zLTNjZGM5MGRmLTA1YmUtNDU5Zi05NDhkLTdhNTNkYzRmNDc2NdIBAA?oc=5" target="_blank"&gt;フロントエンドパフォーマンスの変遷とNext.jsに見る次の時代&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
@@ -417,14 +417,6 @@
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
-      <title>Docker ハンズオン / docker-hands-on - Speaker Deck</title>
-      <link>https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vc3BlYWtlcmRlY2suY29tL3N1enVraWhvZ2UvZG9ja2VyLWhhbmRzLW9uLWQ1MGUzZTFkLWU2NjktNGNiOC1hMTQzLWNkMTI0MmE2ZjEwM9IBAA?oc=5</link>
-      <guid isPermaLink="false">CBMiV2h0dHBzOi8vc3BlYWtlcmRlY2suY29tL3N1enVraWhvZ2UvZG9ja2VyLWhhbmRzLW9uLWQ1MGUzZTFkLWU2NjktNGNiOC1hMTQzLWNkMTI0MmE2ZjEwM9IBAA</guid>
-      <pubDate>Thu, 07 Mar 2024 08:19:46 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vc3BlYWtlcmRlY2suY29tL3N1enVraWhvZ2UvZG9ja2VyLWhhbmRzLW9uLWQ1MGUzZTFkLWU2NjktNGNiOC1hMTQzLWNkMTI0MmE2ZjEwM9IBAA?oc=5" target="_blank"&gt;Docker ハンズオン / docker-hands-on&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
-      <source url="https://speakerdeck.com">Speaker Deck</source>
-    </item>
-    <item>
       <title>GPT開発の悩みの種「速度」「精度」「評価」の壁をどう超えるか - Speaker Deck</title>
       <link>https://news.google.com/rss/articles/CBMiamh0dHBzOi8vc3BlYWtlcmRlY2suY29tL2hpcm9zYXRvZ2Ftby9ncHRrYWktZmEtbm9uYW8tbWlub3pob25nLXN1LWR1LWppbmctZHUtcGluZy1qaWEtbm9iaS13b2RvdWNoYW8tZXJ1a2HSAQA?oc=5</link>
       <guid isPermaLink="false">CBMiamh0dHBzOi8vc3BlYWtlcmRlY2suY29tL2hpcm9zYXRvZ2Ftby9ncHRrYWktZmEtbm9uYW8tbWlub3pob25nLXN1LWR1LWppbmctZHUtcGluZy1qaWEtbm9iaS13b2RvdWNoYW8tZXJ1a2HSAQA</guid>
@@ -622,6 +614,14 @@
       <guid isPermaLink="false">CBMiUmh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3lraXlvdGEvZGl2ZXJzaXR5LWFuZC1pbmNsdXNpb24taW4tYWktcmVzZWFyY2gtY29tbXVuaXRpZXPSAQA</guid>
       <pubDate>Mon, 15 Feb 2021 08:00:00 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3lraXlvdGEvZGl2ZXJzaXR5LWFuZC1pbmNsdXNpb24taW4tYWktcmVzZWFyY2gtY29tbXVuaXRpZXPSAQA?oc=5" target="_blank"&gt;AI研究コミュニティのダイバーシティ＆インクルージョン / Diversity and Inclusion in AI Research Communities&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
+      <source url="https://speakerdeck.com">Speaker Deck</source>
+    </item>
+    <item>
+      <title>Techniques for Prompt Injection and Filter Bypass in AI - Speaker Deck</title>
+      <link>https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3NhdG9raS90ZWNobmlxdWVzLWZvci1wcm9tcHQtaW5qZWN0aW9uLWFuZC1maWx0ZXItYnlwYXNzLWluLWFp0gEA?oc=5</link>
+      <guid isPermaLink="false">CBMiVmh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3NhdG9raS90ZWNobmlxdWVzLWZvci1wcm9tcHQtaW5qZWN0aW9uLWFuZC1maWx0ZXItYnlwYXNzLWluLWFp0gEA</guid>
+      <pubDate>Mon, 13 Nov 2023 08:00:00 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3NhdG9raS90ZWNobmlxdWVzLWZvci1wcm9tcHQtaW5qZWN0aW9uLWFuZC1maWx0ZXItYnlwYXNzLWluLWFp0gEA?oc=5" target="_blank"&gt;Techniques for Prompt Injection and Filter Bypass in AI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
