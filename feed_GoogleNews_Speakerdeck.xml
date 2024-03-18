@@ -6,7 +6,7 @@
     <language>ja</language>
     <webMaster>news-webmaster@google.com</webMaster>
     <copyright>2024 Google Inc.</copyright>
-    <lastBuildDate>Mon, 18 Mar 2024 21:15:31 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Mar 2024 22:14:44 GMT</lastBuildDate>
     <description>Google ニュース</description>
     <item>
       <title>AIアプリDojo #3: Hugging Face Transformers モデルのチューニング入門 - Speaker Deck</title>
@@ -249,14 +249,6 @@
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
-      <title>AI 作詞ツール Shikaki 入門 - Speaker Deck</title>
-      <link>https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vc3BlYWtlcmRlY2suY29tL2RpYXRvbmljX2NvZGVzL2FpLXp1by1jaS10dXJ1LXNoaWtha2ktcnUtbWVu0gEA?oc=5</link>
-      <guid isPermaLink="false">CBMiRGh0dHBzOi8vc3BlYWtlcmRlY2suY29tL2RpYXRvbmljX2NvZGVzL2FpLXp1by1jaS10dXJ1LXNoaWtha2ktcnUtbWVu0gEA</guid>
-      <pubDate>Tue, 18 Aug 2020 07:00:00 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vc3BlYWtlcmRlY2suY29tL2RpYXRvbmljX2NvZGVzL2FpLXp1by1jaS10dXJ1LXNoaWtha2ktcnUtbWVu0gEA?oc=5" target="_blank"&gt;AI 作詞ツール Shikaki 入門&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
-      <source url="https://speakerdeck.com">Speaker Deck</source>
-    </item>
-    <item>
       <title>生成AI時代における大学の現在地を探る - Speaker Deck</title>
       <link>https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vc3BlYWtlcmRlY2suY29tL2dtb3Jpa2kvc2hlbmctY2hlbmctYWlzaGktZGFpLW5pb2tlcnVkYS14dWUtbm94aWFuLXphaS1kaS13b3Rhbi1yddIBAA?oc=5</link>
       <guid isPermaLink="false">CBMiWmh0dHBzOi8vc3BlYWtlcmRlY2suY29tL2dtb3Jpa2kvc2hlbmctY2hlbmctYWlzaGktZGFpLW5pb2tlcnVkYS14dWUtbm94aWFuLXphaS1kaS13b3Rhbi1yddIBAA</guid>
@@ -366,6 +358,14 @@
       <guid isPermaLink="false">CBMicWh0dHBzOi8vc3BlYWtlcmRlY2suY29tL2hpcm90b21vdGFndWNoaS9zZWtpeXVyaXRlaXRpZXR1a3VzaXRvamktcnUtYWl3by1henVyZS1vcGVuYWktc3R1ZGlvLXByb21wdC1mbG93LXRlenVvLXJ10gEA</guid>
       <pubDate>Thu, 22 Feb 2024 08:00:00 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMicWh0dHBzOi8vc3BlYWtlcmRlY2suY29tL2hpcm90b21vdGFndWNoaS9zZWtpeXVyaXRlaXRpZXR1a3VzaXRvamktcnUtYWl3by1henVyZS1vcGVuYWktc3R1ZGlvLXByb21wdC1mbG93LXRlenVvLXJ10gEA?oc=5" target="_blank"&gt;セキュリティチェックシート記入AIを Azure OpenAI Studio Prompt Flow で作る&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
+      <source url="https://speakerdeck.com">Speaker Deck</source>
+    </item>
+    <item>
+      <title>190822 AI-OCR 導入最前線 AI inside 梅田さん - Speaker Deck</title>
+      <link>https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3JwYWJhbmsvMTkwODIyLWFpLW9jci1kYW8tcnUtenVpLXFpYW4teGlhbi1haS1pbnNpZGUtbWVpLXRpYW4tc2Fu0gEA?oc=5</link>
+      <guid isPermaLink="false">CBMiWWh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3JwYWJhbmsvMTkwODIyLWFpLW9jci1kYW8tcnUtenVpLXFpYW4teGlhbi1haS1pbnNpZGUtbWVpLXRpYW4tc2Fu0gEA</guid>
+      <pubDate>Thu, 22 Aug 2019 07:00:00 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3JwYWJhbmsvMTkwODIyLWFpLW9jci1kYW8tcnUtenVpLXFpYW4teGlhbi1haS1pbnNpZGUtbWVpLXRpYW4tc2Fu0gEA?oc=5" target="_blank"&gt;190822 AI-OCR 導入最前線 AI inside 梅田さん&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
@@ -657,14 +657,6 @@
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
-      <title>Verified AccessとBedrockでお手軽セキュアに社内向け生成AIアプリを作る - Speaker Deck</title>
-      <link>https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3JycnJhYWFhYTYvdmVyaWZpZWQtYWNjZXNzLWFuZC1iZWRyb2Nr0gEA?oc=5</link>
-      <guid isPermaLink="false">CBMiPmh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3JycnJhYWFhYTYvdmVyaWZpZWQtYWNjZXNzLWFuZC1iZWRyb2Nr0gEA</guid>
-      <pubDate>Fri, 27 Oct 2023 07:00:00 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3JycnJhYWFhYTYvdmVyaWZpZWQtYWNjZXNzLWFuZC1iZWRyb2Nr0gEA?oc=5" target="_blank"&gt;Verified AccessとBedrockでお手軽セキュアに社内向け生成AIアプリを作る&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
-      <source url="https://speakerdeck.com">Speaker Deck</source>
-    </item>
-    <item>
       <title>CyberAgent AI事業本部MLOps研修基礎編 - Speaker Deck</title>
       <link>https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vc3BlYWtlcmRlY2suY29tL2hvc2ltZXNpMTEvY3liZXJhZ2VudC1haXNoaS15ZS1iZW4tYnUtbWxvcHN5YW4teGl1LWppLWNodS1iaWFu0gEA?oc=5</link>
       <guid isPermaLink="false">CBMiVmh0dHBzOi8vc3BlYWtlcmRlY2suY29tL2hvc2ltZXNpMTEvY3liZXJhZ2VudC1haXNoaS15ZS1iZW4tYnUtbWxvcHN5YW4teGl1LWppLWNodS1iaWFu0gEA</guid>
@@ -750,6 +742,14 @@
       <guid isPermaLink="false">CBMiXWh0dHBzOi8vc3BlYWtlcmRlY2suY29tL2ljb3hmb2c0MTcvcHJvbXB0LXR1bmluZy1rYXJhLWZpbmUtdHVuaW5nLWhlbm95aS14aW5nLXNoaS1xaS10dWktZGluZ9IBAA</guid>
       <pubDate>Fri, 15 Mar 2024 06:03:51 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vc3BlYWtlcmRlY2suY29tL2ljb3hmb2c0MTcvcHJvbXB0LXR1bmluZy1rYXJhLWZpbmUtdHVuaW5nLWhlbm95aS14aW5nLXNoaS1xaS10dWktZGluZ9IBAA?oc=5" target="_blank"&gt;Prompt Tuning から Fine Tuning への移行時期推定&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
+      <source url="https://speakerdeck.com">Speaker Deck</source>
+    </item>
+    <item>
+      <title>実録_マルチテナント環境でのGmailガイドライン対応 - Speaker Deck</title>
+      <link>https://news.google.com/rss/articles/CBMigQFodHRwczovL3NwZWFrZXJkZWNrLmNvbS9yeXVpY2hpMTIwOC9zaGktbHUtbWFydXRpdGVuYW50b2h1YW4tamluZy10ZW5vZ21haWxrYWl0b3JhaW5kdWkteWluZy0wZDJhOTc4ZS1jMDU4LTQzMGItYjE5NC0zYmUzMjRkNWVmNjnSAQA?oc=5</link>
+      <guid isPermaLink="false">CBMigQFodHRwczovL3NwZWFrZXJkZWNrLmNvbS9yeXVpY2hpMTIwOC9zaGktbHUtbWFydXRpdGVuYW50b2h1YW4tamluZy10ZW5vZ21haWxrYWl0b3JhaW5kdWkteWluZy0wZDJhOTc4ZS1jMDU4LTQzMGItYjE5NC0zYmUzMjRkNWVmNjnSAQA</guid>
+      <pubDate>Fri, 15 Mar 2024 04:11:31 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMigQFodHRwczovL3NwZWFrZXJkZWNrLmNvbS9yeXVpY2hpMTIwOC9zaGktbHUtbWFydXRpdGVuYW50b2h1YW4tamluZy10ZW5vZ21haWxrYWl0b3JhaW5kdWkteWluZy0wZDJhOTc4ZS1jMDU4LTQzMGItYjE5NC0zYmUzMjRkNWVmNjnSAQA?oc=5" target="_blank"&gt;実録_マルチテナント環境でのGmailガイドライン対応&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
