@@ -6,7 +6,7 @@
     <language>ja</language>
     <webMaster>news-webmaster@google.com</webMaster>
     <copyright>2024 Google Inc.</copyright>
-    <lastBuildDate>Sat, 23 Mar 2024 22:14:21 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 23 Mar 2024 23:14:19 GMT</lastBuildDate>
     <description>Google ニュース</description>
     <item>
       <title>生成AIの活用進める日本企業 米エヌビディアと協業の動き活発 | NHK - nhk.or.jp</title>
@@ -73,6 +73,14 @@
       <source url="https://www.nikkei.com">日本経済新聞</source>
     </item>
     <item>
+      <title>生成AIアプリの展開を数分に、NVIDIAが新マイクロサービス「NIM」を発表 - ITpro</title>
+      <link>https://news.google.com/rss/articles/CBMiMGh0dHBzOi8veHRlY2gubmlra2VpLmNvbS9hdGNsL254dC9uZXdzLzI0LzAwNDI0L9IBAA?oc=5</link>
+      <guid isPermaLink="false">CBMiMGh0dHBzOi8veHRlY2gubmlra2VpLmNvbS9hdGNsL254dC9uZXdzLzI0LzAwNDI0L9IBAA</guid>
+      <pubDate>Tue, 19 Mar 2024 05:15:00 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiMGh0dHBzOi8veHRlY2gubmlra2VpLmNvbS9hdGNsL254dC9uZXdzLzI0LzAwNDI0L9IBAA?oc=5" target="_blank"&gt;生成AIアプリの展開を数分に、NVIDIAが新マイクロサービス「NIM」を発表&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;ITpro&lt;/font&gt;</description>
+      <source url="https://xtech.nikkei.com">ITpro</source>
+    </item>
+    <item>
       <title>Stability AI、回転しても形を保つ3Dを生成「Stable Video 3D」 - Impress Watch</title>
       <link>https://news.google.com/rss/articles/CBMiNmh0dHBzOi8vd3d3LndhdGNoLmltcHJlc3MuY28uanAvZG9jcy9uZXdzLzE1Nzc1MTIuaHRtbNIBAA?oc=5</link>
       <guid isPermaLink="false">CBMiNmh0dHBzOi8vd3d3LndhdGNoLmltcHJlc3MuY28uanAvZG9jcy9uZXdzLzE1Nzc1MTIuaHRtbNIBAA</guid>
@@ -87,14 +95,6 @@
       <pubDate>Tue, 19 Mar 2024 02:23:20 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vd3d3My5uaGsub3IuanAvbmV3cy9odG1sLzIwMjQwMzE5L2sxMDAxNDM5NTQxMTAwMC5odG1s0gEA?oc=5" target="_blank"&gt;米エヌビディア AI向け新たな半導体 “学習や回答性能高める” | NHK&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;nhk.or.jp&lt;/font&gt;</description>
       <source url="https://www3.nhk.or.jp">nhk.or.jp</source>
-    </item>
-    <item>
-      <title>日立、NVIDIAとAIサーバーやメタバース開発 - 日本経済新聞</title>
-      <link>https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3Lm5pa2tlaS5jb20vYXJ0aWNsZS9ER1haUU9VQzE5MEc0MFoxMEMyNEEzMDAwMDAwL9IBAA?oc=5</link>
-      <guid isPermaLink="false">CBMiPGh0dHBzOi8vd3d3Lm5pa2tlaS5jb20vYXJ0aWNsZS9ER1haUU9VQzE5MEc0MFoxMEMyNEEzMDAwMDAwL9IBAA</guid>
-      <pubDate>Tue, 19 Mar 2024 01:45:27 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3Lm5pa2tlaS5jb20vYXJ0aWNsZS9ER1haUU9VQzE5MEc0MFoxMEMyNEEzMDAwMDAwL9IBAA?oc=5" target="_blank"&gt;日立、NVIDIAとAIサーバーやメタバース開発&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;日本経済新聞&lt;/font&gt;</description>
-      <source url="https://www.nikkei.com">日本経済新聞</source>
     </item>
     <item>
       <title>エヌビディア、旗艦ＡＩ半導体発表 30倍高速化で競合引き離しへ - ロイター (Reuters Japan)</title>
@@ -167,14 +167,6 @@
       <pubDate>Thu, 21 Mar 2024 09:00:00 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiNWh0dHBzOi8vYXYud2F0Y2guaW1wcmVzcy5jby5qcC9kb2NzL25ld3MvMTU3ODAxMS5odG1s0gEA?oc=5" target="_blank"&gt;YouTubeの音楽AI活用の取り組みに“初音ミク”のクリプトンが協力&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;AV Watch&lt;/font&gt;</description>
       <source url="https://av.watch.impress.co.jp">AV Watch</source>
-    </item>
-    <item>
-      <title>サカナＡＩが新ＡＩモデル公表、既存モデルの融合繰り返して進化 - ロイター (Reuters Japan)</title>
-      <link>https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vanAucmV1dGVycy5jb20vYnVzaW5lc3MvdGVjaG5vbG9neS9KU1RHM01VVTVKUDI3TTNDQVBLNklXM1lTUS0yMDI0LTAzLTIxL9IBAA?oc=5</link>
-      <guid isPermaLink="false">CBMiUWh0dHBzOi8vanAucmV1dGVycy5jb20vYnVzaW5lc3MvdGVjaG5vbG9neS9KU1RHM01VVTVKUDI3TTNDQVBLNklXM1lTUS0yMDI0LTAzLTIxL9IBAA</guid>
-      <pubDate>Thu, 21 Mar 2024 08:56:00 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vanAucmV1dGVycy5jb20vYnVzaW5lc3MvdGVjaG5vbG9neS9KU1RHM01VVTVKUDI3TTNDQVBLNklXM1lTUS0yMDI0LTAzLTIxL9IBAA?oc=5" target="_blank"&gt;サカナＡＩが新ＡＩモデル公表、既存モデルの融合繰り返して進化&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;ロイター (Reuters Japan)&lt;/font&gt;</description>
-      <source url="https://jp.reuters.com">ロイター (Reuters Japan)</source>
     </item>
     <item>
       <title>楽天、日本語に最適化したLLM「Rakuten AI 7B」 - Impress Watch</title>
@@ -273,6 +265,22 @@
       <source url="https://wired.jp">WIRED.jp</source>
     </item>
     <item>
+      <title>"私たち"はどう生きるか？AIにより激変する社会を生き抜く堀江貴文流「生き残り術」【総合4.0】 - ほんのひきだし</title>
+      <link>https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vaG9uLWhpa2lkYXNoaS5qcC9ib29rLXBlcnNvbi8zNDg0OC_SAQA?oc=5</link>
+      <guid isPermaLink="false">CBMiK2h0dHBzOi8vaG9uLWhpa2lkYXNoaS5qcC9ib29rLXBlcnNvbi8zNDg0OC_SAQA</guid>
+      <pubDate>Sat, 23 Mar 2024 23:00:56 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vaG9uLWhpa2lkYXNoaS5qcC9ib29rLXBlcnNvbi8zNDg0OC_SAQA?oc=5" target="_blank"&gt;"私たち"はどう生きるか？AIにより激変する社会を生き抜く堀江貴文流「生き残り術」【総合4.0】&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;ほんのひきだし&lt;/font&gt;</description>
+      <source url="https://hon-hikidashi.jp">ほんのひきだし</source>
+    </item>
+    <item>
+      <title>「エヌビディア」ってどんな会社？世界をリードするAI戦略とライバル企業の存在｜@DIME アットダイム - @DIME</title>
+      <link>https://news.google.com/rss/articles/CBMiHmh0dHBzOi8vZGltZS5qcC9nZW5yZS8xNzU2MjUxL9IBAA?oc=5</link>
+      <guid isPermaLink="false">CBMiHmh0dHBzOi8vZGltZS5qcC9nZW5yZS8xNzU2MjUxL9IBAA</guid>
+      <pubDate>Sat, 23 Mar 2024 22:21:01 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiHmh0dHBzOi8vZGltZS5qcC9nZW5yZS8xNzU2MjUxL9IBAA?oc=5" target="_blank"&gt;「エヌビディア」ってどんな会社？世界をリードするAI戦略とライバル企業の存在｜@DIME アットダイム&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;@DIME&lt;/font&gt;</description>
+      <source url="https://dime.jp">@DIME</source>
+    </item>
+    <item>
       <title>【高松宮記念】AI予想 抜群の安定感誇るナムラクレアがリード - スポニチアネックス Sponichi Annex</title>
       <link>https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LnNwb25pY2hpLmNvLmpwL2dhbWJsZS9uZXdzLzIwMjQvMDMvMjQva2lqaS8yMDI0MDMyNHMwMDAwNDAwMDAzMjAwMGMuaHRtbNIBWmh0dHBzOi8vd3d3LnNwb25pY2hpLmNvLmpwL2dhbWJsZS9uZXdzLzIwMjQvMDMvMjQva2lqaS8yMDI0MDMyNHMwMDAwNDAwMDAzMjAwMGMuaHRtbD9hbXA9MQ?oc=5</link>
       <guid isPermaLink="false">CBMiVGh0dHBzOi8vd3d3LnNwb25pY2hpLmNvLmpwL2dhbWJsZS9uZXdzLzIwMjQvMDMvMjQva2lqaS8yMDI0MDMyNHMwMDAwNDAwMDAzMjAwMGMuaHRtbNIBWmh0dHBzOi8vd3d3LnNwb25pY2hpLmNvLmpwL2dhbWJsZS9uZXdzLzIwMjQvMDMvMjQva2lqaS8yMDI0MDMyNHMwMDAwNDAwMDAzMjAwMGMuaHRtbD9hbXA9MQ</guid>
@@ -287,6 +295,14 @@
       <pubDate>Sat, 23 Mar 2024 20:01:46 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiL2h0dHBzOi8vd3d3LmFncmluZXdzLmNvLmpwL2Vjb25vbXkvaW5kZXgvMjIyMzM10gEA?oc=5" target="_blank"&gt;ＡＩとロボで省人化 人口減少でも安定出荷 北海道・ＪＡふらのタマネギ選果場&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;日本農業新聞&lt;/font&gt;</description>
       <source url="https://www.agrinews.co.jp">日本農業新聞</source>
+    </item>
+    <item>
+      <title>中国のＡＩ採用 アップル協議か 米報道 - 沖縄タイムス</title>
+      <link>https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vd3d3Lm9raW5hd2F0aW1lcy5jby5qcC9hcnRpY2xlcy8tLzEzMzAwNTnSATNodHRwczovL3d3dy5va2luYXdhdGltZXMuY28uanAvYXJ0aWNsZXMvYW1wLzEzMzAwNTk?oc=5</link>
+      <guid isPermaLink="false">CBMiMWh0dHBzOi8vd3d3Lm9raW5hd2F0aW1lcy5jby5qcC9hcnRpY2xlcy8tLzEzMzAwNTnSATNodHRwczovL3d3dy5va2luYXdhdGltZXMuY28uanAvYXJ0aWNsZXMvYW1wLzEzMzAwNTk</guid>
+      <pubDate>Sat, 23 Mar 2024 19:59:00 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vd3d3Lm9raW5hd2F0aW1lcy5jby5qcC9hcnRpY2xlcy8tLzEzMzAwNTnSATNodHRwczovL3d3dy5va2luYXdhdGltZXMuY28uanAvYXJ0aWNsZXMvYW1wLzEzMzAwNTk?oc=5" target="_blank"&gt;中国のＡＩ採用 アップル協議か 米報道&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;沖縄タイムス&lt;/font&gt;</description>
+      <source url="https://www.okinawatimes.co.jp">沖縄タイムス</source>
     </item>
     <item>
       <title>「国語のテストなら0点」「AI政党に任せたい」政倫審に怒りの声続々 説明責任を果たした？＜あなた発アンケート ... - 東京新聞</title>
@@ -369,14 +385,6 @@
       <source url="https://forbesjapan.com">Forbes JAPAN</source>
     </item>
     <item>
-      <title>福岡の小売り「トライアル」がIPOで400億円調達、店舗のAI活用でも注目 - Forbes JAPAN</title>
-      <link>https://news.google.com/rss/articles/CBMiLWh0dHBzOi8vZm9yYmVzamFwYW4uY29tL2FydGljbGVzL2RldGFpbC82OTg4M9IBAA?oc=5</link>
-      <guid isPermaLink="false">CBMiLWh0dHBzOi8vZm9yYmVzamFwYW4uY29tL2FydGljbGVzL2RldGFpbC82OTg4M9IBAA</guid>
-      <pubDate>Sat, 23 Mar 2024 05:00:13 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiLWh0dHBzOi8vZm9yYmVzamFwYW4uY29tL2FydGljbGVzL2RldGFpbC82OTg4M9IBAA?oc=5" target="_blank"&gt;福岡の小売り「トライアル」がIPOで400億円調達、店舗のAI活用でも注目&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Forbes JAPAN&lt;/font&gt;</description>
-      <source url="https://forbesjapan.com">Forbes JAPAN</source>
-    </item>
-    <item>
       <title>『有吉の壁』実験企画 AIが選んだ“最強コンビ”でアドリブNGのAI生成ネタ披露 - 産経ニュース</title>
       <link>https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vd3d3LnNhbmtlaS5jb20vYXJ0aWNsZS8yMDI0MDMyMy1XTFRVM0JWR0FGTlVWSTVLWk5aUzdWWUJNUS_SAQA?oc=5</link>
       <guid isPermaLink="false">CBMiQ2h0dHBzOi8vd3d3LnNhbmtlaS5jb20vYXJ0aWNsZS8yMDI0MDMyMy1XTFRVM0JWR0FGTlVWSTVLWk5aUzdWWUJNUS_SAQA</guid>
@@ -393,28 +401,12 @@
       <source url="https://techtarget.itmedia.co.jp">TechTargetジャパン</source>
     </item>
     <item>
-      <title>「有吉の壁」AIが選んだ最強コンビ選手権、三四郎小宮やウエラン井口がAIの指示通りにネタ - お笑いナタリー</title>
-      <link>https://news.google.com/rss/articles/CBMiJWh0dHBzOi8vbmF0YWxpZS5tdS9vd2FyYWkvbmV3cy81NjYxNTPSASlodHRwczovL2FtcC5uYXRhbGllLm11L293YXJhaS9uZXdzLzU2NjE1Mw?oc=5</link>
-      <guid isPermaLink="false">CBMiJWh0dHBzOi8vbmF0YWxpZS5tdS9vd2FyYWkvbmV3cy81NjYxNTPSASlodHRwczovL2FtcC5uYXRhbGllLm11L293YXJhaS9uZXdzLzU2NjE1Mw</guid>
-      <pubDate>Sat, 23 Mar 2024 03:00:00 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiJWh0dHBzOi8vbmF0YWxpZS5tdS9vd2FyYWkvbmV3cy81NjYxNTPSASlodHRwczovL2FtcC5uYXRhbGllLm11L293YXJhaS9uZXdzLzU2NjE1Mw?oc=5" target="_blank"&gt;「有吉の壁」AIが選んだ最強コンビ選手権、三四郎小宮やウエラン井口がAIの指示通りにネタ&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;お笑いナタリー&lt;/font&gt;</description>
-      <source url="https://natalie.mu">お笑いナタリー</source>
-    </item>
-    <item>
       <title>AIが仕事との関係性を改善するカギに--日本HP、従業員と仕事の関係性調査を公表 - CNET Japan</title>
       <link>https://news.google.com/rss/articles/CBMiKGh0dHBzOi8vamFwYW4uY25ldC5jb20vYXJ0aWNsZS8zNTIxNjY4My_SAQA?oc=5</link>
       <guid isPermaLink="false">CBMiKGh0dHBzOi8vamFwYW4uY25ldC5jb20vYXJ0aWNsZS8zNTIxNjY4My_SAQA</guid>
       <pubDate>Sat, 23 Mar 2024 01:30:00 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiKGh0dHBzOi8vamFwYW4uY25ldC5jb20vYXJ0aWNsZS8zNTIxNjY4My_SAQA?oc=5" target="_blank"&gt;AIが仕事との関係性を改善するカギに--日本HP、従業員と仕事の関係性調査を公表&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;CNET Japan&lt;/font&gt;</description>
       <source url="https://japan.cnet.com">CNET Japan</source>
-    </item>
-    <item>
-      <title>個人投資家・有限亭玉介：AI相場継続で注目・期待される銘柄とその思惑に乗る銘柄【FISCOソーシャルレポーター ... - Yahoo!ファイナンス</title>
-      <link>https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vZmluYW5jZS55YWhvby5jby5qcC9uZXdzL2RldGFpbC84NjkyMzQ1MDIyZGRmNTZiZDQ2OWI4MmJiNjhmNTY5N2VhYjNhMjU40gEA?oc=5</link>
-      <guid isPermaLink="false">CBMiUGh0dHBzOi8vZmluYW5jZS55YWhvby5jby5qcC9uZXdzL2RldGFpbC84NjkyMzQ1MDIyZGRmNTZiZDQ2OWI4MmJiNjhmNTY5N2VhYjNhMjU40gEA</guid>
-      <pubDate>Sat, 23 Mar 2024 01:00:00 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vZmluYW5jZS55YWhvby5jby5qcC9uZXdzL2RldGFpbC84NjkyMzQ1MDIyZGRmNTZiZDQ2OWI4MmJiNjhmNTY5N2VhYjNhMjU40gEA?oc=5" target="_blank"&gt;個人投資家・有限亭玉介：AI相場継続で注目・期待される銘柄とその思惑に乗る銘柄【FISCOソーシャルレポーター ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo!ファイナンス&lt;/font&gt;</description>
-      <source url="https://finance.yahoo.co.jp">Yahoo!ファイナンス</source>
     </item>
     <item>
       <title>FTX 債務返済のためにAI企業アンソロピックの株式を売却へ＝報道 - コインテレグラフ・ジャパン（ビットコイン、仮想通貨、ブロックチェーンのニュース）</title>
@@ -425,20 +417,20 @@
       <source url="https://jp.cointelegraph.com">コインテレグラフ・ジャパン（ビットコイン、仮想通貨、ブロックチェーンのニュース）</source>
     </item>
     <item>
-      <title>〈社説〉ＡＩの規制 人権を重視した対策こそ｜信濃毎日新聞デジタル 信州・長野県のニュースサイト - 信濃毎日新聞デジタル</title>
-      <link>https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnNoaW5tYWkuY28uanAvbmV3cy9hcnRpY2xlL0NOVFMyMDI0MDMyMzAwMDkx0gEA?oc=5</link>
-      <guid isPermaLink="false">CBMiOGh0dHBzOi8vd3d3LnNoaW5tYWkuY28uanAvbmV3cy9hcnRpY2xlL0NOVFMyMDI0MDMyMzAwMDkx0gEA</guid>
-      <pubDate>Sat, 23 Mar 2024 00:30:00 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnNoaW5tYWkuY28uanAvbmV3cy9hcnRpY2xlL0NOVFMyMDI0MDMyMzAwMDkx0gEA?oc=5" target="_blank"&gt;〈社説〉ＡＩの規制 人権を重視した対策こそ｜信濃毎日新聞デジタル 信州・長野県のニュースサイト&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;信濃毎日新聞デジタル&lt;/font&gt;</description>
-      <source url="https://www.shinmai.co.jp">信濃毎日新聞デジタル</source>
-    </item>
-    <item>
       <title>上司が嫌な予感のする「AI導入」 半数が抱える「あるある」の悩みとは？ - TechTargetジャパン</title>
       <link>https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vdGVjaHRhcmdldC5pdG1lZGlhLmNvLmpwL3R0L25ld3MvMjQwMy8yMy9uZXdzMDIuaHRtbNIBAA?oc=5</link>
       <guid isPermaLink="false">CBMiPGh0dHBzOi8vdGVjaHRhcmdldC5pdG1lZGlhLmNvLmpwL3R0L25ld3MvMjQwMy8yMy9uZXdzMDIuaHRtbNIBAA</guid>
       <pubDate>Sat, 23 Mar 2024 00:00:00 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vdGVjaHRhcmdldC5pdG1lZGlhLmNvLmpwL3R0L25ld3MvMjQwMy8yMy9uZXdzMDIuaHRtbNIBAA?oc=5" target="_blank"&gt;上司が嫌な予感のする「AI導入」 半数が抱える「あるある」の悩みとは？&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;TechTargetジャパン&lt;/font&gt;</description>
       <source url="https://techtarget.itmedia.co.jp">TechTargetジャパン</source>
+    </item>
+    <item>
+      <title>AIが詐欺師に!? チャットサービス悪用の新手口 被害も | NHK - nhk.or.jp</title>
+      <link>https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vd3d3My5uaGsub3IuanAvbmV3cy9odG1sLzIwMjQwMzE2L2sxMDAxNDM5Mjk5MTAwMC5odG1s0gEA?oc=5</link>
+      <guid isPermaLink="false">CBMiPmh0dHBzOi8vd3d3My5uaGsub3IuanAvbmV3cy9odG1sLzIwMjQwMzE2L2sxMDAxNDM5Mjk5MTAwMC5odG1s0gEA</guid>
+      <pubDate>Sat, 16 Mar 2024 09:42:55 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vd3d3My5uaGsub3IuanAvbmV3cy9odG1sLzIwMjQwMzE2L2sxMDAxNDM5Mjk5MTAwMC5odG1s0gEA?oc=5" target="_blank"&gt;AIが詐欺師に!? チャットサービス悪用の新手口 被害も | NHK&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;nhk.or.jp&lt;/font&gt;</description>
+      <source url="https://www3.nhk.or.jp">nhk.or.jp</source>
     </item>
     <item>
       <title>NVIDIAの新アーキテクチャ「Blackwell」は生成AI特化、汎用人型ロボットにも適用 - MONOist</title>
@@ -505,14 +497,6 @@
       <source url="https://www.nikkei.com">日本経済新聞</source>
     </item>
     <item>
-      <title>中国のＡＩ活用で協議か アップルと百度、米報道｜全国のニュース｜Web東奥 - 東奥日報</title>
-      <link>https://news.google.com/rss/articles/CBMiLWh0dHBzOi8vd3d3LnRvb25pcHBvLmNvLmpwL2FydGljbGVzLy0vMTc0NjU1MdIBAA?oc=5</link>
-      <guid isPermaLink="false">CBMiLWh0dHBzOi8vd3d3LnRvb25pcHBvLmNvLmpwL2FydGljbGVzLy0vMTc0NjU1MdIBAA</guid>
-      <pubDate>Fri, 22 Mar 2024 21:52:03 GMT</pubDate>
-      <description>&lt;ol&gt;&lt;li&gt;&lt;a href="https://news.google.com/rss/articles/CBMiLWh0dHBzOi8vd3d3LnRvb25pcHBvLmNvLmpwL2FydGljbGVzLy0vMTc0NjU1MdIBAA?oc=5" target="_blank"&gt;中国のＡＩ活用で協議か アップルと百度、米報道｜全国のニュース｜Web東奥&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;東奥日報&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vZmluYW5jZS55YWhvby5jby5qcC9uZXdzL2RldGFpbC9iOTI5MWRmYWM2ZWRhMmI0YWZlNGUxODM0OGU4MWE4YzMwZmQ0MWM20gEA?oc=5" target="_blank"&gt;アップル、中国内のiPhoneに百度のＡＩ技術採用で協議－ＷＳＪ(Bloomberg) - Yahoo!ファイナンス&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo!ファイナンス&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vamJwcmVzcy5pc21lZGlhLmpwL2FydGljbGVzLy0vODAwODXSAQA?oc=5" target="_blank"&gt;iPhoneに他社の生成AI搭載か、Googleと協議中 アップルのAI開発は期待通り進まず？(1/2)&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;JBpress&lt;/font&gt;&lt;/li&gt;&lt;/ol&gt;</description>
-      <source url="https://www.toonippo.co.jp">東奥日報</source>
-    </item>
-    <item>
       <title>ChatGPT責任者が考える「AI時代における人類の役割」とは？ テクノロジーがもたらす価値と人間の未来 - ログミー</title>
       <link>https://news.google.com/rss/articles/CBMiKWh0dHBzOi8vbG9nbWkuanAvYnVzaW5lc3MvYXJ0aWNsZXMvMzMwMjk20gEA?oc=5</link>
       <guid isPermaLink="false">CBMiKWh0dHBzOi8vbG9nbWkuanAvYnVzaW5lc3MvYXJ0aWNsZXMvMzMwMjk20gEA</guid>
@@ -559,6 +543,14 @@
       <pubDate>Fri, 22 Mar 2024 07:38:13 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiNWh0dHBzOi8vcGMud2F0Y2guaW1wcmVzcy5jby5qcC9kb2NzL25ld3MvMTU3ODQwOC5odG1s0gEA?oc=5" target="_blank"&gt;ProcyonにAI画像生成ベンチマークが追加&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;PC Watch&lt;/font&gt;</description>
       <source url="https://pc.watch.impress.co.jp">PC Watch</source>
+    </item>
+    <item>
+      <title>iPhoneに他社の生成AI搭載か、Googleと協議中 アップルのAI開発は期待通り進まず？(1/2) - JBpress</title>
+      <link>https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vamJwcmVzcy5pc21lZGlhLmpwL2FydGljbGVzLy0vODAwODXSAQA?oc=5</link>
+      <guid isPermaLink="false">CBMiK2h0dHBzOi8vamJwcmVzcy5pc21lZGlhLmpwL2FydGljbGVzLy0vODAwODXSAQA</guid>
+      <pubDate>Fri, 22 Mar 2024 07:00:00 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vamJwcmVzcy5pc21lZGlhLmpwL2FydGljbGVzLy0vODAwODXSAQA?oc=5" target="_blank"&gt;iPhoneに他社の生成AI搭載か、Googleと協議中 アップルのAI開発は期待通り進まず？(1/2)&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;JBpress&lt;/font&gt;</description>
+      <source url="https://jbpress.ismedia.jp">JBpress</source>
     </item>
     <item>
       <title>プリキュアの商品イラストに生成AI？ Xで指摘相次ぐ→公式が否定する事態に 「現代の魔女狩り」との声も - ITmedia NEWS</title>
