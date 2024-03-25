@@ -6,7 +6,7 @@
     <language>ja</language>
     <webMaster>news-webmaster@google.com</webMaster>
     <copyright>2024 Google Inc.</copyright>
-    <lastBuildDate>Mon, 25 Mar 2024 18:20:13 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 Mar 2024 19:12:52 GMT</lastBuildDate>
     <description>Google ニュース</description>
     <item>
       <title>生成AIの活用進める日本企業 米エヌビディアと協業の動き活発 | NHK - nhk.or.jp</title>
@@ -57,6 +57,14 @@
       <source url="https://www.yomiuri.co.jp">読売新聞オンライン</source>
     </item>
     <item>
+      <title>生成AI、データ学習は知財規制の対象外 政府検討会 - 日本経済新聞</title>
+      <link>https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3Lm5pa2tlaS5jb20vYXJ0aWNsZS9ER1haUU9VQTE5NzE3MFoxMEMyNEEzMDAwMDAwL9IBAA?oc=5</link>
+      <guid isPermaLink="false">CBMiPGh0dHBzOi8vd3d3Lm5pa2tlaS5jb20vYXJ0aWNsZS9ER1haUU9VQTE5NzE3MFoxMEMyNEEzMDAwMDAwL9IBAA</guid>
+      <pubDate>Thu, 21 Mar 2024 10:12:02 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3Lm5pa2tlaS5jb20vYXJ0aWNsZS9ER1haUU9VQTE5NzE3MFoxMEMyNEEzMDAwMDAwL9IBAA?oc=5" target="_blank"&gt;生成AI、データ学習は知財規制の対象外 政府検討会&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;日本経済新聞&lt;/font&gt;</description>
+      <source url="https://www.nikkei.com">日本経済新聞</source>
+    </item>
+    <item>
       <title>サカナＡＩが新ＡＩモデル公表、既存モデルの融合繰り返して進化 - ロイター (Reuters Japan)</title>
       <link>https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vanAucmV1dGVycy5jb20vYnVzaW5lc3MvdGVjaG5vbG9neS9KU1RHM01VVTVKUDI3TTNDQVBLNklXM1lTUS0yMDI0LTAzLTIxL9IBAA?oc=5</link>
       <guid isPermaLink="false">CBMiUWh0dHBzOi8vanAucmV1dGVycy5jb20vYnVzaW5lc3MvdGVjaG5vbG9neS9KU1RHM01VVTVKUDI3TTNDQVBLNklXM1lTUS0yMDI0LTAzLTIxL9IBAA</guid>
@@ -79,14 +87,6 @@
       <pubDate>Thu, 21 Mar 2024 07:22:45 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiNmh0dHBzOi8vd3d3LndhdGNoLmltcHJlc3MuY28uanAvZG9jcy9uZXdzLzE1Nzc5ODIuaHRtbNIBAA?oc=5" target="_blank"&gt;YouTube、音楽へのAI活用を日本で研究 初音ミクのクリプトンと協力&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Impress Watch&lt;/font&gt;</description>
       <source url="https://www.watch.impress.co.jp">Impress Watch</source>
-    </item>
-    <item>
-      <title>生成AI開発に革新か “自律進化”で目的のAIを自動生成 超低コスト＆短期間で高性能モデルも開発済 トップ研究者集団 ... - ITmedia</title>
-      <link>https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vd3d3Lml0bWVkaWEuY28uanAvYWlwbHVzL2FydGljbGVzLzI0MDMvMjEvbmV3czA5MS5odG1s0gEA?oc=5</link>
-      <guid isPermaLink="false">CBMiPmh0dHBzOi8vd3d3Lml0bWVkaWEuY28uanAvYWlwbHVzL2FydGljbGVzLzI0MDMvMjEvbmV3czA5MS5odG1s0gEA</guid>
-      <pubDate>Thu, 21 Mar 2024 01:00:00 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vd3d3Lml0bWVkaWEuY28uanAvYWlwbHVzL2FydGljbGVzLzI0MDMvMjEvbmV3czA5MS5odG1s0gEA?oc=5" target="_blank"&gt;生成AI開発に革新か “自律進化”で目的のAIを自動生成 超低コスト＆短期間で高性能モデルも開発済 トップ研究者集団 ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;ITmedia&lt;/font&gt;</description>
-      <source url="https://www.itmedia.co.jp">ITmedia</source>
     </item>
     <item>
       <title>Sakana AI、世界初の基盤モデル開発自動化 訓練不要で低コスト - Impress Watch</title>
@@ -177,20 +177,20 @@
       <source url="https://jbpress.ismedia.jp">JBpress</source>
     </item>
     <item>
-      <title>世田谷区が職員向け生成AIサービスで業務効率化、職員チームが3カ月で構築 - ITpro</title>
-      <link>https://news.google.com/rss/articles/CBMiMGh0dHBzOi8veHRlY2gubmlra2VpLmNvbS9hdGNsL254dC9uZXdzLzI0LzAwNDA0L9IBAA?oc=5</link>
-      <guid isPermaLink="false">CBMiMGh0dHBzOi8veHRlY2gubmlra2VpLmNvbS9hdGNsL254dC9uZXdzLzI0LzAwNDA0L9IBAA</guid>
-      <pubDate>Sun, 24 Mar 2024 20:00:00 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiMGh0dHBzOi8veHRlY2gubmlra2VpLmNvbS9hdGNsL254dC9uZXdzLzI0LzAwNDA0L9IBAA?oc=5" target="_blank"&gt;世田谷区が職員向け生成AIサービスで業務効率化、職員チームが3カ月で構築&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;ITpro&lt;/font&gt;</description>
-      <source url="https://xtech.nikkei.com">ITpro</source>
+      <title>人間の判断を介さない殺傷兵器 AIの軍事利用、開発と規制の現状は：朝日新聞デジタル - 朝日新聞デジタル</title>
+      <link>https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vd3d3LmFzYWhpLmNvbS9hcnRpY2xlcy9BU1MzUzcyVDhTM0tVTFpVMDAzLmh0bWzSAQA?oc=5</link>
+      <guid isPermaLink="false">CBMiN2h0dHBzOi8vd3d3LmFzYWhpLmNvbS9hcnRpY2xlcy9BU1MzUzcyVDhTM0tVTFpVMDAzLmh0bWzSAQA</guid>
+      <pubDate>Sun, 24 Mar 2024 20:19:25 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vd3d3LmFzYWhpLmNvbS9hcnRpY2xlcy9BU1MzUzcyVDhTM0tVTFpVMDAzLmh0bWzSAQA?oc=5" target="_blank"&gt;人間の判断を介さない殺傷兵器 AIの軍事利用、開発と規制の現状は：朝日新聞デジタル&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;朝日新聞デジタル&lt;/font&gt;</description>
+      <source url="https://www.asahi.com">朝日新聞デジタル</source>
     </item>
     <item>
-      <title>戦場で拡大するAI兵器 ピーター・シンガー教授が問う道徳と責任：朝日新聞デジタル - 朝日新聞デジタル</title>
-      <link>https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vd3d3LmFzYWhpLmNvbS9hcnRpY2xlcy9BU1MzUzdYOUpTM01VTFpVMDAzLmh0bWzSAQA?oc=5</link>
-      <guid isPermaLink="false">CBMiN2h0dHBzOi8vd3d3LmFzYWhpLmNvbS9hcnRpY2xlcy9BU1MzUzdYOUpTM01VTFpVMDAzLmh0bWzSAQA</guid>
-      <pubDate>Sun, 24 Mar 2024 16:27:09 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vd3d3LmFzYWhpLmNvbS9hcnRpY2xlcy9BU1MzUzdYOUpTM01VTFpVMDAzLmh0bWzSAQA?oc=5" target="_blank"&gt;戦場で拡大するAI兵器 ピーター・シンガー教授が問う道徳と責任：朝日新聞デジタル&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;朝日新聞デジタル&lt;/font&gt;</description>
-      <source url="https://www.asahi.com">朝日新聞デジタル</source>
+      <title>会計業務にとって、AI時代は実は非常においしい｜AI時代の「会計思考」とは｜PRESIDENT - PRESIDENT Online（プレジデントオンライン）</title>
+      <link>https://news.google.com/rss/articles/CBMiLGh0dHBzOi8vYWNhZGVteS5wcmVzaWRlbnQuanAvYXJ0aWNsZXMvLS8xMTk30gEA?oc=5</link>
+      <guid isPermaLink="false">CBMiLGh0dHBzOi8vYWNhZGVteS5wcmVzaWRlbnQuanAvYXJ0aWNsZXMvLS8xMTk30gEA</guid>
+      <pubDate>Sun, 24 Mar 2024 20:01:00 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiLGh0dHBzOi8vYWNhZGVteS5wcmVzaWRlbnQuanAvYXJ0aWNsZXMvLS8xMTk30gEA?oc=5" target="_blank"&gt;会計業務にとって、AI時代は実は非常においしい｜AI時代の「会計思考」とは｜PRESIDENT&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;PRESIDENT Online（プレジデントオンライン）&lt;/font&gt;</description>
+      <source url="https://academy.president.jp">PRESIDENT Online（プレジデントオンライン）</source>
     </item>
     <item>
       <title>富士通と理研、生成AIで創薬速く たんぱく質状態予測10分の1 - 日本経済新聞</title>
@@ -285,7 +285,7 @@
       <link>https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vd3d3My5uaGsub3IuanAvbmV3cy9odG1sLzIwMjQwMzI1L2sxMDAxNDQwMjE2MTAwMC5odG1s0gEA?oc=5</link>
       <guid isPermaLink="false">CBMiPmh0dHBzOi8vd3d3My5uaGsub3IuanAvbmV3cy9odG1sLzIwMjQwMzI1L2sxMDAxNDQwMjE2MTAwMC5odG1s0gEA</guid>
       <pubDate>Mon, 25 Mar 2024 11:50:30 GMT</pubDate>
-      <description>&lt;ol&gt;&lt;li&gt;&lt;a href="https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vd3d3My5uaGsub3IuanAvbmV3cy9odG1sLzIwMjQwMzI1L2sxMDAxNDQwMjE2MTAwMC5odG1s0gEA?oc=5" target="_blank"&gt;NTT 自社で開発した国産の生成AIの提供始める | NHK&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;nhk.or.jp&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vay10YWkud2F0Y2guaW1wcmVzcy5jby5qcC9kb2NzL25ld3MvMTU3ODg4My5odG1s0gEA?oc=5" target="_blank"&gt;NTT、独自の生成AI（LLM）「tsuzumi」を3月25日提供スタート&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;ケータイ Watch&lt;/font&gt;&lt;/li&gt;&lt;/ol&gt;</description>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vd3d3My5uaGsub3IuanAvbmV3cy9odG1sLzIwMjQwMzI1L2sxMDAxNDQwMjE2MTAwMC5odG1s0gEA?oc=5" target="_blank"&gt;NTT 自社で開発した国産の生成AIの提供始める | NHK&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;nhk.or.jp&lt;/font&gt;</description>
       <source url="https://www3.nhk.or.jp">nhk.or.jp</source>
     </item>
     <item>
@@ -367,6 +367,14 @@
       <pubDate>Mon, 25 Mar 2024 07:32:00 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiKmh0dHBzOi8vYXNjaWkuanAvZWxlbS8wMDAvMDA0LzE5MC80MTkwNzAwL9IBAA?oc=5" target="_blank"&gt;進む創薬革命、 「真のAI生成薬」治験へ&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;ASCII.jp&lt;/font&gt;</description>
       <source url="https://ascii.jp">ASCII.jp</source>
+    </item>
+    <item>
+      <title>NTT、独自の生成AI（LLM）「tsuzumi」を3月25日提供スタート - ケータイ Watch</title>
+      <link>https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vay10YWkud2F0Y2guaW1wcmVzcy5jby5qcC9kb2NzL25ld3MvMTU3ODg4My5odG1s0gEA?oc=5</link>
+      <guid isPermaLink="false">CBMiOGh0dHBzOi8vay10YWkud2F0Y2guaW1wcmVzcy5jby5qcC9kb2NzL25ld3MvMTU3ODg4My5odG1s0gEA</guid>
+      <pubDate>Mon, 25 Mar 2024 07:23:35 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vay10YWkud2F0Y2guaW1wcmVzcy5jby5qcC9kb2NzL25ld3MvMTU3ODg4My5odG1s0gEA?oc=5" target="_blank"&gt;NTT、独自の生成AI（LLM）「tsuzumi」を3月25日提供スタート&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;ケータイ Watch&lt;/font&gt;</description>
+      <source url="https://k-tai.watch.impress.co.jp">ケータイ Watch</source>
     </item>
     <item>
       <title>グローバル製造業の知能化を推進 - Profet AIが提案する、日本製造業ための独自の方法論 - PR TIMES</title>
@@ -465,14 +473,6 @@
       <source url="https://techblitz.com">TECHBLITZ</source>
     </item>
     <item>
-      <title>【ライブレポート】AI、10万人動員全国ツアーのファイナルに￥ellow Bucksや大学生50名がゲスト参加「みんな一緒に歌って！」 - BARKS</title>
-      <link>https://news.google.com/rss/articles/CBMiKGh0dHBzOi8vd3d3LmJhcmtzLmpwL25ld3MvP2lkPTEwMDAyNDU4NTLSAQA?oc=5</link>
-      <guid isPermaLink="false">CBMiKGh0dHBzOi8vd3d3LmJhcmtzLmpwL25ld3MvP2lkPTEwMDAyNDU4NTLSAQA</guid>
-      <pubDate>Mon, 25 Mar 2024 04:50:06 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiKGh0dHBzOi8vd3d3LmJhcmtzLmpwL25ld3MvP2lkPTEwMDAyNDU4NTLSAQA?oc=5" target="_blank"&gt;【ライブレポート】AI、10万人動員全国ツアーのファイナルに￥ellow Bucksや大学生50名がゲスト参加「みんな一緒に歌って！」&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;BARKS&lt;/font&gt;</description>
-      <source url="https://www.barks.jp">BARKS</source>
-    </item>
-    <item>
       <title>AIと会話できるスマートリング「WIZPR RING」、Kickstarterで支援募集中 - CNET Japan</title>
       <link>https://news.google.com/rss/articles/CBMiKGh0dHBzOi8vamFwYW4uY25ldC5jb20vYXJ0aWNsZS8zNTIxNjg3OC_SAQA?oc=5</link>
       <guid isPermaLink="false">CBMiKGh0dHBzOi8vamFwYW4uY25ldC5jb20vYXJ0aWNsZS8zNTIxNjg3OC_SAQA</guid>
@@ -511,14 +511,6 @@
       <pubDate>Mon, 25 Mar 2024 03:45:30 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vYWlzbWlsZXkuY28uanAvYWlfbmV3cy8wNDE1LTIwMjQtZ2VuZXJhdGl2ZS1haS13ZWJpbmFyL9IBAA?oc=5" target="_blank"&gt;【4/15開催ウェビナー】生成AI、押さえておきたいポイント ～AIをすべてのデータに～ | DXを推進するAIポータル ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;AIsmiley&lt;/font&gt;</description>
       <source url="https://aismiley.co.jp">AIsmiley</source>
-    </item>
-    <item>
-      <title>【人事】AIを活用したアニメ制作を行うKaKa Creation、取締役CCOとして元Production I.Gの飯塚直道が就任 - SocialGameInfo</title>
-      <link>https://news.google.com/rss/articles/CBMiHmh0dHBzOi8vZ2FtZWJpei5qcC9uZXdzLzM4MzYwMtIBAA?oc=5</link>
-      <guid isPermaLink="false">CBMiHmh0dHBzOi8vZ2FtZWJpei5qcC9uZXdzLzM4MzYwMtIBAA</guid>
-      <pubDate>Mon, 25 Mar 2024 03:38:00 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiHmh0dHBzOi8vZ2FtZWJpei5qcC9uZXdzLzM4MzYwMtIBAA?oc=5" target="_blank"&gt;【人事】AIを活用したアニメ制作を行うKaKa Creation、取締役CCOとして元Production I.Gの飯塚直道が就任&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;SocialGameInfo&lt;/font&gt;</description>
-      <source url="https://gamebiz.jp">SocialGameInfo</source>
     </item>
     <item>
       <title>Daedalus AI技術導入サービス｜Daedalus株式会社｜AI受託開発｜AI製品・サービスの比較・検索・資料請求メディア ... - AIsmiley</title>
@@ -655,14 +647,6 @@
       <pubDate>Mon, 25 Mar 2024 00:00:00 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vbW9ub2lzdC5pdG1lZGlhLmNvLmpwL21uL2FydGljbGVzLzI0MDMvMjUvbmV3czAyMC5odG1s0gEA?oc=5" target="_blank"&gt;オフィスデータを活用した生成AIの共同開発契約を締結&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;MONOist&lt;/font&gt;</description>
       <source url="https://monoist.itmedia.co.jp">MONOist</source>
-    </item>
-    <item>
-      <title>AIの“新興技術”生成AI――、その力を引き出すために押さえておきたいポイントを知る[Sponsored] - クラウド Watch</title>
-      <link>https://news.google.com/rss/articles/CBMiQWh0dHBzOi8vY2xvdWQud2F0Y2guaW1wcmVzcy5jby5qcC9kb2NzL3RvcGljL3NwZWNpYWwvMTU3MzU4MC5odG1s0gEA?oc=5</link>
-      <guid isPermaLink="false">CBMiQWh0dHBzOi8vY2xvdWQud2F0Y2guaW1wcmVzcy5jby5qcC9kb2NzL3RvcGljL3NwZWNpYWwvMTU3MzU4MC5odG1s0gEA</guid>
-      <pubDate>Mon, 25 Mar 2024 00:00:00 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiQWh0dHBzOi8vY2xvdWQud2F0Y2guaW1wcmVzcy5jby5qcC9kb2NzL3RvcGljL3NwZWNpYWwvMTU3MzU4MC5odG1s0gEA?oc=5" target="_blank"&gt;AIの“新興技術”生成AI――、その力を引き出すために押さえておきたいポイントを知る[Sponsored]&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;クラウド Watch&lt;/font&gt;</description>
-      <source url="https://cloud.watch.impress.co.jp">クラウド Watch</source>
     </item>
     <item>
       <title>プリキュアの商品イラストに生成AI？ Xで指摘相次ぐ→公式が否定する事態に 「現代の魔女狩り」との声も - ITmedia NEWS</title>
