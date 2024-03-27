@@ -120,6 +120,11 @@ url_and_xmls = [
         'xml': 'feed_GoogleNews_GeneretiveAI_en.xml',
         'exclude_phrase': [] 
     },
+    {
+        'url': 'https://news.google.com/rss/search?q=BPaaS&hl=ja&gl=JP&ceid=JP%3Aja',
+        'xml': 'feed_GoogleNews_BPaaS.xml',
+        'exclude_phrase': [] 
+    },
 ]
 
 
