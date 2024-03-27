@@ -125,6 +125,16 @@ url_and_xmls = [
         'xml': 'feed_GoogleNews_BPaaS.xml',
         'exclude_phrase': [] 
     },
+    {
+        'url': 'https://news.google.com/rss/search?q=BPO&hl=ja&gl=JP&ceid=JP%3Aja',
+        'xml': 'feed_GoogleNews_BPO.xml',
+        'exclude_phrase': [] 
+    },
+    {
+        'url': 'https://news.google.com/rss/search?q=BPMN&hl=ja&gl=JP&ceid=JP%3Aja',
+        'xml': 'feed_GoogleNews_BPMN.xml',
+        'exclude_phrase': [] 
+    },
 ]
 
 
