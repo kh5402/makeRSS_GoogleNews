@@ -6,7 +6,7 @@
     <language>ja</language>
     <webMaster>news-webmaster@google.com</webMaster>
     <copyright>2024 Google Inc.</copyright>
-    <lastBuildDate>Wed, 27 Mar 2024 23:14:55 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 Mar 2024 01:06:55 GMT</lastBuildDate>
     <description>Google ニュース</description>
     <item>
       <title>いまこそ学ぶLLMベースのAIエージェント入門―基本的なしくみ／開発ツール／有名なOSSや論文の紹介 - Speaker Deck</title>
@@ -30,6 +30,14 @@
       <guid isPermaLink="false">CBMiSWh0dHBzOi8vc3BlYWtlcmRlY2suY29tL25hZ2l4L2FpYXNpc3V0YW50b3Bvc3Rib3RkZWFwaXRlc3V0b3dveGlhby1sdS1odWHSAQA</guid>
       <pubDate>Wed, 28 Feb 2024 08:00:00 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vc3BlYWtlcmRlY2suY29tL25hZ2l4L2FpYXNpc3V0YW50b3Bvc3Rib3RkZWFwaXRlc3V0b3dveGlhby1sdS1odWHSAQA?oc=5" target="_blank"&gt;AIアシスタントPostbotでAPIテストを効率化&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
+      <source url="https://speakerdeck.com">Speaker Deck</source>
+    </item>
+    <item>
+      <title>今さら聞けない!? AWSの生成AIサービス Amazon Bedrock入門！ - Speaker Deck</title>
+      <link>https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vc3BlYWtlcmRlY2suY29tL21pbm9ydW4zNjUvamluLXNhcmF3ZW4ta2VuYWktYXdzbm9zaGVuZy1jaGVuZy1haXNhYmlzdS1hbWF6b24tYmVkcm9ja3J1LW1lbtIBAA?oc=5</link>
+      <guid isPermaLink="false">CBMiY2h0dHBzOi8vc3BlYWtlcmRlY2suY29tL21pbm9ydW4zNjUvamluLXNhcmF3ZW4ta2VuYWktYXdzbm9zaGVuZy1jaGVuZy1haXNhYmlzdS1hbWF6b24tYmVkcm9ja3J1LW1lbtIBAA</guid>
+      <pubDate>Wed, 27 Mar 2024 16:29:04 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vc3BlYWtlcmRlY2suY29tL21pbm9ydW4zNjUvamluLXNhcmF3ZW4ta2VuYWktYXdzbm9zaGVuZy1jaGVuZy1haXNhYmlzdS1hbWF6b24tYmVkcm9ja3J1LW1lbtIBAA?oc=5" target="_blank"&gt;今さら聞けない!? AWSの生成AIサービス Amazon Bedrock入門！&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
@@ -433,14 +441,6 @@
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
-      <title>戦略的DDDを実践するための跳躍力 / OOC 2024 - Speaker Deck</title>
-      <link>https://news.google.com/rss/articles/CBMiKGh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3BpY3Rpbnkvb29jLTIwMjTSAQA?oc=5</link>
-      <guid isPermaLink="false">CBMiKGh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3BpY3Rpbnkvb29jLTIwMjTSAQA</guid>
-      <pubDate>Sun, 24 Mar 2024 04:02:59 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiKGh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3BpY3Rpbnkvb29jLTIwMjTSAQA?oc=5" target="_blank"&gt;戦略的DDDを実践するための跳躍力 / OOC 2024&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
-      <source url="https://speakerdeck.com">Speaker Deck</source>
-    </item>
-    <item>
       <title>今日から使える！GPT-4によるデータサイエンス - Speaker Deck</title>
       <link>https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vc3BlYWtlcmRlY2suY29tL3RzdWJhNzc5OS9qaW4tcmkta2FyYXNoaS1lcnUtZ3B0LTRuaXlvcnVkZXRhc2FpZW5zddIBAA?oc=5</link>
       <guid isPermaLink="false">CBMiS2h0dHBzOi8vc3BlYWtlcmRlY2suY29tL3RzdWJhNzc5OS9qaW4tcmkta2FyYXNoaS1lcnUtZ3B0LTRuaXlvcnVkZXRhc2FpZW5zddIBAA</guid>
@@ -569,6 +569,14 @@
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
+      <title>複数の LLM モデルを扱う上で直面した辛みまとめ - Speaker Deck</title>
+      <link>https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vc3BlYWtlcmRlY2suY29tL2thenV5YXNla2kvZnUtc2h1LW5vLWxsbS1tb3RlcnV3b3hpLXVzaGFuZy10ZXpoaS1taWFuLXNpdGF4aW4tbWltYXRvbWXSAQA?oc=5</link>
+      <guid isPermaLink="false">CBMiXmh0dHBzOi8vc3BlYWtlcmRlY2suY29tL2thenV5YXNla2kvZnUtc2h1LW5vLWxsbS1tb3RlcnV3b3hpLXVzaGFuZy10ZXpoaS1taWFuLXNpdGF4aW4tbWltYXRvbWXSAQA</guid>
+      <pubDate>Mon, 25 Mar 2024 07:00:00 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vc3BlYWtlcmRlY2suY29tL2thenV5YXNla2kvZnUtc2h1LW5vLWxsbS1tb3RlcnV3b3hpLXVzaGFuZy10ZXpoaS1taWFuLXNpdGF4aW4tbWltYXRvbWXSAQA?oc=5" target="_blank"&gt;複数の LLM モデルを扱う上で直面した辛みまとめ&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
+      <source url="https://speakerdeck.com">Speaker Deck</source>
+    </item>
+    <item>
       <title>AIスカウト_ご提案資料.pdf - Speaker Deck</title>
       <link>https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vc3BlYWtlcmRlY2suY29tL2JlYXJzbmF2aS9haXN1a2F1dG8tZ290aS1hbi16aS1saWFv0gEA?oc=5</link>
       <guid isPermaLink="false">CBMiO2h0dHBzOi8vc3BlYWtlcmRlY2suY29tL2JlYXJzbmF2aS9haXN1a2F1dG8tZ290aS1hbi16aS1saWFv0gEA</guid>
@@ -657,14 +665,6 @@
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
-      <title>ChatGPT for Developer - Promptのチカラ - Speaker Deck</title>
-      <link>https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vc3BlYWtlcmRlY2suY29tL2RhaGF0YWtlL2NoYXRncHQtZm9yLWRldmVsb3Blci1jaGFvLXJ1LW1lbtIBAA?oc=5</link>
-      <guid isPermaLink="false">CBMiQmh0dHBzOi8vc3BlYWtlcmRlY2suY29tL2RhaGF0YWtlL2NoYXRncHQtZm9yLWRldmVsb3Blci1jaGFvLXJ1LW1lbtIBAA</guid>
-      <pubDate>Fri, 24 Nov 2023 08:00:00 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vc3BlYWtlcmRlY2suY29tL2RhaGF0YWtlL2NoYXRncHQtZm9yLWRldmVsb3Blci1jaGFvLXJ1LW1lbtIBAA?oc=5" target="_blank"&gt;ChatGPT for Developer - Promptのチカラ&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
-      <source url="https://speakerdeck.com">Speaker Deck</source>
-    </item>
-    <item>
       <title>教えてAIパパ - Speaker Deck</title>
       <link>https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3lhbmFzaGkvamlhby1ldGVhaWhhaGHSAQA?oc=5</link>
       <guid isPermaLink="false">CBMiLmh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3lhbmFzaGkvamlhby1ldGVhaWhhaGHSAQA</guid>
@@ -689,11 +689,11 @@
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
-      <title>家族アルバム みてねで直面してきた技術的負債 / MIXI KAG 2024 - Speaker Deck</title>
-      <link>https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vc3BlYWtlcmRlY2suY29tL2lzYW9zaGltaXp1L21peGkta2FnLTIwMjTSAQA?oc=5</link>
-      <guid isPermaLink="false">CBMiMWh0dHBzOi8vc3BlYWtlcmRlY2suY29tL2lzYW9zaGltaXp1L21peGkta2FnLTIwMjTSAQA</guid>
-      <pubDate>Fri, 22 Mar 2024 12:02:30 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vc3BlYWtlcmRlY2suY29tL2lzYW9zaGltaXp1L21peGkta2FnLTIwMjTSAQA?oc=5" target="_blank"&gt;家族アルバム みてねで直面してきた技術的負債 / MIXI KAG 2024&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
+      <title>GitHub最新情報キャッチアップ 2024年3月 - Speaker Deck</title>
+      <link>https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vc3BlYWtlcmRlY2suY29tL2R6ZXllbGlkL3RlY2gtc3RyZWV0LWNhdGNodXAtZ2l0aHViLXVwZGF0ZXMtMjAyNDAzMjHSAQA?oc=5</link>
+      <guid isPermaLink="false">CBMiTGh0dHBzOi8vc3BlYWtlcmRlY2suY29tL2R6ZXllbGlkL3RlY2gtc3RyZWV0LWNhdGNodXAtZ2l0aHViLXVwZGF0ZXMtMjAyNDAzMjHSAQA</guid>
+      <pubDate>Fri, 22 Mar 2024 00:03:43 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vc3BlYWtlcmRlY2suY29tL2R6ZXllbGlkL3RlY2gtc3RyZWV0LWNhdGNodXAtZ2l0aHViLXVwZGF0ZXMtMjAyNDAzMjHSAQA?oc=5" target="_blank"&gt;GitHub最新情報キャッチアップ 2024年3月&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
