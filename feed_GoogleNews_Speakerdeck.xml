@@ -6,7 +6,7 @@
     <language>ja</language>
     <webMaster>news-webmaster@google.com</webMaster>
     <copyright>2024 Google Inc.</copyright>
-    <lastBuildDate>Mon, 01 Apr 2024 13:16:48 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Apr 2024 14:14:29 GMT</lastBuildDate>
     <description>Google ニュース</description>
     <item>
       <title>AIアプリDojo #3: Hugging Face Transformers モデルのチューニング入門 - Speaker Deck</title>
@@ -22,6 +22,14 @@
       <guid isPermaLink="false">CBMiY2h0dHBzOi8vc3BlYWtlcmRlY2suY29tL21pbm9ydW4zNjUvamluLXNhcmF3ZW4ta2VuYWktYXdzbm9zaGVuZy1jaGVuZy1haXNhYmlzdS1hbWF6b24tYmVkcm9ja3J1LW1lbtIBAA</guid>
       <pubDate>Wed, 27 Mar 2024 16:29:04 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vc3BlYWtlcmRlY2suY29tL21pbm9ydW4zNjUvamluLXNhcmF3ZW4ta2VuYWktYXdzbm9zaGVuZy1jaGVuZy1haXNhYmlzdS1hbWF6b24tYmVkcm9ja3J1LW1lbtIBAA?oc=5" target="_blank"&gt;今さら聞けない!? AWSの生成AIサービス Amazon Bedrock入門！&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
+      <source url="https://speakerdeck.com">Speaker Deck</source>
+    </item>
+    <item>
+      <title>統計的学習理論読み Chapter 1 - Speaker Deck</title>
+      <link>https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vc3BlYWtlcmRlY2suY29tL2ttYXRzdWkvdG9uZy1qaS1kZS14dWUteGktbGktbHVuLWR1LW1pLWNoYXB0ZXItMdIBAA?oc=5</link>
+      <guid isPermaLink="false">CBMiSGh0dHBzOi8vc3BlYWtlcmRlY2suY29tL2ttYXRzdWkvdG9uZy1qaS1kZS14dWUteGktbGktbHVuLWR1LW1pLWNoYXB0ZXItMdIBAA</guid>
+      <pubDate>Wed, 27 Mar 2024 11:58:47 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vc3BlYWtlcmRlY2suY29tL2ttYXRzdWkvdG9uZy1qaS1kZS14dWUteGktbGktbHVuLWR1LW1pLWNoYXB0ZXItMdIBAA?oc=5" target="_blank"&gt;統計的学習理論読み Chapter 1&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
@@ -470,14 +478,6 @@
       <guid isPermaLink="false">CBMiWmh0dHBzOi8vc3BlYWtlcmRlY2suY29tL2hhc2hfZ2VuZXJhdGUvc3JlLW5leHQtMjAyMy1jZnAtc3JldG9zaXRleGlhbmcta2loZS11Z2VuZXJhdGl2ZS1hadIBAA</guid>
       <pubDate>Sun, 01 Oct 2023 07:00:00 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vc3BlYWtlcmRlY2suY29tL2hhc2hfZ2VuZXJhdGUvc3JlLW5leHQtMjAyMy1jZnAtc3JldG9zaXRleGlhbmcta2loZS11Z2VuZXJhdGl2ZS1hadIBAA?oc=5" target="_blank"&gt;[SRE NEXT 2023 CfP]SREとして向き合うGenerative AI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
-      <source url="https://speakerdeck.com">Speaker Deck</source>
-    </item>
-    <item>
-      <title>AWSで生成系AIの活用がはかどる3つの理由 - Speaker Deck</title>
-      <link>https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vc3BlYWtlcmRlY2suY29tL2ljb3hmb2c0MTcvYXdzZGVzaGVuZy1jaGVuZy14aS1haW5vaHVvLXlvbmctZ2FoYWthZG9ydTN0dW5vbGkteW910gEA?oc=5</link>
-      <guid isPermaLink="false">CBMiWWh0dHBzOi8vc3BlYWtlcmRlY2suY29tL2ljb3hmb2c0MTcvYXdzZGVzaGVuZy1jaGVuZy14aS1haW5vaHVvLXlvbmctZ2FoYWthZG9ydTN0dW5vbGkteW910gEA</guid>
-      <pubDate>Sat, 28 Oct 2023 07:00:00 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vc3BlYWtlcmRlY2suY29tL2ljb3hmb2c0MTcvYXdzZGVzaGVuZy1jaGVuZy14aS1haW5vaHVvLXlvbmctZ2FoYWthZG9ydTN0dW5vbGkteW910gEA?oc=5" target="_blank"&gt;AWSで生成系AIの活用がはかどる3つの理由&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
