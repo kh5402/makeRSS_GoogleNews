@@ -6,7 +6,7 @@
     <language>ja</language>
     <webMaster>news-webmaster@google.com</webMaster>
     <copyright>2024 Google Inc.</copyright>
-    <lastBuildDate>Wed, 03 Apr 2024 07:14:47 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Apr 2024 08:19:30 GMT</lastBuildDate>
     <description>Google ニュース</description>
     <item>
       <title>AIアプリDojo #3: Hugging Face Transformers モデルのチューニング入門 - Speaker Deck</title>
@@ -54,6 +54,14 @@
       <guid isPermaLink="false">CBMiTmh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3NkdC9zaGVuZy1jaGVuZy1haXNhYmlzdXBhbm9yYW1hLWFpZ29zaHVvLW1pbmctemktbGlhb9IBAA</guid>
       <pubDate>Wed, 20 Mar 2024 07:00:00 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3NkdC9zaGVuZy1jaGVuZy1haXNhYmlzdXBhbm9yYW1hLWFpZ29zaHVvLW1pbmctemktbGlhb9IBAA?oc=5" target="_blank"&gt;生成AIサービスPanorama AIご説明資料&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
+      <source url="https://speakerdeck.com">Speaker Deck</source>
+    </item>
+    <item>
+      <title>BigQuery の日本語データを Dataflow と Vertex AI でトピックモデリング / Topic modeling of Japanese data in ... - Speaker Deck</title>
+      <link>https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3phaW15L3RvcGljLW1vZGVsaW5nLW9mLWphcGFuZXNlLWRhdGEtaW4tYmlncXVlcnktd2l0aC1kYXRhZmxvdy1hbmQtdmVydGV4LWFp0gEA?oc=5</link>
+      <guid isPermaLink="false">CBMiZWh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3phaW15L3RvcGljLW1vZGVsaW5nLW9mLWphcGFuZXNlLWRhdGEtaW4tYmlncXVlcnktd2l0aC1kYXRhZmxvdy1hbmQtdmVydGV4LWFp0gEA</guid>
+      <pubDate>Wed, 20 Apr 2022 07:00:00 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3phaW15L3RvcGljLW1vZGVsaW5nLW9mLWphcGFuZXNlLWRhdGEtaW4tYmlncXVlcnktd2l0aC1kYXRhZmxvdy1hbmQtdmVydGV4LWFp0gEA?oc=5" target="_blank"&gt;BigQuery の日本語データを Dataflow と Vertex AI でトピックモデリング / Topic modeling of Japanese data in ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
@@ -566,14 +574,6 @@
       <guid isPermaLink="false">CBMiY2h0dHBzOi8vc3BlYWtlcmRlY2suY29tL2ljb3hmb2c0MTcvc2hpLWxpLWthcmFqaWFuLXJ1cHVyb2Rha3V0b2Rlbm9zaGVuZy1jaGVuZy1haS1odW8teW9uZy1ub3BvaW50b9IBAA</guid>
       <pubDate>Mon, 25 Mar 2024 11:29:56 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vc3BlYWtlcmRlY2suY29tL2ljb3hmb2c0MTcvc2hpLWxpLWthcmFqaWFuLXJ1cHVyb2Rha3V0b2Rlbm9zaGVuZy1jaGVuZy1haS1odW8teW9uZy1ub3BvaW50b9IBAA?oc=5" target="_blank"&gt;事例から見るプロダクトでの生成 AI 活用のポイント&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
-      <source url="https://speakerdeck.com">Speaker Deck</source>
-    </item>
-    <item>
-      <title>サービスメッシュ環境における OpenTelemetry 活用 / OpenTelemetry in Service Mesh - Speaker Deck</title>
-      <link>https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vc3BlYWtlcmRlY2suY29tL2s2czRpNTNyeC9vcGVudGVsZW1ldHJ5LWluLXNlcnZpY2UtbWVzaNIBAA?oc=5</link>
-      <guid isPermaLink="false">CBMiP2h0dHBzOi8vc3BlYWtlcmRlY2suY29tL2s2czRpNTNyeC9vcGVudGVsZW1ldHJ5LWluLXNlcnZpY2UtbWVzaNIBAA</guid>
-      <pubDate>Mon, 25 Mar 2024 11:05:07 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vc3BlYWtlcmRlY2suY29tL2s2czRpNTNyeC9vcGVudGVsZW1ldHJ5LWluLXNlcnZpY2UtbWVzaNIBAA?oc=5" target="_blank"&gt;サービスメッシュ環境における OpenTelemetry 活用 / OpenTelemetry in Service Mesh&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
