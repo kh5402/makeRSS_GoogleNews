@@ -6,7 +6,7 @@
     <language>ja</language>
     <webMaster>news-webmaster@google.com</webMaster>
     <copyright>2024 Google Inc.</copyright>
-    <lastBuildDate>Thu, 04 Apr 2024 12:28:51 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Apr 2024 13:16:42 GMT</lastBuildDate>
     <description>Google ニュース</description>
     <item>
       <title>AIアプリDojo #3: Hugging Face Transformers モデルのチューニング入門 - Speaker Deck</title>
@@ -457,6 +457,14 @@
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
+      <title>Azure AI Studio 概要資料_Startups_11262023 - Speaker Deck</title>
+      <link>https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vc3BlYWtlcmRlY2suY29tL2RhaWtpa2FuZW1pdHN1L2F6dXJlLWFpLXN0dWRpby1nYWkteWFvLXppLWxpYW8tc3RhcnR1cHMtMTEyNjIwMjPSAQA?oc=5</link>
+      <guid isPermaLink="false">CBMiWGh0dHBzOi8vc3BlYWtlcmRlY2suY29tL2RhaWtpa2FuZW1pdHN1L2F6dXJlLWFpLXN0dWRpby1nYWkteWFvLXppLWxpYW8tc3RhcnR1cHMtMTEyNjIwMjPSAQA</guid>
+      <pubDate>Sun, 26 Nov 2023 08:00:00 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vc3BlYWtlcmRlY2suY29tL2RhaWtpa2FuZW1pdHN1L2F6dXJlLWFpLXN0dWRpby1nYWkteWFvLXppLWxpYW8tc3RhcnR1cHMtMTEyNjIwMjPSAQA?oc=5" target="_blank"&gt;Azure AI Studio 概要資料_Startups_11262023&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
+      <source url="https://speakerdeck.com">Speaker Deck</source>
+    </item>
+    <item>
       <title>今日から使える！GPT-4によるデータサイエンス - Speaker Deck</title>
       <link>https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vc3BlYWtlcmRlY2suY29tL3RzdWJhNzc5OS9qaW4tcmkta2FyYXNoaS1lcnUtZ3B0LTRuaXlvcnVkZXRhc2FpZW5zddIBAA?oc=5</link>
       <guid isPermaLink="false">CBMiS2h0dHBzOi8vc3BlYWtlcmRlY2suY29tL3RzdWJhNzc5OS9qaW4tcmkta2FyYXNoaS1lcnUtZ3B0LTRuaXlvcnVkZXRhc2FpZW5zddIBAA</guid>
@@ -630,14 +638,6 @@
       <guid isPermaLink="false">CBMiZGh0dHBzOi8vc3BlYWtlcmRlY2suY29tL2syX3JvZC9zaGVuZy1jaGVuZy1haXB1cm9kYWt1dG9rYWktZmEtbm9uYW4tc2lzYXRvbWxlbnppbmlhbm9uZWt1c3V0b2tpeWFyaWHSAQA</guid>
       <pubDate>Fri, 29 Mar 2024 10:41:29 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vc3BlYWtlcmRlY2suY29tL2syX3JvZC9zaGVuZy1jaGVuZy1haXB1cm9kYWt1dG9rYWktZmEtbm9uYW4tc2lzYXRvbWxlbnppbmlhbm9uZWt1c3V0b2tpeWFyaWHSAQA?oc=5" target="_blank"&gt;生成AIプロダクト開発の難しさとMLエンジニアのネクストキャリア&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
-      <source url="https://speakerdeck.com">Speaker Deck</source>
-    </item>
-    <item>
-      <title>大規模言語モデル開発のための日本語 Instruction データセット作成の取り組み - Speaker Deck</title>
-      <link>https://news.google.com/rss/articles/CBMifWh0dHBzOi8vc3BlYWtlcmRlY2suY29tL2t1bmlzaG91L2RhLWd1aS1tby15YW4teXUtbW9kZXJ1a2FpLWZhLW5vdGFtZW5vcmktYmVuLXl1LWluc3RydWN0aW9uLWRldGFzZXR1dG96dW8tY2hlbmctbm9xdS1yaXp1LW1p0gEA?oc=5</link>
-      <guid isPermaLink="false">CBMifWh0dHBzOi8vc3BlYWtlcmRlY2suY29tL2t1bmlzaG91L2RhLWd1aS1tby15YW4teXUtbW9kZXJ1a2FpLWZhLW5vdGFtZW5vcmktYmVuLXl1LWluc3RydWN0aW9uLWRldGFzZXR1dG96dW8tY2hlbmctbm9xdS1yaXp1LW1p0gEA</guid>
-      <pubDate>Fri, 29 Mar 2024 09:50:31 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMifWh0dHBzOi8vc3BlYWtlcmRlY2suY29tL2t1bmlzaG91L2RhLWd1aS1tby15YW4teXUtbW9kZXJ1a2FpLWZhLW5vdGFtZW5vcmktYmVuLXl1LWluc3RydWN0aW9uLWRldGFzZXR1dG96dW8tY2hlbmctbm9xdS1yaXp1LW1p0gEA?oc=5" target="_blank"&gt;大規模言語モデル開発のための日本語 Instruction データセット作成の取り組み&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
