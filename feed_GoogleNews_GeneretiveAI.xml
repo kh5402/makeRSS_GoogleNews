@@ -6,7 +6,7 @@
     <language>ja</language>
     <webMaster>news-webmaster@google.com</webMaster>
     <copyright>2024 Google Inc.</copyright>
-    <lastBuildDate>Sun, 21 Apr 2024 10:14:58 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Apr 2024 11:12:17 GMT</lastBuildDate>
     <description>Google ニュース</description>
     <item>
       <title>生成AIは検索エンジンではない 当たり前のようで、意識すると変わること - ITmedia エンタープライズ</title>
@@ -97,6 +97,14 @@
       <source url="https://wired.jp">WIRED.jp</source>
     </item>
     <item>
+      <title>博報堂、「別人格」AIが商品企画議論 わずか10分で - 日本経済新聞</title>
+      <link>https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3Lm5pa2tlaS5jb20vYXJ0aWNsZS9ER1haUU9VQzA1NzU3MFYwMEMyNEE0MDAwMDAwL9IBAA?oc=5</link>
+      <guid isPermaLink="false">CBMiPGh0dHBzOi8vd3d3Lm5pa2tlaS5jb20vYXJ0aWNsZS9ER1haUU9VQzA1NzU3MFYwMEMyNEE0MDAwMDAwL9IBAA</guid>
+      <pubDate>Tue, 16 Apr 2024 20:00:00 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3Lm5pa2tlaS5jb20vYXJ0aWNsZS9ER1haUU9VQzA1NzU3MFYwMEMyNEE0MDAwMDAwL9IBAA?oc=5" target="_blank"&gt;博報堂、「別人格」AIが商品企画議論 わずか10分で&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;日本経済新聞&lt;/font&gt;</description>
+      <source url="https://www.nikkei.com">日本経済新聞</source>
+    </item>
+    <item>
       <title>「exaBase 生成AI」が複数の大規模言語モデルに対応、LLM間の切り替え利用を最適化する特許を取得〜「Claude ... - エクサウィザーズ</title>
       <link>https://news.google.com/rss/articles/CBMiJmh0dHBzOi8vZXhhd2l6YXJkcy5jb20vYXJjaGl2ZXMvMjcyNjQv0gEA?oc=5</link>
       <guid isPermaLink="false">CBMiJmh0dHBzOi8vZXhhd2l6YXJkcy5jb20vYXJjaGl2ZXMvMjcyNjQv0gEA</guid>
@@ -111,14 +119,6 @@
       <pubDate>Tue, 16 Apr 2024 02:21:00 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiMmh0dHBzOi8vZ2loeW8uanAvYXJ0aWNsZS8yMDI0LzA0L2Fkb2JlLXByZW1pZXJlLWFp0gEA?oc=5" target="_blank"&gt;Adobe、Premiere Proのビデオ編集に生成AI導入へ ―OpenAI、Pika、Runway製AIモデルも利用可能に&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Gihyo Jp&lt;/font&gt;</description>
       <source url="https://gihyo.jp">Gihyo Jp</source>
-    </item>
-    <item>
-      <title>2024年「注目すべきAI企業」50社、調達総額347億ドルの新テック経済圏 - Forbes JAPAN</title>
-      <link>https://news.google.com/rss/articles/CBMiLWh0dHBzOi8vZm9yYmVzamFwYW4uY29tL2FydGljbGVzL2RldGFpbC83MDMzNdIBAA?oc=5</link>
-      <guid isPermaLink="false">CBMiLWh0dHBzOi8vZm9yYmVzamFwYW4uY29tL2FydGljbGVzL2RldGFpbC83MDMzNdIBAA</guid>
-      <pubDate>Tue, 16 Apr 2024 01:30:07 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiLWh0dHBzOi8vZm9yYmVzamFwYW4uY29tL2FydGljbGVzL2RldGFpbC83MDMzNdIBAA?oc=5" target="_blank"&gt;2024年「注目すべきAI企業」50社、調達総額347億ドルの新テック経済圏&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Forbes JAPAN&lt;/font&gt;</description>
-      <source url="https://forbesjapan.com">Forbes JAPAN</source>
     </item>
     <item>
       <title>生成AIでGPUがいらなくなる？ 業界を揺るがす「1ビットLLM」とは何か、識者に聞いた - ITmedia</title>
@@ -255,30 +255,6 @@
       <pubDate>Thu, 18 Apr 2024 00:53:16 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiKGh0dHBzOi8vdG95b2tlaXphaS5uZXQvYXJ0aWNsZXMvLS83NDg0MDPSAQA?oc=5" target="_blank"&gt;｢AI美女が荒稼ぎ｣独身の中国人男性たちが陥る沼&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;東洋経済オンライン&lt;/font&gt;</description>
       <source url="https://toyokeizai.net">東洋経済オンライン</source>
-    </item>
-    <item>
-      <title>スバル、次世代アイサイトにAIを利用。AMD製半導体チップを採用して演算処理性能をアップ（driver@web） | 自動車 ... - carview!</title>
-      <link>https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vY2Fydmlldy55YWhvby5jby5qcC9uZXdzL2RldGFpbC80NTI1ODgyNzM1NjUwZGIxNjdmNGRiMDJjNjc1ZTBlMzU1ZjUwNTc2L9IBAA?oc=5</link>
-      <guid isPermaLink="false">CBMiUWh0dHBzOi8vY2Fydmlldy55YWhvby5jby5qcC9uZXdzL2RldGFpbC80NTI1ODgyNzM1NjUwZGIxNjdmNGRiMDJjNjc1ZTBlMzU1ZjUwNTc2L9IBAA</guid>
-      <pubDate>Sun, 21 Apr 2024 09:00:00 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vY2Fydmlldy55YWhvby5jby5qcC9uZXdzL2RldGFpbC80NTI1ODgyNzM1NjUwZGIxNjdmNGRiMDJjNjc1ZTBlMzU1ZjUwNTc2L9IBAA?oc=5" target="_blank"&gt;スバル、次世代アイサイトにAIを利用。AMD製半導体チップを採用して演算処理性能をアップ（driver@web） | 自動車 ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;carview!&lt;/font&gt;</description>
-      <source url="https://carview.yahoo.co.jp">carview!</source>
-    </item>
-    <item>
-      <title>AIに対して良い印象を持っている人は70％以上 理由は？ - ITmedia マーケティング</title>
-      <link>https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vbWFya2V0aW5nLml0bWVkaWEuY28uanAvbW0vYXJ0aWNsZXMvMjQwNC8yMS9uZXdzMDU3Lmh0bWzSAQA?oc=5</link>
-      <guid isPermaLink="false">CBMiQGh0dHBzOi8vbWFya2V0aW5nLml0bWVkaWEuY28uanAvbW0vYXJ0aWNsZXMvMjQwNC8yMS9uZXdzMDU3Lmh0bWzSAQA</guid>
-      <pubDate>Sun, 21 Apr 2024 07:00:00 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vbWFya2V0aW5nLml0bWVkaWEuY28uanAvbW0vYXJ0aWNsZXMvMjQwNC8yMS9uZXdzMDU3Lmh0bWzSAQA?oc=5" target="_blank"&gt;AIに対して良い印象を持っている人は70％以上 理由は？&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;ITmedia マーケティング&lt;/font&gt;</description>
-      <source url="https://marketing.itmedia.co.jp">ITmedia マーケティング</source>
-    </item>
-    <item>
-      <title>中学受験に役立つ！スタンフォードでAIを学ぶ医師が作った2桁かけ算を暗算できる算数ドリルが人気｜@DIME アット ... - @DIME</title>
-      <link>https://news.google.com/rss/articles/CBMiHmh0dHBzOi8vZGltZS5qcC9nZW5yZS8xNzc1NTYxL9IBAA?oc=5</link>
-      <guid isPermaLink="false">CBMiHmh0dHBzOi8vZGltZS5qcC9nZW5yZS8xNzc1NTYxL9IBAA</guid>
-      <pubDate>Sun, 21 Apr 2024 05:31:33 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiHmh0dHBzOi8vZGltZS5qcC9nZW5yZS8xNzc1NTYxL9IBAA?oc=5" target="_blank"&gt;中学受験に役立つ！スタンフォードでAIを学ぶ医師が作った2桁かけ算を暗算できる算数ドリルが人気｜@DIME アット ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;@DIME&lt;/font&gt;</description>
-      <source url="https://dime.jp">@DIME</source>
     </item>
     <item>
       <title>進化する生成AIと日本 開発競争の舞台は日本へ フェイクが拡散する中、AIとどう向き合うべき？【風をよむ】サンデー ... - goo.ne.jp</title>
@@ -703,6 +679,14 @@
       <pubDate>Fri, 19 Apr 2024 03:19:58 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3LnNha3VyYS5hZC5qcC9jb3Jwb3JhdGUvaW5mb3JtYXRpb24vbmV3c3JlbGVhc2VzLzIwMjQvMDQvMTkvMTk2ODIxNTUxNC_SAQA?oc=5" target="_blank"&gt;さくらインターネット、生成AI向けクラウドサービス「高火力」を拡張整備&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;さくらインターネット&lt;/font&gt;</description>
       <source url="https://www.sakura.ad.jp">さくらインターネット</source>
+    </item>
+    <item>
+      <title>あらゆる最新ツールに AI を搭載するGoogle。広告やマーケティングへの実践的な寄与は？ - DIGIDAY［日本版］</title>
+      <link>https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vZGlnaWRheS5qcC9wbGF0Zm9ybXMvaGVyZXMtd2hhdC13ZS1oZWFyZC1hYm91dC1haS1vbi1kYXktb25lLW9mLWdvb2dsZS1jbG91ZC1uZXh0L9IBAA?oc=5</link>
+      <guid isPermaLink="false">CBMiWmh0dHBzOi8vZGlnaWRheS5qcC9wbGF0Zm9ybXMvaGVyZXMtd2hhdC13ZS1oZWFyZC1hYm91dC1haS1vbi1kYXktb25lLW9mLWdvb2dsZS1jbG91ZC1uZXh0L9IBAA</guid>
+      <pubDate>Fri, 19 Apr 2024 02:50:16 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vZGlnaWRheS5qcC9wbGF0Zm9ybXMvaGVyZXMtd2hhdC13ZS1oZWFyZC1hYm91dC1haS1vbi1kYXktb25lLW9mLWdvb2dsZS1jbG91ZC1uZXh0L9IBAA?oc=5" target="_blank"&gt;あらゆる最新ツールに AI を搭載するGoogle。広告やマーケティングへの実践的な寄与は？&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;DIGIDAY［日本版］&lt;/font&gt;</description>
+      <source url="https://digiday.jp">DIGIDAY［日本版］</source>
     </item>
     <item>
       <title>ジュニア講座「東大工学部×QuizKnock AIが好きになっちゃう放課後」 - 東京大学</title>
