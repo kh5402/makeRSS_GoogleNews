@@ -6,7 +6,7 @@
     <language>ja</language>
     <webMaster>news-webmaster@google.com</webMaster>
     <copyright>2024 Google Inc.</copyright>
-    <lastBuildDate>Tue, 23 Apr 2024 15:15:36 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Apr 2024 16:19:43 GMT</lastBuildDate>
     <description>Google ニュース</description>
     <item>
       <title>Azure AI Search 概要資料_Startups_11292023 - Speaker Deck</title>
@@ -86,6 +86,14 @@
       <guid isPermaLink="false">CBMiWGh0dHBzOi8vc3BlYWtlcmRlY2suY29tL29sYXlpbmthcGV0ZXIvZGVwbG95aW5nLW1sLW1vZGVscy1pbi1nb29nbGUtY2xvdWQtd2l0aC12ZXJ0ZXgtYWnSAQA</guid>
       <pubDate>Wed, 19 Jul 2023 07:00:00 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vc3BlYWtlcmRlY2suY29tL29sYXlpbmthcGV0ZXIvZGVwbG95aW5nLW1sLW1vZGVscy1pbi1nb29nbGUtY2xvdWQtd2l0aC12ZXJ0ZXgtYWnSAQA?oc=5" target="_blank"&gt;Deploying ML Models in Google Cloud with Vertex AI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
+      <source url="https://speakerdeck.com">Speaker Deck</source>
+    </item>
+    <item>
+      <title>Site Reliability Engineering for GMO - Speaker Deck</title>
+      <link>https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3B5YW1hODYvc2l0ZS1yZWxpYWJpbGl0eS1lbmdpbmVlcmluZy1mb3ItZ21v0gEA?oc=5</link>
+      <guid isPermaLink="false">CBMiRGh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3B5YW1hODYvc2l0ZS1yZWxpYWJpbGl0eS1lbmdpbmVlcmluZy1mb3ItZ21v0gEA</guid>
+      <pubDate>Wed, 17 Apr 2024 10:01:45 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3B5YW1hODYvc2l0ZS1yZWxpYWJpbGl0eS1lbmdpbmVlcmluZy1mb3ItZ21v0gEA?oc=5" target="_blank"&gt;Site Reliability Engineering for GMO&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
@@ -369,14 +377,6 @@
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
-      <title>エムスリー AI・機械学習チーム紹介資料 / Introduction of M3 AI Team - Speaker Deck</title>
-      <link>https://news.google.com/rss/articles/CBMiQWh0dHBzOi8vc3BlYWtlcmRlY2suY29tL20zX2VuZ2luZWVyaW5nL2ludHJvZHVjdGlvbi1vZi1tMy1haS10ZWFt0gEA?oc=5</link>
-      <guid isPermaLink="false">CBMiQWh0dHBzOi8vc3BlYWtlcmRlY2suY29tL20zX2VuZ2luZWVyaW5nL2ludHJvZHVjdGlvbi1vZi1tMy1haS10ZWFt0gEA</guid>
-      <pubDate>Thu, 18 Jan 2024 08:00:00 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiQWh0dHBzOi8vc3BlYWtlcmRlY2suY29tL20zX2VuZ2luZWVyaW5nL2ludHJvZHVjdGlvbi1vZi1tMy1haS10ZWFt0gEA?oc=5" target="_blank"&gt;エムスリー AI・機械学習チーム紹介資料 / Introduction of M3 AI Team&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
-      <source url="https://speakerdeck.com">Speaker Deck</source>
-    </item>
-    <item>
       <title>AWSユーザがAI活用のためにAzureと共存させるためにトライしたこととトライすること/Azure-OpenAI×multi-cloud ... - Speaker Deck</title>
       <link>https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vc3BlYWtlcmRlY2suY29tL2xtaS9henVyZS1vcGVuYWl4bXVsdGktY2xvdWQtdGVjaC1uaWdodC1saW5rLWFuZC1tb3RpdmF0aW9u0gEA?oc=5</link>
       <guid isPermaLink="false">CBMiU2h0dHBzOi8vc3BlYWtlcmRlY2suY29tL2xtaS9henVyZS1vcGVuYWl4bXVsdGktY2xvdWQtdGVjaC1uaWdodC1saW5rLWFuZC1tb3RpdmF0aW9u0gEA</guid>
@@ -398,6 +398,14 @@
       <guid isPermaLink="false">CBMiWWh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3BhbWVsYWZveC9haS1jaGF0LWFwcC1oYWNrLWNvbnRpbnVvdXMtZGVwbG95bWVudC1vZi15b3VyLWNoYXQtYXBw0gEA</guid>
       <pubDate>Thu, 08 Feb 2024 08:00:00 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3BhbWVsYWZveC9haS1jaGF0LWFwcC1oYWNrLWNvbnRpbnVvdXMtZGVwbG95bWVudC1vZi15b3VyLWNoYXQtYXBw0gEA?oc=5" target="_blank"&gt;AI Chat App Hack: Continuous Deployment of your Chat App&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
+      <source url="https://speakerdeck.com">Speaker Deck</source>
+    </item>
+    <item>
+      <title>攻めのデータ活用のためのメタデータ整備:生成 AI を用いた構造化メタデータからの SQL クエリ生成 - Speaker Deck</title>
+      <link>https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vc3BlYWtlcmRlY2suY29tL21peGlfZW5naW5lZXJzL21ldGFkYXRhLWRldmVsb3BtZW50LWZvci1hZ2dyZXNzaXZlLXVzZS1vZi1kYXRh0gEA?oc=5</link>
+      <guid isPermaLink="false">CBMiVmh0dHBzOi8vc3BlYWtlcmRlY2suY29tL21peGlfZW5naW5lZXJzL21ldGFkYXRhLWRldmVsb3BtZW50LWZvci1hZ2dyZXNzaXZlLXVzZS1vZi1kYXRh0gEA</guid>
+      <pubDate>Thu, 03 Aug 2023 07:00:00 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vc3BlYWtlcmRlY2suY29tL21peGlfZW5naW5lZXJzL21ldGFkYXRhLWRldmVsb3BtZW50LWZvci1hZ2dyZXNzaXZlLXVzZS1vZi1kYXRh0gEA?oc=5" target="_blank"&gt;攻めのデータ活用のためのメタデータ整備:生成 AI を用いた構造化メタデータからの SQL クエリ生成&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
@@ -590,14 +598,6 @@
       <guid isPermaLink="false">CBMiT2h0dHBzOi8vc3BlYWtlcmRlY2suY29tL3lvc2hpa2llZ3VjaGkvYWlzYWJpc3VsaS15b25nLWdhaWRvcmFpbmNlLWRpbmctbm9zdXN1bWXSAQA</guid>
       <pubDate>Mon, 10 Jul 2023 07:00:00 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vc3BlYWtlcmRlY2suY29tL3lvc2hpa2llZ3VjaGkvYWlzYWJpc3VsaS15b25nLWdhaWRvcmFpbmNlLWRpbmctbm9zdXN1bWXSAQA?oc=5" target="_blank"&gt;AIサービス利用ガイドライン策定のすすめ&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
-      <source url="https://speakerdeck.com">Speaker Deck</source>
-    </item>
-    <item>
-      <title>生成AI時代のプログラミング教育 つくること・学ぶことの歓びに向かって /ProggrammingEducationInTheGenAIEra - Speaker Deck</title>
-      <link>https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vc3BlYWtlcmRlY2suY29tL2tpcmllbS9wcm9nZ3JhbW1pbmdlZHVjYXRpb25vbmdlbmFpZXJh0gEA?oc=5</link>
-      <guid isPermaLink="false">CBMiPmh0dHBzOi8vc3BlYWtlcmRlY2suY29tL2tpcmllbS9wcm9nZ3JhbW1pbmdlZHVjYXRpb25vbmdlbmFpZXJh0gEA</guid>
-      <pubDate>Mon, 09 Oct 2023 07:00:00 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vc3BlYWtlcmRlY2suY29tL2tpcmllbS9wcm9nZ3JhbW1pbmdlZHVjYXRpb25vbmdlbmFpZXJh0gEA?oc=5" target="_blank"&gt;生成AI時代のプログラミング教育 つくること・学ぶことの歓びに向かって /ProggrammingEducationInTheGenAIEra&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
