@@ -6,7 +6,7 @@
     <language>ja</language>
     <webMaster>news-webmaster@google.com</webMaster>
     <copyright>2024 Google Inc.</copyright>
-    <lastBuildDate>Tue, 23 Apr 2024 12:30:32 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Apr 2024 13:17:20 GMT</lastBuildDate>
     <description>Google ニュース</description>
     <item>
       <title>AWSのクラウド、オープンソースのAIモデル扱いやすく - 日本経済新聞</title>
@@ -39,6 +39,14 @@
       <pubDate>Tue, 23 Apr 2024 10:16:20 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3Lm5pa2tlaS5jb20vYXJ0aWNsZS9ER1haUU9HTTIzOTRHMFQyMEMyNEE0MDAwMDAwL9IBAA?oc=5" target="_blank"&gt;中国研究機関、米AI半導体を調達 規制すり抜けか&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;日本経済新聞&lt;/font&gt;</description>
       <source url="https://www.nikkei.com">日本経済新聞</source>
+    </item>
+    <item>
+      <title>画像生成AIのNovelAI、ケモノ系モデル「Furry V3」 - ASCII.jp</title>
+      <link>https://news.google.com/rss/articles/CBMiKmh0dHBzOi8vYXNjaWkuanAvZWxlbS8wMDAvMDA0LzE5NS80MTk1NTkzL9IBAA?oc=5</link>
+      <guid isPermaLink="false">CBMiKmh0dHBzOi8vYXNjaWkuanAvZWxlbS8wMDAvMDA0LzE5NS80MTk1NTkzL9IBAA</guid>
+      <pubDate>Tue, 23 Apr 2024 10:15:00 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiKmh0dHBzOi8vYXNjaWkuanAvZWxlbS8wMDAvMDA0LzE5NS80MTk1NTkzL9IBAA?oc=5" target="_blank"&gt;画像生成AIのNovelAI、ケモノ系モデル「Furry V3」&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;ASCII.jp&lt;/font&gt;</description>
+      <source url="https://ascii.jp">ASCII.jp</source>
     </item>
     <item>
       <title>東北電力系、KDDIと送電設備点検AI開発 ドローン活用 - 日本経済新聞</title>
@@ -89,14 +97,6 @@
       <source url="https://www.newsweekjapan.jp">ニューズウィーク日本版</source>
     </item>
     <item>
-      <title>ゼロからの画像生成も可能に――アドビが生成AI機能を強化した「Photoshop」のβ版を公開：新AIモデルのβ版を活用 - ITmedia PC USER - ITmedia PC USER</title>
-      <link>https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vd3d3Lml0bWVkaWEuY28uanAvcGN1c2VyL2FydGljbGVzLzI0MDQvMjMvbmV3czE0Ny5odG1s0gE5aHR0cHM6Ly93d3cuaXRtZWRpYS5jby5qcC9wY3VzZXIvYW1wLzI0MDQvMjMvbmV3czE0Ny5odG1s?oc=5</link>
-      <guid isPermaLink="false">CBMiPmh0dHBzOi8vd3d3Lml0bWVkaWEuY28uanAvcGN1c2VyL2FydGljbGVzLzI0MDQvMjMvbmV3czE0Ny5odG1s0gE5aHR0cHM6Ly93d3cuaXRtZWRpYS5jby5qcC9wY3VzZXIvYW1wLzI0MDQvMjMvbmV3czE0Ny5odG1s</guid>
-      <pubDate>Tue, 23 Apr 2024 09:00:00 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vd3d3Lml0bWVkaWEuY28uanAvcGN1c2VyL2FydGljbGVzLzI0MDQvMjMvbmV3czE0Ny5odG1s0gE5aHR0cHM6Ly93d3cuaXRtZWRpYS5jby5qcC9wY3VzZXIvYW1wLzI0MDQvMjMvbmV3czE0Ny5odG1s?oc=5" target="_blank"&gt;ゼロからの画像生成も可能に――アドビが生成AI機能を強化した「Photoshop」のβ版を公開：新AIモデルのβ版を活用 - ITmedia PC USER&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;ITmedia PC USER&lt;/font&gt;</description>
-      <source url="https://www.itmedia.co.jp">ITmedia PC USER</source>
-    </item>
-    <item>
       <title>PhotoshopのAI機能が進化し、画像全体を生成可能に。そのほかの機能強化も - PC Watch</title>
       <link>https://news.google.com/rss/articles/CBMiNWh0dHBzOi8vcGMud2F0Y2guaW1wcmVzcy5jby5qcC9kb2NzL25ld3MvMTU4NjY4MC5odG1s0gEA?oc=5</link>
       <guid isPermaLink="false">CBMiNWh0dHBzOi8vcGMud2F0Y2guaW1wcmVzcy5jby5qcC9kb2NzL25ld3MvMTU4NjY4MC5odG1s0gEA</guid>
@@ -105,20 +105,28 @@
       <source url="https://pc.watch.impress.co.jp">PC Watch</source>
     </item>
     <item>
+      <title>ゼロからの画像生成も可能に――アドビが生成AI機能を強化した「Photoshop」のβ版を公開：新AIモデルのβ版を活用 - ITmedia PC USER - ITmedia PC USER</title>
+      <link>https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vd3d3Lml0bWVkaWEuY28uanAvcGN1c2VyL2FydGljbGVzLzI0MDQvMjMvbmV3czE0Ny5odG1s0gE5aHR0cHM6Ly93d3cuaXRtZWRpYS5jby5qcC9wY3VzZXIvYW1wLzI0MDQvMjMvbmV3czE0Ny5odG1s?oc=5</link>
+      <guid isPermaLink="false">CBMiPmh0dHBzOi8vd3d3Lml0bWVkaWEuY28uanAvcGN1c2VyL2FydGljbGVzLzI0MDQvMjMvbmV3czE0Ny5odG1s0gE5aHR0cHM6Ly93d3cuaXRtZWRpYS5jby5qcC9wY3VzZXIvYW1wLzI0MDQvMjMvbmV3czE0Ny5odG1s</guid>
+      <pubDate>Tue, 23 Apr 2024 09:00:00 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vd3d3Lml0bWVkaWEuY28uanAvcGN1c2VyL2FydGljbGVzLzI0MDQvMjMvbmV3czE0Ny5odG1s0gE5aHR0cHM6Ly93d3cuaXRtZWRpYS5jby5qcC9wY3VzZXIvYW1wLzI0MDQvMjMvbmV3czE0Ny5odG1s?oc=5" target="_blank"&gt;ゼロからの画像生成も可能に――アドビが生成AI機能を強化した「Photoshop」のβ版を公開：新AIモデルのβ版を活用 - ITmedia PC USER&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;ITmedia PC USER&lt;/font&gt;</description>
+      <source url="https://www.itmedia.co.jp">ITmedia PC USER</source>
+    </item>
+    <item>
+      <title>NEC、社内サーバーで生成AI 機密情報を社外に出さず 【イブニングスクープ】 - 日本経済新聞</title>
+      <link>https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3Lm5pa2tlaS5jb20vYXJ0aWNsZS9ER1haUU9VQzE5MkdaMFoxMEMyNEE0MDAwMDAwL9IBAA?oc=5</link>
+      <guid isPermaLink="false">CBMiPGh0dHBzOi8vd3d3Lm5pa2tlaS5jb20vYXJ0aWNsZS9ER1haUU9VQzE5MkdaMFoxMEMyNEE0MDAwMDAwL9IBAA</guid>
+      <pubDate>Tue, 23 Apr 2024 09:00:00 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3Lm5pa2tlaS5jb20vYXJ0aWNsZS9ER1haUU9VQzE5MkdaMFoxMEMyNEE0MDAwMDAwL9IBAA?oc=5" target="_blank"&gt;NEC、社内サーバーで生成AI 機密情報を社外に出さず 【イブニングスクープ】&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;日本経済新聞&lt;/font&gt;</description>
+      <source url="https://www.nikkei.com">日本経済新聞</source>
+    </item>
+    <item>
       <title>Adobeの生成AI「Firefly Image 3」が発表…“フォトリアリスティック”な画質品質の向上など Adobe Photoshop（ベータ ... - デジカメ Watch</title>
       <link>https://news.google.com/rss/articles/CBMiNWh0dHBzOi8vZGMud2F0Y2guaW1wcmVzcy5jby5qcC9kb2NzL25ld3MvMTU4NjQ4Ni5odG1s0gEA?oc=5</link>
       <guid isPermaLink="false">CBMiNWh0dHBzOi8vZGMud2F0Y2guaW1wcmVzcy5jby5qcC9kb2NzL25ld3MvMTU4NjQ4Ni5odG1s0gEA</guid>
       <pubDate>Tue, 23 Apr 2024 09:00:00 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiNWh0dHBzOi8vZGMud2F0Y2guaW1wcmVzcy5jby5qcC9kb2NzL25ld3MvMTU4NjQ4Ni5odG1s0gEA?oc=5" target="_blank"&gt;Adobeの生成AI「Firefly Image 3」が発表…“フォトリアリスティック”な画質品質の向上など Adobe Photoshop（ベータ ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;デジカメ Watch&lt;/font&gt;</description>
       <source url="https://dc.watch.impress.co.jp">デジカメ Watch</source>
-    </item>
-    <item>
-      <title>NEC、クラウド不要の生成AI提供 機密情報を社内で管理 【イブニングスクープ】 - 日本経済新聞</title>
-      <link>https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3Lm5pa2tlaS5jb20vYXJ0aWNsZS9ER1haUU9VQzE5MkdaMFoxMEMyNEE0MDAwMDAwL9IBAA?oc=5</link>
-      <guid isPermaLink="false">CBMiPGh0dHBzOi8vd3d3Lm5pa2tlaS5jb20vYXJ0aWNsZS9ER1haUU9VQzE5MkdaMFoxMEMyNEE0MDAwMDAwL9IBAA</guid>
-      <pubDate>Tue, 23 Apr 2024 09:00:00 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3Lm5pa2tlaS5jb20vYXJ0aWNsZS9ER1haUU9VQzE5MkdaMFoxMEMyNEE0MDAwMDAwL9IBAA?oc=5" target="_blank"&gt;NEC、クラウド不要の生成AI提供 機密情報を社内で管理 【イブニングスクープ】&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;日本経済新聞&lt;/font&gt;</description>
-      <source url="https://www.nikkei.com">日本経済新聞</source>
     </item>
     <item>
       <title>Microsoft、生成AI「Phi-3」自社開発 通信なくてもスマホで動作 - 日本経済新聞</title>
@@ -217,6 +225,14 @@
       <source url="https://digitalpr.jp">デジタルPRプラットフォーム</source>
     </item>
     <item>
+      <title>トリプルアイズ---世田谷区がAI顔認証システム・AIZEを勤怠管理に採用(フィスコ) - Yahoo!ファイナンス - Yahoo!ファイナンス</title>
+      <link>https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vZmluYW5jZS55YWhvby5jby5qcC9uZXdzL2RldGFpbC8xMTQwZWE0ZTlhYTkxYzY5MTU0OTY5YmIwNThlZDc4MDZlMWFmZmJh0gEA?oc=5</link>
+      <guid isPermaLink="false">CBMiUGh0dHBzOi8vZmluYW5jZS55YWhvby5jby5qcC9uZXdzL2RldGFpbC8xMTQwZWE0ZTlhYTkxYzY5MTU0OTY5YmIwNThlZDc4MDZlMWFmZmJh0gEA</guid>
+      <pubDate>Tue, 23 Apr 2024 07:11:00 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vZmluYW5jZS55YWhvby5jby5qcC9uZXdzL2RldGFpbC8xMTQwZWE0ZTlhYTkxYzY5MTU0OTY5YmIwNThlZDc4MDZlMWFmZmJh0gEA?oc=5" target="_blank"&gt;トリプルアイズ---世田谷区がAI顔認証システム・AIZEを勤怠管理に採用(フィスコ) - Yahoo!ファイナンス&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo!ファイナンス&lt;/font&gt;</description>
+      <source url="https://finance.yahoo.co.jp">Yahoo!ファイナンス</source>
+    </item>
+    <item>
       <title>Microsoft AI Day Osaka 観戦記 - NTTデータ先端技術</title>
       <link>https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LmludGVsbGlsaW5rLmNvLmpwL2NvbHVtbi9tcy8yMDI0LzA0MjMwMC5hc3B40gEA?oc=5</link>
       <guid isPermaLink="false">CBMiOGh0dHBzOi8vd3d3LmludGVsbGlsaW5rLmNvLmpwL2NvbHVtbi9tcy8yMDI0LzA0MjMwMC5hc3B40gEA</guid>
@@ -231,6 +247,14 @@
       <pubDate>Tue, 23 Apr 2024 06:54:45 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vZW50ZXJwcmlzZXppbmUuanAvYXJ0aWNsZS9kZXRhaWwvMTk2MDbSAQA?oc=5" target="_blank"&gt;SASが業界別にパッケージ化されたAIモデルを提供へ 「信頼できる」軽量AIモデルをすぐに運用可能に&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;EnterpriseZine&lt;/font&gt;</description>
       <source url="https://enterprisezine.jp">EnterpriseZine</source>
+    </item>
+    <item>
+      <title>アドビ、生成AI搭載のモバイル版「Adobe Express」アプリ最新版の一般提供を開始／「Adobe Firefly」の生成 ... - 窓の杜</title>
+      <link>https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vZm9yZXN0LndhdGNoLmltcHJlc3MuY28uanAvZG9jcy9uZXdzLzE1ODY2NTMuaHRtbNIBAA?oc=5</link>
+      <guid isPermaLink="false">CBMiOWh0dHBzOi8vZm9yZXN0LndhdGNoLmltcHJlc3MuY28uanAvZG9jcy9uZXdzLzE1ODY2NTMuaHRtbNIBAA</guid>
+      <pubDate>Tue, 23 Apr 2024 06:43:51 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vZm9yZXN0LndhdGNoLmltcHJlc3MuY28uanAvZG9jcy9uZXdzLzE1ODY2NTMuaHRtbNIBAA?oc=5" target="_blank"&gt;アドビ、生成AI搭載のモバイル版「Adobe Express」アプリ最新版の一般提供を開始／「Adobe Firefly」の生成 ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;窓の杜&lt;/font&gt;</description>
+      <source url="https://forest.watch.impress.co.jp">窓の杜</source>
     </item>
     <item>
       <title>ＡＩ搭載のレッツノート パナソニックコネクト｜全国のニュース｜Web東奥 - 東奥日報</title>
@@ -345,14 +369,6 @@
       <source url="https://www.technologyreview.jp">MITテクノロジーレビュー</source>
     </item>
     <item>
-      <title>マイクロソフト、顔写真と音声からリアルな動画を作るAI ラップするモナ・リザも - au Webポータル</title>
-      <link>https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vYXJ0aWNsZS5hdW9uZS5qcC9kZXRhaWwvMS8zLzcvMzY5Xzdfcl8yMDI0MDQyM18xNzEzODQ0MTYyMTQ3MTcy0gEA?oc=5</link>
-      <guid isPermaLink="false">CBMiR2h0dHBzOi8vYXJ0aWNsZS5hdW9uZS5qcC9kZXRhaWwvMS8zLzcvMzY5Xzdfcl8yMDI0MDQyM18xNzEzODQ0MTYyMTQ3MTcy0gEA</guid>
-      <pubDate>Tue, 23 Apr 2024 03:42:00 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vYXJ0aWNsZS5hdW9uZS5qcC9kZXRhaWwvMS8zLzcvMzY5Xzdfcl8yMDI0MDQyM18xNzEzODQ0MTYyMTQ3MTcy0gEA?oc=5" target="_blank"&gt;マイクロソフト、顔写真と音声からリアルな動画を作るAI ラップするモナ・リザも&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;au Webポータル&lt;/font&gt;</description>
-      <source url="https://article.auone.jp">au Webポータル</source>
-    </item>
-    <item>
       <title>「生成AI」が5位にランクイン、ソフトバンクが巨額投資で開発に本腰＜注目テーマ＞ - minkabu PRESS</title>
       <link>https://news.google.com/rss/articles/CBMiKGh0dHBzOi8vcy5rYWJ1dGFuLmpwL25ld3MvbjIwMjQwNDIzMDQ5OC_SAQA?oc=5</link>
       <guid isPermaLink="false">CBMiKGh0dHBzOi8vcy5rYWJ1dGFuLmpwL25ld3MvbjIwMjQwNDIzMDQ5OC_SAQA</guid>
@@ -367,14 +383,6 @@
       <pubDate>Tue, 23 Apr 2024 03:14:00 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiMGh0dHBzOi8veHRlY2gubmlra2VpLmNvbS9hdGNsL254dC9uZXdzLzI0LzAwNjI4L9IBAA?oc=5" target="_blank"&gt;AIを活用した創作、特許法による保護のあり方に「すぐ変更の必要なし」と調査&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;ITpro&lt;/font&gt;</description>
       <source url="https://xtech.nikkei.com">ITpro</source>
-    </item>
-    <item>
-      <title>Claude AIとChatGPTを比較｜主力にしたい生成AIはどっち？ - Lifehacker JAPAN</title>
-      <link>https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3LmxpZmVoYWNrZXIuanAvYXJ0aWNsZS8yNDA0Y2xhdWRlLWFpLXZlcnN1cy1jaGF0Z3B0LXdoaWNoLWlzLWJldHRlci_SAQA?oc=5</link>
-      <guid isPermaLink="false">CBMiT2h0dHBzOi8vd3d3LmxpZmVoYWNrZXIuanAvYXJ0aWNsZS8yNDA0Y2xhdWRlLWFpLXZlcnN1cy1jaGF0Z3B0LXdoaWNoLWlzLWJldHRlci_SAQA</guid>
-      <pubDate>Tue, 23 Apr 2024 03:05:21 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3LmxpZmVoYWNrZXIuanAvYXJ0aWNsZS8yNDA0Y2xhdWRlLWFpLXZlcnN1cy1jaGF0Z3B0LXdoaWNoLWlzLWJldHRlci_SAQA?oc=5" target="_blank"&gt;Claude AIとChatGPTを比較｜主力にしたい生成AIはどっち？&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Lifehacker JAPAN&lt;/font&gt;</description>
-      <source url="https://www.lifehacker.jp">Lifehacker JAPAN</source>
     </item>
     <item>
       <title>Intelの最新AI戦略と製品 「AIが全てのタスクを引き継ぐ時代へ」 - EE Times Japan</title>
@@ -407,14 +415,6 @@
       <pubDate>Tue, 23 Apr 2024 01:21:29 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiKGh0dHBzOi8vdG95b2tlaXphaS5uZXQvYXJ0aWNsZXMvLS83NDk3NTDSAQA?oc=5" target="_blank"&gt;学校に広がるAI生成｢ディープヌード｣の大問題&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;東洋経済オンライン&lt;/font&gt;</description>
       <source url="https://toyokeizai.net">東洋経済オンライン</source>
-    </item>
-    <item>
-      <title>QuizKnock×東大メタバース工学部ジュニア講座「AIが好きになっちゃう放課後」6/16 - リセマム</title>
-      <link>https://news.google.com/rss/articles/CBMiMGh0dHBzOi8vcmVzZW1vbS5qcC9hcnRpY2xlLzIwMjQvMDQvMjMvNzY5MDQuaHRtbNIBAA?oc=5</link>
-      <guid isPermaLink="false">CBMiMGh0dHBzOi8vcmVzZW1vbS5qcC9hcnRpY2xlLzIwMjQvMDQvMjMvNzY5MDQuaHRtbNIBAA</guid>
-      <pubDate>Tue, 23 Apr 2024 01:15:03 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiMGh0dHBzOi8vcmVzZW1vbS5qcC9hcnRpY2xlLzIwMjQvMDQvMjMvNzY5MDQuaHRtbNIBAA?oc=5" target="_blank"&gt;QuizKnock×東大メタバース工学部ジュニア講座「AIが好きになっちゃう放課後」6/16&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;リセマム&lt;/font&gt;</description>
-      <source url="https://resemom.jp">リセマム</source>
     </item>
     <item>
       <title>情報管理戦略の成熟度がAIの導入効果に影響--AvePointがグローバル調査 - ZDNET Japan</title>
@@ -609,14 +609,6 @@
       <source url="https://dhbr.diamond.jp">DIAMOND ハーバード・ビジネス・レビュー</source>
     </item>
     <item>
-      <title>ビットコインマイナーは半減後、AIにシフトする可能性：コインシェアーズ | CoinDesk JAPAN（コインデスク ... - コインデスク・ジャパン</title>
-      <link>https://news.google.com/rss/articles/CBMiJWh0dHBzOi8vd3d3LmNvaW5kZXNramFwYW4uY29tLzIyOTkyMS_SAQA?oc=5</link>
-      <guid isPermaLink="false">CBMiJWh0dHBzOi8vd3d3LmNvaW5kZXNramFwYW4uY29tLzIyOTkyMS_SAQA</guid>
-      <pubDate>Mon, 22 Apr 2024 22:00:00 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiJWh0dHBzOi8vd3d3LmNvaW5kZXNramFwYW4uY29tLzIyOTkyMS_SAQA?oc=5" target="_blank"&gt;ビットコインマイナーは半減後、AIにシフトする可能性：コインシェアーズ | CoinDesk JAPAN（コインデスク ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;コインデスク・ジャパン&lt;/font&gt;</description>
-      <source url="https://www.coindeskjapan.com">コインデスク・ジャパン</source>
-    </item>
-    <item>
       <title>データセンター建設ラッシュで急浮上｢高品質なAIインフラ｣実現する6銘柄。注目度は低いが… - Business Insider Japan</title>
       <link>https://news.google.com/rss/articles/CBMiKmh0dHBzOi8vd3d3LmJ1c2luZXNzaW5zaWRlci5qcC9wb3N0LTI4NTc2N9IBAA?oc=5</link>
       <guid isPermaLink="false">CBMiKmh0dHBzOi8vd3d3LmJ1c2luZXNzaW5zaWRlci5qcC9wb3N0LTI4NTc2N9IBAA</guid>
@@ -681,14 +673,6 @@
       <source url="https://www.nikkei.com">日本経済新聞</source>
     </item>
     <item>
-      <title>くらしナビ・環境：AIが渇望する水 - 毎日新聞</title>
-      <link>https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vbWFpbmljaGkuanAvYXJ0aWNsZXMvMjAyNDA0MjMvZGRtLzAxMy8wNDAvMDExMDAwY9IBAA?oc=5</link>
-      <guid isPermaLink="false">CBMiOWh0dHBzOi8vbWFpbmljaGkuanAvYXJ0aWNsZXMvMjAyNDA0MjMvZGRtLzAxMy8wNDAvMDExMDAwY9IBAA</guid>
-      <pubDate>Mon, 22 Apr 2024 17:01:16 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vbWFpbmljaGkuanAvYXJ0aWNsZXMvMjAyNDA0MjMvZGRtLzAxMy8wNDAvMDExMDAwY9IBAA?oc=5" target="_blank"&gt;くらしナビ・環境：AIが渇望する水&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;毎日新聞&lt;/font&gt;</description>
-      <source url="https://mainichi.jp">毎日新聞</source>
-    </item>
-    <item>
       <title>AIで褥瘡を早期発見！ 長野県看護大学×マクニカ共同プロジェクト【後編】 - AI事業 - マクニカ</title>
       <link>https://news.google.com/rss/articles/CBMiMmh0dHBzOi8vd3d3Lm1hY25pY2EuY28uanAvYnVzaW5lc3MvYWkvYmxvZy8xNDUxNTYv0gEA?oc=5</link>
       <guid isPermaLink="false">CBMiMmh0dHBzOi8vd3d3Lm1hY25pY2EuY28uanAvYnVzaW5lc3MvYWkvYmxvZy8xNDUxNTYv0gEA</guid>
@@ -745,14 +729,6 @@
       <source url="https://it.impress.co.jp">IT Leaders</source>
     </item>
     <item>
-      <title>米マイクロソフト、新たなＡＩモデル発表 モナリザも歌う？ - CNN.co.jp</title>
-      <link>https://news.google.com/rss/articles/CBMiKGh0dHBzOi8vd3d3LmNubi5jby5qcC90ZWNoLzM1MjE4MDc5Lmh0bWzSAS9odHRwczovL3d3dy5jbm4uY28uanAvYW1wL2FydGljbGUvMzUyMTgwNzkuaHRtbA?oc=5</link>
-      <guid isPermaLink="false">CBMiKGh0dHBzOi8vd3d3LmNubi5jby5qcC90ZWNoLzM1MjE4MDc5Lmh0bWzSAS9odHRwczovL3d3dy5jbm4uY28uanAvYW1wL2FydGljbGUvMzUyMTgwNzkuaHRtbA</guid>
-      <pubDate>Mon, 22 Apr 2024 07:00:00 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiKGh0dHBzOi8vd3d3LmNubi5jby5qcC90ZWNoLzM1MjE4MDc5Lmh0bWzSAS9odHRwczovL3d3dy5jbm4uY28uanAvYW1wL2FydGljbGUvMzUyMTgwNzkuaHRtbA?oc=5" target="_blank"&gt;米マイクロソフト、新たなＡＩモデル発表 モナリザも歌う？&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;CNN.co.jp&lt;/font&gt;</description>
-      <source url="https://www.cnn.co.jp">CNN.co.jp</source>
-    </item>
-    <item>
       <title>話題のAIベンチャー「Sakana AI」が画像生成AIを公開 “自律進化”技術で、推論速度が約10倍高速に - ITmedia</title>
       <link>https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vd3d3Lml0bWVkaWEuY28uanAvYWlwbHVzL2FydGljbGVzLzI0MDQvMjIvbmV3czEyNy5odG1s0gEA?oc=5</link>
       <guid isPermaLink="false">CBMiPmh0dHBzOi8vd3d3Lml0bWVkaWEuY28uanAvYWlwbHVzL2FydGljbGVzLzI0MDQvMjIvbmV3czEyNy5odG1s0gEA</guid>
@@ -791,6 +767,14 @@
       <pubDate>Fri, 19 Apr 2024 03:19:58 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3LnNha3VyYS5hZC5qcC9jb3Jwb3JhdGUvaW5mb3JtYXRpb24vbmV3c3JlbGVhc2VzLzIwMjQvMDQvMTkvMTk2ODIxNTUxNC_SAQA?oc=5" target="_blank"&gt;さくらインターネット、生成AI向けクラウドサービス「高火力」を拡張整備&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;さくらインターネット&lt;/font&gt;</description>
       <source url="https://www.sakura.ad.jp">さくらインターネット</source>
+    </item>
+    <item>
+      <title>ジュニア講座「東大工学部×QuizKnock AIが好きになっちゃう放課後」 - 東京大学</title>
+      <link>https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LnUtdG9reW8uYWMuanAvZm9jdXMvamEvZXZlbnRzL3owMTA0XzAxNDIyLmh0bWzSAQA?oc=5</link>
+      <guid isPermaLink="false">CBMiOmh0dHBzOi8vd3d3LnUtdG9reW8uYWMuanAvZm9jdXMvamEvZXZlbnRzL3owMTA0XzAxNDIyLmh0bWzSAQA</guid>
+      <pubDate>Fri, 19 Apr 2024 02:40:39 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LnUtdG9reW8uYWMuanAvZm9jdXMvamEvZXZlbnRzL3owMTA0XzAxNDIyLmh0bWzSAQA?oc=5" target="_blank"&gt;ジュニア講座「東大工学部×QuizKnock AIが好きになっちゃう放課後」&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;東京大学&lt;/font&gt;</description>
+      <source url="https://www.u-tokyo.ac.jp">東京大学</source>
     </item>
   </channel>
 </rss>
