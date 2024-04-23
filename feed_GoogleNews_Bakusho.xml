@@ -6,7 +6,7 @@
     <language>ja</language>
     <webMaster>news-webmaster@google.com</webMaster>
     <copyright>2024 Google Inc.</copyright>
-    <lastBuildDate>Tue, 23 Apr 2024 07:14:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Apr 2024 08:19:36 GMT</lastBuildDate>
     <description>Google ニュース</description>
     <item>
       <title>爆問・田中裕二 かつて巨人優勝のビールかけを取材した際の驚きの“注文”とは 太田光「最悪だよ」 - スポニチアネックス Sponichi Annex</title>
@@ -65,6 +65,14 @@
       <source url="https://hochi.news">スポーツ報知</source>
     </item>
     <item>
+      <title>名曲に割り込むバウンディくん - TBSラジオ</title>
+      <link>https://news.google.com/rss/articles/CBMiJ2h0dHBzOi8vd3d3LnRic3JhZGlvLmpwL2FydGljbGVzLzgxNDk3L9IBAA?oc=5</link>
+      <guid isPermaLink="false">CBMiJ2h0dHBzOi8vd3d3LnRic3JhZGlvLmpwL2FydGljbGVzLzgxNDk3L9IBAA</guid>
+      <pubDate>Wed, 20 Mar 2024 07:00:00 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiJ2h0dHBzOi8vd3d3LnRic3JhZGlvLmpwL2FydGljbGVzLzgxNDk3L9IBAA?oc=5" target="_blank"&gt;名曲に割り込むバウンディくん&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;TBSラジオ&lt;/font&gt;</description>
+      <source url="https://www.tbsradio.jp">TBSラジオ</source>
+    </item>
+    <item>
       <title>山口もえ、次女が初めてのピアノ発表会 夫・田中裕二が撮影した親子写真にファン感動「なぜか涙が」「一生の思い出」 | エンタメ総合 - ABEMA TIMES</title>
       <link>https://news.google.com/rss/articles/CBMiKmh0dHBzOi8vdGltZXMuYWJlbWEudHYvYXJ0aWNsZXMvLS8xMDEwNzU1MNIBAA?oc=5</link>
       <guid isPermaLink="false">CBMiKmh0dHBzOi8vdGltZXMuYWJlbWEudHYvYXJ0aWNsZXMvLS8xMDEwNzU1MNIBAA</guid>
@@ -111,6 +119,14 @@
       <pubDate>Wed, 10 Jan 2024 08:00:00 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiNGh0dHBzOi8vaG9jaGkubmV3cy9hcnRpY2xlcy8yMDI0MDExMC1PSFQxVDUxMDMxLmh0bWzSAQA?oc=5" target="_blank"&gt;太田光、ラジオで渦中の松本人志「ワイドナショー」出演予告に言及…「日曜日、サンジャポ休んでもいいかな？」&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;スポーツ報知&lt;/font&gt;</description>
       <source url="https://hochi.news">スポーツ報知</source>
+    </item>
+    <item>
+      <title>山口もえ（46）、朝5時起きでお弁当作り「次女が高校を卒業するまで つまり私が還暦を迎える直前までお弁当作りが続く予定です」 | エンタメ総合 - ABEMA TIMES</title>
+      <link>https://news.google.com/rss/articles/CBMiKmh0dHBzOi8vdGltZXMuYWJlbWEudHYvYXJ0aWNsZXMvLS8xMDExMzI5MNIBAA?oc=5</link>
+      <guid isPermaLink="false">CBMiKmh0dHBzOi8vdGltZXMuYWJlbWEudHYvYXJ0aWNsZXMvLS8xMDExMzI5MNIBAA</guid>
+      <pubDate>Wed, 07 Feb 2024 08:00:00 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiKmh0dHBzOi8vdGltZXMuYWJlbWEudHYvYXJ0aWNsZXMvLS8xMDExMzI5MNIBAA?oc=5" target="_blank"&gt;山口もえ（46）、朝5時起きでお弁当作り「次女が高校を卒業するまで つまり私が還暦を迎える直前までお弁当作りが続く予定です」 | エンタメ総合&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;ABEMA TIMES&lt;/font&gt;</description>
+      <source url="https://times.abema.tv">ABEMA TIMES</source>
     </item>
     <item>
       <title>田中裕二 サザンのライブで披露された楽曲に驚き「この今の令和に。それがすごいじゃん」 - スポニチアネックス Sponichi Annex</title>
@@ -175,14 +191,6 @@
       <pubDate>Tue, 19 Dec 2023 08:00:00 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LnNwb25pY2hpLmNvLmpwL2VudGVydGFpbm1lbnQvbmV3cy8yMDIzLzEyLzE5L2tpamkvMjAyMzEyMTlzMDAwNDEwMDAyNTAwMDBjLmh0bWzSAWFodHRwczovL3d3dy5zcG9uaWNoaS5jby5qcC9lbnRlcnRhaW5tZW50L25ld3MvMjAyMy8xMi8xOS9raWppLzIwMjMxMjE5czAwMDQxMDAwMjUwMDAwYy5odG1sP2FtcD0x?oc=5" target="_blank"&gt;爆問・田中裕二が太田光のことを…“オフ”の呼び方に山崎ケイ大興奮「普段は太田さんって言ってるのに」&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;スポニチアネックス Sponichi Annex&lt;/font&gt;</description>
       <source url="https://www.sponichi.co.jp">スポニチアネックス Sponichi Annex</source>
-    </item>
-    <item>
-      <title>爆笑問題、麻生太郎氏やバイデン大統領をネタに漫才「不適切にもほどがある」 - 日本海新聞</title>
-      <link>https://news.google.com/rss/articles/CBMiJ2h0dHBzOi8vd3d3Lm5ubi5jby5qcC9hcnRpY2xlcy8tLzIzNzY5ONIBAA?oc=5</link>
-      <guid isPermaLink="false">CBMiJ2h0dHBzOi8vd3d3Lm5ubi5jby5qcC9hcnRpY2xlcy8tLzIzNzY5ONIBAA</guid>
-      <pubDate>Tue, 13 Feb 2024 08:00:00 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiJ2h0dHBzOi8vd3d3Lm5ubi5jby5qcC9hcnRpY2xlcy8tLzIzNzY5ONIBAA?oc=5" target="_blank"&gt;爆笑問題、麻生太郎氏やバイデン大統領をネタに漫才「不適切にもほどがある」&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;日本海新聞&lt;/font&gt;</description>
-      <source url="https://www.nnn.co.jp">日本海新聞</source>
     </item>
     <item>
       <title>フォーカス：田中裕二 バラエティー「秘密のケンミンSHOW極」 夕飯不要の収録日 - 毎日新聞</title>
@@ -255,6 +263,14 @@
       <pubDate>Sun, 26 Nov 2023 08:00:00 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiJmh0dHBzOi8vd3d3Lm9yaWNvbi5jby5qcC9uZXdzLzIzMDM4OTIv0gEA?oc=5" target="_blank"&gt;爆笑問題・田中裕二、初恋の人に40年ぶり再会 元・人気芸人も30年ぶりバラエティー番組登場&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;ORICON NEWS&lt;/font&gt;</description>
       <source url="https://www.oricon.co.jp">ORICON NEWS</source>
+    </item>
+    <item>
+      <title>太田光、「サンジャポ」で「お笑いの日」に出演しなかったことに不満さく裂…「勝手に『お笑いの日』って決めて俺ら呼ばないってどういうこと？」 - スポーツ報知</title>
+      <link>https://news.google.com/rss/articles/CBMiNGh0dHBzOi8vaG9jaGkubmV3cy9hcnRpY2xlcy8yMDIzMTAyMi1PSFQxVDUxMDU5Lmh0bWzSAQA?oc=5</link>
+      <guid isPermaLink="false">CBMiNGh0dHBzOi8vaG9jaGkubmV3cy9hcnRpY2xlcy8yMDIzMTAyMi1PSFQxVDUxMDU5Lmh0bWzSAQA</guid>
+      <pubDate>Sun, 22 Oct 2023 07:00:00 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiNGh0dHBzOi8vaG9jaGkubmV3cy9hcnRpY2xlcy8yMDIzMTAyMi1PSFQxVDUxMDU5Lmh0bWzSAQA?oc=5" target="_blank"&gt;太田光、「サンジャポ」で「お笑いの日」に出演しなかったことに不満さく裂…「勝手に『お笑いの日』って決めて俺ら呼ばないってどういうこと？」&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;スポーツ報知&lt;/font&gt;</description>
+      <source url="https://hochi.news">スポーツ報知</source>
     </item>
     <item>
       <title>ウエストランド井口 爆問・田中裕二から「気持ち悪いんだよ！」マジギレ事件暴露 - スポニチアネックス Sponichi Annex</title>
@@ -335,14 +351,6 @@
       <pubDate>Sat, 13 May 2023 07:00:00 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vd3d3Lm5pa2thbnNwb3J0cy5jb20vZW50ZXJ0YWlubWVudC9uZXdzLzIwMjMwNTEyMDAwMDQ3MC5odG1s0gFKaHR0cHM6Ly93d3cubmlra2Fuc3BvcnRzLmNvbS9tL2VudGVydGFpbm1lbnQvbmV3cy9hbXAvMjAyMzA1MTIwMDAwNDcwLmh0bWw?oc=5" target="_blank"&gt;山口もえ、“10億円豪邸”の庭で草むしりする夫・爆問田中裕二の写真公開「私は飽きたので…」&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;ニッカンスポーツ&lt;/font&gt;</description>
       <source url="https://www.nikkansports.com">ニッカンスポーツ</source>
-    </item>
-    <item>
-      <title>爆笑問題・田中、「10億円豪邸」の真相は8億円否定も5億円以上は否定せず | Smart FLASH/スマフラ[光文社週刊誌] - SmartFLASH</title>
-      <link>https://news.google.com/rss/articles/CBMiJWh0dHBzOi8vc21hcnQtZmxhc2guanAvZW50YW1lLzIwNDQyMy_SAQA?oc=5</link>
-      <guid isPermaLink="false">CBMiJWh0dHBzOi8vc21hcnQtZmxhc2guanAvZW50YW1lLzIwNDQyMy_SAQA</guid>
-      <pubDate>Sat, 08 Oct 2022 07:00:00 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiJWh0dHBzOi8vc21hcnQtZmxhc2guanAvZW50YW1lLzIwNDQyMy_SAQA?oc=5" target="_blank"&gt;爆笑問題・田中、「10億円豪邸」の真相は8億円否定も5億円以上は否定せず | Smart FLASH/スマフラ[光文社週刊誌]&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;SmartFLASH&lt;/font&gt;</description>
-      <source url="https://smart-flash.jp">SmartFLASH</source>
     </item>
     <item>
       <title>爆笑問題・田中裕二 初恋相手と40年ぶり再会！「ボキャブラ天国」出演の元人気芸人が30年ぶりバラエティーに登場！ - 日本テレビ</title>
@@ -503,14 +511,6 @@
       <pubDate>Fri, 10 Nov 2023 08:00:00 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiNGh0dHBzOi8vaG9jaGkubmV3cy9hcnRpY2xlcy8yMDIzMTExMC1PSFQxVDUxMDY1Lmh0bWzSAQA?oc=5" target="_blank"&gt;「爆笑問題」田中裕二の妻・山口もえ、手作り弁当がすてき！前日から仕込んだビビンバなど…３児の母&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;スポーツ報知&lt;/font&gt;</description>
       <source url="https://hochi.news">スポーツ報知</source>
-    </item>
-    <item>
-      <title>爆笑問題の太田光が漫才でジャニーズ事務所の新社名を提案 田中裕二は「もっとちらちらするから！顔が！！」 - サンスポ</title>
-      <link>https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vd3d3LnNhbnNwby5jb20vYXJ0aWNsZS8yMDIzMDYwOS1RUTZRTFZNNFZOSTQ1SUZPM1hLTEtLRDNZRS_SAVJodHRwczovL3d3dy5zYW5zcG8uY29tL2FydGljbGUvMjAyMzA2MDktUVE2UUxWTTRWTkk0NUlGTzNYS0xLS0QzWUUvP291dHB1dFR5cGU9YW1w?oc=5</link>
-      <guid isPermaLink="false">CBMiQ2h0dHBzOi8vd3d3LnNhbnNwby5jb20vYXJ0aWNsZS8yMDIzMDYwOS1RUTZRTFZNNFZOSTQ1SUZPM1hLTEtLRDNZRS_SAVJodHRwczovL3d3dy5zYW5zcG8uY29tL2FydGljbGUvMjAyMzA2MDktUVE2UUxWTTRWTkk0NUlGTzNYS0xLS0QzWUUvP291dHB1dFR5cGU9YW1w</guid>
-      <pubDate>Fri, 09 Jun 2023 07:00:00 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vd3d3LnNhbnNwby5jb20vYXJ0aWNsZS8yMDIzMDYwOS1RUTZRTFZNNFZOSTQ1SUZPM1hLTEtLRDNZRS_SAVJodHRwczovL3d3dy5zYW5zcG8uY29tL2FydGljbGUvMjAyMzA2MDktUVE2UUxWTTRWTkk0NUlGTzNYS0xLS0QzWUUvP291dHB1dFR5cGU9YW1w?oc=5" target="_blank"&gt;爆笑問題の太田光が漫才でジャニーズ事務所の新社名を提案 田中裕二は「もっとちらちらするから！顔が！！」&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;サンスポ&lt;/font&gt;</description>
-      <source url="https://www.sanspo.com">サンスポ</source>
     </item>
     <item>
       <title>TV×YouTube トップ会談が実現！ 爆笑問題×春とヒコーキ「お茶の間にあったTVの未来 1人で楽しむYouTubeの未来」 - TV Bros.WEB　（テレビブロス ウェブ）</title>
