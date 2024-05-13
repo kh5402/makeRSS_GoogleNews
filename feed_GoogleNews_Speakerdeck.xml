@@ -6,7 +6,7 @@
     <language>ja</language>
     <webMaster>news-webmaster@google.com</webMaster>
     <copyright>2024 Google Inc.</copyright>
-    <lastBuildDate>Mon, 13 May 2024 15:17:54 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 May 2024 16:22:13 GMT</lastBuildDate>
     <description>Google ニュース</description>
     <item>
       <title>microCMS AI - Speaker Deck</title>
@@ -505,14 +505,6 @@
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
-      <title>20240514 AI JIMY - 登壇(実行編) - Speaker Deck</title>
-      <link>https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vc3BlYWtlcmRlY2suY29tL2hhbmFjY2hpL2FpLWppbXktZGVuZy10YW4tc2hpLXhpbmctYmlhbtIBAA?oc=5</link>
-      <guid isPermaLink="false">CBMiP2h0dHBzOi8vc3BlYWtlcmRlY2suY29tL2hhbmFjY2hpL2FpLWppbXktZGVuZy10YW4tc2hpLXhpbmctYmlhbtIBAA</guid>
-      <pubDate>Sun, 12 May 2024 09:35:07 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vc3BlYWtlcmRlY2suY29tL2hhbmFjY2hpL2FpLWppbXktZGVuZy10YW4tc2hpLXhpbmctYmlhbtIBAA?oc=5" target="_blank"&gt;20240514 AI JIMY - 登壇(実行編)&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
-      <source url="https://speakerdeck.com">Speaker Deck</source>
-    </item>
-    <item>
       <title>大学の事務業務における生成AI導入のための思考的枠組みに関する考察 - Speaker Deck</title>
       <link>https://news.google.com/rss/articles/CBMigAFodHRwczovL3NwZWFrZXJkZWNrLmNvbS9nbW9yaWtpL2RhLXh1ZS1ub3NoaS13dS15ZS13dS1uaW9rZXJ1c2hlbmctY2hlbmctYWlkYW8tcnUtbm90YW1lbm9zaS1rYW8tZGUtd2FrdS16dS1taW5pZ3Vhbi1zdXJ1a2FvLWNoYdIBAA?oc=5</link>
       <guid isPermaLink="false">CBMigAFodHRwczovL3NwZWFrZXJkZWNrLmNvbS9nbW9yaWtpL2RhLXh1ZS1ub3NoaS13dS15ZS13dS1uaW9rZXJ1c2hlbmctY2hlbmctYWlkYW8tcnUtbm90YW1lbm9zaS1rYW8tZGUtd2FrdS16dS1taW5pZ3Vhbi1zdXJ1a2FvLWNoYdIBAA</guid>
@@ -550,6 +542,14 @@
       <guid isPermaLink="false">CBMiRWh0dHBzOi8vc3BlYWtlcmRlY2suY29tL2tpc2hpZGEvd3JpdGUtYS1leGVjdXRhYmxlLXByb2Nlc3MtZm9yLWFpLWVyYdIBAA</guid>
       <pubDate>Sat, 20 Jan 2024 08:00:00 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vc3BlYWtlcmRlY2suY29tL2tpc2hpZGEvd3JpdGUtYS1leGVjdXRhYmxlLXByb2Nlc3MtZm9yLWFpLWVyYdIBAA?oc=5" target="_blank"&gt;AI時代を生き抜くために処理をちゃんと書けるようになろう / write a executable process for AI era&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
+      <source url="https://speakerdeck.com">Speaker Deck</source>
+    </item>
+    <item>
+      <title>[第4回 全国医療AIコンテスト] Kaggleから学んだ医療画像データ解析の取り組み方 - Speaker Deck</title>
+      <link>https://news.google.com/rss/articles/CBMihwFodHRwczovL3NwZWFrZXJkZWNrLmNvbS9pbm9pY2hhbi9kaS00aHVpLXF1YW4tZ3VvLXlpLWxpYW8tYWlrb250ZXN1dG8ta2FnZ2xla2FyYXh1ZS1uZGF5aS1saWFvLWh1YS14aWFuZy1kZXRhamllLXhpLWZhbHNlcXUtcml6dS1taWZhbmfSAQA?oc=5</link>
+      <guid isPermaLink="false">CBMihwFodHRwczovL3NwZWFrZXJkZWNrLmNvbS9pbm9pY2hhbi9kaS00aHVpLXF1YW4tZ3VvLXlpLWxpYW8tYWlrb250ZXN1dG8ta2FnZ2xla2FyYXh1ZS1uZGF5aS1saWFvLWh1YS14aWFuZy1kZXRhamllLXhpLWZhbHNlcXUtcml6dS1taWZhbmfSAQA</guid>
+      <pubDate>Sat, 19 Mar 2022 07:00:00 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMihwFodHRwczovL3NwZWFrZXJkZWNrLmNvbS9pbm9pY2hhbi9kaS00aHVpLXF1YW4tZ3VvLXlpLWxpYW8tYWlrb250ZXN1dG8ta2FnZ2xla2FyYXh1ZS1uZGF5aS1saWFvLWh1YS14aWFuZy1kZXRhamllLXhpLWZhbHNlcXUtcml6dS1taWZhbmfSAQA?oc=5" target="_blank"&gt;[第4回 全国医療AIコンテスト] Kaggleから学んだ医療画像データ解析の取り組み方&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
