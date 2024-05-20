@@ -6,7 +6,7 @@
     <language>ja</language>
     <webMaster>news-webmaster@google.com</webMaster>
     <copyright>2024 Google Inc.</copyright>
-    <lastBuildDate>Mon, 20 May 2024 22:15:07 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 May 2024 23:17:17 GMT</lastBuildDate>
     <description>Google ニュース</description>
     <item>
       <title>microCMS AI - Speaker Deck</title>
@@ -158,6 +158,14 @@
       <guid isPermaLink="false">CBMiamh0dHBzOi8vc3BlYWtlcmRlY2suY29tL2ljb3hmb2c0MTcvcHVyb2Rha3V0b25vY2hlbmctY2hhbmctd29yaWRvc3VydXNoZW5nLWNoZW5nLXhpLWFpLW5vaHVvLXlvbmctemhhbi1sdWXSAQA</guid>
       <pubDate>Tue, 30 May 2023 07:00:00 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiamh0dHBzOi8vc3BlYWtlcmRlY2suY29tL2ljb3hmb2c0MTcvcHVyb2Rha3V0b25vY2hlbmctY2hhbmctd29yaWRvc3VydXNoZW5nLWNoZW5nLXhpLWFpLW5vaHVvLXlvbmctemhhbi1sdWXSAQA?oc=5" target="_blank"&gt;プロダクトの成長をリードする生成系 AI の活用戦略&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
+      <source url="https://speakerdeck.com">Speaker Deck</source>
+    </item>
+    <item>
+      <title>AIエージェントとLangChain - Speaker Deck</title>
+      <link>https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vc3BlYWtlcmRlY2suY29tL21hc2FoaXJvX25pc2hpbWkvYWllemllbnRvdG9sYW5nY2hhaW7SAQA?oc=5</link>
+      <guid isPermaLink="false">CBMiPWh0dHBzOi8vc3BlYWtlcmRlY2suY29tL21hc2FoaXJvX25pc2hpbWkvYWllemllbnRvdG9sYW5nY2hhaW7SAQA</guid>
+      <pubDate>Tue, 30 Jan 2024 08:00:00 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vc3BlYWtlcmRlY2suY29tL21hc2FoaXJvX25pc2hpbWkvYWllemllbnRvdG9sYW5nY2hhaW7SAQA?oc=5" target="_blank"&gt;AIエージェントとLangChain&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
@@ -649,27 +657,11 @@
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
-      <title>LLM評価の落とし穴~開発者目線で気をつけるポイント~ - Speaker Deck</title>
-      <link>https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3Jpc2hpZ2FtaS9sbG1waW5nLWppYS1ub2x1by10b3NpeHVlLWthaS1mYS16aGUtbXUteGlhbi1kZXFpLXdvdHVrZXJ1cG9pbnRv0gEA?oc=5</link>
-      <guid isPermaLink="false">CBMiYmh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3Jpc2hpZ2FtaS9sbG1waW5nLWppYS1ub2x1by10b3NpeHVlLWthaS1mYS16aGUtbXUteGlhbi1kZXFpLXdvdHVrZXJ1cG9pbnRv0gEA</guid>
-      <pubDate>Mon, 13 May 2024 11:15:02 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3Jpc2hpZ2FtaS9sbG1waW5nLWppYS1ub2x1by10b3NpeHVlLWthaS1mYS16aGUtbXUteGlhbi1kZXFpLXdvdHVrZXJ1cG9pbnRv0gEA?oc=5" target="_blank"&gt;LLM評価の落とし穴~開発者目線で気をつけるポイント~&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
-      <source url="https://speakerdeck.com">Speaker Deck</source>
-    </item>
-    <item>
       <title>AI技術動向：予測の不確かさの活について - Speaker Deck</title>
       <link>https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vc3BlYWtlcmRlY2suY29tL2lzaWRhaXRjL2Fpamktc2h1LWRvbmcteGlhbmcteXUtY2UtZmFsc2VidS1xdWUta2FzYWZhbHNlaHVvLW5pdHVpdGXSAQA?oc=5</link>
       <guid isPermaLink="false">CBMiW2h0dHBzOi8vc3BlYWtlcmRlY2suY29tL2lzaWRhaXRjL2Fpamktc2h1LWRvbmcteGlhbmcteXUtY2UtZmFsc2VidS1xdWUta2FzYWZhbHNlaHVvLW5pdHVpdGXSAQA</guid>
       <pubDate>Mon, 13 Jun 2022 07:00:00 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vc3BlYWtlcmRlY2suY29tL2lzaWRhaXRjL2Fpamktc2h1LWRvbmcteGlhbmcteXUtY2UtZmFsc2VidS1xdWUta2FzYWZhbHNlaHVvLW5pdHVpdGXSAQA?oc=5" target="_blank"&gt;AI技術動向：予測の不確かさの活について&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
-      <source url="https://speakerdeck.com">Speaker Deck</source>
-    </item>
-    <item>
-      <title>Human-AI Interaction - Lecture 11 - Next Generation User Interfaces (4018166FNR) - Speaker Deck</title>
-      <link>https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3NpZ25lci9odW1hbi1haS1pbnRlcmFjdGlvbi1sZWN0dXJlLTExLW5leHQtZ2VuZXJhdGlvbi11c2VyLWludGVyZmFjZXMtNDAxODE2NmZuctIBAA?oc=5</link>
-      <guid isPermaLink="false">CBMiaWh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3NpZ25lci9odW1hbi1haS1pbnRlcmFjdGlvbi1sZWN0dXJlLTExLW5leHQtZ2VuZXJhdGlvbi11c2VyLWludGVyZmFjZXMtNDAxODE2NmZuctIBAA</guid>
-      <pubDate>Mon, 06 May 2024 10:05:28 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3NpZ25lci9odW1hbi1haS1pbnRlcmFjdGlvbi1sZWN0dXJlLTExLW5leHQtZ2VuZXJhdGlvbi11c2VyLWludGVyZmFjZXMtNDAxODE2NmZuctIBAA?oc=5" target="_blank"&gt;Human-AI Interaction - Lecture 11 - Next Generation User Interfaces (4018166FNR)&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
@@ -726,6 +718,14 @@
       <guid isPermaLink="false">CBMiQWh0dHBzOi8vc3BlYWtlcmRlY2suY29tL2hpcm9zYXRvZ2Ftby9jaGF0Z3B0LWF6dXJlLW9wZW5haS1kYS1xdWFu0gEA</guid>
       <pubDate>Fri, 21 Jul 2023 07:00:00 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiQWh0dHBzOi8vc3BlYWtlcmRlY2suY29tL2hpcm9zYXRvZ2Ftby9jaGF0Z3B0LWF6dXJlLW9wZW5haS1kYS1xdWFu0gEA?oc=5" target="_blank"&gt;ChatGPT - LLMシステム開発大全&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
+      <source url="https://speakerdeck.com">Speaker Deck</source>
+    </item>
+    <item>
+      <title>初心者こそIaC！Terraformで学ぶAWS構築の基礎 - Speaker Deck</title>
+      <link>https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vc3BlYWtlcmRlY2suY29tL21haW15eXltL2NodS14aW4temhlLWtvc29pYWMtdGVycmFmb3JtZGV4dWUtYnVhd3Nnb3Utemh1LW5vamktY2h10gEA?oc=5</link>
+      <guid isPermaLink="false">CBMiWWh0dHBzOi8vc3BlYWtlcmRlY2suY29tL21haW15eXltL2NodS14aW4temhlLWtvc29pYWMtdGVycmFmb3JtZGV4dWUtYnVhd3Nnb3Utemh1LW5vamktY2h10gEA</guid>
+      <pubDate>Fri, 19 Jan 2024 08:00:00 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vc3BlYWtlcmRlY2suY29tL21haW15eXltL2NodS14aW4temhlLWtvc29pYWMtdGVycmFmb3JtZGV4dWUtYnVhd3Nnb3Utemh1LW5vamktY2h10gEA?oc=5" target="_blank"&gt;初心者こそIaC！Terraformで学ぶAWS構築の基礎&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
