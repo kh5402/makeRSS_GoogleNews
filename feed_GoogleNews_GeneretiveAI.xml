@@ -6,7 +6,7 @@
     <language>ja</language>
     <webMaster>news-webmaster@google.com</webMaster>
     <copyright>2024 Google Inc.</copyright>
-    <lastBuildDate>Sun, 26 May 2024 02:32:01 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 May 2024 03:17:46 GMT</lastBuildDate>
     <description>Google ニュース</description>
     <item>
       <title>「Copilot+ PC（そしてWindows）はAIアプリケーション開発の強力なプラットフォーム」、ナデラCEOがBuildで説明 - ＠IT</title>
@@ -257,6 +257,14 @@
       <source url="https://www.nikkei.com">日本経済新聞</source>
     </item>
     <item>
+      <title>アドビ、Lightroomに画像生成AI「Firefly」を初搭載 - Impress Watch</title>
+      <link>https://news.google.com/rss/articles/CBMiNmh0dHBzOi8vd3d3LndhdGNoLmltcHJlc3MuY28uanAvZG9jcy9uZXdzLzE1OTMzNTQuaHRtbNIBAA?oc=5</link>
+      <guid isPermaLink="false">CBMiNmh0dHBzOi8vd3d3LndhdGNoLmltcHJlc3MuY28uanAvZG9jcy9uZXdzLzE1OTMzNTQuaHRtbNIBAA</guid>
+      <pubDate>Tue, 21 May 2024 13:00:00 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiNmh0dHBzOi8vd3d3LndhdGNoLmltcHJlc3MuY28uanAvZG9jcy9uZXdzLzE1OTMzNTQuaHRtbNIBAA?oc=5" target="_blank"&gt;アドビ、Lightroomに画像生成AI「Firefly」を初搭載&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Impress Watch&lt;/font&gt;</description>
+      <source url="https://www.watch.impress.co.jp">Impress Watch</source>
+    </item>
+    <item>
       <title>AI規制、日米も法整備へ転換 ChatGPTの登場が契機：朝日新聞デジタル - 朝日新聞デジタル</title>
       <link>https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LmFzYWhpLmNvbS9hcnRpY2xlcy9BU1M1UDNUN0NTNVBVTEZBMDEwTS5odG1s0gEA?oc=5</link>
       <guid isPermaLink="false">CBMiOGh0dHBzOi8vd3d3LmFzYWhpLmNvbS9hcnRpY2xlcy9BU1M1UDNUN0NTNVBVTEZBMDEwTS5odG1s0gEA</guid>
@@ -375,6 +383,14 @@
       <pubDate>Tue, 21 May 2024 00:01:48 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vd3d3My5uaGsub3IuanAvbmV3cy9odG1sLzIwMjQwNTIxL2sxMDAxNDQ1NTc1MTAwMC5odG1s0gEA?oc=5" target="_blank"&gt;マイクロソフト「生成AI向けの新たなパソコン開発」発表 | NHK&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;nhk.or.jp&lt;/font&gt;</description>
       <source url="https://www3.nhk.or.jp">nhk.or.jp</source>
+    </item>
+    <item>
+      <title>生成AI活用により営業人員の即戦力化を実現、フジテックスが「exaBase 生成AI」の販売を開始〜データ連携の活用 ... - エクサウィザーズ</title>
+      <link>https://news.google.com/rss/articles/CBMiJmh0dHBzOi8vZXhhd2l6YXJkcy5jb20vYXJjaGl2ZXMvMjc0NDgv0gEA?oc=5</link>
+      <guid isPermaLink="false">CBMiJmh0dHBzOi8vZXhhd2l6YXJkcy5jb20vYXJjaGl2ZXMvMjc0NDgv0gEA</guid>
+      <pubDate>Thu, 23 May 2024 23:33:11 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiJmh0dHBzOi8vZXhhd2l6YXJkcy5jb20vYXJjaGl2ZXMvMjc0NDgv0gEA?oc=5" target="_blank"&gt;生成AI活用により営業人員の即戦力化を実現、フジテックスが「exaBase 生成AI」の販売を開始〜データ連携の活用 ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;エクサウィザーズ&lt;/font&gt;</description>
+      <source url="https://exawizards.com">エクサウィザーズ</source>
     </item>
     <item>
       <title>有力AI企業が東京に拠点を設けるワケ 「日本は機械学習パラダイス」 - ITmedia ビジネスオンライン</title>
@@ -545,14 +561,6 @@
       <source url="https://www3.nhk.or.jp">nhk.or.jp</source>
     </item>
     <item>
-      <title>「GPUを使うとデータセンターの“あれ”が変わる」 研究機関がAI活用を語る - TechTargetジャパン</title>
-      <link>https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vdGVjaHRhcmdldC5pdG1lZGlhLmNvLmpwL3R0L25ld3MvMjQwNS8yNi9uZXdzMDEuaHRtbNIBAA?oc=5</link>
-      <guid isPermaLink="false">CBMiPGh0dHBzOi8vdGVjaHRhcmdldC5pdG1lZGlhLmNvLmpwL3R0L25ld3MvMjQwNS8yNi9uZXdzMDEuaHRtbNIBAA</guid>
-      <pubDate>Sat, 25 May 2024 23:00:00 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vdGVjaHRhcmdldC5pdG1lZGlhLmNvLmpwL3R0L25ld3MvMjQwNS8yNi9uZXdzMDEuaHRtbNIBAA?oc=5" target="_blank"&gt;「GPUを使うとデータセンターの“あれ”が変わる」 研究機関がAI活用を語る&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;TechTargetジャパン&lt;/font&gt;</description>
-      <source url="https://techtarget.itmedia.co.jp">TechTargetジャパン</source>
-    </item>
-    <item>
       <title>「うつぶせ寝」事故の防止にAIの目が光る 寝姿解析システム、保育園で導入進む 保育士の記録作業も軽減：東京新聞 ... - 東京新聞</title>
       <link>https://news.google.com/rss/articles/CBMiKWh0dHBzOi8vd3d3LnRva3lvLW5wLmNvLmpwL2FydGljbGUvMzI5Mzg00gEA?oc=5</link>
       <guid isPermaLink="false">CBMiKWh0dHBzOi8vd3d3LnRva3lvLW5wLmNvLmpwL2FydGljbGUvMzI5Mzg00gEA</guid>
@@ -601,6 +609,14 @@
       <source url="https://www.asahi.com">朝日新聞デジタル</source>
     </item>
     <item>
+      <title>わずか3日で配信中止になった話題作が復活！ 「ドキドキAI尋問ゲーム 完全版」，Steamで配信開始 - 4Gamer.net</title>
+      <link>https://news.google.com/rss/articles/CBMiNWh0dHBzOi8vd3d3LjRnYW1lci5uZXQvZ2FtZXMvODAyL0cwODAyMjYvMjAyNDA1MjQwNDMv0gEA?oc=5</link>
+      <guid isPermaLink="false">CBMiNWh0dHBzOi8vd3d3LjRnYW1lci5uZXQvZ2FtZXMvODAyL0cwODAyMjYvMjAyNDA1MjQwNDMv0gEA</guid>
+      <pubDate>Sat, 25 May 2024 11:40:00 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiNWh0dHBzOi8vd3d3LjRnYW1lci5uZXQvZ2FtZXMvODAyL0cwODAyMjYvMjAyNDA1MjQwNDMv0gEA?oc=5" target="_blank"&gt;わずか3日で配信中止になった話題作が復活！ 「ドキドキAI尋問ゲーム 完全版」，Steamで配信開始&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;4Gamer.net&lt;/font&gt;</description>
+      <source url="https://www.4gamer.net">4Gamer.net</source>
+    </item>
+    <item>
       <title>【日本ダービー】ＡＩが進化しようが…俺の双眼鏡にはかなわない 前日気配で浮上！馬匠・渡辺薫の「爆弾馬」 - 東スポ競馬</title>
       <link>https://news.google.com/rss/articles/CBMiJWh0dHBzOi8vdG9zcG8ta2VpYmEuanAvZm9yZWNhc3QvNDU1MzfSAQA?oc=5</link>
       <guid isPermaLink="false">CBMiJWh0dHBzOi8vdG9zcG8ta2VpYmEuanAvZm9yZWNhc3QvNDU1MzfSAQA</guid>
@@ -633,14 +649,6 @@
       <source url="https://www.itmedia.co.jp">ITmedia NEWS</source>
     </item>
     <item>
-      <title>小中校に生成ＡＩ、問題アドバイス表示 教職員の資料作成にも、岐阜市が実証実験へ - 岐阜新聞</title>
-      <link>https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vd3d3LmdpZnUtbnAuY28uanAvYXJ0aWNsZXMvLS8zOTAyOTTSAQA?oc=5</link>
-      <guid isPermaLink="false">CBMiK2h0dHBzOi8vd3d3LmdpZnUtbnAuY28uanAvYXJ0aWNsZXMvLS8zOTAyOTTSAQA</guid>
-      <pubDate>Sat, 25 May 2024 00:34:00 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vd3d3LmdpZnUtbnAuY28uanAvYXJ0aWNsZXMvLS8zOTAyOTTSAQA?oc=5" target="_blank"&gt;小中校に生成ＡＩ、問題アドバイス表示 教職員の資料作成にも、岐阜市が実証実験へ&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;岐阜新聞&lt;/font&gt;</description>
-      <source url="https://www.gifu-np.co.jp">岐阜新聞</source>
-    </item>
-    <item>
       <title>サイトやメール「どこで見たっけ」すぐ分かる AIで履歴検索「回顧」 「Copilot+PCs」に搭載 - ITmedia NEWS</title>
       <link>https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3Lml0bWVkaWEuY28uanAvbmV3cy9hcnRpY2xlcy8yNDA1LzIxL25ld3MwOTUuaHRtbNIBAA?oc=5</link>
       <guid isPermaLink="false">CBMiPGh0dHBzOi8vd3d3Lml0bWVkaWEuY28uanAvbmV3cy9hcnRpY2xlcy8yNDA1LzIxL25ld3MwOTUuaHRtbNIBAA</guid>
@@ -665,28 +673,12 @@
       <source url="https://www.nikkei.com">日本経済新聞</source>
     </item>
     <item>
-      <title>AIの不適切発言を引き出せ！ 横須賀市、“未完成”のチャットbot公開 GPT-4o活用 - ITmedia</title>
-      <link>https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vd3d3Lml0bWVkaWEuY28uanAvYWlwbHVzL2FydGljbGVzLzI0MDUvMjAvbmV3czE3NS5odG1s0gEA?oc=5</link>
-      <guid isPermaLink="false">CBMiPmh0dHBzOi8vd3d3Lml0bWVkaWEuY28uanAvYWlwbHVzL2FydGljbGVzLzI0MDUvMjAvbmV3czE3NS5odG1s0gEA</guid>
-      <pubDate>Mon, 20 May 2024 10:17:00 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vd3d3Lml0bWVkaWEuY28uanAvYWlwbHVzL2FydGljbGVzLzI0MDUvMjAvbmV3czE3NS5odG1s0gEA?oc=5" target="_blank"&gt;AIの不適切発言を引き出せ！ 横須賀市、“未完成”のチャットbot公開 GPT-4o活用&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;ITmedia&lt;/font&gt;</description>
-      <source url="https://www.itmedia.co.jp">ITmedia</source>
-    </item>
-    <item>
       <title>「進化したAIに人間が“道連れ”にされて滅ぶ」可能性も？ AI開発の競争と安全性を考える | 経済・IT - ABEMA TIMES</title>
       <link>https://news.google.com/rss/articles/CBMiKmh0dHBzOi8vdGltZXMuYWJlbWEudHYvYXJ0aWNsZXMvLS8xMDEyNzY5NtIBAA?oc=5</link>
       <guid isPermaLink="false">CBMiKmh0dHBzOi8vdGltZXMuYWJlbWEudHYvYXJ0aWNsZXMvLS8xMDEyNzY5NtIBAA</guid>
       <pubDate>Fri, 24 May 2024 23:00:00 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiKmh0dHBzOi8vdGltZXMuYWJlbWEudHYvYXJ0aWNsZXMvLS8xMDEyNzY5NtIBAA?oc=5" target="_blank"&gt;「進化したAIに人間が“道連れ”にされて滅ぶ」可能性も？ AI開発の競争と安全性を考える | 経済・IT&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;ABEMA TIMES&lt;/font&gt;</description>
       <source url="https://times.abema.tv">ABEMA TIMES</source>
-    </item>
-    <item>
-      <title>翻訳でも生成AI台頭？｢DeepL｣が見いだす勝ち筋 - 東洋経済オンライン</title>
-      <link>https://news.google.com/rss/articles/CBMiKGh0dHBzOi8vdG95b2tlaXphaS5uZXQvYXJ0aWNsZXMvLS83NTY1MzTSAQA?oc=5</link>
-      <guid isPermaLink="false">CBMiKGh0dHBzOi8vdG95b2tlaXphaS5uZXQvYXJ0aWNsZXMvLS83NTY1MzTSAQA</guid>
-      <pubDate>Fri, 24 May 2024 20:42:25 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiKGh0dHBzOi8vdG95b2tlaXphaS5uZXQvYXJ0aWNsZXMvLS83NTY1MzTSAQA?oc=5" target="_blank"&gt;翻訳でも生成AI台頭？｢DeepL｣が見いだす勝ち筋&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;東洋経済オンライン&lt;/font&gt;</description>
-      <source url="https://toyokeizai.net">東洋経済オンライン</source>
     </item>
     <item>
       <title>アングル：ヨハンソンさんとオープンＡＩが対決、ハリウッドの論争に着火 - ロイター (Reuters Japan)</title>
@@ -737,20 +729,20 @@
       <source url="https://www.preferred.jp">株式会社Preferred Networks</source>
     </item>
     <item>
+      <title>AI市場の近況 しばらくは現在のような高水準の成長が続く - トウシル</title>
+      <link>https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vbWVkaWEucmFrdXRlbi1zZWMubmV0L2FydGljbGVzLy0vNDUzMDXSATBodHRwczovL21lZGlhLnJha3V0ZW4tc2VjLm5ldC9hcnRpY2xlcy9hbXAvNDUzMDU?oc=5</link>
+      <guid isPermaLink="false">CBMiLmh0dHBzOi8vbWVkaWEucmFrdXRlbi1zZWMubmV0L2FydGljbGVzLy0vNDUzMDXSATBodHRwczovL21lZGlhLnJha3V0ZW4tc2VjLm5ldC9hcnRpY2xlcy9hbXAvNDUzMDU</guid>
+      <pubDate>Fri, 24 May 2024 05:06:00 GMT</pubDate>
+      <description>&lt;ol&gt;&lt;li&gt;&lt;a href="https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vbWVkaWEucmFrdXRlbi1zZWMubmV0L2FydGljbGVzLy0vNDUzMDXSATBodHRwczovL21lZGlhLnJha3V0ZW4tc2VjLm5ldC9hcnRpY2xlcy9hbXAvNDUzMDU?oc=5" target="_blank"&gt;AI市場の近況 しばらくは現在のような高水準の成長が続く&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;トウシル&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vZmluYW5jZS55YWhvby5jby5qcC9uZXdzL2RldGFpbC8wOGM1ZWUwMjFmYjYzZDJlMThmYzBlOWRiZGE4NGUzZTQ2YTVkZDUw0gEA?oc=5" target="_blank"&gt;米エヌビディア、新ＡＩモデルで今後も需要は拡大へ＝ＣＥＯ(ロイター) - Yahoo!ファイナンス&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo!ファイナンス&lt;/font&gt;&lt;/li&gt;&lt;/ol&gt;</description>
+      <source url="https://media.rakuten-sec.net">トウシル</source>
+    </item>
+    <item>
       <title>今すぐ試したい！オリジナル3Dモデルからイラスト生成AIを作れるAvalabがリリース！ - CGWORLD.jp</title>
       <link>https://news.google.com/rss/articles/CBMiLGh0dHBzOi8vY2d3b3JsZC5qcC9mbGFzaG5ld3MvM2RhaWF2YWxhYi5odG1s0gEA?oc=5</link>
       <guid isPermaLink="false">CBMiLGh0dHBzOi8vY2d3b3JsZC5qcC9mbGFzaG5ld3MvM2RhaWF2YWxhYi5odG1s0gEA</guid>
       <pubDate>Fri, 24 May 2024 04:08:35 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiLGh0dHBzOi8vY2d3b3JsZC5qcC9mbGFzaG5ld3MvM2RhaWF2YWxhYi5odG1s0gEA?oc=5" target="_blank"&gt;今すぐ試したい！オリジナル3Dモデルからイラスト生成AIを作れるAvalabがリリース！&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;CGWORLD.jp&lt;/font&gt;</description>
       <source url="https://cgworld.jp">CGWORLD.jp</source>
-    </item>
-    <item>
-      <title>サムスンのＡＩ用メモリー、エヌビディアのテスト不合格＝関係筋 - ロイター (Reuters Japan)</title>
-      <link>https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vanAucmV1dGVycy5jb20vZWNvbm9teS9pbmR1c3RyeS8ySzJDVFRVQVVOS0FERExBVFVQUkxNWlZXNC0yMDI0LTA1LTI0L9IBAA?oc=5</link>
-      <guid isPermaLink="false">CBMiTmh0dHBzOi8vanAucmV1dGVycy5jb20vZWNvbm9teS9pbmR1c3RyeS8ySzJDVFRVQVVOS0FERExBVFVQUkxNWlZXNC0yMDI0LTA1LTI0L9IBAA</guid>
-      <pubDate>Fri, 24 May 2024 04:04:00 GMT</pubDate>
-      <description>&lt;ol&gt;&lt;li&gt;&lt;a href="https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vanAucmV1dGVycy5jb20vZWNvbm9teS9pbmR1c3RyeS8ySzJDVFRVQVVOS0FERExBVFVQUkxNWlZXNC0yMDI0LTA1LTI0L9IBAA?oc=5" target="_blank"&gt;サムスンのＡＩ用メモリー、エヌビディアのテスト不合格＝関係筋&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;ロイター (Reuters Japan)&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vbWVkaWEucmFrdXRlbi1zZWMubmV0L2FydGljbGVzLy0vNDUzMDXSATBodHRwczovL21lZGlhLnJha3V0ZW4tc2VjLm5ldC9hcnRpY2xlcy9hbXAvNDUzMDU?oc=5" target="_blank"&gt;AI市場の近況 しばらくは現在のような高水準の成長が続く&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;トウシル&lt;/font&gt;&lt;/li&gt;&lt;/ol&gt;</description>
-      <source url="https://jp.reuters.com">ロイター (Reuters Japan)</source>
     </item>
     <item>
       <title>GPT-4oとは？ChatGPT最新AIモデル GPT-4o の使い方や料金を詳しく解説 - AIsmiley</title>
@@ -767,6 +759,14 @@
       <pubDate>Fri, 24 May 2024 00:50:03 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LmFzYWhpLmNvbS9hcnRpY2xlcy9BU1M1UzAzQ1NTNVNCUUJRMEdMTS5odG1s0gEA?oc=5" target="_blank"&gt;バイデン大統領のAI「なりすまし音声」、男を起訴 罰金9億円も：朝日新聞デジタル&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;朝日新聞デジタル&lt;/font&gt;</description>
       <source url="https://www.asahi.com">朝日新聞デジタル</source>
+    </item>
+    <item>
+      <title>サムスンのＡＩ用メモリー、エヌビディアのテスト不合格＝関係筋 - ロイター (Reuters Japan)</title>
+      <link>https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vanAucmV1dGVycy5jb20vZWNvbm9teS9pbmR1c3RyeS8ySzJDVFRVQVVOS0FERExBVFVQUkxNWlZXNC0yMDI0LTA1LTI0L9IBAA?oc=5</link>
+      <guid isPermaLink="false">CBMiTmh0dHBzOi8vanAucmV1dGVycy5jb20vZWNvbm9teS9pbmR1c3RyeS8ySzJDVFRVQVVOS0FERExBVFVQUkxNWlZXNC0yMDI0LTA1LTI0L9IBAA</guid>
+      <pubDate>Fri, 24 May 2024 00:43:07 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vanAucmV1dGVycy5jb20vZWNvbm9teS9pbmR1c3RyeS8ySzJDVFRVQVVOS0FERExBVFVQUkxNWlZXNC0yMDI0LTA1LTI0L9IBAA?oc=5" target="_blank"&gt;サムスンのＡＩ用メモリー、エヌビディアのテスト不合格＝関係筋&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;ロイター (Reuters Japan)&lt;/font&gt;</description>
+      <source url="https://jp.reuters.com">ロイター (Reuters Japan)</source>
     </item>
     <item>
       <title>Google検索の生成AI「AI Overview」、「ピザに接着剤」「犬がNBAでプレイ」などと回答 Redditとの提携の影響か - ITmedia NEWS</title>
