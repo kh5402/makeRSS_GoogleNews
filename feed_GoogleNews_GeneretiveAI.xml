@@ -6,7 +6,7 @@
     <language>ja</language>
     <webMaster>news-webmaster@google.com</webMaster>
     <copyright>2024 Google Inc.</copyright>
-    <lastBuildDate>Fri, 31 May 2024 17:15:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 May 2024 18:21:37 GMT</lastBuildDate>
     <description>Google ニュース</description>
     <item>
       <title>「AIスキルのない人材は採用しない」が6割 MicrosoftとLinkedInが共同レポートを公開 - ＠IT</title>
@@ -65,6 +65,14 @@
       <source url="https://corp.moneyforward.com">株式会社マネーフォワード</source>
     </item>
     <item>
+      <title>実録：AIで描く漫画の実際 ～AIで今風の手描きっぽい漫画を作ってみる (1/6) - ASCII.jp</title>
+      <link>https://news.google.com/rss/articles/CBMiKmh0dHBzOi8vYXNjaWkuanAvZWxlbS8wMDAvMDA0LzIwMC80MjAwMzYxL9IBAA?oc=5</link>
+      <guid isPermaLink="false">CBMiKmh0dHBzOi8vYXNjaWkuanAvZWxlbS8wMDAvMDA0LzIwMC80MjAwMzYxL9IBAA</guid>
+      <pubDate>Wed, 29 May 2024 04:00:00 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiKmh0dHBzOi8vYXNjaWkuanAvZWxlbS8wMDAvMDA0LzIwMC80MjAwMzYxL9IBAA?oc=5" target="_blank"&gt;実録：AIで描く漫画の実際 ～AIで今風の手描きっぽい漫画を作ってみる (1/6)&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;ASCII.jp&lt;/font&gt;</description>
+      <source url="https://ascii.jp">ASCII.jp</source>
+    </item>
+    <item>
       <title>生成AIでランサムウェアを作成した容疑者の摘発事例を考察 - Trend Micro</title>
       <link>https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LnRyZW5kbWljcm8uY29tL2phX2pwL2pwLXNlY3VyaXR5LzI0L2UvYnJlYWtpbmctc2VjdXJpdHluZXdzLTIwMjQwNTI5LTAyLmh0bWzSAQA?oc=5</link>
       <guid isPermaLink="false">CBMiWGh0dHBzOi8vd3d3LnRyZW5kbWljcm8uY29tL2phX2pwL2pwLXNlY3VyaXR5LzI0L2UvYnJlYWtpbmctc2VjdXJpdHluZXdzLTIwMjQwNTI5LTAyLmh0bWzSAQA</guid>
@@ -87,6 +95,14 @@
       <pubDate>Wed, 29 May 2024 00:33:12 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vbmV3cy5udHYuY28uanAvY2F0ZWdvcnkvc29jaWV0eS8wYWM3YWE0NmE1NDk0ZGFiOGU3ZjcwOWJlODliYTBhN9IBAA?oc=5" target="_blank"&gt;生成AI悪用でウイルス作成か……逮捕の25歳は“IT素人” 「AIに聞けばなんでもできる」「楽に稼げれば」 “野良AI”使う ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;日テレNEWS&lt;/font&gt;</description>
       <source url="https://news.ntv.co.jp">日テレNEWS</source>
+    </item>
+    <item>
+      <title>exaBase 生成AI 、高速かつ高精度な最新モデルのGPT-4oに対応予定〜GPT-4 Turboを凌駕する性能で、高度なQA ... - エクサウィザーズ</title>
+      <link>https://news.google.com/rss/articles/CBMiJmh0dHBzOi8vZXhhd2l6YXJkcy5jb20vYXJjaGl2ZXMvMjc0OTYv0gEA?oc=5</link>
+      <guid isPermaLink="false">CBMiJmh0dHBzOi8vZXhhd2l6YXJkcy5jb20vYXJjaGl2ZXMvMjc0OTYv0gEA</guid>
+      <pubDate>Tue, 28 May 2024 23:35:18 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiJmh0dHBzOi8vZXhhd2l6YXJkcy5jb20vYXJjaGl2ZXMvMjc0OTYv0gEA?oc=5" target="_blank"&gt;exaBase 生成AI 、高速かつ高精度な最新モデルのGPT-4oに対応予定〜GPT-4 Turboを凌駕する性能で、高度なQA ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;エクサウィザーズ&lt;/font&gt;</description>
+      <source url="https://exawizards.com">エクサウィザーズ</source>
     </item>
     <item>
       <title>AIによるグーグルの新機能が、Chromebookにもやってくる - WIRED.jp</title>
@@ -169,30 +185,6 @@
       <source url="https://forbesjapan.com">Forbes JAPAN</source>
     </item>
     <item>
-      <title>人工知能で世論操作、オープンＡＩが特定 中国拠点の組織が処理水放出非難に利用 - 産経ニュース</title>
-      <link>https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vd3d3LnNhbmtlaS5jb20vYXJ0aWNsZS8yMDI0MDUzMS1GN01BSjdPRENSTUpQUFNLU1FRR1NISUlDWS_SAQA?oc=5</link>
-      <guid isPermaLink="false">CBMiQ2h0dHBzOi8vd3d3LnNhbmtlaS5jb20vYXJ0aWNsZS8yMDI0MDUzMS1GN01BSjdPRENSTUpQUFNLU1FRR1NISUlDWS_SAQA</guid>
-      <pubDate>Thu, 30 May 2024 23:18:08 GMT</pubDate>
-      <description>&lt;ol&gt;&lt;li&gt;&lt;a href="https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vd3d3LnNhbmtlaS5jb20vYXJ0aWNsZS8yMDI0MDUzMS1GN01BSjdPRENSTUpQUFNLU1FRR1NISUlDWS_SAQA?oc=5" target="_blank"&gt;人工知能で世論操作、オープンＡＩが特定 中国拠点の組織が処理水放出非難に利用&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;産経ニュース&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vd3d3My5uaGsub3IuanAvbmV3cy9odG1sLzIwMjQwNTMxL2sxMDAxNDQ2Njc2MTAwMC5odG1s0gEA?oc=5" target="_blank"&gt;オープンAI “ロシアなど拠点のグループ 生成AIで世論操作” | NHK&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;nhk.or.jp&lt;/font&gt;&lt;/li&gt;&lt;/ol&gt;</description>
-      <source url="https://www.sankei.com">産経ニュース</source>
-    </item>
-    <item>
-      <title>生成AIで素人が“ちゃんと動くソフトウェア”を作れるのか - ITmedia エンタープライズ</title>
-      <link>https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vd3d3Lml0bWVkaWEuY28uanAvZW50ZXJwcmlzZS9hcnRpY2xlcy8yNDA1LzMxL25ld3MwODcuaHRtbNIBAA?oc=5</link>
-      <guid isPermaLink="false">CBMiQmh0dHBzOi8vd3d3Lml0bWVkaWEuY28uanAvZW50ZXJwcmlzZS9hcnRpY2xlcy8yNDA1LzMxL25ld3MwODcuaHRtbNIBAA</guid>
-      <pubDate>Thu, 30 May 2024 23:00:00 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vd3d3Lml0bWVkaWEuY28uanAvZW50ZXJwcmlzZS9hcnRpY2xlcy8yNDA1LzMxL25ld3MwODcuaHRtbNIBAA?oc=5" target="_blank"&gt;生成AIで素人が“ちゃんと動くソフトウェア”を作れるのか&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;ITmedia エンタープライズ&lt;/font&gt;</description>
-      <source url="https://www.itmedia.co.jp">ITmedia エンタープライズ</source>
-    </item>
-    <item>
-      <title>NY株ハイライト セールスフォース20年ぶり下落率 AIの収益化に忍耐 - 日本経済新聞</title>
-      <link>https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3Lm5pa2tlaS5jb20vYXJ0aWNsZS9ER1haUU9GTDMxMDNFMFIzMEMyNEE1MDAwMDAwL9IBAA?oc=5</link>
-      <guid isPermaLink="false">CBMiPGh0dHBzOi8vd3d3Lm5pa2tlaS5jb20vYXJ0aWNsZS9ER1haUU9GTDMxMDNFMFIzMEMyNEE1MDAwMDAwL9IBAA</guid>
-      <pubDate>Thu, 30 May 2024 22:10:25 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3Lm5pa2tlaS5jb20vYXJ0aWNsZS9ER1haUU9GTDMxMDNFMFIzMEMyNEE1MDAwMDAwL9IBAA?oc=5" target="_blank"&gt;NY株ハイライト セールスフォース20年ぶり下落率 AIの収益化に忍耐&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;日本経済新聞&lt;/font&gt;</description>
-      <source url="https://www.nikkei.com">日本経済新聞</source>
-    </item>
-    <item>
       <title>OpenAIと対決するスカーレット・ヨハンソンが“AIへの抵抗の象徴”になっている - WIRED.jp</title>
       <link>https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd2lyZWQuanAvYXJ0aWNsZS9zY2FybGV0dC1qb2hhbnNzb25zLW9wZW5haS1mZXVkLW1ha2VzLWhlci1hbi11bmNhbm55LWZvbGstaGVyby_SAQA?oc=5</link>
       <guid isPermaLink="false">CBMiWGh0dHBzOi8vd2lyZWQuanAvYXJ0aWNsZS9zY2FybGV0dC1qb2hhbnNzb25zLW9wZW5haS1mZXVkLW1ha2VzLWhlci1hbi11bmNhbm55LWZvbGstaGVyby_SAQA</guid>
@@ -215,14 +207,6 @@
       <pubDate>Thu, 30 May 2024 21:00:00 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiI2h0dHBzOi8vYnVuc2h1bi5qcC9hcnRpY2xlcy8tLzcxMDQ10gEA?oc=5" target="_blank"&gt;「田舎者はAIも使えないのか」それでも平井伸治・鳥取県知事が「人工知能導入は民主主義の危機をもたらす可能性がある」と ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;文春オンライン&lt;/font&gt;</description>
       <source url="https://bunshun.jp">文春オンライン</source>
-    </item>
-    <item>
-      <title>AIボット五つを比較、最も役に立つ優勝者は？ - Wall Street Journal</title>
-      <link>https://news.google.com/rss/articles/CBMia2h0dHBzOi8vanAud3NqLmNvbS9hcnRpY2xlcy90aGUtZ3JlYXQtYWktY2hhbGxlbmdlLXdlLXRlc3QtZml2ZS10b3AtYm90cy1vbi11c2VmdWwtZXZlcnlkYXktc2tpbGxzLTI2M2I0YTk30gEA?oc=5</link>
-      <guid isPermaLink="false">CBMia2h0dHBzOi8vanAud3NqLmNvbS9hcnRpY2xlcy90aGUtZ3JlYXQtYWktY2hhbGxlbmdlLXdlLXRlc3QtZml2ZS10b3AtYm90cy1vbi11c2VmdWwtZXZlcnlkYXktc2tpbGxzLTI2M2I0YTk30gEA</guid>
-      <pubDate>Thu, 30 May 2024 20:51:00 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMia2h0dHBzOi8vanAud3NqLmNvbS9hcnRpY2xlcy90aGUtZ3JlYXQtYWktY2hhbGxlbmdlLXdlLXRlc3QtZml2ZS10b3AtYm90cy1vbi11c2VmdWwtZXZlcnlkYXktc2tpbGxzLTI2M2I0YTk30gEA?oc=5" target="_blank"&gt;AIボット五つを比較、最も役に立つ優勝者は？&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Wall Street Journal&lt;/font&gt;</description>
-      <source url="https://jp.wsj.com">Wall Street Journal</source>
     </item>
     <item>
       <title>生成AIを賢くするには「メガプロンプト」がお勧め、ファインチューニングは有害？ - ITpro</title>
@@ -279,6 +263,14 @@
       <pubDate>Thu, 30 May 2024 03:00:00 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vd3d3Lml0bWVkaWEuY28uanAvYWlwbHVzL2FydGljbGVzLzI0MDUvMzAvbmV3czA0Ni5odG1s0gEA?oc=5" target="_blank"&gt;“大は小を兼ねない”生成AI 注目集める「小規模言語モデル」（SLM） そのメリットとは？&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;ITmedia&lt;/font&gt;</description>
       <source url="https://www.itmedia.co.jp">ITmedia</source>
+    </item>
+    <item>
+      <title>ぶどう「摘粒」作業効率的に ＡＩスマホアプリ公開 山梨大学｜NHK 山梨県のニュース - nhk.or.jp</title>
+      <link>https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3My5uaGsub3IuanAvbG5ld3Mva29mdS8yMDI0MDUzMC8xMDQwMDIzMzg5Lmh0bWzSAQA?oc=5</link>
+      <guid isPermaLink="false">CBMiOmh0dHBzOi8vd3d3My5uaGsub3IuanAvbG5ld3Mva29mdS8yMDI0MDUzMC8xMDQwMDIzMzg5Lmh0bWzSAQA</guid>
+      <pubDate>Thu, 30 May 2024 02:37:00 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3My5uaGsub3IuanAvbG5ld3Mva29mdS8yMDI0MDUzMC8xMDQwMDIzMzg5Lmh0bWzSAQA?oc=5" target="_blank"&gt;ぶどう「摘粒」作業効率的に ＡＩスマホアプリ公開 山梨大学｜NHK 山梨県のニュース&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;nhk.or.jp&lt;/font&gt;</description>
+      <source url="https://www3.nhk.or.jp">nhk.or.jp</source>
     </item>
     <item>
       <title>EUでAIの規制法成立 日本企業でも安全性確保へ対応強化 | NHK | EU - nhk.or.jp</title>
@@ -345,10 +337,18 @@
       <source url="https://www.yomiuri.co.jp">読売新聞オンライン</source>
     </item>
     <item>
+      <title>エヌビディアしのぐ300％高、ＡＩブームで米電力会社の株価急伸 - ブルームバーグ</title>
+      <link>https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vd3d3LmJsb29tYmVyZy5jby5qcC9uZXdzL2FydGljbGVzLzIwMjQtMDUtMzEvU0VDVjdJVDFVTTBXMDDSAQA?oc=5</link>
+      <guid isPermaLink="false">CBMiQ2h0dHBzOi8vd3d3LmJsb29tYmVyZy5jby5qcC9uZXdzL2FydGljbGVzLzIwMjQtMDUtMzEvU0VDVjdJVDFVTTBXMDDSAQA</guid>
+      <pubDate>Fri, 31 May 2024 17:41:00 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vd3d3LmJsb29tYmVyZy5jby5qcC9uZXdzL2FydGljbGVzLzIwMjQtMDUtMzEvU0VDVjdJVDFVTTBXMDDSAQA?oc=5" target="_blank"&gt;エヌビディアしのぐ300％高、ＡＩブームで米電力会社の株価急伸&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;ブルームバーグ&lt;/font&gt;</description>
+      <source url="https://www.bloomberg.co.jp">ブルームバーグ</source>
+    </item>
+    <item>
       <title>ChatGPT-4o対応、マルチモーダルAIメガネ「Frame」が全世界で発売開始 - AIsmiley</title>
       <link>https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vYWlzbWlsZXkuY28uanAvYWlfbmV3cy9icmlsbGlhbnQtbGFicy1haS1mcmFtZS1nbGFzc2VzL9IBAA?oc=5</link>
       <guid isPermaLink="false">CBMiP2h0dHBzOi8vYWlzbWlsZXkuY28uanAvYWlfbmV3cy9icmlsbGlhbnQtbGFicy1haS1mcmFtZS1nbGFzc2VzL9IBAA</guid>
-      <pubDate>Fri, 31 May 2024 14:26:20 GMT</pubDate>
+      <pubDate>Fri, 31 May 2024 17:26:55 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vYWlzbWlsZXkuY28uanAvYWlfbmV3cy9icmlsbGlhbnQtbGFicy1haS1mcmFtZS1nbGFzc2VzL9IBAA?oc=5" target="_blank"&gt;ChatGPT-4o対応、マルチモーダルAIメガネ「Frame」が全世界で発売開始&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;AIsmiley&lt;/font&gt;</description>
       <source url="https://aismiley.co.jp">AIsmiley</source>
     </item>
@@ -369,6 +369,14 @@
       <source url="https://iphone-mania.jp">iPhone Mania</source>
     </item>
     <item>
+      <title>シリコンバレーの司教とカトリックのAI専門家 AIによる福音伝道について議論 2024年5月31日 - キリスト新聞</title>
+      <link>https://news.google.com/rss/articles/CBMiKmh0dHBzOi8vd3d3LmtpcmlzaGluLmNvbS8yMDI0LzA1LzMxLzY2ODE4L9IBAA?oc=5</link>
+      <guid isPermaLink="false">CBMiKmh0dHBzOi8vd3d3LmtpcmlzaGluLmNvbS8yMDI0LzA1LzMxLzY2ODE4L9IBAA</guid>
+      <pubDate>Fri, 31 May 2024 13:00:19 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiKmh0dHBzOi8vd3d3LmtpcmlzaGluLmNvbS8yMDI0LzA1LzMxLzY2ODE4L9IBAA?oc=5" target="_blank"&gt;シリコンバレーの司教とカトリックのAI専門家 AIによる福音伝道について議論 2024年5月31日&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;キリスト新聞&lt;/font&gt;</description>
+      <source url="https://www.kirishin.com">キリスト新聞</source>
+    </item>
+    <item>
       <title>アリストテレスに人生相談しちゃう？ 西洋古典参照の生成AIシステム、名古屋大など開発：中日新聞Web - 中日新聞</title>
       <link>https://news.google.com/rss/articles/CBMiKWh0dHBzOi8vd3d3LmNodW5pY2hpLmNvLmpwL2FydGljbGUvOTA2ODQy0gEA?oc=5</link>
       <guid isPermaLink="false">CBMiKWh0dHBzOi8vd3d3LmNodW5pY2hpLmNvLmpwL2FydGljbGUvOTA2ODQy0gEA</guid>
@@ -385,20 +393,20 @@
       <source url="https://www.kyobun.co.jp">教育新聞</source>
     </item>
     <item>
+      <title>オープンAI “ロシアなど拠点のグループ 生成AIで世論操作” | NHK - nhk.or.jp</title>
+      <link>https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vd3d3My5uaGsub3IuanAvbmV3cy9odG1sLzIwMjQwNTMxL2sxMDAxNDQ2Njc2MTAwMC5odG1s0gEA?oc=5</link>
+      <guid isPermaLink="false">CBMiPmh0dHBzOi8vd3d3My5uaGsub3IuanAvbmV3cy9odG1sLzIwMjQwNTMxL2sxMDAxNDQ2Njc2MTAwMC5odG1s0gEA</guid>
+      <pubDate>Fri, 31 May 2024 11:01:36 GMT</pubDate>
+      <description>&lt;ol&gt;&lt;li&gt;&lt;a href="https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vd3d3My5uaGsub3IuanAvbmV3cy9odG1sLzIwMjQwNTMxL2sxMDAxNDQ2Njc2MTAwMC5odG1s0gEA?oc=5" target="_blank"&gt;オープンAI “ロシアなど拠点のグループ 生成AIで世論操作” | NHK&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;nhk.or.jp&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vd3d3LnNhbmtlaS5jb20vYXJ0aWNsZS8yMDI0MDUzMS1GN01BSjdPRENSTUpQUFNLU1FRR1NISUlDWS_SAQA?oc=5" target="_blank"&gt;人工知能で世論操作、オープンＡＩが特定 中国拠点の組織が処理水放出非難に利用&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;産経ニュース&lt;/font&gt;&lt;/li&gt;&lt;/ol&gt;</description>
+      <source url="https://www3.nhk.or.jp">nhk.or.jp</source>
+    </item>
+    <item>
       <title>TOONTRACKがAI技術を搭載したミックス／マスタリング専用プラグインEZ MIX 3を発表 - サンレコ</title>
       <link>https://news.google.com/rss/articles/CBMiLGh0dHBzOi8vd3d3LnNucmVjLmpwL2VudHJ5LzIwMjQvMDUvMzEvMjAwMDAw0gEA?oc=5</link>
       <guid isPermaLink="false">CBMiLGh0dHBzOi8vd3d3LnNucmVjLmpwL2VudHJ5LzIwMjQvMDUvMzEvMjAwMDAw0gEA</guid>
       <pubDate>Fri, 31 May 2024 11:00:00 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiLGh0dHBzOi8vd3d3LnNucmVjLmpwL2VudHJ5LzIwMjQvMDUvMzEvMjAwMDAw0gEA?oc=5" target="_blank"&gt;TOONTRACKがAI技術を搭載したミックス／マスタリング専用プラグインEZ MIX 3を発表&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;サンレコ&lt;/font&gt;</description>
       <source url="https://www.snrec.jp">サンレコ</source>
-    </item>
-    <item>
-      <title>SAMURAI ARCHITECTS、「knock knock AI」リリース - WorkMaster</title>
-      <link>https://news.google.com/rss/articles/CBMiJmh0dHBzOi8vd3d3LndvcmstbWFzdGVyLm5ldC8yMDI0MzIzOTc10gEA?oc=5</link>
-      <guid isPermaLink="false">CBMiJmh0dHBzOi8vd3d3LndvcmstbWFzdGVyLm5ldC8yMDI0MzIzOTc10gEA</guid>
-      <pubDate>Fri, 31 May 2024 10:53:00 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiJmh0dHBzOi8vd3d3LndvcmstbWFzdGVyLm5ldC8yMDI0MzIzOTc10gEA?oc=5" target="_blank"&gt;SAMURAI ARCHITECTS、「knock knock AI」リリース&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;WorkMaster&lt;/font&gt;</description>
-      <source url="https://www.work-master.net">WorkMaster</source>
     </item>
     <item>
       <title>インフォア、業界特化型ERPに新機能として生成AIとESGレポート機能の提供開始 - オートメーション新聞／ものづくり.jp</title>
@@ -433,6 +441,14 @@
       <source url="https://gigazine.net">GIGAZINE（ギガジン）</source>
     </item>
     <item>
+      <title>プレスリリース：＜不動産向けAIサービス＞ AIホームステージングサービス「Knock Knock AI」プロダクト版を正式ローンチ（PR ... - 毎日新聞</title>
+      <link>https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vbWFpbmljaGkuanAvYXJ0aWNsZXMvMjAyNDA2MDEvcHIyLzAwbS8wMjAvMDcwMDAwY9IBAA?oc=5</link>
+      <guid isPermaLink="false">CBMiOWh0dHBzOi8vbWFpbmljaGkuanAvYXJ0aWNsZXMvMjAyNDA2MDEvcHIyLzAwbS8wMjAvMDcwMDAwY9IBAA</guid>
+      <pubDate>Fri, 31 May 2024 09:51:54 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vbWFpbmljaGkuanAvYXJ0aWNsZXMvMjAyNDA2MDEvcHIyLzAwbS8wMjAvMDcwMDAwY9IBAA?oc=5" target="_blank"&gt;プレスリリース：＜不動産向けAIサービス＞ AIホームステージングサービス「Knock Knock AI」プロダクト版を正式ローンチ（PR ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;毎日新聞&lt;/font&gt;</description>
+      <source url="https://mainichi.jp">毎日新聞</source>
+    </item>
+    <item>
       <title>生成AIでトラッキングデータを補完、機械学習でケガのリスクを最小化…SSACの最新サッカー分析論文解説 - footballista - footballista</title>
       <link>https://news.google.com/rss/articles/CBMiKmh0dHBzOi8vd3d3LmZvb3RiYWxsaXN0YS5qcC9zcGVjaWFsLzE4NDM1N9IBAA?oc=5</link>
       <guid isPermaLink="false">CBMiKmh0dHBzOi8vd3d3LmZvb3RiYWxsaXN0YS5qcC9zcGVjaWFsLzE4NDM1N9IBAA</guid>
@@ -463,14 +479,6 @@
       <pubDate>Fri, 31 May 2024 09:10:01 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vcHJ0aW1lcy5qcC9tYWluL2h0bWwvcmQvcC8wMDAwMDAwMDkuMDAwMTI5NDk5Lmh0bWzSAQA?oc=5" target="_blank"&gt;キャリアサバイバル、製造業の人手不足解消に向けAIサービス開発を本格スタート&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;PR TIMES&lt;/font&gt;</description>
       <source url="https://prtimes.jp">PR TIMES</source>
-    </item>
-    <item>
-      <title>中ロがAIで世論工作・ロシア領攻撃・ビットコインETF 編集者が選ぶニュース3本 - 日本経済新聞</title>
-      <link>https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3Lm5pa2tlaS5jb20vYXJ0aWNsZS9ER1haUU9ETDMxOFZEMFIzMEMyNEE1MDAwMDAwL9IBAA?oc=5</link>
-      <guid isPermaLink="false">CBMiPGh0dHBzOi8vd3d3Lm5pa2tlaS5jb20vYXJ0aWNsZS9ER1haUU9ETDMxOFZEMFIzMEMyNEE1MDAwMDAwL9IBAA</guid>
-      <pubDate>Fri, 31 May 2024 09:00:00 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3Lm5pa2tlaS5jb20vYXJ0aWNsZS9ER1haUU9ETDMxOFZEMFIzMEMyNEE1MDAwMDAwL9IBAA?oc=5" target="_blank"&gt;中ロがAIで世論工作・ロシア領攻撃・ビットコインETF 編集者が選ぶニュース3本&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;日本経済新聞&lt;/font&gt;</description>
-      <source url="https://www.nikkei.com">日本経済新聞</source>
     </item>
     <item>
       <title>目黒記念52倍的中の競馬AI、安田記念で見つけた波乱の伏兵3頭をピックアップ！ - スポーツナビ - スポーツナビ</title>
@@ -527,14 +535,6 @@
       <pubDate>Fri, 31 May 2024 06:04:55 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiNWh0dHBzOi8vcGMud2F0Y2guaW1wcmVzcy5jby5qcC9kb2NzL25ld3MvMTU5NjQzNC5odG1s0gEA?oc=5" target="_blank"&gt;AMD、Intel、MicrosoftなどがAIチップ向けのオープン接続規格策定。NVIDIA対抗か&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;PC Watch&lt;/font&gt;</description>
       <source url="https://pc.watch.impress.co.jp">PC Watch</source>
-    </item>
-    <item>
-      <title>ホリエモンAI学校福岡校が開校 ～オンラインと対面で学べる多彩な講座を提供 | 鹿児島・九州プレスリリース - 南日本新聞</title>
-      <link>https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vMzczbmV3cy5jb20vX3ByX3RpbWVzL2RldGFpbC9wX21haW5faWQvMDAwMDAwMDAzLjAwMDEzOTU0NC5odG1sL9IBAA?oc=5</link>
-      <guid isPermaLink="false">CBMiSGh0dHBzOi8vMzczbmV3cy5jb20vX3ByX3RpbWVzL2RldGFpbC9wX21haW5faWQvMDAwMDAwMDAzLjAwMDEzOTU0NC5odG1sL9IBAA</guid>
-      <pubDate>Fri, 31 May 2024 06:02:40 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vMzczbmV3cy5jb20vX3ByX3RpbWVzL2RldGFpbC9wX21haW5faWQvMDAwMDAwMDAzLjAwMDEzOTU0NC5odG1sL9IBAA?oc=5" target="_blank"&gt;ホリエモンAI学校福岡校が開校 ～オンラインと対面で学べる多彩な講座を提供 | 鹿児島・九州プレスリリース&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;南日本新聞&lt;/font&gt;</description>
-      <source url="https://373news.com">南日本新聞</source>
     </item>
     <item>
       <title>ニュウジア、低価格で高品質なAIデジタルヒューマン生成サービスを提供 - AIsmiley</title>
@@ -673,14 +673,6 @@
       <source url="https://gigazine.net">GIGAZINE（ギガジン）</source>
     </item>
     <item>
-      <title>AMD・Intel・Google・Microsoft・MetaなどがNVIDIA対抗のAIアクセラレータ相互接続規格の開発に向けて業界団体を ... - GIGAZINE（ギガジン）</title>
-      <link>https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vZ2lnYXppbmUubmV0L25ld3MvMjAyNDA1MzEtYW1kLWludGVsLWdvb2dsZS1taWNyb3NvZnQtdWx0cmEtYWNjZWxlcmF0b3ItbGluay_SAQA?oc=5</link>
-      <guid isPermaLink="false">CBMiVWh0dHBzOi8vZ2lnYXppbmUubmV0L25ld3MvMjAyNDA1MzEtYW1kLWludGVsLWdvb2dsZS1taWNyb3NvZnQtdWx0cmEtYWNjZWxlcmF0b3ItbGluay_SAQA</guid>
-      <pubDate>Fri, 31 May 2024 02:04:00 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vZ2lnYXppbmUubmV0L25ld3MvMjAyNDA1MzEtYW1kLWludGVsLWdvb2dsZS1taWNyb3NvZnQtdWx0cmEtYWNjZWxlcmF0b3ItbGluay_SAQA?oc=5" target="_blank"&gt;AMD・Intel・Google・Microsoft・MetaなどがNVIDIA対抗のAIアクセラレータ相互接続規格の開発に向けて業界団体を ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;GIGAZINE（ギガジン）&lt;/font&gt;</description>
-      <source url="https://gigazine.net">GIGAZINE（ギガジン）</source>
-    </item>
-    <item>
       <title>米オープンＡＩ、世論操作目的で自社技術使った活動５件と発表…処理水巡り日本非難の文章作成も - 読売新聞オンライン</title>
       <link>https://news.google.com/rss/articles/CBMiNmh0dHBzOi8vd3d3LnlvbWl1cmkuY28uanAvZWNvbm9teS8yMDI0MDUzMS1PWVQxVDUwMDUzL9IBAA?oc=5</link>
       <guid isPermaLink="false">CBMiNmh0dHBzOi8vd3d3LnlvbWl1cmkuY28uanAvZWNvbm9teS8yMDI0MDUzMS1PWVQxVDUwMDUzL9IBAA</guid>
@@ -721,12 +713,12 @@
       <source url="https://jp.wsj.com">Wall Street Journal</source>
     </item>
     <item>
-      <title>KPMG、「AIを用いたこれからの財務報告と監査」を発表 - kpmg.com</title>
+      <title>KPMG、「AIを用いたこれからの財務報告と監査」を発表 - KPMG</title>
       <link>https://news.google.com/rss/articles/CBMiYWh0dHBzOi8va3BtZy5jb20vanAvamEvaG9tZS9tZWRpYS9wcmVzcy1yZWxlYXNlcy8yMDI0LzA1L2FpLWluLWZpbmFuY2lhbC1yZXBvcnRpbmctYW5kLWF1ZGl0Lmh0bWzSAQA?oc=5</link>
       <guid isPermaLink="false">CBMiYWh0dHBzOi8va3BtZy5jb20vanAvamEvaG9tZS9tZWRpYS9wcmVzcy1yZWxlYXNlcy8yMDI0LzA1L2FpLWluLWZpbmFuY2lhbC1yZXBvcnRpbmctYW5kLWF1ZGl0Lmh0bWzSAQA</guid>
       <pubDate>Fri, 31 May 2024 00:00:00 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiYWh0dHBzOi8va3BtZy5jb20vanAvamEvaG9tZS9tZWRpYS9wcmVzcy1yZWxlYXNlcy8yMDI0LzA1L2FpLWluLWZpbmFuY2lhbC1yZXBvcnRpbmctYW5kLWF1ZGl0Lmh0bWzSAQA?oc=5" target="_blank"&gt;KPMG、「AIを用いたこれからの財務報告と監査」を発表&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;kpmg.com&lt;/font&gt;</description>
-      <source url="https://kpmg.com">kpmg.com</source>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiYWh0dHBzOi8va3BtZy5jb20vanAvamEvaG9tZS9tZWRpYS9wcmVzcy1yZWxlYXNlcy8yMDI0LzA1L2FpLWluLWZpbmFuY2lhbC1yZXBvcnRpbmctYW5kLWF1ZGl0Lmh0bWzSAQA?oc=5" target="_blank"&gt;KPMG、「AIを用いたこれからの財務報告と監査」を発表&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;KPMG&lt;/font&gt;</description>
+      <source url="https://kpmg.com">KPMG</source>
     </item>
   </channel>
 </rss>
