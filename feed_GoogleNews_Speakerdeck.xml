@@ -6,7 +6,7 @@
     <language>ja</language>
     <webMaster>news-webmaster@google.com</webMaster>
     <copyright>2024 Google Inc.</copyright>
-    <lastBuildDate>Mon, 17 Jun 2024 08:22:22 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Jun 2024 09:19:04 GMT</lastBuildDate>
     <description>Google ニュース</description>
     <item>
       <title>microCMS AI - Speaker Deck</title>
@@ -489,14 +489,6 @@
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
-      <title>ソートできるUUID v7をJavaで使うときの話 - Speaker Deck</title>
-      <link>https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3lvc2hpb3JpL3NvdG9kZWtpcnV1dWlkLXY3d29qYXZhZGVzaGktdXRva2lub2h1YdIBAA?oc=5</link>
-      <guid isPermaLink="false">CBMiSGh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3lvc2hpb3JpL3NvdG9kZWtpcnV1dWlkLXY3d29qYXZhZGVzaGktdXRva2lub2h1YdIBAA</guid>
-      <pubDate>Sun, 16 Jun 2024 08:14:57 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3lvc2hpb3JpL3NvdG9kZWtpcnV1dWlkLXY3d29qYXZhZGVzaGktdXRva2lub2h1YdIBAA?oc=5" target="_blank"&gt;ソートできるUUID v7をJavaで使うときの話&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
-      <source url="https://speakerdeck.com">Speaker Deck</source>
-    </item>
-    <item>
       <title>イベント駆動アーキテクチャ導入の手引きと共通の落とし穴 / Guide to Implementing Event-Driven Architecture and ... - Speaker Deck</title>
       <link>https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vc3BlYWtlcmRlY2suY29tL25yc2xpYi9ndWlkZS10by1pbXBsZW1lbnRpbmctZXZlbnQtZHJpdmVuLWFyY2hpdGVjdHVyZS1hbmQtY29tbW9uLXBpdGZhbGxz0gEA?oc=5</link>
       <guid isPermaLink="false">CBMiYmh0dHBzOi8vc3BlYWtlcmRlY2suY29tL25yc2xpYi9ndWlkZS10by1pbXBsZW1lbnRpbmctZXZlbnQtZHJpdmVuLWFyY2hpdGVjdHVyZS1hbmQtY29tbW9uLXBpdGZhbGxz0gEA</guid>
@@ -542,6 +534,14 @@
       <guid isPermaLink="false">CBMiVGh0dHBzOi8vc3BlYWtlcmRlY2suY29tL25vem9taWl0by9haXppLWRvbmctdGVzdXRvdHVydXdvemhpLWVydWthaS1mYS10ZXN1dG9wdXJvc2VzddIBAA</guid>
       <pubDate>Sat, 23 Jan 2021 08:00:00 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vc3BlYWtlcmRlY2suY29tL25vem9taWl0by9haXppLWRvbmctdGVzdXRvdHVydXdvemhpLWVydWthaS1mYS10ZXN1dG9wdXJvc2VzddIBAA?oc=5" target="_blank"&gt;AI自動テストツールを支える開発・テストプロセス&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
+      <source url="https://speakerdeck.com">Speaker Deck</source>
+    </item>
+    <item>
+      <title>[第4回 全国医療AIコンテスト] Kaggleから学んだ医療画像データ解析の取り組み方 - Speaker Deck</title>
+      <link>https://news.google.com/rss/articles/CBMihwFodHRwczovL3NwZWFrZXJkZWNrLmNvbS9pbm9pY2hhbi9kaS00aHVpLXF1YW4tZ3VvLXlpLWxpYW8tYWlrb250ZXN1dG8ta2FnZ2xla2FyYXh1ZS1uZGF5aS1saWFvLWh1YS14aWFuZy1kZXRhamllLXhpLWZhbHNlcXUtcml6dS1taWZhbmfSAQA?oc=5</link>
+      <guid isPermaLink="false">CBMihwFodHRwczovL3NwZWFrZXJkZWNrLmNvbS9pbm9pY2hhbi9kaS00aHVpLXF1YW4tZ3VvLXlpLWxpYW8tYWlrb250ZXN1dG8ta2FnZ2xla2FyYXh1ZS1uZGF5aS1saWFvLWh1YS14aWFuZy1kZXRhamllLXhpLWZhbHNlcXUtcml6dS1taWZhbmfSAQA</guid>
+      <pubDate>Sat, 19 Mar 2022 07:00:00 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMihwFodHRwczovL3NwZWFrZXJkZWNrLmNvbS9pbm9pY2hhbi9kaS00aHVpLXF1YW4tZ3VvLXlpLWxpYW8tYWlrb250ZXN1dG8ta2FnZ2xla2FyYXh1ZS1uZGF5aS1saWFvLWh1YS14aWFuZy1kZXRhamllLXhpLWZhbHNlcXUtcml6dS1taWZhbmfSAQA?oc=5" target="_blank"&gt;[第4回 全国医療AIコンテスト] Kaggleから学んだ医療画像データ解析の取り組み方&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
