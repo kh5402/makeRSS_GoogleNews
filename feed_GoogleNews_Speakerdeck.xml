@@ -6,7 +6,7 @@
     <language>ja</language>
     <webMaster>news-webmaster@google.com</webMaster>
     <copyright>2024 Google Inc.</copyright>
-    <lastBuildDate>Mon, 17 Jun 2024 05:20:07 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Jun 2024 06:25:00 GMT</lastBuildDate>
     <description>Google ニュース</description>
     <item>
       <title>microCMS AI - Speaker Deck</title>
@@ -489,6 +489,14 @@
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
+      <title>ソートできるUUID v7をJavaで使うときの話 - Speaker Deck</title>
+      <link>https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3lvc2hpb3JpL3NvdG9kZWtpcnV1dWlkLXY3d29qYXZhZGVzaGktdXRva2lub2h1YdIBAA?oc=5</link>
+      <guid isPermaLink="false">CBMiSGh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3lvc2hpb3JpL3NvdG9kZWtpcnV1dWlkLXY3d29qYXZhZGVzaGktdXRva2lub2h1YdIBAA</guid>
+      <pubDate>Sun, 16 Jun 2024 08:14:57 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3lvc2hpb3JpL3NvdG9kZWtpcnV1dWlkLXY3d29qYXZhZGVzaGktdXRva2lub2h1YdIBAA?oc=5" target="_blank"&gt;ソートできるUUID v7をJavaで使うときの話&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
+      <source url="https://speakerdeck.com">Speaker Deck</source>
+    </item>
+    <item>
       <title>イベント駆動アーキテクチャ導入の手引きと共通の落とし穴 / Guide to Implementing Event-Driven Architecture and ... - Speaker Deck</title>
       <link>https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vc3BlYWtlcmRlY2suY29tL25yc2xpYi9ndWlkZS10by1pbXBsZW1lbnRpbmctZXZlbnQtZHJpdmVuLWFyY2hpdGVjdHVyZS1hbmQtY29tbW9uLXBpdGZhbGxz0gEA?oc=5</link>
       <guid isPermaLink="false">CBMiYmh0dHBzOi8vc3BlYWtlcmRlY2suY29tL25yc2xpYi9ndWlkZS10by1pbXBsZW1lbnRpbmctZXZlbnQtZHJpdmVuLWFyY2hpdGVjdHVyZS1hbmQtY29tbW9uLXBpdGZhbGxz0gEA</guid>
@@ -758,14 +766,6 @@
       <guid isPermaLink="false">CBMiMGh0dHBzOi8vc3BlYWtlcmRlY2suY29tL250dGNvbS9hYm91dC1lbWJvZGllZC1hadIBAA</guid>
       <pubDate>Fri, 15 Dec 2023 08:00:00 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiMGh0dHBzOi8vc3BlYWtlcmRlY2suY29tL250dGNvbS9hYm91dC1lbWJvZGllZC1hadIBAA?oc=5" target="_blank"&gt;Embodied AIについて / About Embodied AI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
-      <source url="https://speakerdeck.com">Speaker Deck</source>
-    </item>
-    <item>
-      <title>AWS の生成 AI への取り組みと IoT との付き合い方 - Speaker Deck</title>
-      <link>https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3NvcmFjb20vd2hhdC1hcHByb2FjaC1pcy1hd3MtdGFraW5nLXRvLWdlbmVyYXRpdmUtYWktYW5kLWlvdNIBAA?oc=5</link>
-      <guid isPermaLink="false">CBMiVGh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3NvcmFjb20vd2hhdC1hcHByb2FjaC1pcy1hd3MtdGFraW5nLXRvLWdlbmVyYXRpdmUtYWktYW5kLWlvdNIBAA</guid>
-      <pubDate>Fri, 15 Dec 2023 08:00:00 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3NvcmFjb20vd2hhdC1hcHByb2FjaC1pcy1hd3MtdGFraW5nLXRvLWdlbmVyYXRpdmUtYWktYW5kLWlvdNIBAA?oc=5" target="_blank"&gt;AWS の生成 AI への取り組みと IoT との付き合い方&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
