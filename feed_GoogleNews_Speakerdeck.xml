@@ -6,7 +6,7 @@
     <language>ja</language>
     <webMaster>news-webmaster@google.com</webMaster>
     <copyright>2024 Google Inc.</copyright>
-    <lastBuildDate>Fri, 21 Jun 2024 19:14:12 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Jun 2024 20:18:27 GMT</lastBuildDate>
     <description>Google ニュース</description>
     <item>
       <title>microCMS AI - Speaker Deck</title>
@@ -353,6 +353,14 @@
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
+      <title>LLMフレームワークLangChain入門 〜生成AIアプリ開発手法とベクトル検索 - Speaker Deck</title>
+      <link>https://news.google.com/rss/articles/CBMid2h0dHBzOi8vc3BlYWtlcmRlY2suY29tL2RhdGFzdGF4amFwYW4vbGxtaHVyZW11d2FrdWxhbmdjaGFpbnJ1LW1lbi1zaGVuZy1jaGVuZy1haWFwdXJpa2FpLWZhLXNob3UtZmEtdG9iZWt1dG9ydWppYW4tc3Vv0gEA?oc=5</link>
+      <guid isPermaLink="false">CBMid2h0dHBzOi8vc3BlYWtlcmRlY2suY29tL2RhdGFzdGF4amFwYW4vbGxtaHVyZW11d2FrdWxhbmdjaGFpbnJ1LW1lbi1zaGVuZy1jaGVuZy1haWFwdXJpa2FpLWZhLXNob3UtZmEtdG9iZWt1dG9ydWppYW4tc3Vv0gEA</guid>
+      <pubDate>Thu, 26 Oct 2023 07:00:00 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMid2h0dHBzOi8vc3BlYWtlcmRlY2suY29tL2RhdGFzdGF4amFwYW4vbGxtaHVyZW11d2FrdWxhbmdjaGFpbnJ1LW1lbi1zaGVuZy1jaGVuZy1haWFwdXJpa2FpLWZhLXNob3UtZmEtdG9iZWt1dG9ydWppYW4tc3Vv0gEA?oc=5" target="_blank"&gt;LLMフレームワークLangChain入門 〜生成AIアプリ開発手法とベクトル検索&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
+      <source url="https://speakerdeck.com">Speaker Deck</source>
+    </item>
+    <item>
       <title>AI Labの進めるクリエイティブ自動生成の研究【CADC2022】 - Speaker Deck</title>
       <link>https://news.google.com/rss/articles/CBMidGh0dHBzOi8vc3BlYWtlcmRlY2suY29tL2N5YmVyYWdlbnRkZXZlbG9wZXJzL2FpLWxhYmZhbHNlamluLW1lcnVrdXJpZWl0ZWlidXppLWRvbmctc2hlbmctY2hlbmctZmFsc2V5YW4taml1LWNhZGMyMDIy0gEA?oc=5</link>
       <guid isPermaLink="false">CBMidGh0dHBzOi8vc3BlYWtlcmRlY2suY29tL2N5YmVyYWdlbnRkZXZlbG9wZXJzL2FpLWxhYmZhbHNlamluLW1lcnVrdXJpZWl0ZWlidXppLWRvbmctc2hlbmctY2hlbmctZmFsc2V5YW4taml1LWNhZGMyMDIy0gEA</guid>
@@ -374,14 +382,6 @@
       <guid isPermaLink="false">CBMiO2h0dHBzOi8vc3BlYWtlcmRlY2suY29tL2lzaWRhaXRjL2FpZGEtemFpLWppYW4tc3VvLXNpc3V0ZW110gEA</guid>
       <pubDate>Thu, 20 Oct 2022 07:00:00 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vc3BlYWtlcmRlY2suY29tL2lzaWRhaXRjL2FpZGEtemFpLWppYW4tc3VvLXNpc3V0ZW110gEA?oc=5" target="_blank"&gt;検索システムにAIを搭載する際の考え方 ― 基礎から展望まで&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
-      <source url="https://speakerdeck.com">Speaker Deck</source>
-    </item>
-    <item>
-      <title>30分でわかるつくって、壊して、直して学ぶ Kubernetes入門 - Speaker Deck</title>
-      <link>https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vc3BlYWtlcmRlY2suY29tL2FvaTEvMzBmZW4tZGV3YWthcnV0dWt1dHV0ZS1odWFpLXNpdGUtemhpLXNpdGV4dWUtYnUta3ViZXJuZXRlc3J1LW1lbtIBAA?oc=5</link>
-      <guid isPermaLink="false">CBMiXWh0dHBzOi8vc3BlYWtlcmRlY2suY29tL2FvaTEvMzBmZW4tZGV3YWthcnV0dWt1dHV0ZS1odWFpLXNpdGUtemhpLXNpdGV4dWUtYnUta3ViZXJuZXRlc3J1LW1lbtIBAA</guid>
-      <pubDate>Thu, 20 Jun 2024 00:22:30 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vc3BlYWtlcmRlY2suY29tL2FvaTEvMzBmZW4tZGV3YWthcnV0dWt1dHV0ZS1odWFpLXNpdGUtemhpLXNpdGV4dWUtYnUta3ViZXJuZXRlc3J1LW1lbtIBAA?oc=5" target="_blank"&gt;30分でわかるつくって、壊して、直して学ぶ Kubernetes入門&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
