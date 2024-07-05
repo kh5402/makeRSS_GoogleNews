@@ -6,7 +6,7 @@
     <language>ja</language>
     <webMaster>news-webmaster@google.com</webMaster>
     <copyright>2024 Google Inc.</copyright>
-    <lastBuildDate>Fri, 05 Jul 2024 22:17:24 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jul 2024 23:17:03 GMT</lastBuildDate>
     <description>Google ニュース</description>
     <item>
       <title>microCMS AI - Speaker Deck</title>
@@ -409,6 +409,14 @@
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
+      <title>Postmanで始めるAI・機械学習プラットフォームHugging Face - Speaker Deck</title>
+      <link>https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vc3BlYWtlcmRlY2suY29tL25hZ2l4L3Bvc3RtYW5kZXNoaS1tZXJ1YWlqaS1qaWUteHVlLXhpLXB1cmF0dXRvaHVvbXVodWdnaW5nLWZhY2XSAQA?oc=5</link>
+      <guid isPermaLink="false">CBMiWGh0dHBzOi8vc3BlYWtlcmRlY2suY29tL25hZ2l4L3Bvc3RtYW5kZXNoaS1tZXJ1YWlqaS1qaWUteHVlLXhpLXB1cmF0dXRvaHVvbXVodWdnaW5nLWZhY2XSAQA</guid>
+      <pubDate>Thu, 14 Sep 2023 07:00:00 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vc3BlYWtlcmRlY2suY29tL25hZ2l4L3Bvc3RtYW5kZXNoaS1tZXJ1YWlqaS1qaWUteHVlLXhpLXB1cmF0dXRvaHVvbXVodWdnaW5nLWZhY2XSAQA?oc=5" target="_blank"&gt;Postmanで始めるAI・機械学習プラットフォームHugging Face&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
+      <source url="https://speakerdeck.com">Speaker Deck</source>
+    </item>
+    <item>
       <title>AWSユーザがAI活用のためにAzureと共存させるためにトライしたこととトライすること/Azure-OpenAI×multi-cloud ... - Speaker Deck</title>
       <link>https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vc3BlYWtlcmRlY2suY29tL2xtaS9henVyZS1vcGVuYWl4bXVsdGktY2xvdWQtdGVjaC1uaWdodC1saW5rLWFuZC1tb3RpdmF0aW9u0gEA?oc=5</link>
       <guid isPermaLink="false">CBMiU2h0dHBzOi8vc3BlYWtlcmRlY2suY29tL2xtaS9henVyZS1vcGVuYWl4bXVsdGktY2xvdWQtdGVjaC1uaWdodC1saW5rLWFuZC1tb3RpdmF0aW9u0gEA</guid>
@@ -422,14 +430,6 @@
       <guid isPermaLink="false">CBMiW2h0dHBzOi8vc3BlYWtlcmRlY2suY29tL21pbm9ydW4zNjUvc2hlbmctY2hlbmctYWl6aG91LWh1aS1jaGktcmVraXlhdHV0aWF0dWh1bWlhbi1xaWFuZy1odWnSAQA</guid>
       <pubDate>Thu, 11 May 2023 07:00:00 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vc3BlYWtlcmRlY2suY29tL21pbm9ydW4zNjUvc2hlbmctY2hlbmctYWl6aG91LWh1aS1jaGktcmVraXlhdHV0aWF0dWh1bWlhbi1xaWFuZy1odWnSAQA?oc=5" target="_blank"&gt;生成AI周回遅れキャッチアップ勉強会！&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
-      <source url="https://speakerdeck.com">Speaker Deck</source>
-    </item>
-    <item>
-      <title>壁のためのAIと卵のためのAI - Speaker Deck</title>
-      <link>https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3l1a2lub2JhYmEvYWktZm9yLXdhbGwtYW5kLWFpLWZvci1lZ2fSAQA?oc=5</link>
-      <guid isPermaLink="false">CBMiPWh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3l1a2lub2JhYmEvYWktZm9yLXdhbGwtYW5kLWFpLWZvci1lZ2fSAQA</guid>
-      <pubDate>Thu, 08 Jun 2023 07:00:00 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3l1a2lub2JhYmEvYWktZm9yLXdhbGwtYW5kLWFpLWZvci1lZ2fSAQA?oc=5" target="_blank"&gt;壁のためのAIと卵のためのAI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
@@ -593,14 +593,6 @@
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
-      <title>Vertex AI Matching Engine と CLIP を使って EC サービスの類似画像検索機能を作る / Development of similar image ... - Speaker Deck</title>
-      <link>https://news.google.com/rss/articles/CBMigwFodHRwczovL3NwZWFrZXJkZWNrLmNvbS96YWlteS9kZXZlbG9wbWVudC1vZi1zaW1pbGFyLWltYWdlLXNlYXJjaC1mdW5jdGlvbi1mb3ItZWMtc2VydmljZXMtdXNpbmctdmVydGV4LWFpLW1hdGNoaW5nLWVuZ2luZS1hbmQtY2xpcNIBAA?oc=5</link>
-      <guid isPermaLink="false">CBMigwFodHRwczovL3NwZWFrZXJkZWNrLmNvbS96YWlteS9kZXZlbG9wbWVudC1vZi1zaW1pbGFyLWltYWdlLXNlYXJjaC1mdW5jdGlvbi1mb3ItZWMtc2VydmljZXMtdXNpbmctdmVydGV4LWFpLW1hdGNoaW5nLWVuZ2luZS1hbmQtY2xpcNIBAA</guid>
-      <pubDate>Sat, 05 Aug 2023 07:00:00 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMigwFodHRwczovL3NwZWFrZXJkZWNrLmNvbS96YWlteS9kZXZlbG9wbWVudC1vZi1zaW1pbGFyLWltYWdlLXNlYXJjaC1mdW5jdGlvbi1mb3ItZWMtc2VydmljZXMtdXNpbmctdmVydGV4LWFpLW1hdGNoaW5nLWVuZ2luZS1hbmQtY2xpcNIBAA?oc=5" target="_blank"&gt;Vertex AI Matching Engine と CLIP を使って EC サービスの類似画像検索機能を作る / Development of similar image ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
-      <source url="https://speakerdeck.com">Speaker Deck</source>
-    </item>
-    <item>
       <title>LayerXインボイスのAI-OCRを支える非同期処理アーキテクチャ / AWS Dev Day Online Japan 2021 - Speaker Deck</title>
       <link>https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3NodW50YWsvYXdzLWRldi1kYXktb25saW5lLWphcGFuLTIwMjHSAQA?oc=5</link>
       <guid isPermaLink="false">CBMiPWh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3NodW50YWsvYXdzLWRldi1kYXktb25saW5lLWphcGFuLTIwMjHSAQA</guid>
@@ -718,6 +710,14 @@
       <guid isPermaLink="false">CBMiQWh0dHBzOi8vc3BlYWtlcmRlY2suY29tL2hpcm9zYXRvZ2Ftby9jaGF0Z3B0LWF6dXJlLW9wZW5haS1kYS1xdWFu0gEA</guid>
       <pubDate>Fri, 21 Jul 2023 07:00:00 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiQWh0dHBzOi8vc3BlYWtlcmRlY2suY29tL2hpcm9zYXRvZ2Ftby9jaGF0Z3B0LWF6dXJlLW9wZW5haS1kYS1xdWFu0gEA?oc=5" target="_blank"&gt;ChatGPT - LLMシステム開発大全&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
+      <source url="https://speakerdeck.com">Speaker Deck</source>
+    </item>
+    <item>
+      <title>Oracle Cloud Infrastructure Generative AI Service Overview(BETA) - Speaker Deck</title>
+      <link>https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vc3BlYWtlcmRlY2suY29tL29yYWNsZTRlbmdpbmVlci9vcmFjbGUtY2xvdWQtaW5mcmFzdHJ1Y3R1cmUtZ2VuZXJhdGl2ZS1haS1zZXJ2aWNlLW92ZXJ2aWV3LWJldGHSAQA?oc=5</link>
+      <guid isPermaLink="false">CBMiZ2h0dHBzOi8vc3BlYWtlcmRlY2suY29tL29yYWNsZTRlbmdpbmVlci9vcmFjbGUtY2xvdWQtaW5mcmFzdHJ1Y3R1cmUtZ2VuZXJhdGl2ZS1haS1zZXJ2aWNlLW92ZXJ2aWV3LWJldGHSAQA</guid>
+      <pubDate>Fri, 17 Nov 2023 08:00:00 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vc3BlYWtlcmRlY2suY29tL29yYWNsZTRlbmdpbmVlci9vcmFjbGUtY2xvdWQtaW5mcmFzdHJ1Y3R1cmUtZ2VuZXJhdGl2ZS1haS1zZXJ2aWNlLW92ZXJ2aWV3LWJldGHSAQA?oc=5" target="_blank"&gt;Oracle Cloud Infrastructure Generative AI Service Overview(BETA)&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
