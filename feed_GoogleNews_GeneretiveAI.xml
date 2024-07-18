@@ -6,7 +6,7 @@
     <language>ja</language>
     <webMaster>news-webmaster@google.com</webMaster>
     <copyright>2024 Google Inc.</copyright>
-    <lastBuildDate>Thu, 18 Jul 2024 01:16:09 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jul 2024 02:34:41 GMT</lastBuildDate>
     <description>Google ニュース</description>
     <item>
       <title>ＡＩ、業界主導で規制 トランプ陣営、投資家に配慮―米大統領選 - 時事通信ニュース</title>
@@ -23,6 +23,14 @@
       <pubDate>Wed, 17 Jul 2024 23:47:26 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vdGhlYnJpZGdlLmpwLzIwMjQvMDcvcmVpLWZyb250aWVyLWxhdW5jaGVzLXVzZXItcHJv0gEA?oc=5" target="_blank"&gt;レイ・フロンティア、位置情報と生成AIを活用したペルソナ分析ツール「ユーザープロ」をローンチ&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;BRIDGE&lt;/font&gt;</description>
       <source url="https://thebridge.jp">BRIDGE</source>
+    </item>
+    <item>
+      <title>新聞協会「検索連動ＡＩは著作権侵害」 誤情報の確認相次ぐ 社会に深刻な影響 - あなたの静岡新聞</title>
+      <link>https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vd3d3LmF0LXMuY29tL25ld3MvYXJ0aWNsZS9uYXRpb25hbC8xNTE0NDgyLmh0bWzSAQA?oc=5</link>
+      <guid isPermaLink="false">CBMiN2h0dHBzOi8vd3d3LmF0LXMuY29tL25ld3MvYXJ0aWNsZS9uYXRpb25hbC8xNTE0NDgyLmh0bWzSAQA</guid>
+      <pubDate>Wed, 17 Jul 2024 23:39:28 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vd3d3LmF0LXMuY29tL25ld3MvYXJ0aWNsZS9uYXRpb25hbC8xNTE0NDgyLmh0bWzSAQA?oc=5" target="_blank"&gt;新聞協会「検索連動ＡＩは著作権侵害」 誤情報の確認相次ぐ 社会に深刻な影響&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;あなたの静岡新聞&lt;/font&gt;</description>
+      <source url="https://www.at-s.com">あなたの静岡新聞</source>
     </item>
     <item>
       <title>Anthropic、AIスタートアップ支援の1億ドルファンドをMenlo Venturesと共同設立 - ITmedia NEWS - ITmedia NEWS</title>
@@ -49,14 +57,6 @@
       <source url="https://ict-enews.net">ICT教育ニュース</source>
     </item>
     <item>
-      <title>元Google DeepMind研究者らが創業、英Haiperが新たな動画生成AIを公開 - BRIDGE</title>
-      <link>https://news.google.com/rss/articles/CBMicGh0dHBzOi8vdGhlYnJpZGdlLmpwLzIwMjQvMDcvZXhjbHVzaXZlLW1lZXQtaGFpcGVyLTEtNS10aGUtbmV3LWFpLXZpZGVvLWdlbmVyYXRpb24tbW9kZWwtY2hhbGxlbmdpbmctc29yYS1ydW53YXnSAQA?oc=5</link>
-      <guid isPermaLink="false">CBMicGh0dHBzOi8vdGhlYnJpZGdlLmpwLzIwMjQvMDcvZXhjbHVzaXZlLW1lZXQtaGFpcGVyLTEtNS10aGUtbmV3LWFpLXZpZGVvLWdlbmVyYXRpb24tbW9kZWwtY2hhbGxlbmdpbmctc29yYS1ydW53YXnSAQA</guid>
-      <pubDate>Wed, 17 Jul 2024 23:02:20 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMicGh0dHBzOi8vdGhlYnJpZGdlLmpwLzIwMjQvMDcvZXhjbHVzaXZlLW1lZXQtaGFpcGVyLTEtNS10aGUtbmV3LWFpLXZpZGVvLWdlbmVyYXRpb24tbW9kZWwtY2hhbGxlbmdpbmctc29yYS1ydW53YXnSAQA?oc=5" target="_blank"&gt;元Google DeepMind研究者らが創業、英Haiperが新たな動画生成AIを公開&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;BRIDGE&lt;/font&gt;</description>
-      <source url="https://thebridge.jp">BRIDGE</source>
-    </item>
-    <item>
       <title>検索連動型生成AIは「著作権侵害の可能性」 新聞協会が声明 - Impress Watch</title>
       <link>https://news.google.com/rss/articles/CBMiNmh0dHBzOi8vd3d3LndhdGNoLmltcHJlc3MuY28uanAvZG9jcy9uZXdzLzE2MDkxNDIuaHRtbNIBAA?oc=5</link>
       <guid isPermaLink="false">CBMiNmh0dHBzOi8vd3d3LndhdGNoLmltcHJlc3MuY28uanAvZG9jcy9uZXdzLzE2MDkxNDIuaHRtbNIBAA</guid>
@@ -81,12 +81,20 @@
       <source url="https://internet.watch.impress.co.jp">INTERNET Watch</source>
     </item>
     <item>
-      <title>【天才プロンプト進呈】あなたに最適な生成AIはこれだ! - ThinkIT</title>
-      <link>https://news.google.com/rss/articles/CBMiI2h0dHBzOi8vdGhpbmtpdC5jby5qcC9hcnRpY2xlLzIzMTU40gEA?oc=5</link>
-      <guid isPermaLink="false">CBMiI2h0dHBzOi8vdGhpbmtpdC5jby5qcC9hcnRpY2xlLzIzMTU40gEA</guid>
-      <pubDate>Wed, 17 Jul 2024 22:43:09 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiI2h0dHBzOi8vdGhpbmtpdC5jby5qcC9hcnRpY2xlLzIzMTU40gEA?oc=5" target="_blank"&gt;【天才プロンプト進呈】あなたに最適な生成AIはこれだ!&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;ThinkIT&lt;/font&gt;</description>
-      <source url="https://thinkit.co.jp">ThinkIT</source>
+      <title>中国AI開発、「政府主導」が足かせにも - Wall Street Journal</title>
+      <link>https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vanAud3NqLmNvbS9hcnRpY2xlcy9jaGluYS1wdXRzLXBvd2VyLW9mLXN0YXRlLWJlaGluZC1haWFuZC1yaXNrcy1zdHJhbmdsaW5nLWl0LTNmZjRiMDgz0gEA?oc=5</link>
+      <guid isPermaLink="false">CBMiX2h0dHBzOi8vanAud3NqLmNvbS9hcnRpY2xlcy9jaGluYS1wdXRzLXBvd2VyLW9mLXN0YXRlLWJlaGluZC1haWFuZC1yaXNrcy1zdHJhbmdsaW5nLWl0LTNmZjRiMDgz0gEA</guid>
+      <pubDate>Wed, 17 Jul 2024 22:40:00 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vanAud3NqLmNvbS9hcnRpY2xlcy9jaGluYS1wdXRzLXBvd2VyLW9mLXN0YXRlLWJlaGluZC1haWFuZC1yaXNrcy1zdHJhbmdsaW5nLWl0LTNmZjRiMDgz0gEA?oc=5" target="_blank"&gt;中国AI開発、「政府主導」が足かせにも&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Wall Street Journal&lt;/font&gt;</description>
+      <source url="https://jp.wsj.com">Wall Street Journal</source>
+    </item>
+    <item>
+      <title>中国の政府主導、AI開発の首絞めかねず - ダイヤモンド・オンライン</title>
+      <link>https://news.google.com/rss/articles/CBMiJGh0dHBzOi8vZGlhbW9uZC5qcC9hcnRpY2xlcy8tLzM0NzE4MtIBAA?oc=5</link>
+      <guid isPermaLink="false">CBMiJGh0dHBzOi8vZGlhbW9uZC5qcC9hcnRpY2xlcy8tLzM0NzE4MtIBAA</guid>
+      <pubDate>Wed, 17 Jul 2024 22:40:00 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiJGh0dHBzOi8vZGlhbW9uZC5qcC9hcnRpY2xlcy8tLzM0NzE4MtIBAA?oc=5" target="_blank"&gt;中国の政府主導、AI開発の首絞めかねず&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;ダイヤモンド・オンライン&lt;/font&gt;</description>
+      <source url="https://diamond.jp">ダイヤモンド・オンライン</source>
     </item>
     <item>
       <title>AIへの過度な依存は禁物--求められる人間の視点と批判的思考 - ZDNET Japan</title>
@@ -113,6 +121,14 @@
       <source url="https://wired.jp">WIRED.jp</source>
     </item>
     <item>
+      <title>AppleやAMDを渡り歩いた伝説的エンジニアのジム・ケラーが「NVIDIAがうまく対応していない市場」を狙ったAIチップを開発中 - GIGAZINE（ギガジン）</title>
+      <link>https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vZ2lnYXppbmUubmV0L25ld3MvMjAyNDA3MTgtamltLWtlbGxlci1haS1jaGlwcy10ZW5zdG9ycmVudC1udmlkaWEv0gEA?oc=5</link>
+      <guid isPermaLink="false">CBMiSmh0dHBzOi8vZ2lnYXppbmUubmV0L25ld3MvMjAyNDA3MTgtamltLWtlbGxlci1haS1jaGlwcy10ZW5zdG9ycmVudC1udmlkaWEv0gEA</guid>
+      <pubDate>Wed, 17 Jul 2024 22:00:00 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vZ2lnYXppbmUubmV0L25ld3MvMjAyNDA3MTgtamltLWtlbGxlci1haS1jaGlwcy10ZW5zdG9ycmVudC1udmlkaWEv0gEA?oc=5" target="_blank"&gt;AppleやAMDを渡り歩いた伝説的エンジニアのジム・ケラーが「NVIDIAがうまく対応していない市場」を狙ったAIチップを開発中&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;GIGAZINE（ギガジン）&lt;/font&gt;</description>
+      <source url="https://gigazine.net">GIGAZINE（ギガジン）</source>
+    </item>
+    <item>
       <title>AIが未来の計画を立てる日──言語モデルから複合システムへ - WIRED.jp</title>
       <link>https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vd2lyZWQuanAvYXJ0aWNsZS9zei1jYW4tYW4tYWktbWFrZS1wbGFucy_SAQA?oc=5</link>
       <guid isPermaLink="false">CBMiMWh0dHBzOi8vd2lyZWQuanAvYXJ0aWNsZS9zei1jYW4tYW4tYWktbWFrZS1wbGFucy_SAQA</guid>
@@ -127,14 +143,6 @@
       <pubDate>Wed, 17 Jul 2024 22:00:00 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vdGVjaHRhcmdldC5pdG1lZGlhLmNvLmpwL3R0L25ld3MvMjQwNy8xOC9uZXdzMDcuaHRtbNIBAA?oc=5" target="_blank"&gt;「AI導入を妨げる」どころか、IT担当者を退職に追い込む“真犯人”：AIプロジェクトの現場で浮上する“ある問題”&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;TechTargetジャパン&lt;/font&gt;</description>
       <source url="https://techtarget.itmedia.co.jp">TechTargetジャパン</source>
-    </item>
-    <item>
-      <title>AppleやAMDを渡り歩いた伝説的エンジニアのジム・ケラーが「NVIDIAがうまく対応していない市場」を狙ったAIチップを開発中 - GIGAZINE（ギガジン）</title>
-      <link>https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vZ2lnYXppbmUubmV0L25ld3MvMjAyNDA3MTgtamltLWtlbGxlci1haS1jaGlwcy10ZW5zdG9ycmVudC1udmlkaWEv0gEA?oc=5</link>
-      <guid isPermaLink="false">CBMiSmh0dHBzOi8vZ2lnYXppbmUubmV0L25ld3MvMjAyNDA3MTgtamltLWtlbGxlci1haS1jaGlwcy10ZW5zdG9ycmVudC1udmlkaWEv0gEA</guid>
-      <pubDate>Wed, 17 Jul 2024 22:00:00 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vZ2lnYXppbmUubmV0L25ld3MvMjAyNDA3MTgtamltLWtlbGxlci1haS1jaGlwcy10ZW5zdG9ycmVudC1udmlkaWEv0gEA?oc=5" target="_blank"&gt;AppleやAMDを渡り歩いた伝説的エンジニアのジム・ケラーが「NVIDIAがうまく対応していない市場」を狙ったAIチップを開発中&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;GIGAZINE（ギガジン）&lt;/font&gt;</description>
-      <source url="https://gigazine.net">GIGAZINE（ギガジン）</source>
     </item>
     <item>
       <title>生成AIによる「現実的な」サプライチェーン強化戦略、リーダーに贈る実践ガイド - ビジネス＋IT</title>
@@ -153,28 +161,12 @@
       <source url="https://ascii.jp">ASCII.jp</source>
     </item>
     <item>
-      <title>Robot-packed meals are coming to the frozen-food aisle - MITテクノロジーレビュー</title>
-      <link>https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LnRlY2hub2xvZ3lyZXZpZXcuanAvcy8zNDEzNjgvcm9ib3QtcGFja2VkLW1lYWxzLWFyZS1jb21pbmctdG8tdGhlLWZyb3plbi1mb29kLWFpc2xlL9IBZGh0dHBzOi8vd3d3LnRlY2hub2xvZ3lyZXZpZXcuanAvcy8zNDEzNjgvcm9ib3QtcGFja2VkLW1lYWxzLWFyZS1jb21pbmctdG8tdGhlLWZyb3plbi1mb29kLWFpc2xlL2FtcC8?oc=5</link>
-      <guid isPermaLink="false">CBMiYGh0dHBzOi8vd3d3LnRlY2hub2xvZ3lyZXZpZXcuanAvcy8zNDEzNjgvcm9ib3QtcGFja2VkLW1lYWxzLWFyZS1jb21pbmctdG8tdGhlLWZyb3plbi1mb29kLWFpc2xlL9IBZGh0dHBzOi8vd3d3LnRlY2hub2xvZ3lyZXZpZXcuanAvcy8zNDEzNjgvcm9ib3QtcGFja2VkLW1lYWxzLWFyZS1jb21pbmctdG8tdGhlLWZyb3plbi1mb29kLWFpc2xlL2FtcC8</guid>
-      <pubDate>Wed, 17 Jul 2024 21:59:02 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LnRlY2hub2xvZ3lyZXZpZXcuanAvcy8zNDEzNjgvcm9ib3QtcGFja2VkLW1lYWxzLWFyZS1jb21pbmctdG8tdGhlLWZyb3plbi1mb29kLWFpc2xlL9IBZGh0dHBzOi8vd3d3LnRlY2hub2xvZ3lyZXZpZXcuanAvcy8zNDEzNjgvcm9ib3QtcGFja2VkLW1lYWxzLWFyZS1jb21pbmctdG8tdGhlLWZyb3plbi1mb29kLWFpc2xlL2FtcC8?oc=5" target="_blank"&gt;Robot-packed meals are coming to the frozen-food aisle&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;MITテクノロジーレビュー&lt;/font&gt;</description>
-      <source url="https://www.technologyreview.jp">MITテクノロジーレビュー</source>
-    </item>
-    <item>
       <title>How AI is changing gymnastics judging - MITテクノロジーレビュー</title>
       <link>https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3LnRlY2hub2xvZ3lyZXZpZXcuanAvcy8zMjk3NzEvaG93LWFpLWlzLWNoYW5naW5nLWd5bW5hc3RpY3MtanVkZ2luZy_SAVNodHRwczovL3d3dy50ZWNobm9sb2d5cmV2aWV3LmpwL3MvMzI5NzcxL2hvdy1haS1pcy1jaGFuZ2luZy1neW1uYXN0aWNzLWp1ZGdpbmcvYW1wLw?oc=5</link>
       <guid isPermaLink="false">CBMiT2h0dHBzOi8vd3d3LnRlY2hub2xvZ3lyZXZpZXcuanAvcy8zMjk3NzEvaG93LWFpLWlzLWNoYW5naW5nLWd5bW5hc3RpY3MtanVkZ2luZy_SAVNodHRwczovL3d3dy50ZWNobm9sb2d5cmV2aWV3LmpwL3MvMzI5NzcxL2hvdy1haS1pcy1jaGFuZ2luZy1neW1uYXN0aWNzLWp1ZGdpbmcvYW1wLw</guid>
       <pubDate>Wed, 17 Jul 2024 21:46:16 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3LnRlY2hub2xvZ3lyZXZpZXcuanAvcy8zMjk3NzEvaG93LWFpLWlzLWNoYW5naW5nLWd5bW5hc3RpY3MtanVkZ2luZy_SAVNodHRwczovL3d3dy50ZWNobm9sb2d5cmV2aWV3LmpwL3MvMzI5NzcxL2hvdy1haS1pcy1jaGFuZ2luZy1neW1uYXN0aWNzLWp1ZGdpbmcvYW1wLw?oc=5" target="_blank"&gt;How AI is changing gymnastics judging&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;MITテクノロジーレビュー&lt;/font&gt;</description>
       <source url="https://www.technologyreview.jp">MITテクノロジーレビュー</source>
-    </item>
-    <item>
-      <title>回転窓／ＡＩの生かし方 - 日刊建設工業新聞</title>
-      <link>https://news.google.com/rss/articles/CBMiIGh0dHBzOi8vd3d3LmRlY24uY28uanAvP3A9MTY1NDc10gEA?oc=5</link>
-      <guid isPermaLink="false">CBMiIGh0dHBzOi8vd3d3LmRlY24uY28uanAvP3A9MTY1NDc10gEA</guid>
-      <pubDate>Wed, 17 Jul 2024 21:05:48 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiIGh0dHBzOi8vd3d3LmRlY24uY28uanAvP3A9MTY1NDc10gEA?oc=5" target="_blank"&gt;回転窓／ＡＩの生かし方&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;日刊建設工業新聞&lt;/font&gt;</description>
-      <source url="https://www.decn.co.jp">日刊建設工業新聞</source>
     </item>
     <item>
       <title>「生成AIを活用して白物家電の付加価値高める」…シャープ新社長が最も成し遂げたいこと - ニュースイッチ Newswitch</title>
@@ -201,20 +193,28 @@
       <source url="https://www.cio.com">CIO.com</source>
     </item>
     <item>
-      <title>OpenAIが「Strawberry」の開発を加速…次世代AIの「創造的な二面性」に人間はどう向き合っていくのか - 現代ビジネス</title>
-      <link>https://news.google.com/rss/articles/CBMiJmh0dHBzOi8vZ2VuZGFpLm1lZGlhL2FydGljbGVzLy0vMTMzOTA40gEA?oc=5</link>
-      <guid isPermaLink="false">CBMiJmh0dHBzOi8vZ2VuZGFpLm1lZGlhL2FydGljbGVzLy0vMTMzOTA40gEA</guid>
-      <pubDate>Wed, 17 Jul 2024 21:00:00 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiJmh0dHBzOi8vZ2VuZGFpLm1lZGlhL2FydGljbGVzLy0vMTMzOTA40gEA?oc=5" target="_blank"&gt;OpenAIが「Strawberry」の開発を加速…次世代AIの「創造的な二面性」に人間はどう向き合っていくのか&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;現代ビジネス&lt;/font&gt;</description>
-      <source url="https://gendai.media">現代ビジネス</source>
-    </item>
-    <item>
       <title>練馬区が住民税などの「未納対策支援AI」運用開始、狙いはきめ細かな住民サービス - ITpro</title>
       <link>https://news.google.com/rss/articles/CBMiOGh0dHBzOi8veHRlY2gubmlra2VpLmNvbS9hdGNsL254dC9jb2x1bW4vMTgvMDAwMDEvMDk1MzIv0gEA?oc=5</link>
       <guid isPermaLink="false">CBMiOGh0dHBzOi8veHRlY2gubmlra2VpLmNvbS9hdGNsL254dC9jb2x1bW4vMTgvMDAwMDEvMDk1MzIv0gEA</guid>
       <pubDate>Wed, 17 Jul 2024 20:00:00 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiOGh0dHBzOi8veHRlY2gubmlra2VpLmNvbS9hdGNsL254dC9jb2x1bW4vMTgvMDAwMDEvMDk1MzIv0gEA?oc=5" target="_blank"&gt;練馬区が住民税などの「未納対策支援AI」運用開始、狙いはきめ細かな住民サービス&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;ITpro&lt;/font&gt;</description>
       <source url="https://xtech.nikkei.com">ITpro</source>
+    </item>
+    <item>
+      <title>2030年、生成AIによる産業革命で経済格差が拡大する理由 - 日本経済新聞</title>
+      <link>https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vYm9va3BsdXMubmlra2VpLmNvbS9hdGNsL2NvbHVtbi8wNDE1MDAwNTMvMDcwODAwMzEzL9IBAA?oc=5</link>
+      <guid isPermaLink="false">CBMiPGh0dHBzOi8vYm9va3BsdXMubmlra2VpLmNvbS9hdGNsL2NvbHVtbi8wNDE1MDAwNTMvMDcwODAwMzEzL9IBAA</guid>
+      <pubDate>Wed, 17 Jul 2024 20:00:00 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vYm9va3BsdXMubmlra2VpLmNvbS9hdGNsL2NvbHVtbi8wNDE1MDAwNTMvMDcwODAwMzEzL9IBAA?oc=5" target="_blank"&gt;2030年、生成AIによる産業革命で経済格差が拡大する理由&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;日本経済新聞&lt;/font&gt;</description>
+      <source url="https://bookplus.nikkei.com">日本経済新聞</source>
+    </item>
+    <item>
+      <title>ふくおかFGが融資業務向け生成AIで3割超の時間削減、独自LLM構想も - 日経 xTECH Active</title>
+      <link>https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vYWN0aXZlLm5pa2tlaWJwLmNvLmpwL2F0Y2wvYWN0LzE5LzAwNTkxLzA2MTQwMDAwMS_SAQA?oc=5</link>
+      <guid isPermaLink="false">CBMiOmh0dHBzOi8vYWN0aXZlLm5pa2tlaWJwLmNvLmpwL2F0Y2wvYWN0LzE5LzAwNTkxLzA2MTQwMDAwMS_SAQA</guid>
+      <pubDate>Wed, 17 Jul 2024 20:00:00 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vYWN0aXZlLm5pa2tlaWJwLmNvLmpwL2F0Y2wvYWN0LzE5LzAwNTkxLzA2MTQwMDAwMS_SAQA?oc=5" target="_blank"&gt;ふくおかFGが融資業務向け生成AIで3割超の時間削減、独自LLM構想も&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;日経 xTECH Active&lt;/font&gt;</description>
+      <source url="https://active.nikkeibp.co.jp">日経 xTECH Active</source>
     </item>
     <item>
       <title>パリの大舞台でもAIが活躍、動きの可視化やハイライト映像で五輪を身近に - ITpro</title>
@@ -239,22 +239,6 @@
       <pubDate>Wed, 17 Jul 2024 20:00:00 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiPGh0dHBzOi8veHRlY2gubmlra2VpLmNvbS9hdGNsL254dC9jb2x1bW4vMTgvMDAxMzgvMDcxNjAxNTY0L9IBAA?oc=5" target="_blank"&gt;Geminiはマイグレの救世主となれるのか？ 「COBOL×AIハッカソン 2024」が開催&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;ITpro&lt;/font&gt;</description>
       <source url="https://xtech.nikkei.com">ITpro</source>
-    </item>
-    <item>
-      <title>［スキャナー］情報「ただ乗り」に警鐘…生成ＡＩ・新聞協会声明、社会に不利益訴え - 読売新聞オンライン</title>
-      <link>https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vd3d3LnlvbWl1cmkuY28uanAvbmF0aW9uYWwvMjAyNDA3MTctT1lUMVQ1MDI3My_SAQA?oc=5</link>
-      <guid isPermaLink="false">CBMiN2h0dHBzOi8vd3d3LnlvbWl1cmkuY28uanAvbmF0aW9uYWwvMjAyNDA3MTctT1lUMVQ1MDI3My_SAQA</guid>
-      <pubDate>Wed, 17 Jul 2024 20:00:00 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vd3d3LnlvbWl1cmkuY28uanAvbmF0aW9uYWwvMjAyNDA3MTctT1lUMVQ1MDI3My_SAQA?oc=5" target="_blank"&gt;［スキャナー］情報「ただ乗り」に警鐘…生成ＡＩ・新聞協会声明、社会に不利益訴え&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;読売新聞オンライン&lt;/font&gt;</description>
-      <source url="https://www.yomiuri.co.jp">読売新聞オンライン</source>
-    </item>
-    <item>
-      <title>ふくおかFGが融資業務向け生成AIで3割超の時間削減、独自LLM構想も - 日経 xTECH Active</title>
-      <link>https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vYWN0aXZlLm5pa2tlaWJwLmNvLmpwL2F0Y2wvYWN0LzE5LzAwNTkxLzA2MTQwMDAwMS8_aV9jaWQ9bmJwbnh0YV9zaWVkX3BpY2t1cNIBAA?oc=5</link>
-      <guid isPermaLink="false">CBMiVGh0dHBzOi8vYWN0aXZlLm5pa2tlaWJwLmNvLmpwL2F0Y2wvYWN0LzE5LzAwNTkxLzA2MTQwMDAwMS8_aV9jaWQ9bmJwbnh0YV9zaWVkX3BpY2t1cNIBAA</guid>
-      <pubDate>Wed, 17 Jul 2024 20:00:00 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vYWN0aXZlLm5pa2tlaWJwLmNvLmpwL2F0Y2wvYWN0LzE5LzAwNTkxLzA2MTQwMDAwMS8_aV9jaWQ9bmJwbnh0YV9zaWVkX3BpY2t1cNIBAA?oc=5" target="_blank"&gt;ふくおかFGが融資業務向け生成AIで3割超の時間削減、独自LLM構想も&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;日経 xTECH Active&lt;/font&gt;</description>
-      <source url="https://active.nikkeibp.co.jp">日経 xTECH Active</source>
     </item>
     <item>
       <title>連載「サバイバル 給油所ビジネスの現在地」（下）広がるAIの可能性｜自動車流通・新車ディーラー｜紙面記事 - 日刊自動車新聞社</title>
@@ -305,14 +289,6 @@
       <source url="https://www.bloomberg.co.jp">ブルームバーグ</source>
     </item>
     <item>
-      <title>（時時刻刻）記事抜き出すＡＩ、見えぬ共存 取材コストまかなえず「民主主義の基盤揺らぐ」 - 朝日新聞デジタル</title>
-      <link>https://news.google.com/rss/articles/CBMiMGh0dHBzOi8vd3d3LmFzYWhpLmNvbS9hcnRpY2xlcy9EQTNTMTU5ODYyNjMuaHRtbNIBAA?oc=5</link>
-      <guid isPermaLink="false">CBMiMGh0dHBzOi8vd3d3LmFzYWhpLmNvbS9hcnRpY2xlcy9EQTNTMTU5ODYyNjMuaHRtbNIBAA</guid>
-      <pubDate>Wed, 17 Jul 2024 15:00:00 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiMGh0dHBzOi8vd3d3LmFzYWhpLmNvbS9hcnRpY2xlcy9EQTNTMTU5ODYyNjMuaHRtbNIBAA?oc=5" target="_blank"&gt;（時時刻刻）記事抜き出すＡＩ、見えぬ共存 取材コストまかなえず「民主主義の基盤揺らぐ」&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;朝日新聞デジタル&lt;/font&gt;</description>
-      <source url="https://www.asahi.com">朝日新聞デジタル</source>
-    </item>
-    <item>
       <title>＜お知らせ＞将棋、現役最年少・藤本五段と語る「ＡＩの言いなりにはならない」 記者サロン - 朝日新聞デジタル</title>
       <link>https://news.google.com/rss/articles/CBMiMGh0dHBzOi8vd3d3LmFzYWhpLmNvbS9hcnRpY2xlcy9EQTNTMTU5ODYyMzcuaHRtbNIBAA?oc=5</link>
       <guid isPermaLink="false">CBMiMGh0dHBzOi8vd3d3LmFzYWhpLmNvbS9hcnRpY2xlcy9EQTNTMTU5ODYyMzcuaHRtbNIBAA</guid>
@@ -337,44 +313,12 @@
       <source url="https://www.yomiuri.co.jp">読売新聞オンライン</source>
     </item>
     <item>
-      <title>宿泊施設向けAIサービスTradFit社、テクノロジー活用で「ヘルスツーリズム」推進、韓国のIT投資企業と提携 - トラベルボイス（観光産業ニュース）</title>
-      <link>https://news.google.com/rss/articles/CBMiKmh0dHBzOi8vd3d3LnRyYXZlbHZvaWNlLmpwLzIwMjQwNzE3LTE1NTk5ONIBAA?oc=5</link>
-      <guid isPermaLink="false">CBMiKmh0dHBzOi8vd3d3LnRyYXZlbHZvaWNlLmpwLzIwMjQwNzE3LTE1NTk5ONIBAA</guid>
-      <pubDate>Wed, 17 Jul 2024 12:31:41 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiKmh0dHBzOi8vd3d3LnRyYXZlbHZvaWNlLmpwLzIwMjQwNzE3LTE1NTk5ONIBAA?oc=5" target="_blank"&gt;宿泊施設向けAIサービスTradFit社、テクノロジー活用で「ヘルスツーリズム」推進、韓国のIT投資企業と提携&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;トラベルボイス（観光産業ニュース）&lt;/font&gt;</description>
-      <source url="https://www.travelvoice.jp">トラベルボイス（観光産業ニュース）</source>
-    </item>
-    <item>
-      <title>FRONTEOのAI活用で「標的探索に成果」 日東電工・杉本氏 - 日刊薬業</title>
-      <link>https://news.google.com/rss/articles/CBMiIWh0dHBzOi8vbmsuamloby5qcC9hcnRpY2xlLzE5MTU1ONIBJWh0dHBzOi8vbmsuamloby5qcC9hcnRpY2xlLzE5MTU1OD9hbXA?oc=5</link>
-      <guid isPermaLink="false">CBMiIWh0dHBzOi8vbmsuamloby5qcC9hcnRpY2xlLzE5MTU1ONIBJWh0dHBzOi8vbmsuamloby5qcC9hcnRpY2xlLzE5MTU1OD9hbXA</guid>
-      <pubDate>Wed, 17 Jul 2024 12:21:00 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiIWh0dHBzOi8vbmsuamloby5qcC9hcnRpY2xlLzE5MTU1ONIBJWh0dHBzOi8vbmsuamloby5qcC9hcnRpY2xlLzE5MTU1OD9hbXA?oc=5" target="_blank"&gt;FRONTEOのAI活用で「標的探索に成果」 日東電工・杉本氏&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;日刊薬業&lt;/font&gt;</description>
-      <source url="https://nk.jiho.jp">日刊薬業</source>
-    </item>
-    <item>
-      <title>サムスンが空調で北米市場開拓 家庭用、AIで3割省エネ - 日本経済新聞</title>
-      <link>https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3Lm5pa2tlaS5jb20vYXJ0aWNsZS9ER1haUU9HTTIxRFNJMFIyMEMyNEE2MDAwMDAwL9IBAA?oc=5</link>
-      <guid isPermaLink="false">CBMiPGh0dHBzOi8vd3d3Lm5pa2tlaS5jb20vYXJ0aWNsZS9ER1haUU9HTTIxRFNJMFIyMEMyNEE2MDAwMDAwL9IBAA</guid>
-      <pubDate>Wed, 17 Jul 2024 11:32:18 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3Lm5pa2tlaS5jb20vYXJ0aWNsZS9ER1haUU9HTTIxRFNJMFIyMEMyNEE2MDAwMDAwL9IBAA?oc=5" target="_blank"&gt;サムスンが空調で北米市場開拓 家庭用、AIで3割省エネ&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;日本経済新聞&lt;/font&gt;</description>
-      <source url="https://www.nikkei.com">日本経済新聞</source>
-    </item>
-    <item>
       <title>公取委、生成ＡＩ市場「高い関心をもって注視」…巨大ＩＴに資源集中で競争上の問題が起きる可能性 - 読売新聞オンライン</title>
       <link>https://news.google.com/rss/articles/CBMiNmh0dHBzOi8vd3d3LnlvbWl1cmkuY28uanAvZWNvbm9teS8yMDI0MDcxNy1PWVQxVDUwMTU0L9IBAA?oc=5</link>
       <guid isPermaLink="false">CBMiNmh0dHBzOi8vd3d3LnlvbWl1cmkuY28uanAvZWNvbm9teS8yMDI0MDcxNy1PWVQxVDUwMTU0L9IBAA</guid>
       <pubDate>Wed, 17 Jul 2024 11:08:00 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiNmh0dHBzOi8vd3d3LnlvbWl1cmkuY28uanAvZWNvbm9teS8yMDI0MDcxNy1PWVQxVDUwMTU0L9IBAA?oc=5" target="_blank"&gt;公取委、生成ＡＩ市場「高い関心をもって注視」…巨大ＩＴに資源集中で競争上の問題が起きる可能性&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;読売新聞オンライン&lt;/font&gt;</description>
       <source url="https://www.yomiuri.co.jp">読売新聞オンライン</source>
-    </item>
-    <item>
-      <title>四日市市 自治体向け生成ＡＩを本格導入 - nhk.or.jp</title>
-      <link>https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vd3d3My5uaGsub3IuanAvbG5ld3MvdHN1LzIwMjQwNzE3LzMwNzAwMTMzMjQuaHRtbNIBAA?oc=5</link>
-      <guid isPermaLink="false">CBMiOWh0dHBzOi8vd3d3My5uaGsub3IuanAvbG5ld3MvdHN1LzIwMjQwNzE3LzMwNzAwMTMzMjQuaHRtbNIBAA</guid>
-      <pubDate>Wed, 17 Jul 2024 10:12:00 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vd3d3My5uaGsub3IuanAvbG5ld3MvdHN1LzIwMjQwNzE3LzMwNzAwMTMzMjQuaHRtbNIBAA?oc=5" target="_blank"&gt;四日市市 自治体向け生成ＡＩを本格導入&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;nhk.or.jp&lt;/font&gt;</description>
-      <source url="https://www3.nhk.or.jp">nhk.or.jp</source>
     </item>
     <item>
       <title>生成AI検索は「道案内」ではなく「種明かし」──日本新聞協会、著作権侵害の可能性を指摘 - ITmedia NEWS - ITmedia NEWS</title>
@@ -385,43 +329,19 @@
       <source url="https://www.itmedia.co.jp">ITmedia NEWS</source>
     </item>
     <item>
-      <title>公取委、生成AIの実態調査を年内にも 巨大ITによる競争阻害懸念 - 朝日新聞デジタル</title>
-      <link>https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LmFzYWhpLmNvbS9hcnRpY2xlcy9BU1M3SzM1Q0pTN0tVTEZBMDE3TS5odG1s0gEA?oc=5</link>
-      <guid isPermaLink="false">CBMiOGh0dHBzOi8vd3d3LmFzYWhpLmNvbS9hcnRpY2xlcy9BU1M3SzM1Q0pTN0tVTEZBMDE3TS5odG1s0gEA</guid>
-      <pubDate>Wed, 17 Jul 2024 09:50:40 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LmFzYWhpLmNvbS9hcnRpY2xlcy9BU1M3SzM1Q0pTN0tVTEZBMDE3TS5odG1s0gEA?oc=5" target="_blank"&gt;公取委、生成AIの実態調査を年内にも 巨大ITによる競争阻害懸念&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;朝日新聞デジタル&lt;/font&gt;</description>
-      <source url="https://www.asahi.com">朝日新聞デジタル</source>
-    </item>
-    <item>
-      <title>生成ＡＩの実態調査検討＝競争阻害を懸念、年内にも―公取委 - リスク対策.com</title>
-      <link>https://news.google.com/rss/articles/CBMiLGh0dHBzOi8vd3d3LnJpc2t0YWlzYWt1LmNvbS9hcnRpY2xlcy8tLzkzNDU10gEA?oc=5</link>
-      <guid isPermaLink="false">CBMiLGh0dHBzOi8vd3d3LnJpc2t0YWlzYWt1LmNvbS9hcnRpY2xlcy8tLzkzNDU10gEA</guid>
-      <pubDate>Wed, 17 Jul 2024 09:35:21 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiLGh0dHBzOi8vd3d3LnJpc2t0YWlzYWt1LmNvbS9hcnRpY2xlcy8tLzkzNDU10gEA?oc=5" target="_blank"&gt;生成ＡＩの実態調査検討＝競争阻害を懸念、年内にも―公取委&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;リスク対策.com&lt;/font&gt;</description>
-      <source url="https://www.risktaisaku.com">リスク対策.com</source>
-    </item>
-    <item>
-      <title>「許諾得て、正確性確保を」＝生成ＡＩ巡り声明公表―新聞協会 - リスク対策.com</title>
-      <link>https://news.google.com/rss/articles/CBMiLGh0dHBzOi8vd3d3LnJpc2t0YWlzYWt1LmNvbS9hcnRpY2xlcy8tLzkzNDU30gEA?oc=5</link>
-      <guid isPermaLink="false">CBMiLGh0dHBzOi8vd3d3LnJpc2t0YWlzYWt1LmNvbS9hcnRpY2xlcy8tLzkzNDU30gEA</guid>
-      <pubDate>Wed, 17 Jul 2024 09:35:21 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiLGh0dHBzOi8vd3d3LnJpc2t0YWlzYWt1LmNvbS9hcnRpY2xlcy8tLzkzNDU30gEA?oc=5" target="_blank"&gt;「許諾得て、正確性確保を」＝生成ＡＩ巡り声明公表―新聞協会&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;リスク対策.com&lt;/font&gt;</description>
-      <source url="https://www.risktaisaku.com">リスク対策.com</source>
-    </item>
-    <item>
-      <title>生成AIの業務利用、日本は16%で主要国最低 民間調査 - 日本経済新聞</title>
-      <link>https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3Lm5pa2tlaS5jb20vYXJ0aWNsZS9ER1haUU9VQzE3M0hYMFgxMEMyNEE3MDAwMDAwL9IBAA?oc=5</link>
-      <guid isPermaLink="false">CBMiPGh0dHBzOi8vd3d3Lm5pa2tlaS5jb20vYXJ0aWNsZS9ER1haUU9VQzE3M0hYMFgxMEMyNEE3MDAwMDAwL9IBAA</guid>
-      <pubDate>Wed, 17 Jul 2024 09:00:00 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3Lm5pa2tlaS5jb20vYXJ0aWNsZS9ER1haUU9VQzE3M0hYMFgxMEMyNEE3MDAwMDAwL9IBAA?oc=5" target="_blank"&gt;生成AIの業務利用、日本は16%で主要国最低 民間調査&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;日本経済新聞&lt;/font&gt;</description>
-      <source url="https://www.nikkei.com">日本経済新聞</source>
+      <title>Amazon Q Apps の一般公開を開始、独自の生成 AI アプリ構築が可能に - amazon.com</title>
+      <link>https://news.google.com/rss/articles/CBMif2h0dHBzOi8vYXdzLmFtYXpvbi5jb20vanAvYmxvZ3MvbmV3cy9hbWF6b24tcS1hcHBzLW5vdy1nZW5lcmFsbHktYXZhaWxhYmxlLWVuYWJsZXMtdXNlcnMtdG8tYnVpbGQtdGhlaXItb3duLWdlbmVyYXRpdmUtYWktYXBwcy_SAQA?oc=5</link>
+      <guid isPermaLink="false">CBMif2h0dHBzOi8vYXdzLmFtYXpvbi5jb20vanAvYmxvZ3MvbmV3cy9hbWF6b24tcS1hcHBzLW5vdy1nZW5lcmFsbHktYXZhaWxhYmxlLWVuYWJsZXMtdXNlcnMtdG8tYnVpbGQtdGhlaXItb3duLWdlbmVyYXRpdmUtYWktYXBwcy_SAQA</guid>
+      <pubDate>Wed, 17 Jul 2024 08:07:18 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMif2h0dHBzOi8vYXdzLmFtYXpvbi5jb20vanAvYmxvZ3MvbmV3cy9hbWF6b24tcS1hcHBzLW5vdy1nZW5lcmFsbHktYXZhaWxhYmxlLWVuYWJsZXMtdXNlcnMtdG8tYnVpbGQtdGhlaXItb3duLWdlbmVyYXRpdmUtYWktYXBwcy_SAQA?oc=5" target="_blank"&gt;Amazon Q Apps の一般公開を開始、独自の生成 AI アプリ構築が可能に&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;amazon.com&lt;/font&gt;</description>
+      <source url="https://aws.amazon.com">amazon.com</source>
     </item>
     <item>
       <title>検索連動の生成AI、｢著作権侵害の可能性｣ 新聞協会 - 日本経済新聞</title>
       <link>https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3Lm5pa2tlaS5jb20vYXJ0aWNsZS9ER1haUU9VRTA4MzI1MFk0QTcwMEMyMDAwMDAwL9IBAA?oc=5</link>
       <guid isPermaLink="false">CBMiPGh0dHBzOi8vd3d3Lm5pa2tlaS5jb20vYXJ0aWNsZS9ER1haUU9VRTA4MzI1MFk0QTcwMEMyMDAwMDAwL9IBAA</guid>
       <pubDate>Wed, 17 Jul 2024 08:02:19 GMT</pubDate>
-      <description>&lt;ol&gt;&lt;li&gt;&lt;a href="https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3Lm5pa2tlaS5jb20vYXJ0aWNsZS9ER1haUU9VRTA4MzI1MFk0QTcwMEMyMDAwMDAwL9IBAA?oc=5" target="_blank"&gt;検索連動の生成AI、｢著作権侵害の可能性｣ 新聞協会&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;日本経済新聞&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LmFzYWhpLmNvbS9hcnRpY2xlcy9BU1M3SzEwQ1dTN0tVVElMMDBCTS5odG1s0gEA?oc=5" target="_blank"&gt;AI検索で「記事を無断使用」 新聞協会がPFに対応求める&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;朝日新聞デジタル&lt;/font&gt;&lt;/li&gt;&lt;/ol&gt;</description>
+      <description>&lt;ol&gt;&lt;li&gt;&lt;a href="https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3Lm5pa2tlaS5jb20vYXJ0aWNsZS9ER1haUU9VRTA4MzI1MFk0QTcwMEMyMDAwMDAwL9IBAA?oc=5" target="_blank"&gt;検索連動の生成AI、｢著作権侵害の可能性｣ 新聞協会&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;日本経済新聞&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LmFzYWhpLmNvbS9hcnRpY2xlcy9BU1M3SzE0QkdTN0tVVElMMDBCTS5odG1s0gEA?oc=5" target="_blank"&gt;AI検索で進む「ただ乗り」、報道機関の記事にも 社会への影響は&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;朝日新聞デジタル&lt;/font&gt;&lt;/li&gt;&lt;/ol&gt;</description>
       <source url="https://www.nikkei.com">日本経済新聞</source>
     </item>
     <item>
@@ -449,12 +369,12 @@
       <source url="https://newswitch.jp">ニュースイッチ Newswitch</source>
     </item>
     <item>
-      <title>大企業は小規模に注目、AIは小型・低費用が時に優位 AppleやMicrosoft、速度向上・専門性・開発費削減に期待(1/2) - JBpress</title>
-      <link>https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vamJwcmVzcy5pc21lZGlhLmpwL2FydGljbGVzLy0vODIwNzjSAQA?oc=5</link>
-      <guid isPermaLink="false">CBMiK2h0dHBzOi8vamJwcmVzcy5pc21lZGlhLmpwL2FydGljbGVzLy0vODIwNzjSAQA</guid>
-      <pubDate>Wed, 17 Jul 2024 07:00:00 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vamJwcmVzcy5pc21lZGlhLmpwL2FydGljbGVzLy0vODIwNzjSAQA?oc=5" target="_blank"&gt;大企業は小規模に注目、AIは小型・低費用が時に優位 AppleやMicrosoft、速度向上・専門性・開発費削減に期待(1/2)&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;JBpress&lt;/font&gt;</description>
-      <source url="https://jbpress.ismedia.jp">JBpress</source>
+      <title>AI検索で「記事を無断使用」 新聞協会がPFに対応求める - 朝日新聞デジタル</title>
+      <link>https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LmFzYWhpLmNvbS9hcnRpY2xlcy9BU1M3SzEwQ1dTN0tVVElMMDBCTS5odG1s0gEA?oc=5</link>
+      <guid isPermaLink="false">CBMiOGh0dHBzOi8vd3d3LmFzYWhpLmNvbS9hcnRpY2xlcy9BU1M3SzEwQ1dTN0tVVElMMDBCTS5odG1s0gEA</guid>
+      <pubDate>Wed, 17 Jul 2024 05:08:34 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LmFzYWhpLmNvbS9hcnRpY2xlcy9BU1M3SzEwQ1dTN0tVVElMMDBCTS5odG1s0gEA?oc=5" target="_blank"&gt;AI検索で「記事を無断使用」 新聞協会がPFに対応求める&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;朝日新聞デジタル&lt;/font&gt;</description>
+      <source url="https://www.asahi.com">朝日新聞デジタル</source>
     </item>
     <item>
       <title>チャットAI「Claude」にAndroid版 - ITmedia NEWS - ITmedia NEWS</title>
@@ -471,6 +391,14 @@
       <pubDate>Wed, 17 Jul 2024 02:00:00 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiKmh0dHBzOi8vd3d3LmJ1c2luZXNzaW5zaWRlci5qcC9wb3N0LTI4OTk0NdIBAA?oc=5" target="_blank"&gt;AI関連の仕事につくために必要なスキルとは&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Business Insider Japan&lt;/font&gt;</description>
       <source url="https://www.businessinsider.jp">Business Insider Japan</source>
+    </item>
+    <item>
+      <title>AppleやAnthropicがYouTubeの文字起こしをAIトレーニングに無断で使用との報道 - ITmedia NEWS - ITmedia NEWS</title>
+      <link>https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3Lml0bWVkaWEuY28uanAvbmV3cy9hcnRpY2xlcy8yNDA3LzE3L25ld3MwOTcuaHRtbNIBN2h0dHBzOi8vd3d3Lml0bWVkaWEuY28uanAvbmV3cy9hbXAvMjQwNy8xNy9uZXdzMDk3Lmh0bWw?oc=5</link>
+      <guid isPermaLink="false">CBMiPGh0dHBzOi8vd3d3Lml0bWVkaWEuY28uanAvbmV3cy9hcnRpY2xlcy8yNDA3LzE3L25ld3MwOTcuaHRtbNIBN2h0dHBzOi8vd3d3Lml0bWVkaWEuY28uanAvbmV3cy9hbXAvMjQwNy8xNy9uZXdzMDk3Lmh0bWw</guid>
+      <pubDate>Wed, 17 Jul 2024 00:06:00 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3Lml0bWVkaWEuY28uanAvbmV3cy9hcnRpY2xlcy8yNDA3LzE3L25ld3MwOTcuaHRtbNIBN2h0dHBzOi8vd3d3Lml0bWVkaWEuY28uanAvbmV3cy9hbXAvMjQwNy8xNy9uZXdzMDk3Lmh0bWw?oc=5" target="_blank"&gt;AppleやAnthropicがYouTubeの文字起こしをAIトレーニングに無断で使用との報道 - ITmedia NEWS&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;ITmedia NEWS&lt;/font&gt;</description>
+      <source url="https://www.itmedia.co.jp">ITmedia NEWS</source>
     </item>
     <item>
       <title>王者Googleに生成AI検索で挑む ソフトバンクと組むPerplexityの野望 - 日経ビジネスオンライン</title>
@@ -505,12 +433,12 @@
       <source url="https://www.itmedia.co.jp">ITmedia</source>
     </item>
     <item>
-      <title>富士通、AI新興CohereとLLM共同開発 日本語に長けたモデル「Takane」（高嶺） - ITmedia NEWS - ITmedia NEWS</title>
-      <link>https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3Lml0bWVkaWEuY28uanAvbmV3cy9hcnRpY2xlcy8yNDA3LzE2L25ld3MxMTcuaHRtbNIBN2h0dHBzOi8vd3d3Lml0bWVkaWEuY28uanAvbmV3cy9hbXAvMjQwNy8xNi9uZXdzMTE3Lmh0bWw?oc=5</link>
-      <guid isPermaLink="false">CBMiPGh0dHBzOi8vd3d3Lml0bWVkaWEuY28uanAvbmV3cy9hcnRpY2xlcy8yNDA3LzE2L25ld3MxMTcuaHRtbNIBN2h0dHBzOi8vd3d3Lml0bWVkaWEuY28uanAvbmV3cy9hbXAvMjQwNy8xNi9uZXdzMTE3Lmh0bWw</guid>
-      <pubDate>Tue, 16 Jul 2024 04:09:00 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3Lml0bWVkaWEuY28uanAvbmV3cy9hcnRpY2xlcy8yNDA3LzE2L25ld3MxMTcuaHRtbNIBN2h0dHBzOi8vd3d3Lml0bWVkaWEuY28uanAvbmV3cy9hbXAvMjQwNy8xNi9uZXdzMTE3Lmh0bWw?oc=5" target="_blank"&gt;富士通、AI新興CohereとLLM共同開発 日本語に長けたモデル「Takane」（高嶺） - ITmedia NEWS&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;ITmedia NEWS&lt;/font&gt;</description>
-      <source url="https://www.itmedia.co.jp">ITmedia NEWS</source>
+      <title>国民・玉木雄一郎代表が「ＡＩゆういちろう」の運用開始 人工知能使い政策発信 - 産経ニュース</title>
+      <link>https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vd3d3LnNhbmtlaS5jb20vYXJ0aWNsZS8yMDI0MDcxNi03SDRXQkpVSzNOTE81QkxFM083V0VRM0tBRS_SAQA?oc=5</link>
+      <guid isPermaLink="false">CBMiQ2h0dHBzOi8vd3d3LnNhbmtlaS5jb20vYXJ0aWNsZS8yMDI0MDcxNi03SDRXQkpVSzNOTE81QkxFM083V0VRM0tBRS_SAQA</guid>
+      <pubDate>Tue, 16 Jul 2024 10:29:01 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vd3d3LnNhbmtlaS5jb20vYXJ0aWNsZS8yMDI0MDcxNi03SDRXQkpVSzNOTE81QkxFM083V0VRM0tBRS_SAQA?oc=5" target="_blank"&gt;国民・玉木雄一郎代表が「ＡＩゆういちろう」の運用開始 人工知能使い政策発信&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;産経ニュース&lt;/font&gt;</description>
+      <source url="https://www.sankei.com">産経ニュース</source>
     </item>
     <item>
       <title>23個のAIツールを9カ月でスピード開発──ZOZO、生成AI活用に前のめり 大量展開のコツを聞いた - ITmedia</title>
@@ -561,12 +489,100 @@
       <source url="https://prtimes.jp">PR TIMES</source>
     </item>
     <item>
-      <title>SBテクノロジー 誰でも簡単に使える 生成AIサービス「dailyAI」のご紹介 - AIsmiley</title>
-      <link>https://news.google.com/rss/articles/CBMiNGh0dHBzOi8vYWlzbWlsZXkuY28uanAvcHJvZHVjdC9zb2Z0YmFua3RlY2hfZGFpbHlhaS_SAQA?oc=5</link>
-      <guid isPermaLink="false">CBMiNGh0dHBzOi8vYWlzbWlsZXkuY28uanAvcHJvZHVjdC9zb2Z0YmFua3RlY2hfZGFpbHlhaS_SAQA</guid>
-      <pubDate>Thu, 18 Jul 2024 01:05:11 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiNGh0dHBzOi8vYWlzbWlsZXkuY28uanAvcHJvZHVjdC9zb2Z0YmFua3RlY2hfZGFpbHlhaS_SAQA?oc=5" target="_blank"&gt;SBテクノロジー 誰でも簡単に使える 生成AIサービス「dailyAI」のご紹介&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;AIsmiley&lt;/font&gt;</description>
-      <source url="https://aismiley.co.jp">AIsmiley</source>
+      <title>社員の生産性を100倍にするAI×学びの研修サービス『AIRクエスト』リリース。プレミア販売代理店の募集開始。 - PR TIMES</title>
+      <link>https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vcHJ0aW1lcy5qcC9tYWluL2h0bWwvcmQvcC8wMDAwMDAwMDEuMDAwMTQ1MTUxLmh0bWzSAQA?oc=5</link>
+      <guid isPermaLink="false">CBMiOmh0dHBzOi8vcHJ0aW1lcy5qcC9tYWluL2h0bWwvcmQvcC8wMDAwMDAwMDEuMDAwMTQ1MTUxLmh0bWzSAQA</guid>
+      <pubDate>Thu, 18 Jul 2024 02:00:08 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vcHJ0aW1lcy5qcC9tYWluL2h0bWwvcmQvcC8wMDAwMDAwMDEuMDAwMTQ1MTUxLmh0bWzSAQA?oc=5" target="_blank"&gt;社員の生産性を100倍にするAI×学びの研修サービス『AIRクエスト』リリース。プレミア販売代理店の募集開始。&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;PR TIMES&lt;/font&gt;</description>
+      <source url="https://prtimes.jp">PR TIMES</source>
+    </item>
+    <item>
+      <title>マーケティング活動にAIを活用したい企業必見！「マーケティングにおけるAIの実践/活用事例」解説ガイドを無料公開！ - PR TIMES</title>
+      <link>https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vcHJ0aW1lcy5qcC9tYWluL2h0bWwvcmQvcC8wMDAwMDAyNzMuMDAwMDQ1ODYzLmh0bWzSAQA?oc=5</link>
+      <guid isPermaLink="false">CBMiOmh0dHBzOi8vcHJ0aW1lcy5qcC9tYWluL2h0bWwvcmQvcC8wMDAwMDAyNzMuMDAwMDQ1ODYzLmh0bWzSAQA</guid>
+      <pubDate>Thu, 18 Jul 2024 02:00:01 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vcHJ0aW1lcy5qcC9tYWluL2h0bWwvcmQvcC8wMDAwMDAyNzMuMDAwMDQ1ODYzLmh0bWzSAQA?oc=5" target="_blank"&gt;マーケティング活動にAIを活用したい企業必見！「マーケティングにおけるAIの実践/活用事例」解説ガイドを無料公開！&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;PR TIMES&lt;/font&gt;</description>
+      <source url="https://prtimes.jp">PR TIMES</source>
+    </item>
+    <item>
+      <title>出版業界での生成AIの活用方法や今後の展望などを解説！双葉社の社員向けセミナー「未来を創る生成AIの今とこれから」に代表の脇康平が登壇!! - PR TIMES</title>
+      <link>https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vcHJ0aW1lcy5qcC9tYWluL2h0bWwvcmQvcC8wMDAwMDM1NjkuMDAwMDAzNjcwLmh0bWzSAQA?oc=5</link>
+      <guid isPermaLink="false">CBMiOmh0dHBzOi8vcHJ0aW1lcy5qcC9tYWluL2h0bWwvcmQvcC8wMDAwMDM1NjkuMDAwMDAzNjcwLmh0bWzSAQA</guid>
+      <pubDate>Thu, 18 Jul 2024 02:00:01 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vcHJ0aW1lcy5qcC9tYWluL2h0bWwvcmQvcC8wMDAwMDM1NjkuMDAwMDAzNjcwLmh0bWzSAQA?oc=5" target="_blank"&gt;出版業界での生成AIの活用方法や今後の展望などを解説！双葉社の社員向けセミナー「未来を創る生成AIの今とこれから」に代表の脇康平が登壇!!&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;PR TIMES&lt;/font&gt;</description>
+      <source url="https://prtimes.jp">PR TIMES</source>
+    </item>
+    <item>
+      <title>「ITreview Grid Award 2024 Summer」AIモデル構築部門で最高位である「Leader」を2期連続受賞、他2部門で「High Performer」2期連続W受賞 - PR TIMES</title>
+      <link>https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vcHJ0aW1lcy5qcC9tYWluL2h0bWwvcmQvcC8wMDAwMDAwNTkuMDAwMTE0NzY5Lmh0bWzSAQA?oc=5</link>
+      <guid isPermaLink="false">CBMiOmh0dHBzOi8vcHJ0aW1lcy5qcC9tYWluL2h0bWwvcmQvcC8wMDAwMDAwNTkuMDAwMTE0NzY5Lmh0bWzSAQA</guid>
+      <pubDate>Thu, 18 Jul 2024 02:00:01 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vcHJ0aW1lcy5qcC9tYWluL2h0bWwvcmQvcC8wMDAwMDAwNTkuMDAwMTE0NzY5Lmh0bWzSAQA?oc=5" target="_blank"&gt;「ITreview Grid Award 2024 Summer」AIモデル構築部門で最高位である「Leader」を2期連続受賞、他2部門で「High Performer」2期連続W受賞&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;PR TIMES&lt;/font&gt;</description>
+      <source url="https://prtimes.jp">PR TIMES</source>
+    </item>
+    <item>
+      <title>クリーク・アンド・リバー社グループのAI/DX分野の子会社リヴァイの代表・脇 康平が双葉社社内生成AIセミナーに登壇！7/16（火）「未来を創る生成AIの今とこれから」について語る!! - PR TIMES</title>
+      <link>https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vcHJ0aW1lcy5qcC9tYWluL2h0bWwvcmQvcC8wMDAwMDAwMDcuMDAwMTIzODI5Lmh0bWzSAQA?oc=5</link>
+      <guid isPermaLink="false">CBMiOmh0dHBzOi8vcHJ0aW1lcy5qcC9tYWluL2h0bWwvcmQvcC8wMDAwMDAwMDcuMDAwMTIzODI5Lmh0bWzSAQA</guid>
+      <pubDate>Thu, 18 Jul 2024 02:00:01 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vcHJ0aW1lcy5qcC9tYWluL2h0bWwvcmQvcC8wMDAwMDAwMDcuMDAwMTIzODI5Lmh0bWzSAQA?oc=5" target="_blank"&gt;クリーク・アンド・リバー社グループのAI/DX分野の子会社リヴァイの代表・脇 康平が双葉社社内生成AIセミナーに登壇！7/16（火）「未来を創る生成AIの今とこれから」について語る!!&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;PR TIMES&lt;/font&gt;</description>
+      <source url="https://prtimes.jp">PR TIMES</source>
+    </item>
+    <item>
+      <title>MetaがLlamaベースのマルチモーダルAIをEUには提供しない方針を明らかに - GIGAZINE（ギガジン）</title>
+      <link>https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vZ2lnYXppbmUubmV0L25ld3MvMjAyNDA3MTgtbWV0YS13aWxsLW5vdC1icmluZy1tdWx0aW1vZGFsLWFpLXRvLWV1L9IBAA?oc=5</link>
+      <guid isPermaLink="false">CBMiS2h0dHBzOi8vZ2lnYXppbmUubmV0L25ld3MvMjAyNDA3MTgtbWV0YS13aWxsLW5vdC1icmluZy1tdWx0aW1vZGFsLWFpLXRvLWV1L9IBAA</guid>
+      <pubDate>Thu, 18 Jul 2024 01:54:00 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vZ2lnYXppbmUubmV0L25ld3MvMjAyNDA3MTgtbWV0YS13aWxsLW5vdC1icmluZy1tdWx0aW1vZGFsLWFpLXRvLWV1L9IBAA?oc=5" target="_blank"&gt;MetaがLlamaベースのマルチモーダルAIをEUには提供しない方針を明らかに&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;GIGAZINE（ギガジン）&lt;/font&gt;</description>
+      <source url="https://gigazine.net">GIGAZINE（ギガジン）</source>
+    </item>
+    <item>
+      <title>AIは生産性を大きく高めない 議論を呼ぶMIT教授の悲観論 [朝デジで読むNYタイムズ] - 朝日新聞デジタル</title>
+      <link>https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LmFzYWhpLmNvbS9hcnRpY2xlcy9BU1M3SjMzTDVTN0pVSE1DMDAzTS5odG1s0gEA?oc=5</link>
+      <guid isPermaLink="false">CBMiOGh0dHBzOi8vd3d3LmFzYWhpLmNvbS9hcnRpY2xlcy9BU1M3SjMzTDVTN0pVSE1DMDAzTS5odG1s0gEA</guid>
+      <pubDate>Thu, 18 Jul 2024 01:45:00 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LmFzYWhpLmNvbS9hcnRpY2xlcy9BU1M3SjMzTDVTN0pVSE1DMDAzTS5odG1s0gEA?oc=5" target="_blank"&gt;AIは生産性を大きく高めない 議論を呼ぶMIT教授の悲観論 [朝デジで読むNYタイムズ]&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;朝日新聞デジタル&lt;/font&gt;</description>
+      <source url="https://www.asahi.com">朝日新聞デジタル</source>
+    </item>
+    <item>
+      <title>PCユーザーの84％はAIを強化するPCの購入に否定的 - GIGAZINE（ギガジン）</title>
+      <link>https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vZ2lnYXppbmUubmV0L25ld3MvMjAyNDA3MTgtaGFyZHdhcmUtd2l0aC1haS11bndpbGxpbmctcGF5L9IBAA?oc=5</link>
+      <guid isPermaLink="false">CBMiQmh0dHBzOi8vZ2lnYXppbmUubmV0L25ld3MvMjAyNDA3MTgtaGFyZHdhcmUtd2l0aC1haS11bndpbGxpbmctcGF5L9IBAA</guid>
+      <pubDate>Thu, 18 Jul 2024 01:35:00 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vZ2lnYXppbmUubmV0L25ld3MvMjAyNDA3MTgtaGFyZHdhcmUtd2l0aC1haS11bndpbGxpbmctcGF5L9IBAA?oc=5" target="_blank"&gt;PCユーザーの84％はAIを強化するPCの購入に否定的&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;GIGAZINE（ギガジン）&lt;/font&gt;</description>
+      <source url="https://gigazine.net">GIGAZINE（ギガジン）</source>
+    </item>
+    <item>
+      <title>グレイスケール 分散型AIに特化した仮想通貨ファンドを立ち上げ - コインテレグラフ・ジャパン（ビットコイン、仮想通貨、ブロックチェーンのニュース）</title>
+      <link>https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vanAuY29pbnRlbGVncmFwaC5jb20vbmV3cy9ncmF5c2NhbGUtbmV3LWRlY2VudHJhbGl6ZWQtYWktZnVuZNIBAA?oc=5</link>
+      <guid isPermaLink="false">CBMiRWh0dHBzOi8vanAuY29pbnRlbGVncmFwaC5jb20vbmV3cy9ncmF5c2NhbGUtbmV3LWRlY2VudHJhbGl6ZWQtYWktZnVuZNIBAA</guid>
+      <pubDate>Thu, 18 Jul 2024 01:31:57 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vanAuY29pbnRlbGVncmFwaC5jb20vbmV3cy9ncmF5c2NhbGUtbmV3LWRlY2VudHJhbGl6ZWQtYWktZnVuZNIBAA?oc=5" target="_blank"&gt;グレイスケール 分散型AIに特化した仮想通貨ファンドを立ち上げ&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;コインテレグラフ・ジャパン（ビットコイン、仮想通貨、ブロックチェーンのニュース）&lt;/font&gt;</description>
+      <source url="https://jp.cointelegraph.com">コインテレグラフ・ジャパン（ビットコイン、仮想通貨、ブロックチェーンのニュース）</source>
+    </item>
+    <item>
+      <title>“生成AI×ゲーム”の新たな可能性を体験！モリカトロンが贈る新コンセプトモデル「言霊の迷宮 - 人とAIが紡ぐ無限の冒険物語 -」 - PR TIMES</title>
+      <link>https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vcHJ0aW1lcy5qcC9tYWluL2h0bWwvcmQvcC8wMDAwMDAwMDEuMDAwMTMzMjY3Lmh0bWzSAQA?oc=5</link>
+      <guid isPermaLink="false">CBMiOmh0dHBzOi8vcHJ0aW1lcy5qcC9tYWluL2h0bWwvcmQvcC8wMDAwMDAwMDEuMDAwMTMzMjY3Lmh0bWzSAQA</guid>
+      <pubDate>Thu, 18 Jul 2024 01:24:14 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vcHJ0aW1lcy5qcC9tYWluL2h0bWwvcmQvcC8wMDAwMDAwMDEuMDAwMTMzMjY3Lmh0bWzSAQA?oc=5" target="_blank"&gt;“生成AI×ゲーム”の新たな可能性を体験！モリカトロンが贈る新コンセプトモデル「言霊の迷宮 - 人とAIが紡ぐ無限の冒険物語 -」&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;PR TIMES&lt;/font&gt;</description>
+      <source url="https://prtimes.jp">PR TIMES</source>
+    </item>
+    <item>
+      <title>米国株情報＞アマゾンなどが出資のアンスロピック、ＡＩ開発支援のファンド設立(ウエルスアドバイザー) - Yahoo!ファイナンス</title>
+      <link>https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vZmluYW5jZS55YWhvby5jby5qcC9uZXdzL2RldGFpbC8zMjc2NWI3MzQ3ZTdlMmFlNWRlYmM2MDI4NzAxMWY1YTlkOWM5Mzk20gEA?oc=5</link>
+      <guid isPermaLink="false">CBMiUGh0dHBzOi8vZmluYW5jZS55YWhvby5jby5qcC9uZXdzL2RldGFpbC8zMjc2NWI3MzQ3ZTdlMmFlNWRlYmM2MDI4NzAxMWY1YTlkOWM5Mzk20gEA</guid>
+      <pubDate>Thu, 18 Jul 2024 01:22:59 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vZmluYW5jZS55YWhvby5jby5qcC9uZXdzL2RldGFpbC8zMjc2NWI3MzQ3ZTdlMmFlNWRlYmM2MDI4NzAxMWY1YTlkOWM5Mzk20gEA?oc=5" target="_blank"&gt;米国株情報＞アマゾンなどが出資のアンスロピック、ＡＩ開発支援のファンド設立(ウエルスアドバイザー)&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo!ファイナンス&lt;/font&gt;</description>
+      <source url="https://finance.yahoo.co.jp">Yahoo!ファイナンス</source>
+    </item>
+    <item>
+      <title>Yahoo!検索、飲食店のクチコミをAIで要約・表示する機能 - ITmedia NEWS - ITmedia NEWS</title>
+      <link>https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3Lml0bWVkaWEuY28uanAvbmV3cy9hcnRpY2xlcy8yNDA3LzE4L25ld3MxMDIuaHRtbNIBN2h0dHBzOi8vd3d3Lml0bWVkaWEuY28uanAvbmV3cy9hbXAvMjQwNy8xOC9uZXdzMTAyLmh0bWw?oc=5</link>
+      <guid isPermaLink="false">CBMiPGh0dHBzOi8vd3d3Lml0bWVkaWEuY28uanAvbmV3cy9hcnRpY2xlcy8yNDA3LzE4L25ld3MxMDIuaHRtbNIBN2h0dHBzOi8vd3d3Lml0bWVkaWEuY28uanAvbmV3cy9hbXAvMjQwNy8xOC9uZXdzMTAyLmh0bWw</guid>
+      <pubDate>Thu, 18 Jul 2024 01:22:00 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3Lml0bWVkaWEuY28uanAvbmV3cy9hcnRpY2xlcy8yNDA3LzE4L25ld3MxMDIuaHRtbNIBN2h0dHBzOi8vd3d3Lml0bWVkaWEuY28uanAvbmV3cy9hbXAvMjQwNy8xOC9uZXdzMTAyLmh0bWw?oc=5" target="_blank"&gt;Yahoo!検索、飲食店のクチコミをAIで要約・表示する機能 - ITmedia NEWS&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;ITmedia NEWS&lt;/font&gt;</description>
+      <source url="https://www.itmedia.co.jp">ITmedia NEWS</source>
     </item>
     <item>
       <title>無料オンラインカンファレンス登壇のお知らせ 「BtoB Sales Marketing×AI ～「集客」と「受注」を最大化するAI活用のリアル～」 - PR TIMES</title>
@@ -577,12 +593,20 @@
       <source url="https://prtimes.jp">PR TIMES</source>
     </item>
     <item>
-      <title>AIをビジネス活用するためのバイブル『AIビジネスチャンス 技術動向と事例に学ぶ新たな価値を生成する攻めの戦略（できるビジネス）』を2024年7月18日（木）に発売 - PR TIMES</title>
-      <link>https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vcHJ0aW1lcy5qcC9tYWluL2h0bWwvcmQvcC8wMDAwMDYwMTMuMDAwMDA1ODc1Lmh0bWzSAQA?oc=5</link>
-      <guid isPermaLink="false">CBMiOmh0dHBzOi8vcHJ0aW1lcy5qcC9tYWluL2h0bWwvcmQvcC8wMDAwMDYwMTMuMDAwMDA1ODc1Lmh0bWzSAQA</guid>
+      <title>高知県高知市帯屋町筋商店街 AIカメラ人流分析システムの整備を開始 - PR TIMES</title>
+      <link>https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vcHJ0aW1lcy5qcC9tYWluL2h0bWwvcmQvcC8wMDAwMDAwMDMuMDAwMTQ1MzczLmh0bWzSAQA?oc=5</link>
+      <guid isPermaLink="false">CBMiOmh0dHBzOi8vcHJ0aW1lcy5qcC9tYWluL2h0bWwvcmQvcC8wMDAwMDAwMDMuMDAwMTQ1MzczLmh0bWzSAQA</guid>
       <pubDate>Thu, 18 Jul 2024 01:00:01 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vcHJ0aW1lcy5qcC9tYWluL2h0bWwvcmQvcC8wMDAwMDYwMTMuMDAwMDA1ODc1Lmh0bWzSAQA?oc=5" target="_blank"&gt;AIをビジネス活用するためのバイブル『AIビジネスチャンス 技術動向と事例に学ぶ新たな価値を生成する攻めの戦略（できるビジネス）』を2024年7月18日（木）に発売&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;PR TIMES&lt;/font&gt;</description>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vcHJ0aW1lcy5qcC9tYWluL2h0bWwvcmQvcC8wMDAwMDAwMDMuMDAwMTQ1MzczLmh0bWzSAQA?oc=5" target="_blank"&gt;高知県高知市帯屋町筋商店街 AIカメラ人流分析システムの整備を開始&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;PR TIMES&lt;/font&gt;</description>
       <source url="https://prtimes.jp">PR TIMES</source>
+    </item>
+    <item>
+      <title>マスク氏のX、ニュースで偽情報続出 AIリスク露呈 - Wall Street Journal</title>
+      <link>https://news.google.com/rss/articles/CBMicWh0dHBzOi8vanAud3NqLmNvbS9hcnRpY2xlcy9lbG9uLW11c2std2FudHMtaGlzLWFpLWJvdC10by1kZWxpdmVyLXRoZS1uZXdzLWl0LWlzLXN0cnVnZ2xpbmctd2l0aC10aGUtam9iLTIxMThhYTdh0gEA?oc=5</link>
+      <guid isPermaLink="false">CBMicWh0dHBzOi8vanAud3NqLmNvbS9hcnRpY2xlcy9lbG9uLW11c2std2FudHMtaGlzLWFpLWJvdC10by1kZWxpdmVyLXRoZS1uZXdzLWl0LWlzLXN0cnVnZ2xpbmctd2l0aC10aGUtam9iLTIxMThhYTdh0gEA</guid>
+      <pubDate>Thu, 18 Jul 2024 00:47:00 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMicWh0dHBzOi8vanAud3NqLmNvbS9hcnRpY2xlcy9lbG9uLW11c2std2FudHMtaGlzLWFpLWJvdC10by1kZWxpdmVyLXRoZS1uZXdzLWl0LWlzLXN0cnVnZ2xpbmctd2l0aC10aGUtam9iLTIxMThhYTdh0gEA?oc=5" target="_blank"&gt;マスク氏のX、ニュースで偽情報続出 AIリスク露呈&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Wall Street Journal&lt;/font&gt;</description>
+      <source url="https://jp.wsj.com">Wall Street Journal</source>
     </item>
     <item>
       <title>株式会社葬儀のこすもす様への「バクヤスAI 記事代行」導入インタビューを公開しました - PR TIMES</title>
@@ -615,6 +639,14 @@
       <pubDate>Thu, 18 Jul 2024 00:15:33 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vcHJ0aW1lcy5qcC9tYWluL2h0bWwvcmQvcC8wMDAwMDAwMDcuMDAwMTMwMjQ0Lmh0bWzSAQA?oc=5" target="_blank"&gt;Paradigm AI株式会社、運営する2.9次元アイドル事務所『PLAY TUNE』の第1弾リリースとして所属タレント2名を公開&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;PR TIMES&lt;/font&gt;</description>
       <source url="https://prtimes.jp">PR TIMES</source>
+    </item>
+    <item>
+      <title>生成ＡＩ活用し 企業顧客を対応 ＮＴＴコムが開発 - 沖縄タイムス</title>
+      <link>https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vd3d3Lm9raW5hd2F0aW1lcy5jby5qcC9hcnRpY2xlcy8tLzEzOTg1ODfSATNodHRwczovL3d3dy5va2luYXdhdGltZXMuY28uanAvYXJ0aWNsZXMvYW1wLzEzOTg1ODc?oc=5</link>
+      <guid isPermaLink="false">CBMiMWh0dHBzOi8vd3d3Lm9raW5hd2F0aW1lcy5jby5qcC9hcnRpY2xlcy8tLzEzOTg1ODfSATNodHRwczovL3d3dy5va2luYXdhdGltZXMuY28uanAvYXJ0aWNsZXMvYW1wLzEzOTg1ODc</guid>
+      <pubDate>Thu, 18 Jul 2024 00:08:12 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vd3d3Lm9raW5hd2F0aW1lcy5jby5qcC9hcnRpY2xlcy8tLzEzOTg1ODfSATNodHRwczovL3d3dy5va2luYXdhdGltZXMuY28uanAvYXJ0aWNsZXMvYW1wLzEzOTg1ODc?oc=5" target="_blank"&gt;生成ＡＩ活用し 企業顧客を対応 ＮＴＴコムが開発&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;沖縄タイムス&lt;/font&gt;</description>
+      <source url="https://www.okinawatimes.co.jp">沖縄タイムス</source>
     </item>
     <item>
       <title>AI搭載デザインツール「Microsoft Designer」のiOSとAndroidアプリが正式版に - ITmedia NEWS - ITmedia NEWS</title>
