@@ -6,7 +6,7 @@
     <language>ja</language>
     <webMaster>news-webmaster@google.com</webMaster>
     <copyright>2024 Google Inc.</copyright>
-    <lastBuildDate>Mon, 29 Jul 2024 15:19:13 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jul 2024 16:22:41 GMT</lastBuildDate>
     <description>Google ニュース</description>
     <item>
       <title>microCMS AI - Speaker Deck</title>
@@ -198,14 +198,6 @@
       <guid isPermaLink="false">CBMiKWh0dHBzOi8vc3BlYWtlcmRlY2suY29tL21pbm9ydW4zNjUvMTB6aG910gEA</guid>
       <pubDate>Tue, 25 Jun 2024 07:00:00 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiKWh0dHBzOi8vc3BlYWtlcmRlY2suY29tL21pbm9ydW4zNjUvMTB6aG910gEA?oc=5" target="_blank"&gt;週刊AWSキャッチアップ 生成AI編（2024/6/10週）&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
-      <source url="https://speakerdeck.com">Speaker Deck</source>
-    </item>
-    <item>
-      <title>Oracle AI Vector Search 技術詳細 - Speaker Deck</title>
-      <link>https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vc3BlYWtlcmRlY2suY29tL29yYWNsZTRlbmdpbmVlci9vcmFjbGUtYWktdmVjdG9yLXNlYXJjaC10ZWNobmljYWzSAQA?oc=5</link>
-      <guid isPermaLink="false">CBMiSWh0dHBzOi8vc3BlYWtlcmRlY2suY29tL29yYWNsZTRlbmdpbmVlci9vcmFjbGUtYWktdmVjdG9yLXNlYXJjaC10ZWNobmljYWzSAQA</guid>
-      <pubDate>Tue, 21 May 2024 07:00:00 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vc3BlYWtlcmRlY2suY29tL29yYWNsZTRlbmdpbmVlci9vcmFjbGUtYWktdmVjdG9yLXNlYXJjaC10ZWNobmljYWzSAQA?oc=5" target="_blank"&gt;Oracle AI Vector Search 技術詳細&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
@@ -433,6 +425,14 @@
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
+      <title>対話型AIプロダクトの今と展望 〜ChatBot・VoiceBotの開発技術を解説〜 - Speaker Deck</title>
+      <link>https://news.google.com/rss/articles/CBMigQFodHRwczovL3NwZWFrZXJkZWNrLmNvbS9jeWJlcmFnZW50ZGV2ZWxvcGVycy9kdWktaHVhLXhpbmctYWlwdXJvZGFrdXRvbm9qaW4tdG96aGFuLXdhbmctY2hhdGJvdHZvaWNlYm90bm9rYWktZmEtamktc2h1LXdvamllLXNodW_SAQA?oc=5</link>
+      <guid isPermaLink="false">CBMigQFodHRwczovL3NwZWFrZXJkZWNrLmNvbS9jeWJlcmFnZW50ZGV2ZWxvcGVycy9kdWktaHVhLXhpbmctYWlwdXJvZGFrdXRvbm9qaW4tdG96aGFuLXdhbmctY2hhdGJvdHZvaWNlYm90bm9rYWktZmEtamktc2h1LXdvamllLXNodW_SAQA</guid>
+      <pubDate>Thu, 14 Dec 2023 08:00:00 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMigQFodHRwczovL3NwZWFrZXJkZWNrLmNvbS9jeWJlcmFnZW50ZGV2ZWxvcGVycy9kdWktaHVhLXhpbmctYWlwdXJvZGFrdXRvbm9qaW4tdG96aGFuLXdhbmctY2hhdGJvdHZvaWNlYm90bm9rYWktZmEtamktc2h1LXdvamllLXNodW_SAQA?oc=5" target="_blank"&gt;対話型AIプロダクトの今と展望 〜ChatBot・VoiceBotの開発技術を解説〜&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
+      <source url="https://speakerdeck.com">Speaker Deck</source>
+    </item>
+    <item>
       <title>AWSユーザがAI活用のためにAzureと共存させるためにトライしたこととトライすること/Azure-OpenAI×multi-cloud-Tech-Night-link-and-motivation - Speaker Deck</title>
       <link>https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vc3BlYWtlcmRlY2suY29tL2xtaS9henVyZS1vcGVuYWl4bXVsdGktY2xvdWQtdGVjaC1uaWdodC1saW5rLWFuZC1tb3RpdmF0aW9u0gEA?oc=5</link>
       <guid isPermaLink="false">CBMiU2h0dHBzOi8vc3BlYWtlcmRlY2suY29tL2xtaS9henVyZS1vcGVuYWl4bXVsdGktY2xvdWQtdGVjaC1uaWdodC1saW5rLWFuZC1tb3RpdmF0aW9u0gEA</guid>
@@ -553,19 +553,19 @@
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
+      <title>Semantic Kernel(C#)でAzure OpenAI ServiceのGPT-4を使ってみる - Speaker Deck</title>
+      <link>https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vc3BlYWtlcmRlY2suY29tL3RvbW9rdXNhYmEvc2VtYW50aWMta2VybmVsLWMtbnVtYmVyLWRlYXp1cmUtb3BlbmFpLXNlcnZpY2Vub2d0cC00d29zaGktdHV0ZW1pcnXSAQA?oc=5</link>
+      <guid isPermaLink="false">CBMiZ2h0dHBzOi8vc3BlYWtlcmRlY2suY29tL3RvbW9rdXNhYmEvc2VtYW50aWMta2VybmVsLWMtbnVtYmVyLWRlYXp1cmUtb3BlbmFpLXNlcnZpY2Vub2d0cC00d29zaGktdHV0ZW1pcnXSAQA</guid>
+      <pubDate>Sat, 27 May 2023 07:00:00 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vc3BlYWtlcmRlY2suY29tL3RvbW9rdXNhYmEvc2VtYW50aWMta2VybmVsLWMtbnVtYmVyLWRlYXp1cmUtb3BlbmFpLXNlcnZpY2Vub2d0cC00d29zaGktdHV0ZW1pcnXSAQA?oc=5" target="_blank"&gt;Semantic Kernel(C#)でAzure OpenAI ServiceのGPT-4を使ってみる&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
+      <source url="https://speakerdeck.com">Speaker Deck</source>
+    </item>
+    <item>
       <title>実践ARMアーキテクチャ移行 - Speaker Deck</title>
       <link>https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3B5YW1hODYvc2hpLWppYW4tYXJtYWtpdGVrdXRpeWF5aS14aW5n0gEA?oc=5</link>
       <guid isPermaLink="false">CBMiPmh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3B5YW1hODYvc2hpLWppYW4tYXJtYWtpdGVrdXRpeWF5aS14aW5n0gEA</guid>
       <pubDate>Sat, 27 Jul 2024 04:44:40 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3B5YW1hODYvc2hpLWppYW4tYXJtYWtpdGVrdXRpeWF5aS14aW5n0gEA?oc=5" target="_blank"&gt;実践ARMアーキテクチャ移行&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
-      <source url="https://speakerdeck.com">Speaker Deck</source>
-    </item>
-    <item>
-      <title>スタートアップにおける組織設計とスクラムの長期戦略 / Scrum Fest Kanazawa 2024 - Speaker Deck</title>
-      <link>https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3lvc2hpa2lpaWRhL3NjcnVtLWZlc3Qta2FuYXphd2EtMjAyNNIBAA?oc=5</link>
-      <guid isPermaLink="false">CBMiPGh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3lvc2hpa2lpaWRhL3NjcnVtLWZlc3Qta2FuYXphd2EtMjAyNNIBAA</guid>
-      <pubDate>Sat, 20 Jul 2024 05:09:36 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vc3BlYWtlcmRlY2suY29tL3lvc2hpa2lpaWRhL3NjcnVtLWZlc3Qta2FuYXphd2EtMjAyNNIBAA?oc=5" target="_blank"&gt;スタートアップにおける組織設計とスクラムの長期戦略 / Scrum Fest Kanazawa 2024&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
