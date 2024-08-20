@@ -6,7 +6,7 @@
     <language>ja</language>
     <webMaster>news-webmaster@google.com</webMaster>
     <copyright>2024 Google Inc.</copyright>
-    <lastBuildDate>Tue, 20 Aug 2024 20:20:59 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Aug 2024 21:18:13 GMT</lastBuildDate>
     <description>Google ニュース</description>
     <item>
       <title>生成AIでユーザー分析を強くする - Speaker Deck</title>
@@ -433,14 +433,6 @@
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
-      <title>k8sgpt Deep Dive: KubernetesクラスタのAI駆動型分析について - Speaker Deck</title>
-      <link>https://news.google.com/rss/articles/CBMingFBVV95cUxQUHFQRDBrRGNsVmtvcm1Ka2d3empDOXM4RWF4dTZZY3QwZXMxbkttZFd4S0FSdlVEaEt6VjJYem9tOGgzZ2cwTS1rTVNxQU9UNWV1VDlhZXNRS0lXdHRQV05SckNkTUlaRl9lSE52OHZ1enVVeXE3QjR2N1U2YkJRQzZuQTVGTjlVNWQ5bzRJMHVxTkx6V05XalMyQ01vQQ?oc=5</link>
-      <guid isPermaLink="false">CBMingFBVV95cUxQUHFQRDBrRGNsVmtvcm1Ka2d3empDOXM4RWF4dTZZY3QwZXMxbkttZFd4S0FSdlVEaEt6VjJYem9tOGgzZ2cwTS1rTVNxQU9UNWV1VDlhZXNRS0lXdHRQV05SckNkTUlaRl9lSE52OHZ1enVVeXE3QjR2N1U2YkJRQzZuQTVGTjlVNWQ5bzRJMHVxTkx6V05XalMyQ01vQQ</guid>
-      <pubDate>Thu, 03 Aug 2023 07:00:00 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMingFBVV95cUxQUHFQRDBrRGNsVmtvcm1Ka2d3empDOXM4RWF4dTZZY3QwZXMxbkttZFd4S0FSdlVEaEt6VjJYem9tOGgzZ2cwTS1rTVNxQU9UNWV1VDlhZXNRS0lXdHRQV05SckNkTUlaRl9lSE52OHZ1enVVeXE3QjR2N1U2YkJRQzZuQTVGTjlVNWQ5bzRJMHVxTkx6V05XalMyQ01vQQ?oc=5" target="_blank"&gt;k8sgpt Deep Dive: KubernetesクラスタのAI駆動型分析について&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
-      <source url="https://speakerdeck.com">Speaker Deck</source>
-    </item>
-    <item>
       <title>バクラクのAI-OCR機能の体験を支える良質なデータセット作成の仕組み / data-centric-ai-bakuraku-dataset - Speaker Deck</title>
       <link>https://news.google.com/rss/articles/CBMib0FVX3lxTE9rVU9GbHBNa3dXVUxRa0NvUlZ5cnZ3MEJEVmtFQXFkUlI3WTlGOWZwdHBKNWhhVWk2b1pIV1dlQUpmb1g4cUxyQzRsYVNNQ245MkxhUVVwYTNnZTNMSC1GZmZZNG9EemxXdjZ2RnFmbw?oc=5</link>
       <guid isPermaLink="false">CBMib0FVX3lxTE9rVU9GbHBNa3dXVUxRa0NvUlZ5cnZ3MEJEVmtFQXFkUlI3WTlGOWZwdHBKNWhhVWk2b1pIV1dlQUpmb1g4cUxyQzRsYVNNQ245MkxhUVVwYTNnZTNMSC1GZmZZNG9EemxXdjZ2RnFmbw</guid>
@@ -774,6 +766,14 @@
       <guid isPermaLink="false">CBMie0FVX3lxTE9xXzB3TnpDaTRIRTMxT1J4WHlyUzNPeXRSTTVMcDROSlp6NGV4NUp0SmJlWUNvZHRWZFdJUVQ1SUNWYjl0M1RDQTZQQ0l5aDRLbmc3bEVmamRLSVkyOWpDYkFGU2RrUnJqTk9BOC1DTXV4RzZKQU1OTXR2NA</guid>
       <pubDate>Fri, 12 Jul 2024 07:00:00 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMie0FVX3lxTE9xXzB3TnpDaTRIRTMxT1J4WHlyUzNPeXRSTTVMcDROSlp6NGV4NUp0SmJlWUNvZHRWZFdJUVQ1SUNWYjl0M1RDQTZQQ0l5aDRLbmc3bEVmamRLSVkyOWpDYkFGU2RrUnJqTk9BOC1DTXV4RzZKQU1OTXR2NA?oc=5" target="_blank"&gt;生成AIをkintoneに連携してみた&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
+      <source url="https://speakerdeck.com">Speaker Deck</source>
+    </item>
+    <item>
+      <title>Building AI applications using Azure Cosmos DB and Azure PostgreSQL Flex - Speaker Deck</title>
+      <link>https://news.google.com/rss/articles/CBMipAFBVV95cUxPNHZSZnNCSEcxUGVWRFl4dmRybHhQaXJvQnRJYkk4cFZLWkZ6SDhkUmhJWHZOUWxmcjJvRjdWTm5wNWtOUE5ybnVic1EyeGNtbl9hQmtmSjBvMklDMGwzaWh6ekVFRzBTZzkwZ0NIWDZkWl9Gdjc1R2gzaUQwbnVhcUE5MEdULVZybVZUdFNLQnlCVlo0V2tXZ0ZVRFZqeXlyeVZHOA?oc=5</link>
+      <guid isPermaLink="false">CBMipAFBVV95cUxPNHZSZnNCSEcxUGVWRFl4dmRybHhQaXJvQnRJYkk4cFZLWkZ6SDhkUmhJWHZOUWxmcjJvRjdWTm5wNWtOUE5ybnVic1EyeGNtbl9hQmtmSjBvMklDMGwzaWh6ekVFRzBTZzkwZ0NIWDZkWl9Gdjc1R2gzaUQwbnVhcUE5MEdULVZybVZUdFNLQnlCVlo0V2tXZ0ZVRFZqeXlyeVZHOA</guid>
+      <pubDate>Fri, 12 Jan 2024 08:00:00 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMipAFBVV95cUxPNHZSZnNCSEcxUGVWRFl4dmRybHhQaXJvQnRJYkk4cFZLWkZ6SDhkUmhJWHZOUWxmcjJvRjdWTm5wNWtOUE5ybnVic1EyeGNtbl9hQmtmSjBvMklDMGwzaWh6ekVFRzBTZzkwZ0NIWDZkWl9Gdjc1R2gzaUQwbnVhcUE5MEdULVZybVZUdFNLQnlCVlo0V2tXZ0ZVRFZqeXlyeVZHOA?oc=5" target="_blank"&gt;Building AI applications using Azure Cosmos DB and Azure PostgreSQL Flex&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
