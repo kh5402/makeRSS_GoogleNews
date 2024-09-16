@@ -6,7 +6,7 @@
     <language>ja</language>
     <webMaster>news-webmaster@google.com</webMaster>
     <copyright>Copyright © 2024 Google. All rights reserved. This XML feed is made available solely for the purpose of rendering Google News results within a personal feed reader for personal, non-commercial use. Any other use of the feed is expressly prohibited. By accessing this feed or using these results in any manner whatsoever, you agree to be bound by the foregoing restrictions.</copyright>
-    <lastBuildDate>Mon, 16 Sep 2024 16:24:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Sep 2024 17:16:50 GMT</lastBuildDate>
     <image>
       <title>Google ニュース</title>
       <url>https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w256</url>
@@ -248,14 +248,6 @@
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
-      <title>GraphQL あるいは React における自律的なデータ取得について - Speaker Deck</title>
-      <link>https://news.google.com/rss/articles/CBMikAFBVV95cUxOcWFVWVhEc29CNnhIM3h4MHFHbTVjRDdabjlvVDRzc0E4d0NqUkNyWVZxRVhGWDZ6TkFLcVJhVXV5aXlVUGh3VEJNVUhHTnNVRXRvSExvZHN4SGxpSVlvY3ZtN0x1aTMybFlyYnBEVU10aXJMS3VFNDhqYTNFS2hNWWFTbUhBMnhQaFJzWHB5RVY?oc=5</link>
-      <guid isPermaLink="false">CBMikAFBVV95cUxOcWFVWVhEc29CNnhIM3h4MHFHbTVjRDdabjlvVDRzc0E4d0NqUkNyWVZxRVhGWDZ6TkFLcVJhVXV5aXlVUGh3VEJNVUhHTnNVRXRvSExvZHN4SGxpSVlvY3ZtN0x1aTMybFlyYnBEVU10aXJMS3VFNDhqYTNFS2hNWWFTbUhBMnhQaFJzWHB5RVY</guid>
-      <pubDate>Tue, 10 Sep 2024 03:02:38 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMikAFBVV95cUxOcWFVWVhEc29CNnhIM3h4MHFHbTVjRDdabjlvVDRzc0E4d0NqUkNyWVZxRVhGWDZ6TkFLcVJhVXV5aXlVUGh3VEJNVUhHTnNVRXRvSExvZHN4SGxpSVlvY3ZtN0x1aTMybFlyYnBEVU10aXJMS3VFNDhqYTNFS2hNWWFTbUhBMnhQaFJzWHB5RVY?oc=5" target="_blank"&gt;GraphQL あるいは React における自律的なデータ取得について&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
-      <source url="https://speakerdeck.com">Speaker Deck</source>
-    </item>
-    <item>
       <title>LayerXにおける機械学習を活用した請求書OCR機能に関する取り組み / deim2023-layerx-ai-ocr - Speaker Deck</title>
       <link>https://news.google.com/rss/articles/CBMiYkFVX3lxTE13V0J1LXNHNGtwVHFZRXJSZWdZUUxiUnVNWUo2a2ZCdGhCcW9aMDZkSkU3R3F6OHpGdzY1Nm5NbTF6X043bDVhcHV3aTgwd3ozdVdWWXFEa19DcUw0Y0g0Q1Z3?oc=5</link>
       <guid isPermaLink="false">CBMiYkFVX3lxTE13V0J1LXNHNGtwVHFZRXJSZWdZUUxiUnVNWUo2a2ZCdGhCcW9aMDZkSkU3R3F6OHpGdzY1Nm5NbTF6X043bDVhcHV3aTgwd3ozdVdWWXFEa19DcUw0Y0g0Q1Z3</guid>
@@ -373,6 +365,14 @@
       <guid isPermaLink="false">CBMiiwFBVV95cUxOT3lHMWV6Z2xzZk55aVVBQUpJOXlSSE5kSlBrdm0yU3Z3aHFtSGxMSS1iczN5b0lVbmdBUEZpSHRSaC1BcmZFT0hRbnhLb1ZxUWdJTFI3d0hMZDI0MFpmUndGVjdPUlNPRnE1eEpySVlTNlJFZzVZUndPR3JmZE8wcTRTRkhHeG0xUncw</guid>
       <pubDate>Thu, 13 Jul 2023 07:00:00 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiiwFBVV95cUxOT3lHMWV6Z2xzZk55aVVBQUpJOXlSSE5kSlBrdm0yU3Z3aHFtSGxMSS1iczN5b0lVbmdBUEZpSHRSaC1BcmZFT0hRbnhLb1ZxUWdJTFI3d0hMZDI0MFpmUndGVjdPUlNPRnE1eEpySVlTNlJFZzVZUndPR3JmZE8wcTRTRkhHeG0xUncw?oc=5" target="_blank"&gt;AWSユーザがAI活用のためにAzureと共存させるためにトライしたこととトライすること/Azure-OpenAI×multi-cloud-Tech-Night-link-and-motivation&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
+      <source url="https://speakerdeck.com">Speaker Deck</source>
+    </item>
+    <item>
+      <title>Segment Anything Model 2 - Speaker Deck</title>
+      <link>https://news.google.com/rss/articles/CBMia0FVX3lxTFBaM2NmSllwQmF5UGE1QlRaNmxPVzFJT1VVMlV0QVZKc3RqOURCYmthSEs3N3JZVk1SQUZGbHZienlOWTlXLXlUeHZSdFRVaHhkZENicHJWYTBlZ1lsNUczUEw4bVhzejhXWmVz?oc=5</link>
+      <guid isPermaLink="false">CBMia0FVX3lxTFBaM2NmSllwQmF5UGE1QlRaNmxPVzFJT1VVMlV0QVZKc3RqOURCYmthSEs3N3JZVk1SQUZGbHZienlOWTlXLXlUeHZSdFRVaHhkZENicHJWYTBlZ1lsNUczUEw4bVhzejhXWmVz</guid>
+      <pubDate>Thu, 12 Sep 2024 10:12:03 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMia0FVX3lxTFBaM2NmSllwQmF5UGE1QlRaNmxPVzFJT1VVMlV0QVZKc3RqOURCYmthSEs3N3JZVk1SQUZGbHZienlOWTlXLXlUeHZSdFRVaHhkZENicHJWYTBlZ1lsNUczUEw4bVhzejhXWmVz?oc=5" target="_blank"&gt;Segment Anything Model 2&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
