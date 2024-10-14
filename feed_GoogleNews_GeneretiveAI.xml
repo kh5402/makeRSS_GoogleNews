@@ -6,7 +6,7 @@
     <language>ja</language>
     <webMaster>news-webmaster@google.com</webMaster>
     <copyright>Copyright © 2024 Google. All rights reserved. This XML feed is made available solely for the purpose of rendering Google News results within a personal feed reader for personal, non-commercial use. Any other use of the feed is expressly prohibited. By accessing this feed or using these results in any manner whatsoever, you agree to be bound by the foregoing restrictions.</copyright>
-    <lastBuildDate>Mon, 14 Oct 2024 15:20:46 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Oct 2024 16:24:03 GMT</lastBuildDate>
     <image>
       <title>Google ニュース</title>
       <url>https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w256</url>
@@ -320,6 +320,14 @@
       <source url="https://www3.nhk.or.jp">nhk.or.jp</source>
     </item>
     <item>
+      <title>産総研：大規模AIクラウド計算システム「ABCI 2.0」が「ABCI 3.0」にリプレース －ABCI 3.0で最先端の生成AIの技術開発と社会実装を加速－ - 産業技術総合研究所</title>
+      <link>https://news.google.com/rss/articles/CBMiX0FVX3lxTE5YMlgzcEctRjdwbnE0aTl1bHZRaUxYVlI2dmVCaXFnVHNET0tZX1EySlkzY1A5dkVuQ1UxUG51NEFTZzRPT1lGZERibHM4QlFpako5NVV4cE5zYzlqc2I0?oc=5</link>
+      <guid isPermaLink="false">CBMiX0FVX3lxTE5YMlgzcEctRjdwbnE0aTl1bHZRaUxYVlI2dmVCaXFnVHNET0tZX1EySlkzY1A5dkVuQ1UxUG51NEFTZzRPT1lGZERibHM4QlFpako5NVV4cE5zYzlqc2I0</guid>
+      <pubDate>Thu, 10 Oct 2024 05:05:06 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiX0FVX3lxTE5YMlgzcEctRjdwbnE0aTl1bHZRaUxYVlI2dmVCaXFnVHNET0tZX1EySlkzY1A5dkVuQ1UxUG51NEFTZzRPT1lGZERibHM4QlFpako5NVV4cE5zYzlqc2I0?oc=5" target="_blank"&gt;産総研：大規模AIクラウド計算システム「ABCI 2.0」が「ABCI 3.0」にリプレース －ABCI 3.0で最先端の生成AIの技術開発と社会実装を加速－&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;産業技術総合研究所&lt;/font&gt;</description>
+      <source url="https://www.aist.go.jp">産業技術総合研究所</source>
+    </item>
+    <item>
       <title>チューリング、国内生成 AI 開発プロジェクト「GENIAC」の第2期に採択 - PR TIMES</title>
       <link>https://news.google.com/rss/articles/CBMiakFVX3lxTE12eW9DS01qQjJOV2NaZFpMYlAwWGl6Wnp6YTVIYldDcXgzaFBqUDdyQ3dwSVBXbC1ER0VyRGU3MVJuWHBBczAtc0hsZzhpaUVnSnNQdE0yRWNrZGpEa1JLQXhzVXFXM0QzWGc?oc=5</link>
       <guid isPermaLink="false">CBMiakFVX3lxTE12eW9DS01qQjJOV2NaZFpMYlAwWGl6Wnp6YTVIYldDcXgzaFBqUDdyQ3dwSVBXbC1ER0VyRGU3MVJuWHBBczAtc0hsZzhpaUVnSnNQdE0yRWNrZGpEa1JLQXhzVXFXM0QzWGc</guid>
@@ -459,7 +467,7 @@
       <title>LLMでついに実現、「AIエージェント」 - ITpro</title>
       <link>https://news.google.com/rss/articles/CBMiX0FVX3lxTFBBMjZocXBQTW5OZWY1UGFneVdKdUxUanhCLVJtdGdJUlhVNDBfcXp2U3lJZzVuQlZoVXd2aGVKelJsYUZuQ1piRDdad1JlUzlTR0hnZlh1Q2JDWkF3Yzlr?oc=5</link>
       <guid isPermaLink="false">CBMiX0FVX3lxTFBBMjZocXBQTW5OZWY1UGFneVdKdUxUanhCLVJtdGdJUlhVNDBfcXp2U3lJZzVuQlZoVXd2aGVKelJsYUZuQ1piRDdad1JlUzlTR0hnZlh1Q2JDWkF3Yzlr</guid>
-      <pubDate>Sun, 13 Oct 2024 12:30:04 GMT</pubDate>
+      <pubDate>Sun, 13 Oct 2024 15:31:25 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiX0FVX3lxTFBBMjZocXBQTW5OZWY1UGFneVdKdUxUanhCLVJtdGdJUlhVNDBfcXp2U3lJZzVuQlZoVXd2aGVKelJsYUZuQ1piRDdad1JlUzlTR0hnZlh1Q2JDWkF3Yzlr?oc=5" target="_blank"&gt;LLMでついに実現、「AIエージェント」&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;ITpro&lt;/font&gt;</description>
       <source url="https://xtech.nikkei.com">ITpro</source>
     </item>
@@ -544,12 +552,12 @@
       <source url="https://business.nikkei.com">日経ビジネスオンライン</source>
     </item>
     <item>
-      <title>アドビ、AI動画生成モデルを発表 執筆 - Investing.com 日本</title>
-      <link>https://news.google.com/rss/articles/CBMidkFVX3lxTE54aUZJdXFWWndWVlliQWN5U3hlS1VTY3pCTXpBZXNCMnV4SWhDSnNnUmNndURIazRsNTl2SXNPSXhROVlOa2p6bk9MdmJXMnAwdnZUYWs2X0ZHZW9LZHdPaFVwMXFKWDVjR25xSmsxOWtmXzZ2RFE?oc=5</link>
-      <guid isPermaLink="false">CBMidkFVX3lxTE54aUZJdXFWWndWVlliQWN5U3hlS1VTY3pCTXpBZXNCMnV4SWhDSnNnUmNndURIazRsNTl2SXNPSXhROVlOa2p6bk9MdmJXMnAwdnZUYWs2X0ZHZW9LZHdPaFVwMXFKWDVjR25xSmsxOWtmXzZ2RFE</guid>
-      <pubDate>Mon, 14 Oct 2024 14:05:00 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMidkFVX3lxTE54aUZJdXFWWndWVlliQWN5U3hlS1VTY3pCTXpBZXNCMnV4SWhDSnNnUmNndURIazRsNTl2SXNPSXhROVlOa2p6bk9MdmJXMnAwdnZUYWs2X0ZHZW9LZHdPaFVwMXFKWDVjR25xSmsxOWtmXzZ2RFE?oc=5" target="_blank"&gt;アドビ、AI動画生成モデルを発表 執筆&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Investing.com 日本&lt;/font&gt;</description>
-      <source url="https://jp.investing.com">Investing.com 日本</source>
+      <title>ルネサス RZ/V2H搭載の小型SBC「Kakip」が発売、最大80TOPSのAI推論処理性能 - AKIBA PC Hotline!</title>
+      <link>https://news.google.com/rss/articles/CBMickFVX3lxTFBOTUUwM0t6QmpyOXlmT005ZnFiejFnY0E1REJGZ21tSjdDX0xpSUFDVFk1QS01YTEwZHJDbzhyM1FlQVpHUTZHVUZCNFBwZ2VnVEtmV2dPVmlRY3MwMU93eW4yaFN2QlN4UkdtYm1jVTBzQQ?oc=5</link>
+      <guid isPermaLink="false">CBMickFVX3lxTFBOTUUwM0t6QmpyOXlmT005ZnFiejFnY0E1REJGZ21tSjdDX0xpSUFDVFk1QS01YTEwZHJDbzhyM1FlQVpHUTZHVUZCNFBwZ2VnVEtmV2dPVmlRY3MwMU93eW4yaFN2QlN4UkdtYm1jVTBzQQ</guid>
+      <pubDate>Mon, 14 Oct 2024 15:00:00 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMickFVX3lxTFBOTUUwM0t6QmpyOXlmT005ZnFiejFnY0E1REJGZ21tSjdDX0xpSUFDVFk1QS01YTEwZHJDbzhyM1FlQVpHUTZHVUZCNFBwZ2VnVEtmV2dPVmlRY3MwMU93eW4yaFN2QlN4UkdtYm1jVTBzQQ?oc=5" target="_blank"&gt;ルネサス RZ/V2H搭載の小型SBC「Kakip」が発売、最大80TOPSのAI推論処理性能&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;AKIBA PC Hotline!&lt;/font&gt;</description>
+      <source url="https://akiba-pc.watch.impress.co.jp">AKIBA PC Hotline!</source>
     </item>
     <item>
       <title>クリエイティブの“最初”からAIが伴走「Adobe Project Concept」 - Impress Watch</title>
@@ -558,14 +566,6 @@
       <pubDate>Mon, 14 Oct 2024 13:21:27 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiZEFVX3lxTE5wWGhTTFhTSXBXZzJzaTg3djBlMmN2YUU3SHh3UTNyQ1h0QTVLUE5MdlF0QlJUckwyMnpUNkJPSlJoTmpoTEpkQi1YX0s1ZXE1ZUlJWmtJWTFWRzJoY0dCalk2RHc?oc=5" target="_blank"&gt;クリエイティブの“最初”からAIが伴走「Adobe Project Concept」&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Impress Watch&lt;/font&gt;</description>
       <source url="https://www.watch.impress.co.jp">Impress Watch</source>
-    </item>
-    <item>
-      <title>アドビ、動画生成AI『Firefly Video Model』ベータ提供開始。文章や画像を動画化・クリップ延長など、Premiere Pro等に組込み - テクノエッジ</title>
-      <link>https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBoaDFUdEVsWm91cWRvLUNFbmNZTGlVYWNYZUJMSW5tcWlIandMVC1mQnpnVjlYNG9JUkt6anBERDBMcWpWMmhIVk5lMnk1MUc3MEhVaTJmOVZWTGx0enFUcHZDb0JScGc?oc=5</link>
-      <guid isPermaLink="false">CBMiZ0FVX3lxTFBoaDFUdEVsWm91cWRvLUNFbmNZTGlVYWNYZUJMSW5tcWlIandMVC1mQnpnVjlYNG9JUkt6anBERDBMcWpWMmhIVk5lMnk1MUc3MEhVaTJmOVZWTGx0enFUcHZDb0JScGc</guid>
-      <pubDate>Mon, 14 Oct 2024 13:09:56 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBoaDFUdEVsWm91cWRvLUNFbmNZTGlVYWNYZUJMSW5tcWlIandMVC1mQnpnVjlYNG9JUkt6anBERDBMcWpWMmhIVk5lMnk1MUc3MEhVaTJmOVZWTGx0enFUcHZDb0JScGc?oc=5" target="_blank"&gt;アドビ、動画生成AI『Firefly Video Model』ベータ提供開始。文章や画像を動画化・クリップ延長など、Premiere Pro等に組込み&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;テクノエッジ&lt;/font&gt;</description>
-      <source url="https://www.techno-edge.net">テクノエッジ</source>
     </item>
     <item>
       <title>アドビが追加料金無料の動画生成AI｢Firefly Video Model｣を正式発表。AI機能で競争力強める - Business Insider Japan</title>
@@ -584,6 +584,14 @@
       <source url="https://ascii.jp">ASCII.jp</source>
     </item>
     <item>
+      <title>「Adobe Creative Cloud」が2025年版に より一層の生成AI活用とコンテンツ制作効率向上を実現：Adobe MAX 2024 - ITmedia PC USER - ITmedia PC USER</title>
+      <link>https://news.google.com/rss/articles/CBMib0FVX3lxTFBFZmxMbENHZnlBbF85UjZ3dkhhM3BZVEpSVEN6ZUtIVUZHcHNyWXV3VndDYmRxLXJnWWNCakY4QWFlSmZGTkdDZlZGWlo0dVdUV0JSRDJoVzgwYzJaaGxPdVI3VUt1REVYdTJ2QjZvNNIBaEFVX3lxTFBFUkNYaUxVZEVtdFNBc2s3V3c0SzdDeGNLSXRERmxkcWJJYklhRWYzSFVUb1pXdjFXSnBvQUUxbXAzbU5NMHZrMnc3RGVyTmtOTGlnQ2E2bHJRal95SG8xWVl5dHJab0RE?oc=5</link>
+      <guid isPermaLink="false">CBMib0FVX3lxTFBFZmxMbENHZnlBbF85UjZ3dkhhM3BZVEpSVEN6ZUtIVUZHcHNyWXV3VndDYmRxLXJnWWNCakY4QWFlSmZGTkdDZlZGWlo0dVdUV0JSRDJoVzgwYzJaaGxPdVI3VUt1REVYdTJ2QjZvNNIBaEFVX3lxTFBFUkNYaUxVZEVtdFNBc2s3V3c0SzdDeGNLSXRERmxkcWJJYklhRWYzSFVUb1pXdjFXSnBvQUUxbXAzbU5NMHZrMnc3RGVyTmtOTGlnQ2E2bHJRal95SG8xWVl5dHJab0RE</guid>
+      <pubDate>Mon, 14 Oct 2024 13:00:00 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMib0FVX3lxTFBFZmxMbENHZnlBbF85UjZ3dkhhM3BZVEpSVEN6ZUtIVUZHcHNyWXV3VndDYmRxLXJnWWNCakY4QWFlSmZGTkdDZlZGWlo0dVdUV0JSRDJoVzgwYzJaaGxPdVI3VUt1REVYdTJ2QjZvNNIBaEFVX3lxTFBFUkNYaUxVZEVtdFNBc2s3V3c0SzdDeGNLSXRERmxkcWJJYklhRWYzSFVUb1pXdjFXSnBvQUUxbXAzbU5NMHZrMnc3RGVyTmtOTGlnQ2E2bHJRal95SG8xWVl5dHJab0RE?oc=5" target="_blank"&gt;「Adobe Creative Cloud」が2025年版に より一層の生成AI活用とコンテンツ制作効率向上を実現：Adobe MAX 2024 - ITmedia PC USER&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;ITmedia PC USER&lt;/font&gt;</description>
+      <source url="https://www.itmedia.co.jp">ITmedia PC USER</source>
+    </item>
+    <item>
       <title>Ａｉロボティクス(株)【247A】：株価・株式情報 - Yahoo!ファイナンス</title>
       <link>https://news.google.com/rss/articles/CBMiUkFVX3lxTE1xVVJYeE1LSTJXN0RwN3dUQUdMdDR1NlpGT19ZdE5qUjloeklWUjdORk9Ka2NMcXNDak15UUxadllUWmNjQVByZklmdVJkaUIwQnc?oc=5</link>
       <guid isPermaLink="false">CBMiUkFVX3lxTE1xVVJYeE1LSTJXN0RwN3dUQUdMdDR1NlpGT19ZdE5qUjloeklWUjdORk9Ka2NMcXNDak15UUxadllUWmNjQVByZklmdVJkaUIwQnc</guid>
@@ -598,6 +606,14 @@
       <pubDate>Mon, 14 Oct 2024 12:00:00 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5QjM5T2prYng0ZVVXeFJTZ3YwbXpJYkJ5MGNiZjlHQjZXdFdXQnVFQjRTWmJ0enBkSWNvVzlGdFVTal9SMFpiN195QlA5alVxVUo3SktmYVpMdw?oc=5" target="_blank"&gt;『AI LIMIT 無限機兵』レビュー：特別モードのボスに心が折れそう…。スタミナなしの爽快さとソウルライクな遊びごたえが融合し達成感も段違い【電撃インディー#812】&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;電撃オンライン&lt;/font&gt;</description>
       <source url="https://dengekionline.com">電撃オンライン</source>
+    </item>
+    <item>
+      <title>〔海外決算予想〕台湾ＴＳＭＣ、第3四半期は40％増益 ＡＩ向け半導体の需要拡大 - ロイター (Reuters Japan)</title>
+      <link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRS1ucnNNUkRDVS1SMndYTTFCU055Wjl6TEwtdGVsbWZ6YmdDU2lWYVZwTGlCYXgzSXlKR0MwMFNoVzVYVjd6OGVQQzhjRXhwSmQyT1lteS1IRnhPRFg5NFAtZHBjSU1PNFZyTjdJc0taSlhTVVBCLUJpNFFiNzdOUVVEYy04N3RfRkFz?oc=5</link>
+      <guid isPermaLink="false">CBMiiwFBVV95cUxQRS1ucnNNUkRDVS1SMndYTTFCU055Wjl6TEwtdGVsbWZ6YmdDU2lWYVZwTGlCYXgzSXlKR0MwMFNoVzVYVjd6OGVQQzhjRXhwSmQyT1lteS1IRnhPRFg5NFAtZHBjSU1PNFZyTjdJc0taSlhTVVBCLUJpNFFiNzdOUVVEYy04N3RfRkFz</guid>
+      <pubDate>Mon, 14 Oct 2024 11:36:18 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRS1ucnNNUkRDVS1SMndYTTFCU055Wjl6TEwtdGVsbWZ6YmdDU2lWYVZwTGlCYXgzSXlKR0MwMFNoVzVYVjd6OGVQQzhjRXhwSmQyT1lteS1IRnhPRFg5NFAtZHBjSU1PNFZyTjdJc0taSlhTVVBCLUJpNFFiNzdOUVVEYy04N3RfRkFz?oc=5" target="_blank"&gt;〔海外決算予想〕台湾ＴＳＭＣ、第3四半期は40％増益 ＡＩ向け半導体の需要拡大&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;ロイター (Reuters Japan)&lt;/font&gt;</description>
+      <source url="https://jp.reuters.com">ロイター (Reuters Japan)</source>
     </item>
     <item>
       <title>AIがRNA新種ウイルス7万以上を発見。中国の研究チームが新AIモデルLucaProtでサンプル分析（生成AIクローズアップ） - テクノエッジ</title>
@@ -640,20 +656,20 @@
       <source url="https://www.watch.impress.co.jp">Impress Watch</source>
     </item>
     <item>
-      <title>〔海外決算予想〕台湾ＴＳＭＣ、第3四半期は40％増益 ＡＩ向け半導体の需要拡大 - ロイター (Reuters Japan)</title>
-      <link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRS1ucnNNUkRDVS1SMndYTTFCU055Wjl6TEwtdGVsbWZ6YmdDU2lWYVZwTGlCYXgzSXlKR0MwMFNoVzVYVjd6OGVQQzhjRXhwSmQyT1lteS1IRnhPRFg5NFAtZHBjSU1PNFZyTjdJc0taSlhTVVBCLUJpNFFiNzdOUVVEYy04N3RfRkFz?oc=5</link>
-      <guid isPermaLink="false">CBMiiwFBVV95cUxQRS1ucnNNUkRDVS1SMndYTTFCU055Wjl6TEwtdGVsbWZ6YmdDU2lWYVZwTGlCYXgzSXlKR0MwMFNoVzVYVjd6OGVQQzhjRXhwSmQyT1lteS1IRnhPRFg5NFAtZHBjSU1PNFZyTjdJc0taSlhTVVBCLUJpNFFiNzdOUVVEYy04N3RfRkFz</guid>
-      <pubDate>Mon, 14 Oct 2024 00:10:38 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRS1ucnNNUkRDVS1SMndYTTFCU055Wjl6TEwtdGVsbWZ6YmdDU2lWYVZwTGlCYXgzSXlKR0MwMFNoVzVYVjd6OGVQQzhjRXhwSmQyT1lteS1IRnhPRFg5NFAtZHBjSU1PNFZyTjdJc0taSlhTVVBCLUJpNFFiNzdOUVVEYy04N3RfRkFz?oc=5" target="_blank"&gt;〔海外決算予想〕台湾ＴＳＭＣ、第3四半期は40％増益 ＡＩ向け半導体の需要拡大&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;ロイター (Reuters Japan)&lt;/font&gt;</description>
-      <source url="https://jp.reuters.com">ロイター (Reuters Japan)</source>
-    </item>
-    <item>
       <title>ウクライナ軍の新兵器「AI誘導FPVドローン」がロシア兵を瞬殺 - Forbes JAPAN</title>
       <link>https://news.google.com/rss/articles/CBMiWEFVX3lxTE4wWDNYNWxjc2g2d3pwUVF3NUktOW93N1QyQ2tvQ3gtZnBHcmk4TjVFRHlpX1drQ1BXUzNMTWhzdjhfck8xZ3pfaUlRTkhrWXVPOVpMeTlUeC0?oc=5</link>
       <guid isPermaLink="false">CBMiWEFVX3lxTE4wWDNYNWxjc2g2d3pwUVF3NUktOW93N1QyQ2tvQ3gtZnBHcmk4TjVFRHlpX1drQ1BXUzNMTWhzdjhfck8xZ3pfaUlRTkhrWXVPOVpMeTlUeC0</guid>
       <pubDate>Mon, 14 Oct 2024 00:00:00 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiWEFVX3lxTE4wWDNYNWxjc2g2d3pwUVF3NUktOW93N1QyQ2tvQ3gtZnBHcmk4TjVFRHlpX1drQ1BXUzNMTWhzdjhfck8xZ3pfaUlRTkhrWXVPOVpMeTlUeC0?oc=5" target="_blank"&gt;ウクライナ軍の新兵器「AI誘導FPVドローン」がロシア兵を瞬殺&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Forbes JAPAN&lt;/font&gt;</description>
       <source url="https://forbesjapan.com">Forbes JAPAN</source>
+    </item>
+    <item>
+      <title>日本人をうまく動かせる動画生成AI「Hailuo」が3日間無制限モード開放中。有償プランスタートに合わせ（CloseBox） - テクノエッジ</title>
+      <link>https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5nNkFiT0FJbXNidlQteDBDd3dBVjdQU20zMlM0NHAyX09CWXpzSzBreGhna2tFYm9JVU1pU2hpMHIxWmZiQ3ZMSTJ6UmdfVlNyeGhjS3NHUFBkcWhGalExbkxMaFhFNW8?oc=5</link>
+      <guid isPermaLink="false">CBMiZ0FVX3lxTE5nNkFiT0FJbXNidlQteDBDd3dBVjdQU20zMlM0NHAyX09CWXpzSzBreGhna2tFYm9JVU1pU2hpMHIxWmZiQ3ZMSTJ6UmdfVlNyeGhjS3NHUFBkcWhGalExbkxMaFhFNW8</guid>
+      <pubDate>Fri, 11 Oct 2024 11:26:37 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5nNkFiT0FJbXNidlQteDBDd3dBVjdQU20zMlM0NHAyX09CWXpzSzBreGhna2tFYm9JVU1pU2hpMHIxWmZiQ3ZMSTJ6UmdfVlNyeGhjS3NHUFBkcWhGalExbkxMaFhFNW8?oc=5" target="_blank"&gt;日本人をうまく動かせる動画生成AI「Hailuo」が3日間無制限モード開放中。有償プランスタートに合わせ（CloseBox）&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;テクノエッジ&lt;/font&gt;</description>
+      <source url="https://www.techno-edge.net">テクノエッジ</source>
     </item>
     <item>
       <title>【ノーベル賞受賞】AIの父・ジェフリー・ヒントン わずか3人の会社で起こしたブレイクスルー - ニューズウィーク日本版</title>
@@ -742,14 +758,6 @@
       <pubDate>Fri, 11 Oct 2024 00:00:00 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiZEFVX3lxTE9GTUVQOEZQeFg5TzRpSndPVC1CUzZrV1dLWkFQbi0wMFNnLW40X3ptUnNqcWJ0Qmptdy1fU0x6allNSnlZUjJVRmN1NDY0c0VhNXlzMkxzTVBPWHM0M3E0NWNjYnU?oc=5" target="_blank"&gt;国産生成AI基盤支援「GENIAC」第2期 ウーブン・バイ・トヨタなど採択&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Impress Watch&lt;/font&gt;</description>
       <source url="https://www.watch.impress.co.jp">Impress Watch</source>
-    </item>
-    <item>
-      <title>「人とAIのコラボレーションによる価値創造」をテーマに「CEATEC 2024」に出展 : 富士通 - News : Fujitsu Global</title>
-      <link>https://news.google.com/rss/articles/CBMiWEFVX3lxTE54bW14R2JiNFpobTA1dVlCcXE0RHlPYXo5aGU2cHdmdEx2cmtIbXFoeU5iRHhzd3g3c2F1OWFZeW1GVTdTM1hFaEdtYzgwLUcwNXZpb2RsQjQ?oc=5</link>
-      <guid isPermaLink="false">CBMiWEFVX3lxTE54bW14R2JiNFpobTA1dVlCcXE0RHlPYXo5aGU2cHdmdEx2cmtIbXFoeU5iRHhzd3g3c2F1OWFZeW1GVTdTM1hFaEdtYzgwLUcwNXZpb2RsQjQ</guid>
-      <pubDate>Fri, 04 Oct 2024 07:00:00 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiWEFVX3lxTE54bW14R2JiNFpobTA1dVlCcXE0RHlPYXo5aGU2cHdmdEx2cmtIbXFoeU5iRHhzd3g3c2F1OWFZeW1GVTdTM1hFaEdtYzgwLUcwNXZpb2RsQjQ?oc=5" target="_blank"&gt;「人とAIのコラボレーションによる価値創造」をテーマに「CEATEC 2024」に出展 : 富士通&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;News : Fujitsu Global&lt;/font&gt;</description>
-      <source url="https://pr.fujitsu.com">News : Fujitsu Global</source>
     </item>
   </channel>
 </rss>
