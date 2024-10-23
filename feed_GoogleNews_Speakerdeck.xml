@@ -6,7 +6,7 @@
     <language>ja</language>
     <webMaster>news-webmaster@google.com</webMaster>
     <copyright>Copyright © 2024 Google. All rights reserved. This XML feed is made available solely for the purpose of rendering Google News results within a personal feed reader for personal, non-commercial use. Any other use of the feed is expressly prohibited. By accessing this feed or using these results in any manner whatsoever, you agree to be bound by the foregoing restrictions.</copyright>
-    <lastBuildDate>Wed, 23 Oct 2024 16:24:43 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Oct 2024 17:17:37 GMT</lastBuildDate>
     <image>
       <title>Google ニュース</title>
       <url>https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w256</url>
@@ -69,6 +69,14 @@
       <guid isPermaLink="false">CBMilAFBVV95cUxNMXAxTUhaZ2RNZnVBWWxER0pTSlFYanlMN202dk9fa2xOUlB0OWo3bHZ3bW9YVDN2Q1A5NzllVEF4NmFtVFhNVWJqTEVfQVVoSHJQNS0tZXdlbjU4Vkk2anVESXcwTG42YzVaQjB1WlFyQjZBdWR4ZnYtU3Jvc0hEZlZWcXNsdkpBal9HbVlBXzY1UElF</guid>
       <pubDate>Wed, 24 Jul 2024 07:00:00 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMilAFBVV95cUxNMXAxTUhaZ2RNZnVBWWxER0pTSlFYanlMN202dk9fa2xOUlB0OWo3bHZ3bW9YVDN2Q1A5NzllVEF4NmFtVFhNVWJqTEVfQVVoSHJQNS0tZXdlbjU4Vkk2anVESXcwTG42YzVaQjB1WlFyQjZBdWR4ZnYtU3Jvc0hEZlZWcXNsdkpBal9HbVlBXzY1UElF?oc=5" target="_blank"&gt;E2Eテスト自動化プラットフォームにおけるAIの活用&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
+      <source url="https://speakerdeck.com">Speaker Deck</source>
+    </item>
+    <item>
+      <title>go.mod、DockerfileやCI設定に分散しがちなGoのバージョンをまとめて管理する / Go Connect #3 - Speaker Deck</title>
+      <link>https://news.google.com/rss/articles/CBMiYkFVX3lxTE9HcWptV3UxdzY3SFJndUR3MnRXZ2F4dVRyUFNHNl93Mk1hRXh1QllRR1N2WHFvY3hDNDJ3TGxlWVVPZC1rd3B3Zkl6OXJraHhKakxWNUVNVzRQeFBJQlg2Zmp3?oc=5</link>
+      <guid isPermaLink="false">CBMiYkFVX3lxTE9HcWptV3UxdzY3SFJndUR3MnRXZ2F4dVRyUFNHNl93Mk1hRXh1QllRR1N2WHFvY3hDNDJ3TGxlWVVPZC1rd3B3Zkl6OXJraHhKakxWNUVNVzRQeFBJQlg2Zmp3</guid>
+      <pubDate>Wed, 23 Oct 2024 10:25:53 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiYkFVX3lxTE9HcWptV3UxdzY3SFJndUR3MnRXZ2F4dVRyUFNHNl93Mk1hRXh1QllRR1N2WHFvY3hDNDJ3TGxlWVVPZC1rd3B3Zkl6OXJraHhKakxWNUVNVzRQeFBJQlg2Zmp3?oc=5" target="_blank"&gt;go.mod、DockerfileやCI設定に分散しがちなGoのバージョンをまとめて管理する / Go Connect #3&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
@@ -397,14 +405,6 @@
       <guid isPermaLink="false">CBMikgFBVV95cUxPaW1VTnl0Y2NLekY2RDRnWlotVnRTZkNURVlYVGUyRDNkcnRwM2YxMWF5NjBpM09zZ0VRUVd2REZiS3dmVk9IWHk3N3NUMVBIMkFGY2Y5amw4NjVsRS1zMTl1Q3VIdnNTREpOYm1qZVJHY3VPY1lCZXpWdUFKeHRDdTIzZFFHd0d4MjlZSEFEUlEtZw</guid>
       <pubDate>Thu, 18 Jul 2024 07:00:00 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMikgFBVV95cUxPaW1VTnl0Y2NLekY2RDRnWlotVnRTZkNURVlYVGUyRDNkcnRwM2YxMWF5NjBpM09zZ0VRUVd2REZiS3dmVk9IWHk3N3NUMVBIMkFGY2Y5amw4NjVsRS1zMTl1Q3VIdnNTREpOYm1qZVJHY3VPY1lCZXpWdUFKeHRDdTIzZFFHd0d4MjlZSEFEUlEtZw?oc=5" target="_blank"&gt;AIエージェントを現場に導入する目線とは&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
-      <source url="https://speakerdeck.com">Speaker Deck</source>
-    </item>
-    <item>
-      <title>コード生成を伴うLLMエージェント - 2024.07.18 Tokyo AI - Speaker Deck</title>
-      <link>https://news.google.com/rss/articles/CBMiowFBVV95cUxQX25WX3ZMVTExdmNKZFRqSktmWlR6TG1GbkNrZ2VUdngxUmhMWUdvdFBOTUVqRU9iZzFQQzNkWHBaTVdhMUd3ZWhHU1JsX1I5MDJFVm5EcW4yMUw5Z1hrRkNRZFVoTW9yZ3RwNzJnWUdya3FQVGwzZEVFTnc4eEprb1Z2bXRTZkJPcDhkWWlIU1hRTGl2TWtZMXQ4VUpUYi13T2lZ?oc=5</link>
-      <guid isPermaLink="false">CBMiowFBVV95cUxQX25WX3ZMVTExdmNKZFRqSktmWlR6TG1GbkNrZ2VUdngxUmhMWUdvdFBOTUVqRU9iZzFQQzNkWHBaTVdhMUd3ZWhHU1JsX1I5MDJFVm5EcW4yMUw5Z1hrRkNRZFVoTW9yZ3RwNzJnWUdya3FQVGwzZEVFTnc4eEprb1Z2bXRTZkJPcDhkWWlIU1hRTGl2TWtZMXQ4VUpUYi13T2lZ</guid>
-      <pubDate>Thu, 18 Jul 2024 07:00:00 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiowFBVV95cUxQX25WX3ZMVTExdmNKZFRqSktmWlR6TG1GbkNrZ2VUdngxUmhMWUdvdFBOTUVqRU9iZzFQQzNkWHBaTVdhMUd3ZWhHU1JsX1I5MDJFVm5EcW4yMUw5Z1hrRkNRZFVoTW9yZ3RwNzJnWUdya3FQVGwzZEVFTnc4eEprb1Z2bXRTZkJPcDhkWWlIU1hRTGl2TWtZMXQ4VUpUYi13T2lZ?oc=5" target="_blank"&gt;コード生成を伴うLLMエージェント - 2024.07.18 Tokyo AI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
