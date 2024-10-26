@@ -6,7 +6,7 @@
     <language>ja</language>
     <webMaster>news-webmaster@google.com</webMaster>
     <copyright>Copyright © 2024 Google. All rights reserved. This XML feed is made available solely for the purpose of rendering Google News results within a personal feed reader for personal, non-commercial use. Any other use of the feed is expressly prohibited. By accessing this feed or using these results in any manner whatsoever, you agree to be bound by the foregoing restrictions.</copyright>
-    <lastBuildDate>Sat, 26 Oct 2024 15:17:49 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 26 Oct 2024 16:22:17 GMT</lastBuildDate>
     <image>
       <title>Google ニュース</title>
       <url>https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w256</url>
@@ -15,6 +15,14 @@
       <width>256</width>
     </image>
     <description>Google ニュース</description>
+    <item>
+      <title>相性抜群の「スーパーアプリ×生成AI」、アリババが無双の予兆「AI実装」何が凄い？ - ビジネス＋IT</title>
+      <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE8xS01yTXNOZXdZZTFQd0VuZFdhMU43Rm9yQkdRSU1rQ1FxZTNtcDJHenNOZlhFcnVBRHNYUjZsMDA1YkhYSkgxRVZaZVE5YVJQM3NV?oc=5</link>
+      <guid isPermaLink="false">CBMiU0FVX3lxTE8xS01yTXNOZXdZZTFQd0VuZFdhMU43Rm9yQkdRSU1rQ1FxZTNtcDJHenNOZlhFcnVBRHNYUjZsMDA1YkhYSkgxRVZaZVE5YVJQM3NV</guid>
+      <pubDate>Wed, 23 Oct 2024 21:10:00 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiU0FVX3lxTE8xS01yTXNOZXdZZTFQd0VuZFdhMU43Rm9yQkdRSU1rQ1FxZTNtcDJHenNOZlhFcnVBRHNYUjZsMDA1YkhYSkgxRVZaZVE5YVJQM3NV?oc=5" target="_blank"&gt;相性抜群の「スーパーアプリ×生成AI」、アリババが無双の予兆「AI実装」何が凄い？&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;ビジネス＋IT&lt;/font&gt;</description>
+      <source url="https://www.sbbit.jp">ビジネス＋IT</source>
+    </item>
     <item>
       <title>AIとUXが一体化--ワークデイの最高製品責任者に聞く、エージェントで製品開発はどう変わるのか - ZDNET Japan</title>
       <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTFBralBRamxvcW40Ym5EQ3FWZk5VaHBaREIySUNqUGpFOFE4QXNITXRNQ1pYWjNWOHc2VHVTMl9DeDV3ZG90aXAtclFUdFNkQjZuNVBv?oc=5</link>
@@ -160,12 +168,28 @@
       <source url="https://prtimes.jp">PR TIMES</source>
     </item>
     <item>
+      <title>AIチャットボットに会話から個人情報を盗ませるプロンプトが見つかる：研究結果 - WIRED.jp</title>
+      <link>https://news.google.com/rss/articles/CBMiYEFVX3lxTFBYWGN0TjhtQnY2aFR4MGUyaXhpQjUxczhWa1FWLXdnaDRsbTBJNml3QmpXUVhkN3VSaEhsT3RyQ3puNzlERjJmRU1YaXQzdkUwZkpFWlBDZFF5TGhHcHlJSA?oc=5</link>
+      <guid isPermaLink="false">CBMiYEFVX3lxTFBYWGN0TjhtQnY2aFR4MGUyaXhpQjUxczhWa1FWLXdnaDRsbTBJNml3QmpXUVhkN3VSaEhsT3RyQ3puNzlERjJmRU1YaXQzdkUwZkpFWlBDZFF5TGhHcHlJSA</guid>
+      <pubDate>Tue, 22 Oct 2024 23:00:00 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiYEFVX3lxTFBYWGN0TjhtQnY2aFR4MGUyaXhpQjUxczhWa1FWLXdnaDRsbTBJNml3QmpXUVhkN3VSaEhsT3RyQ3puNzlERjJmRU1YaXQzdkUwZkpFWlBDZFF5TGhHcHlJSA?oc=5" target="_blank"&gt;AIチャットボットに会話から個人情報を盗ませるプロンプトが見つかる：研究結果&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;WIRED.jp&lt;/font&gt;</description>
+      <source url="https://wired.jp">WIRED.jp</source>
+    </item>
+    <item>
       <title>衆院選に対するネットの声をAIで「見える化」ブロードリスニングで見えてきた意見の変化とは？（選挙戦前半編） - 日テレNEWS</title>
       <link>https://news.google.com/rss/articles/CBMifkFVX3lxTE8wbXBIUFRKckp4QjBxblFiOExSMmlEc2V6MUtSS2h6azJhaGZSRm1VeDF6cW96MXlrbldQV3pmNUVGa2xaXzQyRzlhZVpSUWJtbUtKaWRnbEc1Nk15OWNCaUQ5ckRTYndpTDh4LXJjTkxGbmxoSU4xYVRjX2x6Zw?oc=5</link>
       <guid isPermaLink="false">CBMifkFVX3lxTE8wbXBIUFRKckp4QjBxblFiOExSMmlEc2V6MUtSS2h6azJhaGZSRm1VeDF6cW96MXlrbldQV3pmNUVGa2xaXzQyRzlhZVpSUWJtbUtKaWRnbEc1Nk15OWNCaUQ5ckRTYndpTDh4LXJjTkxGbmxoSU4xYVRjX2x6Zw</guid>
       <pubDate>Tue, 22 Oct 2024 22:00:00 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMifkFVX3lxTE8wbXBIUFRKckp4QjBxblFiOExSMmlEc2V6MUtSS2h6azJhaGZSRm1VeDF6cW96MXlrbldQV3pmNUVGa2xaXzQyRzlhZVpSUWJtbUtKaWRnbEc1Nk15OWNCaUQ5ckRTYndpTDh4LXJjTkxGbmxoSU4xYVRjX2x6Zw?oc=5" target="_blank"&gt;衆院選に対するネットの声をAIで「見える化」ブロードリスニングで見えてきた意見の変化とは？（選挙戦前半編）&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;日テレNEWS&lt;/font&gt;</description>
       <source url="https://news.ntv.co.jp">日テレNEWS</source>
+    </item>
+    <item>
+      <title>AI、ついにパソコンを使えるようになってしまう Anthropic「Claude 3.5 Sonnet」新機能 - ASCII.jp</title>
+      <link>https://news.google.com/rss/articles/CBMiVEFVX3lxTE5wNkFPRXppVmN3dEt5VU9aa25oQnVuZFpVeEpGLTIzTl9sTnJHMlpPbU5ScUZabDNhWHpCVWFielFpbTBIZEM0VXhZa3pDR1p5QmlubQ?oc=5</link>
+      <guid isPermaLink="false">CBMiVEFVX3lxTE5wNkFPRXppVmN3dEt5VU9aa25oQnVuZFpVeEpGLTIzTl9sTnJHMlpPbU5ScUZabDNhWHpCVWFielFpbTBIZEM0VXhZa3pDR1p5QmlubQ</guid>
+      <pubDate>Tue, 22 Oct 2024 22:00:00 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiVEFVX3lxTE5wNkFPRXppVmN3dEt5VU9aa25oQnVuZFpVeEpGLTIzTl9sTnJHMlpPbU5ScUZabDNhWHpCVWFielFpbTBIZEM0VXhZa3pDR1p5QmlubQ?oc=5" target="_blank"&gt;AI、ついにパソコンを使えるようになってしまう Anthropic「Claude 3.5 Sonnet」新機能&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;ASCII.jp&lt;/font&gt;</description>
+      <source url="https://ascii.jp">ASCII.jp</source>
     </item>
     <item>
       <title>絶対知りたい“次”の生成AI、「次世代LLM」「エッジ駆動」「動画RAG」とは？ ｜FinTech Journal - ビジネス＋IT</title>
@@ -280,14 +304,6 @@
       <source url="https://www.technologyreview.jp">MITテクノロジーレビュー</source>
     </item>
     <item>
-      <title>便利な｢無料AI翻訳｣なぜ仕事で使うとヤバいのか リスクは入力した情報の二次利用だけではない - 東洋経済オンライン</title>
-      <link>https://news.google.com/rss/articles/CBMiX0FVX3lxTE5uMUtxZWI1eEt5dXI0YUkyZmhUNUkzNVZ0b1ctbDBtV2hBNUpocHBwZkNhOWF2OF90ZXN2OVJ1WmZsVjFvRG03YWlvaTJXaUd0QXpyYmhFVWJocmhjT3hV?oc=5</link>
-      <guid isPermaLink="false">CBMiX0FVX3lxTE5uMUtxZWI1eEt5dXI0YUkyZmhUNUkzNVZ0b1ctbDBtV2hBNUpocHBwZkNhOWF2OF90ZXN2OVJ1WmZsVjFvRG03YWlvaTJXaUd0QXpyYmhFVWJocmhjT3hV</guid>
-      <pubDate>Thu, 24 Oct 2024 21:00:00 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiX0FVX3lxTE5uMUtxZWI1eEt5dXI0YUkyZmhUNUkzNVZ0b1ctbDBtV2hBNUpocHBwZkNhOWF2OF90ZXN2OVJ1WmZsVjFvRG03YWlvaTJXaUd0QXpyYmhFVWJocmhjT3hV?oc=5" target="_blank"&gt;便利な｢無料AI翻訳｣なぜ仕事で使うとヤバいのか リスクは入力した情報の二次利用だけではない&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;東洋経済オンライン&lt;/font&gt;</description>
-      <source url="https://toyokeizai.net">東洋経済オンライン</source>
-    </item>
-    <item>
       <title>米国、安保分野のAI活用で初の国家戦略策定 中国に対抗 - 日本経済新聞</title>
       <link>https://news.google.com/rss/articles/CBMibEFVX3lxTFA5bTN5WGRaOWJjcEZBMWhrbFRMMUxzR0tCWDc2cGZVS0dEWU9TWXdEbE05ekpYbkE4TmVGQTBJdkNtVGtoQkljaDBRZVlqZ2t3YVZad0k4ajFHSVJpV2wxcUJCTEJTdmI3UGZrSg?oc=5</link>
       <guid isPermaLink="false">CBMibEFVX3lxTFA5bTN5WGRaOWJjcEZBMWhrbFRMMUxzR0tCWDc2cGZVS0dEWU9TWXdEbE05ekpYbkE4TmVGQTBJdkNtVGtoQkljaDBRZVlqZ2t3YVZad0k4ajFHSVJpV2wxcUJCTEJTdmI3UGZrSg</guid>
@@ -296,12 +312,28 @@
       <source url="https://www.nikkei.com">日本経済新聞</source>
     </item>
     <item>
+      <title>【電話の相手はAIだった】ドイツ語訛りまで再現、生成AIによる人工音声が使われた「詐欺」の恐ろしさ - WEDGE Infinity</title>
+      <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE5JRUZ1dFk3NUdXM2NwbFAwUkhWNkRUbmRUX1ltQ0hJSkhselhMb3k3OERBRGJpYmRtZ2c0UmlKdGs1MXFDLXc3Z1hzdmI5TEpuemxV?oc=5</link>
+      <guid isPermaLink="false">CBMiU0FVX3lxTE5JRUZ1dFk3NUdXM2NwbFAwUkhWNkRUbmRUX1ltQ0hJSkhselhMb3k3OERBRGJpYmRtZ2c0UmlKdGs1MXFDLXc3Z1hzdmI5TEpuemxV</guid>
+      <pubDate>Thu, 24 Oct 2024 20:00:00 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiU0FVX3lxTE5JRUZ1dFk3NUdXM2NwbFAwUkhWNkRUbmRUX1ltQ0hJSkhselhMb3k3OERBRGJpYmRtZ2c0UmlKdGs1MXFDLXc3Z1hzdmI5TEpuemxV?oc=5" target="_blank"&gt;【電話の相手はAIだった】ドイツ語訛りまで再現、生成AIによる人工音声が使われた「詐欺」の恐ろしさ&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;WEDGE Infinity&lt;/font&gt;</description>
+      <source url="https://wedge.ismedia.jp">WEDGE Infinity</source>
+    </item>
+    <item>
       <title>アステラス製薬・志鷹CScO AI創薬・ASP5502がP1入り ヒット化合物発見からわずか７か月で完了 - ミクスOnline</title>
       <link>https://news.google.com/rss/articles/CBMiXkFVX3lxTFBvTjQ4bXozaFRqNkEtRFE1dzJWZnRYLVl6d2lKTWxtd3JQTVBfV3dPc2lrN2dLSXYwbWdwUk9aZ19DbWNqbFpkdFpaRXE5a0Vmb3BhX0E5XzUtRVVMS1E?oc=5</link>
       <guid isPermaLink="false">CBMiXkFVX3lxTFBvTjQ4bXozaFRqNkEtRFE1dzJWZnRYLVl6d2lKTWxtd3JQTVBfV3dPc2lrN2dLSXYwbWdwUk9aZ19DbWNqbFpkdFpaRXE5a0Vmb3BhX0E5XzUtRVVMS1E</guid>
       <pubDate>Thu, 24 Oct 2024 19:51:00 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiXkFVX3lxTFBvTjQ4bXozaFRqNkEtRFE1dzJWZnRYLVl6d2lKTWxtd3JQTVBfV3dPc2lrN2dLSXYwbWdwUk9aZ19DbWNqbFpkdFpaRXE5a0Vmb3BhX0E5XzUtRVVMS1E?oc=5" target="_blank"&gt;アステラス製薬・志鷹CScO AI創薬・ASP5502がP1入り ヒット化合物発見からわずか７か月で完了&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;ミクスOnline&lt;/font&gt;</description>
       <source url="https://www.mixonline.jp">ミクスOnline</source>
+    </item>
+    <item>
+      <title>「本当に使える生成AI」サービス26選！テキスト、画像、動画、デザイン、音楽…目的別に厳選 - ダイヤモンド・オンライン</title>
+      <link>https://news.google.com/rss/articles/CBMiTEFVX3lxTE8wRU9QSVV5VGpZTHBuN0VfcGZFbE1uTEVfYndIeVR5eUdtbjRBVW5tVFo4N0ZxRUU4X2cybUNBbW1sbmhjdXAzTVFqRGPSAU9BVV95cUxOOGpSeWQtRDk1TnhabTdjM2RCcjNwbzBlZnFWY0RzakJNUXIxOGZlSlJXU0hEa3NhcjVWTVFtZ1NaRk11cUNqSkNTZ2V5QUpB?oc=5</link>
+      <guid isPermaLink="false">CBMiTEFVX3lxTE8wRU9QSVV5VGpZTHBuN0VfcGZFbE1uTEVfYndIeVR5eUdtbjRBVW5tVFo4N0ZxRUU4X2cybUNBbW1sbmhjdXAzTVFqRGPSAU9BVV95cUxOOGpSeWQtRDk1TnhabTdjM2RCcjNwbzBlZnFWY0RzakJNUXIxOGZlSlJXU0hEa3NhcjVWTVFtZ1NaRk11cUNqSkNTZ2V5QUpB</guid>
+      <pubDate>Thu, 24 Oct 2024 19:45:00 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiTEFVX3lxTE8wRU9QSVV5VGpZTHBuN0VfcGZFbE1uTEVfYndIeVR5eUdtbjRBVW5tVFo4N0ZxRUU4X2cybUNBbW1sbmhjdXAzTVFqRGPSAU9BVV95cUxOOGpSeWQtRDk1TnhabTdjM2RCcjNwbzBlZnFWY0RzakJNUXIxOGZlSlJXU0hEa3NhcjVWTVFtZ1NaRk11cUNqSkNTZ2V5QUpB?oc=5" target="_blank"&gt;「本当に使える生成AI」サービス26選！テキスト、画像、動画、デザイン、音楽…目的別に厳選&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;ダイヤモンド・オンライン&lt;/font&gt;</description>
+      <source url="https://diamond.jp">ダイヤモンド・オンライン</source>
     </item>
     <item>
       <title>エヌビディアのフアン氏、アジア一の富豪と提携－インドをＡＩハブに - ブルームバーグ</title>
@@ -400,6 +432,14 @@
       <source url="https://newsroom.kddi.com">KDDI</source>
     </item>
     <item>
+      <title>Dataiku、生成AIの運用管理サービス「LLMガード」を提供開始 - ZDNET Japan</title>
+      <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE9YaHBJUWNSY3c5NWRTUlhoU0hmaEI1SlBxVGxoOGN5VGpncW5kRGN4ZXFrRmxKVW82U05VM1JBejR1eDM1YV9FZGZ3WDhFZjZxRFpn?oc=5</link>
+      <guid isPermaLink="false">CBMiU0FVX3lxTE9YaHBJUWNSY3c5NWRTUlhoU0hmaEI1SlBxVGxoOGN5VGpncW5kRGN4ZXFrRmxKVW82U05VM1JBejR1eDM1YV9FZGZ3WDhFZjZxRFpn</guid>
+      <pubDate>Thu, 24 Oct 2024 00:15:00 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiU0FVX3lxTE9YaHBJUWNSY3c5NWRTUlhoU0hmaEI1SlBxVGxoOGN5VGpncW5kRGN4ZXFrRmxKVW82U05VM1JBejR1eDM1YV9FZGZ3WDhFZjZxRFpn?oc=5" target="_blank"&gt;Dataiku、生成AIの運用管理サービス「LLMガード」を提供開始&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;ZDNET Japan&lt;/font&gt;</description>
+      <source url="https://japan.zdnet.com">ZDNET Japan</source>
+    </item>
+    <item>
       <title>さらに進化する「Fusion」 外部連携やAI機能の強化で生産性と創造性が向上：Autodesk University 2024レポート（1/2 ページ） - MONOist</title>
       <link>https://news.google.com/rss/articles/CBMib0FVX3lxTFB6bXVKNm8tRFFpTTQ3NjdWNmdnVTRLbFktdmRHZ29VcjdldURCc1c0d2s0d3R1Y2pudzVYUE5VajBUMHAwTm45S2JkZWY1SUZBeFZwR2tZc0pNWTM1RU91UXZDcTRGM1ptRGhsZW8yVQ?oc=5</link>
       <guid isPermaLink="false">CBMib0FVX3lxTFB6bXVKNm8tRFFpTTQ3NjdWNmdnVTRLbFktdmRHZ29VcjdldURCc1c0d2s0d3R1Y2pudzVYUE5VajBUMHAwTm45S2JkZWY1SUZBeFZwR2tZc0pNWTM1RU91UXZDcTRGM1ptRGhsZW8yVQ</guid>
@@ -432,12 +472,28 @@
       <source url="https://www.gizmodo.jp">GIZMODO JAPAN</source>
     </item>
     <item>
+      <title>Ryzen AI搭載ノートPC「HP OmniBook Ultra 14-fd」フォトレビュー - GIGAZINE（ギガジン）</title>
+      <link>https://news.google.com/rss/articles/CBMifEFVX3lxTE9nUEM0WmNYc3FORzdoNUlfV0NiQkxXVnZMUUpPUkRhRHk3SVRMcDZZRjlqeTJCdk5JYmZ0VHdwWHNKeGFRWmcycFpJenQwT3J0RG5zYWJVVWhfbUFubWFpb2xBbnE5Q1JVXzRtQkQtSUpJc2R0ZC1NSEZiUkc?oc=5</link>
+      <guid isPermaLink="false">CBMifEFVX3lxTE9nUEM0WmNYc3FORzdoNUlfV0NiQkxXVnZMUUpPUkRhRHk3SVRMcDZZRjlqeTJCdk5JYmZ0VHdwWHNKeGFRWmcycFpJenQwT3J0RG5zYWJVVWhfbUFubWFpb2xBbnE5Q1JVXzRtQkQtSUpJc2R0ZC1NSEZiUkc</guid>
+      <pubDate>Sat, 26 Oct 2024 12:30:00 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMifEFVX3lxTE9nUEM0WmNYc3FORzdoNUlfV0NiQkxXVnZMUUpPUkRhRHk3SVRMcDZZRjlqeTJCdk5JYmZ0VHdwWHNKeGFRWmcycFpJenQwT3J0RG5zYWJVVWhfbUFubWFpb2xBbnE5Q1JVXzRtQkQtSUpJc2R0ZC1NSEZiUkc?oc=5" target="_blank"&gt;Ryzen AI搭載ノートPC「HP OmniBook Ultra 14-fd」フォトレビュー&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;GIGAZINE（ギガジン）&lt;/font&gt;</description>
+      <source url="https://gigazine.net">GIGAZINE（ギガジン）</source>
+    </item>
+    <item>
       <title>生成AIのビジネス活用 書籍『生成DX～生成AIが生んだ新たなビジネスモデル～』（SBクリエイティブ）Amazon予約開始のお知らせ （株式会社d-strategy,inc） - PR TIMES</title>
       <link>https://news.google.com/rss/articles/CBMiakFVX3lxTE5DaG53RWRZb09wSGNjN3FUVVc4amJSSXc1OFVHNUNUdGVQRHRnak9ZRFI1T01GQ2hMempEblVBV3ZETVBCMTdYX1Viam9QVFhnTWtTbkdRUDN0TTJCNGpnVkVPT2trVkswLWc?oc=5</link>
       <guid isPermaLink="false">CBMiakFVX3lxTE5DaG53RWRZb09wSGNjN3FUVVc4amJSSXc1OFVHNUNUdGVQRHRnak9ZRFI1T01GQ2hMempEblVBV3ZETVBCMTdYX1Viam9QVFhnTWtTbkdRUDN0TTJCNGpnVkVPT2trVkswLWc</guid>
       <pubDate>Sat, 26 Oct 2024 09:32:01 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiakFVX3lxTE5DaG53RWRZb09wSGNjN3FUVVc4amJSSXc1OFVHNUNUdGVQRHRnak9ZRFI1T01GQ2hMempEblVBV3ZETVBCMTdYX1Viam9QVFhnTWtTbkdRUDN0TTJCNGpnVkVPT2trVkswLWc?oc=5" target="_blank"&gt;生成AIのビジネス活用 書籍『生成DX～生成AIが生んだ新たなビジネスモデル～』（SBクリエイティブ）Amazon予約開始のお知らせ （株式会社d-strategy,inc）&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;PR TIMES&lt;/font&gt;</description>
       <source url="https://prtimes.jp">PR TIMES</source>
+    </item>
+    <item>
+      <title>チャットGPTに礼儀正しくすべきか（WSJ日本版） - 毎日新聞</title>
+      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE5KUzhqZUhja2swU2RSVVpkZnZHNzRTck55TTBZN0xPTXhBYzBoMlZMYjVoVnR5LXFkUER0RktjcFJQM1JOYXV5QUVrLURPeldyRkZoR1hBYkx4djRRc3UtcjNxSG45aFlMYlBxdWtpSm1yNjBZaFFwd3VtelRPbmc?oc=5</link>
+      <guid isPermaLink="false">CBMif0FVX3lxTE5KUzhqZUhja2swU2RSVVpkZnZHNzRTck55TTBZN0xPTXhBYzBoMlZMYjVoVnR5LXFkUER0RktjcFJQM1JOYXV5QUVrLURPeldyRkZoR1hBYkx4djRRc3UtcjNxSG45aFlMYlBxdWtpSm1yNjBZaFFwd3VtelRPbmc</guid>
+      <pubDate>Sat, 26 Oct 2024 06:00:00 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMif0FVX3lxTE5KUzhqZUhja2swU2RSVVpkZnZHNzRTck55TTBZN0xPTXhBYzBoMlZMYjVoVnR5LXFkUER0RktjcFJQM1JOYXV5QUVrLURPeldyRkZoR1hBYkx4djRRc3UtcjNxSG45aFlMYlBxdWtpSm1yNjBZaFFwd3VtelRPbmc?oc=5" target="_blank"&gt;チャットGPTに礼儀正しくすべきか（WSJ日本版）&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;毎日新聞&lt;/font&gt;</description>
+      <source url="https://mainichi.jp">毎日新聞</source>
     </item>
     <item>
       <title>「iPad mini（A17 Pro）」レビュー、変わらない安心感とAI対応への期待感 - 価格.comマガジン</title>
@@ -448,28 +504,12 @@
       <source url="https://kakakumag.com">価格.comマガジン</source>
     </item>
     <item>
-      <title>NVIDIAのジェンスン・フアンCEOが「AIチップ設計の欠陥は100％NVIDIAのせい」と認めTSMCには責任はないと明言、修正されたBlackwellチップは生産中 - au Webポータル</title>
-      <link>https://news.google.com/rss/articles/CBMiekFVX3lxTE15aEItTFB1YkF3eTFXaHQ0NTRzXzYwTTV6T2tvYjNaQ1dvMW1jVm55OWpvWUFGZ1NiQlkxNEN2QkowQ2JRNGIyUmRiTFRwUnR5YTZ0Y0xqb1pVZWtRanNlMW52a3FiVmFob2RaSmZWRXJMcXRkZjRDR2J3?oc=5</link>
-      <guid isPermaLink="false">CBMiekFVX3lxTE15aEItTFB1YkF3eTFXaHQ0NTRzXzYwTTV6T2tvYjNaQ1dvMW1jVm55OWpvWUFGZ1NiQlkxNEN2QkowQ2JRNGIyUmRiTFRwUnR5YTZ0Y0xqb1pVZWtRanNlMW52a3FiVmFob2RaSmZWRXJMcXRkZjRDR2J3</guid>
-      <pubDate>Sat, 26 Oct 2024 04:00:00 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiekFVX3lxTE15aEItTFB1YkF3eTFXaHQ0NTRzXzYwTTV6T2tvYjNaQ1dvMW1jVm55OWpvWUFGZ1NiQlkxNEN2QkowQ2JRNGIyUmRiTFRwUnR5YTZ0Y0xqb1pVZWtRanNlMW52a3FiVmFob2RaSmZWRXJMcXRkZjRDR2J3?oc=5" target="_blank"&gt;NVIDIAのジェンスン・フアンCEOが「AIチップ設計の欠陥は100％NVIDIAのせい」と認めTSMCには責任はないと明言、修正されたBlackwellチップは生産中&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;au Webポータル&lt;/font&gt;</description>
-      <source url="https://article.auone.jp">au Webポータル</source>
-    </item>
-    <item>
       <title>NVIDIAのジェンスン・フアンCEOが「AIチップ設計の欠陥は100％NVIDIAのせい」と認めTSMCには責任はないと明言、修正されたBlackwellチップは生産中 - GIGAZINE（ギガジン）</title>
       <link>https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Ra2ExS1ZwTTlWU1NrajBVb1NBMG9iMVBOZWFBaWc0NmhqWk9xaW1INkRpVFd0ODZCMmMyX1F0YzVGdTVHUjlXaEpBb1pxVnN2MWt5SEt5RHZhR3dFVW02S0Y5dWlRd2s?oc=5</link>
       <guid isPermaLink="false">CBMiZ0FVX3lxTE5Ra2ExS1ZwTTlWU1NrajBVb1NBMG9iMVBOZWFBaWc0NmhqWk9xaW1INkRpVFd0ODZCMmMyX1F0YzVGdTVHUjlXaEpBb1pxVnN2MWt5SEt5RHZhR3dFVW02S0Y5dWlRd2s</guid>
       <pubDate>Sat, 26 Oct 2024 04:00:00 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Ra2ExS1ZwTTlWU1NrajBVb1NBMG9iMVBOZWFBaWc0NmhqWk9xaW1INkRpVFd0ODZCMmMyX1F0YzVGdTVHUjlXaEpBb1pxVnN2MWt5SEt5RHZhR3dFVW02S0Y5dWlRd2s?oc=5" target="_blank"&gt;NVIDIAのジェンスン・フアンCEOが「AIチップ設計の欠陥は100％NVIDIAのせい」と認めTSMCには責任はないと明言、修正されたBlackwellチップは生産中&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;GIGAZINE（ギガジン）&lt;/font&gt;</description>
       <source url="https://gigazine.net">GIGAZINE（ギガジン）</source>
-    </item>
-    <item>
-      <title>【無料セミナー】「農業×生成AI」第3弾セミナーを11月7日（木）に開催 - ORICON NEWS</title>
-      <link>https://news.google.com/rss/articles/CBMiWkFVX3lxTE4wTlZvNjJWWGV1QWlhM1VUdXZoM3A0RVV3bDVRaWM2cjJGRnVsU2k1VWhRdzl1ZXVCNmJvUU1BYjAtX0V5dm1Ec1FVVGZtbmlpX09YWldLbFlYZw?oc=5</link>
-      <guid isPermaLink="false">CBMiWkFVX3lxTE4wTlZvNjJWWGV1QWlhM1VUdXZoM3A0RVV3bDVRaWM2cjJGRnVsU2k1VWhRdzl1ZXVCNmJvUU1BYjAtX0V5dm1Ec1FVVGZtbmlpX09YWldLbFlYZw</guid>
-      <pubDate>Sat, 26 Oct 2024 03:16:00 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE4wTlZvNjJWWGV1QWlhM1VUdXZoM3A0RVV3bDVRaWM2cjJGRnVsU2k1VWhRdzl1ZXVCNmJvUU1BYjAtX0V5dm1Ec1FVVGZtbmlpX09YWldLbFlYZw?oc=5" target="_blank"&gt;【無料セミナー】「農業×生成AI」第3弾セミナーを11月7日（木）に開催&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;ORICON NEWS&lt;/font&gt;</description>
-      <source url="https://www.oricon.co.jp">ORICON NEWS</source>
     </item>
     <item>
       <title>Open AI創設者の暗号通貨ネットワークが｢ワールド｣へ改称 - GIZMODO JAPAN</title>
@@ -664,14 +704,6 @@
       <source url="https://www.nikkei.com">日本経済新聞</source>
     </item>
     <item>
-      <title>埼玉県、AI音声認識で議事録作成を効率化--「ScribeAssist」を全庁導入 - ZDNET Japan</title>
-      <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE81ZGIzeHNaVUY5SEhiTDQ3dUxQTWpJMWRPQ0NQRExfVzJUQnlJX2dBUmcwU0xQRWpranBBTWJ0WDZ6cVRTb1BpTUVtcGxsWFNJVndF?oc=5</link>
-      <guid isPermaLink="false">CBMiU0FVX3lxTE81ZGIzeHNaVUY5SEhiTDQ3dUxQTWpJMWRPQ0NQRExfVzJUQnlJX2dBUmcwU0xQRWpranBBTWJ0WDZ6cVRTb1BpTUVtcGxsWFNJVndF</guid>
-      <pubDate>Fri, 25 Oct 2024 08:12:00 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiU0FVX3lxTE81ZGIzeHNaVUY5SEhiTDQ3dUxQTWpJMWRPQ0NQRExfVzJUQnlJX2dBUmcwU0xQRWpranBBTWJ0WDZ6cVRTb1BpTUVtcGxsWFNJVndF?oc=5" target="_blank"&gt;埼玉県、AI音声認識で議事録作成を効率化--「ScribeAssist」を全庁導入&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;ZDNET Japan&lt;/font&gt;</description>
-      <source url="https://japan.zdnet.com">ZDNET Japan</source>
-    </item>
-    <item>
       <title>天皇賞・秋はこの馬で決める！ ◎好走連発の競馬AIが選んだ意外な本命と大穴馬 - スポーツナビ</title>
       <link>https://news.google.com/rss/articles/CBMibkFVX3lxTE1wNWFHcmpCU3VUZHJsMm44VEt6MjJWcVZGTU83OGJHYzdScE84UHg5UjF2U3BKU0ZQSVBDZExoUXJIRU8wTklVRHhBVmMtZi0tZkhZOXliSVp1aUs3Nnl6Y2ZMaG1sRkduX0s5TXdR?oc=5</link>
       <guid isPermaLink="false">CBMibkFVX3lxTE1wNWFHcmpCU3VUZHJsMm44VEt6MjJWcVZGTU83OGJHYzdScE84UHg5UjF2U3BKU0ZQSVBDZExoUXJIRU8wTklVRHhBVmMtZi0tZkhZOXliSVp1aUs3Nnl6Y2ZMaG1sRkduX0s5TXdR</guid>
@@ -686,14 +718,6 @@
       <pubDate>Fri, 25 Oct 2024 08:00:00 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiVEFVX3lxTE4tbUFLeEwwcWNIRDhXekZGLUkxRnVCMk9BX3YxMnBnb1dmdjBXVXQ2WHNleHBGc05hNGZta1FQRng5NFlEME11VzhBZVJlalBneFZ3cQ?oc=5" target="_blank"&gt;AI PCを使ってみて分かった、現場投入を急ぐべき理由&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Business Insider Japan&lt;/font&gt;</description>
       <source url="https://www.businessinsider.jp">Business Insider Japan</source>
-    </item>
-    <item>
-      <title>健診結果からがんや脳卒中リスクをAI予測 MDVや住友生命など - 日経ビジネスオンライン</title>
-      <link>https://news.google.com/rss/articles/CBMibEFVX3lxTE1nTV9qc3FMSThad09PRzBRXzNmNU5TLXVJaVluNWc3bzY3S0FNVVpYOGhubGNfenY4NDlRNjd2M2hkMjBqZmxUVmV2cmpZamFDSkdxeVREMnhvaE5WT0hrUHpRUFV2azFFRjJ1Rg?oc=5</link>
-      <guid isPermaLink="false">CBMibEFVX3lxTE1nTV9qc3FMSThad09PRzBRXzNmNU5TLXVJaVluNWc3bzY3S0FNVVpYOGhubGNfenY4NDlRNjd2M2hkMjBqZmxUVmV2cmpZamFDSkdxeVREMnhvaE5WT0hrUHpRUFV2azFFRjJ1Rg</guid>
-      <pubDate>Fri, 25 Oct 2024 08:00:00 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMibEFVX3lxTE1nTV9qc3FMSThad09PRzBRXzNmNU5TLXVJaVluNWc3bzY3S0FNVVpYOGhubGNfenY4NDlRNjd2M2hkMjBqZmxUVmV2cmpZamFDSkdxeVREMnhvaE5WT0hrUHpRUFV2azFFRjJ1Rg?oc=5" target="_blank"&gt;健診結果からがんや脳卒中リスクをAI予測 MDVや住友生命など&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;日経ビジネスオンライン&lt;/font&gt;</description>
-      <source url="https://business.nikkei.com">日経ビジネスオンライン</source>
     </item>
     <item>
       <title>競馬AIがスワンS、アルテミスSを大予想 厳選ワイド3点＆3連複10点で勝負！ - スポーツナビ</title>
