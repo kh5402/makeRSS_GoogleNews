@@ -6,7 +6,7 @@
     <language>ja</language>
     <webMaster>news-webmaster@google.com</webMaster>
     <copyright>Copyright © 2024 Google. All rights reserved. This XML feed is made available solely for the purpose of rendering Google News results within a personal feed reader for personal, non-commercial use. Any other use of the feed is expressly prohibited. By accessing this feed or using these results in any manner whatsoever, you agree to be bound by the foregoing restrictions.</copyright>
-    <lastBuildDate>Sun, 27 Oct 2024 12:35:28 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 27 Oct 2024 13:22:08 GMT</lastBuildDate>
     <image>
       <title>Google ニュース</title>
       <url>https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w256</url>
@@ -45,6 +45,14 @@
       <guid isPermaLink="false">CBMie0FVX3lxTE4xR0wwamkzRDNZcGlXWS1vVldjN2cyM3JrRld2MGVUUjJvREtNSGo5cXFoekg2ak9lcFRtMG5WelRkZWhLSExmajJhRVZzVlY2RHBXTEFZV2RQSXFScjdCajVUYmpDQjR0cWk0eFEtVW5ZUERPRk93LWotcw</guid>
       <pubDate>Wed, 25 Oct 2023 07:00:00 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMie0FVX3lxTE4xR0wwamkzRDNZcGlXWS1vVldjN2cyM3JrRld2MGVUUjJvREtNSGo5cXFoekg2ak9lcFRtMG5WelRkZWhLSExmajJhRVZzVlY2RHBXTEFZV2RQSXFScjdCajVUYmpDQjR0cWk0eFEtVW5ZUERPRk93LWotcw?oc=5" target="_blank"&gt;ソフトウェアセキュリティはAIの登場でどう変わるか - OWASP LLM Top 10&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
+      <source url="https://speakerdeck.com">Speaker Deck</source>
+    </item>
+    <item>
+      <title>E2Eテスト自動化プラットフォームにおけるAIの活用 - Speaker Deck</title>
+      <link>https://news.google.com/rss/articles/CBMilAFBVV95cUxNMXAxTUhaZ2RNZnVBWWxER0pTSlFYanlMN202dk9fa2xOUlB0OWo3bHZ3bW9YVDN2Q1A5NzllVEF4NmFtVFhNVWJqTEVfQVVoSHJQNS0tZXdlbjU4Vkk2anVESXcwTG42YzVaQjB1WlFyQjZBdWR4ZnYtU3Jvc0hEZlZWcXNsdkpBal9HbVlBXzY1UElF?oc=5</link>
+      <guid isPermaLink="false">CBMilAFBVV95cUxNMXAxTUhaZ2RNZnVBWWxER0pTSlFYanlMN202dk9fa2xOUlB0OWo3bHZ3bW9YVDN2Q1A5NzllVEF4NmFtVFhNVWJqTEVfQVVoSHJQNS0tZXdlbjU4Vkk2anVESXcwTG42YzVaQjB1WlFyQjZBdWR4ZnYtU3Jvc0hEZlZWcXNsdkpBal9HbVlBXzY1UElF</guid>
+      <pubDate>Wed, 24 Jul 2024 07:00:00 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMilAFBVV95cUxNMXAxTUhaZ2RNZnVBWWxER0pTSlFYanlMN202dk9fa2xOUlB0OWo3bHZ3bW9YVDN2Q1A5NzllVEF4NmFtVFhNVWJqTEVfQVVoSHJQNS0tZXdlbjU4Vkk2anVESXcwTG42YzVaQjB1WlFyQjZBdWR4ZnYtU3Jvc0hEZlZWcXNsdkpBal9HbVlBXzY1UElF?oc=5" target="_blank"&gt;E2Eテスト自動化プラットフォームにおけるAIの活用&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
@@ -344,14 +352,6 @@
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
-      <title>AI(ChatGPT-4)によるテスト設計作成の現状を評価する #Ques20 / Ques20th - Speaker Deck</title>
-      <link>https://news.google.com/rss/articles/CBMiVkFVX3lxTE1hLTNxRk9pNkJvWGRERUV6b3duaUxpZnFWdlV4WHBBNDMxanBfN2NBN29YUk44Z2poYUU5amdseDhmcHlKMTVVYUVfMDdld3VoS1pTbUZn?oc=5</link>
-      <guid isPermaLink="false">CBMiVkFVX3lxTE1hLTNxRk9pNkJvWGRERUV6b3duaUxpZnFWdlV4WHBBNDMxanBfN2NBN29YUk44Z2poYUU5amdseDhmcHlKMTVVYUVfMDdld3VoS1pTbUZn</guid>
-      <pubDate>Thu, 18 May 2023 07:00:00 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiVkFVX3lxTE1hLTNxRk9pNkJvWGRERUV6b3duaUxpZnFWdlV4WHBBNDMxanBfN2NBN29YUk44Z2poYUU5amdseDhmcHlKMTVVYUVfMDdld3VoS1pTbUZn?oc=5" target="_blank"&gt;AI(ChatGPT-4)によるテスト設計作成の現状を評価する #Ques20 / Ques20th&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
-      <source url="https://speakerdeck.com">Speaker Deck</source>
-    </item>
-    <item>
       <title>AIシステム開発におけるQA/QA in AI System development - Speaker Deck</title>
       <link>https://news.google.com/rss/articles/CBMic0FVX3lxTFBORE5qaEpSNE5FX05iWG5sOW1fMExjSVQ2WGlIM2FUaE8xckQxSXZqZkR2dHFyUXd5UVVKcG9DTDZRWVM5Tm5kMlQ1YWlzXzdpTm55NEo2NHVuLV9EZkFPY2thUWh2c1VyNzY5ckpIb1VhMHc?oc=5</link>
       <guid isPermaLink="false">CBMic0FVX3lxTFBORE5qaEpSNE5FX05iWG5sOW1fMExjSVQ2WGlIM2FUaE8xckQxSXZqZkR2dHFyUXd5UVVKcG9DTDZRWVM5Tm5kMlQ1YWlzXzdpTm55NEo2NHVuLV9EZkFPY2thUWh2c1VyNzY5ckpIb1VhMHc</guid>
@@ -464,6 +464,14 @@
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
+      <title>エッジAIとPython - Speaker Deck</title>
+      <link>https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoeFhIaEtKM0k5eUhYWHB3QjFwc0xra2xyYXAyaFVUZWI1cmpOTWNoaFNmVHNoUUI1QkkzLS1GcWJ6SE5PSkx4Ri1SRnpkUkg5cFREaV95eFdiaUU?oc=5</link>
+      <guid isPermaLink="false">CBMiW0FVX3lxTFBoeFhIaEtKM0k5eUhYWHB3QjFwc0xra2xyYXAyaFVUZWI1cmpOTWNoaFNmVHNoUUI1QkkzLS1GcWJ6SE5PSkx4Ri1SRnpkUkg5cFREaV95eFdiaUU</guid>
+      <pubDate>Sun, 14 Jul 2019 07:00:00 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoeFhIaEtKM0k5eUhYWHB3QjFwc0xra2xyYXAyaFVUZWI1cmpOTWNoaFNmVHNoUUI1QkkzLS1GcWJ6SE5PSkx4Ri1SRnpkUkg5cFREaV95eFdiaUU?oc=5" target="_blank"&gt;エッジAIとPython&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
+      <source url="https://speakerdeck.com">Speaker Deck</source>
+    </item>
+    <item>
       <title>大学の事務業務における生成AI導入のための思考的枠組みに関する考察 - Speaker Deck</title>
       <link>https://news.google.com/rss/articles/CBMixwFBVV95cUxPeXVKbUFlY0xmc0xuVTFzbmJWT251aFJHek1iZ2VqNVhJZ1BvOWpaNE5JaEFYZVVQbVZFTTBpcXhUUjNmMEZvN1JOODZSS3prOE9mdnduNjNKS1RDQUJnc1FxdkxvYlhsOHlfUEpoX1FJd1dSUDhEVnVQZ1dfZzJtTnNzZUxwUjIxM1Q3ZEY3U3oxS0R0MHFQZ3A5NzZSRmg0UWdVWl9lUU40MG5TeF9IZjNITVBPN3YtNXFhLXJLMXZFVXpkQWZz?oc=5</link>
       <guid isPermaLink="false">CBMixwFBVV95cUxPeXVKbUFlY0xmc0xuVTFzbmJWT251aFJHek1iZ2VqNVhJZ1BvOWpaNE5JaEFYZVVQbVZFTTBpcXhUUjNmMEZvN1JOODZSS3prOE9mdnduNjNKS1RDQUJnc1FxdkxvYlhsOHlfUEpoX1FJd1dSUDhEVnVQZ1dfZzJtTnNzZUxwUjIxM1Q3ZEY3U3oxS0R0MHFQZ3A5NzZSRmg0UWdVWl9lUU40MG5TeF9IZjNITVBPN3YtNXFhLXJLMXZFVXpkQWZz</guid>
@@ -493,14 +501,6 @@
       <guid isPermaLink="false">CBMikwFBVV95cUxQT1ZHSTg1QzFJdFlpcktSZkw0Y3VvZUJkUlpybVBFLXZDWWVidU1jLWVxaXA1QTd1YWhoVlAzU3ZXeENIOWgwNkluaS14V1FBRHZWVE1oMmNZblNqU3JBQ0dMRlVuaTUtdWVjSkREb1owSUhBclZLV1Bfa25SVzQ0Zy1aRDJTdnZ2VjF2ejNzNG5lRk0</guid>
       <pubDate>Sat, 28 Oct 2023 07:00:00 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMikwFBVV95cUxQT1ZHSTg1QzFJdFlpcktSZkw0Y3VvZUJkUlpybVBFLXZDWWVidU1jLWVxaXA1QTd1YWhoVlAzU3ZXeENIOWgwNkluaS14V1FBRHZWVE1oMmNZblNqU3JBQ0dMRlVuaTUtdWVjSkREb1owSUhBclZLV1Bfa25SVzQ0Zy1aRDJTdnZ2VjF2ejNzNG5lRk0?oc=5" target="_blank"&gt;AWSで生成系AIの活用がはかどる3つの理由&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
-      <source url="https://speakerdeck.com">Speaker Deck</source>
-    </item>
-    <item>
-      <title>生成AIの台頭に応対する大学組織の動向：表明内容の分析に基づく試論 - Speaker Deck</title>
-      <link>https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSVkyUkdCMU5zbFB5SHktdGlVb3lFOHg0NXRFbDU5TnEwbHYxLVdtbVNuYzhBeEc4VHlkRzZtZnVrS1pqSTdLTFo5NGZKaFBzLVBBNVZvVFhOaWNnV2d4eEtwQUgwalFqYzdHY3BaRGpNZnFGMmN6RVR0bC1TZ1hBeGc3M29uZUpzWkNxa1ZwMnNVT1ZQWmJTWFBFc1l1eGdRUU9VUGdFaXd5OFJmMmxYTUdoU01haE0tTTJaRlhCeHM2aFRvWng1UUNhdzUtYTB2d01hZW9aTFJFUQ?oc=5</link>
-      <guid isPermaLink="false">CBMi2gFBVV95cUxNSVkyUkdCMU5zbFB5SHktdGlVb3lFOHg0NXRFbDU5TnEwbHYxLVdtbVNuYzhBeEc4VHlkRzZtZnVrS1pqSTdLTFo5NGZKaFBzLVBBNVZvVFhOaWNnV2d4eEtwQUgwalFqYzdHY3BaRGpNZnFGMmN6RVR0bC1TZ1hBeGc3M29uZUpzWkNxa1ZwMnNVT1ZQWmJTWFBFc1l1eGdRUU9VUGdFaXd5OFJmMmxYTUdoU01haE0tTTJaRlhCeHM2aFRvWng1UUNhdzUtYTB2d01hZW9aTFJFUQ</guid>
-      <pubDate>Sat, 27 May 2023 07:00:00 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSVkyUkdCMU5zbFB5SHktdGlVb3lFOHg0NXRFbDU5TnEwbHYxLVdtbVNuYzhBeEc4VHlkRzZtZnVrS1pqSTdLTFo5NGZKaFBzLVBBNVZvVFhOaWNnV2d4eEtwQUgwalFqYzdHY3BaRGpNZnFGMmN6RVR0bC1TZ1hBeGc3M29uZUpzWkNxa1ZwMnNVT1ZQWmJTWFBFc1l1eGdRUU9VUGdFaXd5OFJmMmxYTUdoU01haE0tTTJaRlhCeHM2aFRvWng1UUNhdzUtYTB2d01hZW9aTFJFUQ?oc=5" target="_blank"&gt;生成AIの台頭に応対する大学組織の動向：表明内容の分析に基づく試論&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
