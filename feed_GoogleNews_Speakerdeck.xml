@@ -6,7 +6,7 @@
     <language>ja</language>
     <webMaster>news-webmaster@google.com</webMaster>
     <copyright>Copyright © 2024 Google. All rights reserved. This XML feed is made available solely for the purpose of rendering Google News results within a personal feed reader for personal, non-commercial use. Any other use of the feed is expressly prohibited. By accessing this feed or using these results in any manner whatsoever, you agree to be bound by the foregoing restrictions.</copyright>
-    <lastBuildDate>Tue, 29 Oct 2024 19:16:50 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Oct 2024 20:21:23 GMT</lastBuildDate>
     <image>
       <title>Google ニュース</title>
       <url>https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w256</url>
@@ -93,6 +93,14 @@
       <guid isPermaLink="false">CBMiakFVX3lxTFBlMFY5NThpRjlFR0FBNEF3U0tTUmlWUGtlSnBrQ2pDUGY3QmJ4YXRhWmg5TVdWUnh3UlJaQ3V3SWV0SWxudEEwTkV3em9XUllCbm1YQzY3bllYZGRFMWpnVW1CSHNWZG41Q0E</guid>
       <pubDate>Wed, 17 Jul 2024 07:00:00 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiakFVX3lxTFBlMFY5NThpRjlFR0FBNEF3U0tTUmlWUGtlSnBrQ2pDUGY3QmJ4YXRhWmg5TVdWUnh3UlJaQ3V3SWV0SWxudEEwTkV3em9XUllCbm1YQzY3bllYZGRFMWpnVW1CSHNWZG41Q0E?oc=5" target="_blank"&gt;【基調講演】変える、今ここから ― IoTとAIで紡ぐ未来&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
+      <source url="https://speakerdeck.com">Speaker Deck</source>
+    </item>
+    <item>
+      <title>AI組織でのアプリケーション開発の裏側 - Django × DDDでの開発プラクティス - Speaker Deck</title>
+      <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxORVpUM1RjUWdwd3RnUWpmbzJvQXJkZTBKR0FMUU1VS25mdlZYZnZucDNpczZXQk0yRm9CUmtHVjV3RnN2UjhiN2dPdWpfcEh6dVlZYUtHTEd5M3FYNWhVU2VaX2VNQ0o0OUpWZWdwSUlsY0VVdC1BT3dQU1RVUy1RcHhsM2hvNUQzZWd1RVJjU3ZzQWNlV3VLazR3TFJadEN6bUhhRE1VaERRMm8?oc=5</link>
+      <guid isPermaLink="false">CBMiqwFBVV95cUxORVpUM1RjUWdwd3RnUWpmbzJvQXJkZTBKR0FMUU1VS25mdlZYZnZucDNpczZXQk0yRm9CUmtHVjV3RnN2UjhiN2dPdWpfcEh6dVlZYUtHTEd5M3FYNWhVU2VaX2VNQ0o0OUpWZWdwSUlsY0VVdC1BT3dQU1RVUy1RcHhsM2hvNUQzZWd1RVJjU3ZzQWNlV3VLazR3TFJadEN6bUhhRE1VaERRMm8</guid>
+      <pubDate>Wed, 16 Nov 2022 08:00:00 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxORVpUM1RjUWdwd3RnUWpmbzJvQXJkZTBKR0FMUU1VS25mdlZYZnZucDNpczZXQk0yRm9CUmtHVjV3RnN2UjhiN2dPdWpfcEh6dVlZYUtHTEd5M3FYNWhVU2VaX2VNQ0o0OUpWZWdwSUlsY0VVdC1BT3dQU1RVUy1RcHhsM2hvNUQzZWd1RVJjU3ZzQWNlV3VLazR3TFJadEN6bUhhRE1VaERRMm8?oc=5" target="_blank"&gt;AI組織でのアプリケーション開発の裏側 - Django × DDDでの開発プラクティス&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
@@ -376,14 +384,6 @@
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
-      <title>Ansible Lightspeed: Where Automation Meets AI - Speaker Deck</title>
-      <link>https://news.google.com/rss/articles/CBMiggFBVV95cUxQd0lIZDJmS0FZeXBGRDE0UFpwaXA0X2Q2eXFmLXkwT25Mak4zTnJMbzhLMGp1THphaVQtbEVPejRYVHo0YVlkZzdxNWtmakM5d2lTMGhhb0liUkxlei14Y1EwU0VzeTh1WTBibUd5b3d0c21FNTA1UU5MUkpNU1YxS1lB?oc=5</link>
-      <guid isPermaLink="false">CBMiggFBVV95cUxQd0lIZDJmS0FZeXBGRDE0UFpwaXA0X2Q2eXFmLXkwT25Mak4zTnJMbzhLMGp1THphaVQtbEVPejRYVHo0YVlkZzdxNWtmakM5d2lTMGhhb0liUkxlei14Y1EwU0VzeTh1WTBibUd5b3d0c21FNTA1UU5MUkpNU1YxS1lB</guid>
-      <pubDate>Thu, 14 Sep 2023 07:00:00 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiggFBVV95cUxQd0lIZDJmS0FZeXBGRDE0UFpwaXA0X2Q2eXFmLXkwT25Mak4zTnJMbzhLMGp1THphaVQtbEVPejRYVHo0YVlkZzdxNWtmakM5d2lTMGhhb0liUkxlei14Y1EwU0VzeTh1WTBibUd5b3d0c21FNTA1UU5MUkpNU1YxS1lB?oc=5" target="_blank"&gt;Ansible Lightspeed: Where Automation Meets AI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
-      <source url="https://speakerdeck.com">Speaker Deck</source>
-    </item>
-    <item>
       <title>生成AIの活用方法 - 2024年現在、 結局どのように使えばいいのだろうか？ / How to use Generative AI in 2024 - Speaker Deck</title>
       <link>https://news.google.com/rss/articles/CBMicEFVX3lxTE4tdlVGelRTYXp6M1E3MkRTRlAxd21SYVpkZHBfLVJnbUlzcmpKc1JhZDJHOWNyY1VZN2ZPNDlNaUMtX2lPUzgwc3pzcmNmbTVYY1R2MnFQRU4zNDJBOVZDSjcwS2FTSGFGdVRvZkNTbWc?oc=5</link>
       <guid isPermaLink="false">CBMicEFVX3lxTE4tdlVGelRTYXp6M1E3MkRTRlAxd21SYVpkZHBfLVJnbUlzcmpKc1JhZDJHOWNyY1VZN2ZPNDlNaUMtX2lPUzgwc3pzcmNmbTVYY1R2MnFQRU4zNDJBOVZDSjcwS2FTSGFGdVRvZkNTbWc</guid>
@@ -560,6 +560,14 @@
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
+      <title>An Efficient Incident Response Training with AI / SRE NEXT 2024 Sponsor Session - Speaker Deck</title>
+      <link>https://news.google.com/rss/articles/CBMicEFVX3lxTE5YX2Z5LTZIXzdrMWdkbGFicnF6aGJ6TC1DOGZlLVdzQ0RSRldSVU54eGZ5NWNURE56eGt2VmxKQW5tdnc2bk96RE5la2ZWLVQ4eUJ4ZjVoV0JwMDFLemlJMm5LU1RKOFM3OF9BUi1ZaUo?oc=5</link>
+      <guid isPermaLink="false">CBMicEFVX3lxTE5YX2Z5LTZIXzdrMWdkbGFicnF6aGJ6TC1DOGZlLVdzQ0RSRldSVU54eGZ5NWNURE56eGt2VmxKQW5tdnc2bk96RE5la2ZWLVQ4eUJ4ZjVoV0JwMDFLemlJMm5LU1RKOFM3OF9BUi1ZaUo</guid>
+      <pubDate>Sat, 03 Aug 2024 07:00:00 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMicEFVX3lxTE5YX2Z5LTZIXzdrMWdkbGFicnF6aGJ6TC1DOGZlLVdzQ0RSRldSVU54eGZ5NWNURE56eGt2VmxKQW5tdnc2bk96RE5la2ZWLVQ4eUJ4ZjVoV0JwMDFLemlJMm5LU1RKOFM3OF9BUi1ZaUo?oc=5" target="_blank"&gt;An Efficient Incident Response Training with AI / SRE NEXT 2024 Sponsor Session&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
+      <source url="https://speakerdeck.com">Speaker Deck</source>
+    </item>
+    <item>
       <title>LayerXインボイスのAI-OCRを支える非同期処理アーキテクチャ / AWS Dev Day Online Japan 2021 - Speaker Deck</title>
       <link>https://news.google.com/rss/articles/CBMibkFVX3lxTE5NSHdOc2NVcHpiS1IxaTlPclJyNUh2QlZIRDBPSFQ4UzViSWhRSkFoOHAwSENscEtrbkVUM2oxdVo3QjFnQW9WajdDaDc3VmtIcENtQkdiQVVpWmQzRUdBNFkwYWlRR24yQ3BOWjF3?oc=5</link>
       <guid isPermaLink="false">CBMibkFVX3lxTE5NSHdOc2NVcHpiS1IxaTlPclJyNUh2QlZIRDBPSFQ4UzViSWhRSkFoOHAwSENscEtrbkVUM2oxdVo3QjFnQW9WajdDaDc3VmtIcENtQkdiQVVpWmQzRUdBNFkwYWlRR24yQ3BOWjF3</guid>
@@ -709,14 +717,6 @@
       <guid isPermaLink="false">CBMiekFVX3lxTE5RRUFpbkNnajZ0TW1oSTVocU5pYjhuMzNOZUhqdEIxVWZEZ040Q1ZrT3RxRDlJcVdJdm5EUmE2YjlfRUEzWjFESlBBV2N3X1A2eWcycWEwMWcwRV81VDA0QjY3QjZFX1VGVmFxYWdEeFJGUmhrQ0tReTFB</guid>
       <pubDate>Fri, 26 May 2023 07:00:00 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiekFVX3lxTE5RRUFpbkNnajZ0TW1oSTVocU5pYjhuMzNOZUhqdEIxVWZEZ040Q1ZrT3RxRDlJcVdJdm5EUmE2YjlfRUEzWjFESlBBV2N3X1A2eWcycWEwMWcwRV81VDA0QjY3QjZFX1VGVmFxYWdEeFJGUmhrQ0tReTFB?oc=5" target="_blank"&gt;生成AI時代におけるUXデザイン | 生成AIをフル活用したUX設計手法＆生成AI時代のユーザー体験の変化について&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
-      <source url="https://speakerdeck.com">Speaker Deck</source>
-    </item>
-    <item>
-      <title>[Kaigi on Rails 2024] Rails Way, or the highway - Speaker Deck</title>
-      <link>https://news.google.com/rss/articles/CBMigAFBVV95cUxPempjcXItUEFpWWN2Tjl2ZnJyWm1NUUtlaUxPQ1VoUE9NbHkzdDhBQWdCTzdlazhiLXlNT3laSlAxS04xd3dNNE9WWGdQUzI4SGNWbFhrS3RaOUlOdkhabnZmeVpqdW1vNFFIcEFpNDk0QkNFRFJRRVFRR3lvTml6aw?oc=5</link>
-      <guid isPermaLink="false">CBMigAFBVV95cUxPempjcXItUEFpWWN2Tjl2ZnJyWm1NUUtlaUxPQ1VoUE9NbHkzdDhBQWdCTzdlazhiLXlNT3laSlAxS04xd3dNNE9WWGdQUzI4SGNWbFhrS3RaOUlOdkhabnZmeVpqdW1vNFFIcEFpNDk0QkNFRFJRRVFRR3lvTml6aw</guid>
-      <pubDate>Fri, 25 Oct 2024 07:30:09 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMigAFBVV95cUxPempjcXItUEFpWWN2Tjl2ZnJyWm1NUUtlaUxPQ1VoUE9NbHkzdDhBQWdCTzdlazhiLXlNT3laSlAxS04xd3dNNE9WWGdQUzI4SGNWbFhrS3RaOUlOdkhabnZmeVpqdW1vNFFIcEFpNDk0QkNFRFJRRVFRR3lvTml6aw?oc=5" target="_blank"&gt;[Kaigi on Rails 2024] Rails Way, or the highway&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
