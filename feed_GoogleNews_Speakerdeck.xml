@@ -6,7 +6,7 @@
     <language>ja</language>
     <webMaster>news-webmaster@google.com</webMaster>
     <copyright>Copyright © 2024 Google. All rights reserved. This XML feed is made available solely for the purpose of rendering Google News results within a personal feed reader for personal, non-commercial use. Any other use of the feed is expressly prohibited. By accessing this feed or using these results in any manner whatsoever, you agree to be bound by the foregoing restrictions.</copyright>
-    <lastBuildDate>Wed, 30 Oct 2024 15:21:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Oct 2024 16:25:14 GMT</lastBuildDate>
     <image>
       <title>Google ニュース</title>
       <url>https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w256</url>
@@ -15,6 +15,14 @@
       <width>256</width>
     </image>
     <description>Google ニュース</description>
+    <item>
+      <title>カメラを用いた店内計測におけるオプトインの仕組みの実現 / ai-optin-camera - Speaker Deck</title>
+      <link>https://news.google.com/rss/articles/CBMibEFVX3lxTFBhNlBVMVdIN1NQVE9abDE3NWJTOTBuMWpqT1JKNmN5R3lvNHBPLWZlNEdXNjdSOEdBNDByNzlYLTVJMUR6NlIzbmFDVWY5Qm1qV2pvbWctRHVsaGZQOGtuTTNqdGV2Q0twX191Ug?oc=5</link>
+      <guid isPermaLink="false">CBMibEFVX3lxTFBhNlBVMVdIN1NQVE9abDE3NWJTOTBuMWpqT1JKNmN5R3lvNHBPLWZlNEdXNjdSOEdBNDByNzlYLTVJMUR6NlIzbmFDVWY5Qm1qV2pvbWctRHVsaGZQOGtuTTNqdGV2Q0twX191Ug</guid>
+      <pubDate>Wed, 30 Oct 2024 00:26:58 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMibEFVX3lxTFBhNlBVMVdIN1NQVE9abDE3NWJTOTBuMWpqT1JKNmN5R3lvNHBPLWZlNEdXNjdSOEdBNDByNzlYLTVJMUR6NlIzbmFDVWY5Qm1qV2pvbWctRHVsaGZQOGtuTTNqdGV2Q0twX191Ug?oc=5" target="_blank"&gt;カメラを用いた店内計測におけるオプトインの仕組みの実現 / ai-optin-camera&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
+      <source url="https://speakerdeck.com">Speaker Deck</source>
+    </item>
     <item>
       <title>AIアプリDojo #3: Hugging Face Transformers モデルのチューニング入門 - Speaker Deck</title>
       <link>https://news.google.com/rss/articles/CBMiaEFVX3lxTFAtLUtnSy1wTGs5ZnkzVkVPQUc1bWRndEN6ak9tWXhHOWFrRFZ2dHl4UncwR0d1RVN3ems3NVVsSXdQVTFUNnFOd0hOblhYNG5qSWt0R3NIVThvekhNajNtdER3R1ZQZ1NB?oc=5</link>
@@ -365,14 +373,6 @@
       <guid isPermaLink="false">CBMikwFBVV95cUxQbFBSUnRocENCVmZ4bk94RUUtUWZBYkN1UTJVMURBSXBtN2wwN1poRElTQ2E2ek5zcUFIQ0xlaDgyTjNRSV9UdEhJVEpBd3ZkdnRiQmg1M0hQN2pxUlRpSkR1cHBXZTRQWk5UdUdHR25zcENUN0VRZFF2Y0pWaVl3bUZ1UzN1cDYyOUU0MlVvNjJtdk0</guid>
       <pubDate>Thu, 16 Nov 2023 08:00:00 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMikwFBVV95cUxQbFBSUnRocENCVmZ4bk94RUUtUWZBYkN1UTJVMURBSXBtN2wwN1poRElTQ2E2ek5zcUFIQ0xlaDgyTjNRSV9UdEhJVEpBd3ZkdnRiQmg1M0hQN2pxUlRpSkR1cHBXZTRQWk5UdUdHR25zcENUN0VRZFF2Y0pWaVl3bUZ1UzN1cDYyOUU0MlVvNjJtdk0?oc=5" target="_blank"&gt;生成系 AI でプロダクトの価値を高めるには&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
-      <source url="https://speakerdeck.com">Speaker Deck</source>
-    </item>
-    <item>
-      <title>生成AIの活用方法 - 2024年現在、 結局どのように使えばいいのだろうか？ / How to use Generative AI in 2024 - Speaker Deck</title>
-      <link>https://news.google.com/rss/articles/CBMicEFVX3lxTE4tdlVGelRTYXp6M1E3MkRTRlAxd21SYVpkZHBfLVJnbUlzcmpKc1JhZDJHOWNyY1VZN2ZPNDlNaUMtX2lPUzgwc3pzcmNmbTVYY1R2MnFQRU4zNDJBOVZDSjcwS2FTSGFGdVRvZkNTbWc?oc=5</link>
-      <guid isPermaLink="false">CBMicEFVX3lxTE4tdlVGelRTYXp6M1E3MkRTRlAxd21SYVpkZHBfLVJnbUlzcmpKc1JhZDJHOWNyY1VZN2ZPNDlNaUMtX2lPUzgwc3pzcmNmbTVYY1R2MnFQRU4zNDJBOVZDSjcwS2FTSGFGdVRvZkNTbWc</guid>
-      <pubDate>Thu, 13 Jun 2024 07:00:00 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMicEFVX3lxTE4tdlVGelRTYXp6M1E3MkRTRlAxd21SYVpkZHBfLVJnbUlzcmpKc1JhZDJHOWNyY1VZN2ZPNDlNaUMtX2lPUzgwc3pzcmNmbTVYY1R2MnFQRU4zNDJBOVZDSjcwS2FTSGFGdVRvZkNTbWc?oc=5" target="_blank"&gt;生成AIの活用方法 - 2024年現在、 結局どのように使えばいいのだろうか？ / How to use Generative AI in 2024&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
