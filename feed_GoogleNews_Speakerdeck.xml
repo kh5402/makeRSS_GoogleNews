@@ -6,7 +6,7 @@
     <language>ja</language>
     <webMaster>news-webmaster@google.com</webMaster>
     <copyright>Copyright © 2024 Google. All rights reserved. This XML feed is made available solely for the purpose of rendering Google News results within a personal feed reader for personal, non-commercial use. Any other use of the feed is expressly prohibited. By accessing this feed or using these results in any manner whatsoever, you agree to be bound by the foregoing restrictions.</copyright>
-    <lastBuildDate>Tue, 17 Dec 2024 19:17:21 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Dec 2024 20:22:13 GMT</lastBuildDate>
     <image>
       <title>Google ニュース</title>
       <url>https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w256</url>
@@ -240,6 +240,14 @@
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
+      <title>RAGにベクトルDBは必要ない！DBも不要で運用めちゃ楽な RAG Chatbot を作った話 - Speaker Deck</title>
+      <link>https://news.google.com/rss/articles/CBMibEFVX3lxTE80a2FTWFRGcUZZTkwwbzJlOUk1bU9xZ2o3dTJLd2RIWEU3N2wta1hhdG1mUE9aWThid1E4aVV1eWU5TDlTeWRuaW1pSkRKZ1NadEdGbjY5ajNHMml1QVlXa20xc1lCbWhRdlJGVg?oc=5</link>
+      <guid isPermaLink="false">CBMibEFVX3lxTE80a2FTWFRGcUZZTkwwbzJlOUk1bU9xZ2o3dTJLd2RIWEU3N2wta1hhdG1mUE9aWThid1E4aVV1eWU5TDlTeWRuaW1pSkRKZ1NadEdGbjY5ajNHMml1QVlXa20xc1lCbWhRdlJGVg</guid>
+      <pubDate>Tue, 20 Aug 2024 07:00:00 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMibEFVX3lxTE80a2FTWFRGcUZZTkwwbzJlOUk1bU9xZ2o3dTJLd2RIWEU3N2wta1hhdG1mUE9aWThid1E4aVV1eWU5TDlTeWRuaW1pSkRKZ1NadEdGbjY5ajNHMml1QVlXa20xc1lCbWhRdlJGVg?oc=5" target="_blank"&gt;RAGにベクトルDBは必要ない！DBも不要で運用めちゃ楽な RAG Chatbot を作った話&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
+      <source url="https://speakerdeck.com">Speaker Deck</source>
+    </item>
+    <item>
       <title>強い生成 AI 検知システムを実現する Data-Centric なデータセット管理 - Speaker Deck</title>
       <link>https://news.google.com/rss/articles/CBMivgFBVV95cUxNeVU3SVNtbnRSYldKUDN3aDdyRFJZVTVMOW16alJzMGktRFhua0JTazc0a1lJS3FwcUM0ZnVuS1pDcmkyT0J1X1dUeEdwSEpmeU95ZUxVclhwTTVJVktwZFZfei1wcFFuSlp2eWZVRXpMS0pVR25VQk02WW9uUTdZd2U0QXAxZllNall1aEJGdXlOYU5BTXNENG04RGtPaHFyQUZaS0wyVTN2X1dBZHBJRWFxZV9OM2JGazl3aXZB?oc=5</link>
       <guid isPermaLink="false">CBMivgFBVV95cUxNeVU3SVNtbnRSYldKUDN3aDdyRFJZVTVMOW16alJzMGktRFhua0JTazc0a1lJS3FwcUM0ZnVuS1pDcmkyT0J1X1dUeEdwSEpmeU95ZUxVclhwTTVJVktwZFZfei1wcFFuSlp2eWZVRXpMS0pVR25VQk02WW9uUTdZd2U0QXAxZllNall1aEJGdXlOYU5BTXNENG04RGtPaHFyQUZaS0wyVTN2X1dBZHBJRWFxZV9OM2JGazl3aXZB</guid>
@@ -301,14 +309,6 @@
       <guid isPermaLink="false">CBMiT0FVX3lxTE55UldNb2VmQUlKQmw2OVdsVTh3RmxKMXM4MElwTEkxTXZOOHQ2aGlrUVRLdUpzUDZabkdaYnBmNnhPbnppZVZFUkVMTjlfSk0</guid>
       <pubDate>Thu, 27 Jun 2024 07:00:00 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiT0FVX3lxTE55UldNb2VmQUlKQmw2OVdsVTh3RmxKMXM4MElwTEkxTXZOOHQ2aGlrUVRLdUpzUDZabkdaYnBmNnhPbnppZVZFUkVMTjlfSk0?oc=5" target="_blank"&gt;生成AIとミニ四駆で学ぶ！ MATLAB/Simulink&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
-      <source url="https://speakerdeck.com">Speaker Deck</source>
-    </item>
-    <item>
-      <title>APIライフサイクル管理の進化と生成AIの活用へ - Speaker Deck</title>
-      <link>https://news.google.com/rss/articles/CBMingFBVV95cUxQbmk2SC13MzEwdzE3SnJsNUdHNDQzcEpDUlZzNXFENzl2U0I3N1JIcll2YmYwcTFXc09uVEx3MmdkazBVanBveHQ5VTFaRzAtdC15NGRyMlJTVkNGMXRnUTFuTE9rT3pmcFdVcS1RYUZUYllQbWoyMld2ZnpuMm4tR3YtNWNUcXpoanlGSjd4V201VFJ3bUxVdFpVd3BQZw?oc=5</link>
-      <guid isPermaLink="false">CBMingFBVV95cUxQbmk2SC13MzEwdzE3SnJsNUdHNDQzcEpDUlZzNXFENzl2U0I3N1JIcll2YmYwcTFXc09uVEx3MmdkazBVanBveHQ5VTFaRzAtdC15NGRyMlJTVkNGMXRnUTFuTE9rT3pmcFdVcS1RYUZUYllQbWoyMld2ZnpuMm4tR3YtNWNUcXpoanlGSjd4V201VFJ3bUxVdFpVd3BQZw</guid>
-      <pubDate>Thu, 27 Jun 2024 07:00:00 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMingFBVV95cUxQbmk2SC13MzEwdzE3SnJsNUdHNDQzcEpDUlZzNXFENzl2U0I3N1JIcll2YmYwcTFXc09uVEx3MmdkazBVanBveHQ5VTFaRzAtdC15NGRyMlJTVkNGMXRnUTFuTE9rT3pmcFdVcS1RYUZUYllQbWoyMld2ZnpuMm4tR3YtNWNUcXpoanlGSjd4V201VFJ3bUxVdFpVd3BQZw?oc=5" target="_blank"&gt;APIライフサイクル管理の進化と生成AIの活用へ&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
