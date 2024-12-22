@@ -6,7 +6,7 @@
     <language>ja</language>
     <webMaster>news-webmaster@google.com</webMaster>
     <copyright>Copyright © 2024 Google. All rights reserved. This XML feed is made available solely for the purpose of rendering Google News results within a personal feed reader for personal, non-commercial use. Any other use of the feed is expressly prohibited. By accessing this feed or using these results in any manner whatsoever, you agree to be bound by the foregoing restrictions.</copyright>
-    <lastBuildDate>Sun, 22 Dec 2024 02:54:58 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Dec 2024 03:26:33 GMT</lastBuildDate>
     <image>
       <title>Google ニュース</title>
       <url>https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w256</url>
@@ -77,6 +77,14 @@
       <guid isPermaLink="false">CBMisAFBVV95cUxPdU5KelkyMEJoQWNCbF9XU1owYnRickhDNTB4by1wMXRxakhOcEwzMjZOby1xai1jdmFRczNjVngwdS1oN0hVU0d4S0pFZFluRW9OVHFxWFJHcF9PZ3JUT0RWMEJGdnFDNDctMkUtRTJvU3NnRXJBRzNhMS1QWFlWcDBNWWcxRGE1WWZxbUlBSi12WU9LUi1yNEQtOEJHeDg1NmpLUy16b09FbzdGMWxHYQ</guid>
       <pubDate>Wed, 21 Jul 2021 07:00:00 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxPdU5KelkyMEJoQWNCbF9XU1owYnRickhDNTB4by1wMXRxakhOcEwzMjZOby1xai1jdmFRczNjVngwdS1oN0hVU0d4S0pFZFluRW9OVHFxWFJHcF9PZ3JUT0RWMEJGdnFDNDctMkUtRTJvU3NnRXJBRzNhMS1QWFlWcDBNWWcxRGE1WWZxbUlBSi12WU9LUi1yNEQtOEJHeDg1NmpLUy16b09FbzdGMWxHYQ?oc=5" target="_blank"&gt;Powering Open Data Hub with Ray (Erik Erlandson, Red Hat, AI Center of Excellence)&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
+      <source url="https://speakerdeck.com">Speaker Deck</source>
+    </item>
+    <item>
+      <title>PostmanのAIアシスタント Postbot / Postman's AI Assistant Postbot - Speaker Deck</title>
+      <link>https://news.google.com/rss/articles/CBMib0FVX3lxTE43UEViWUsyLWFSV1VpVldtdjY2eUU0eXg3amY0YkVjM0kwUWVYblF4SVdveVNfbWctZUdvc3FRR0t1VmF0U0pNVUJoMzlHS3l2SWc3cFRVVGZpNi1WcExOLUJYU09iclpsT2QxRTd0Zw?oc=5</link>
+      <guid isPermaLink="false">CBMib0FVX3lxTE43UEViWUsyLWFSV1VpVldtdjY2eUU0eXg3amY0YkVjM0kwUWVYblF4SVdveVNfbWctZUdvc3FRR0t1VmF0U0pNVUJoMzlHS3l2SWc3cFRVVGZpNi1WcExOLUJYU09iclpsT2QxRTd0Zw</guid>
+      <pubDate>Wed, 19 Jun 2024 07:00:00 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMib0FVX3lxTE43UEViWUsyLWFSV1VpVldtdjY2eUU0eXg3amY0YkVjM0kwUWVYblF4SVdveVNfbWctZUdvc3FRR0t1VmF0U0pNVUJoMzlHS3l2SWc3cFRVVGZpNi1WcExOLUJYU09iclpsT2QxRTd0Zw?oc=5" target="_blank"&gt;PostmanのAIアシスタント Postbot / Postman's AI Assistant Postbot&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
@@ -312,14 +320,6 @@
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
-      <title>LLMフレームワークLangChain入門 〜生成AIアプリ開発手法とベクトル検索 - Speaker Deck</title>
-      <link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxQT3FfS2FZLWlyQ3V5SHlLR0lFN3h3bWlyQmdBZU5GRFlLWWhfSDFBaXgzU3A0al9nQVozcUlxZndwaUtFOHRNZU10OHlzbE5mVkVpakw1MlM1dlNUYWhMbkRzSlBkSXdQTjJyNl8xMG5ZWF90NlJZeE1lR0RWb3lEMHBxMXZxb01BelI2ZkVxaUE0M3RTNDQ1UXVvdXZzYVl2SG01RWRRVElOY0lScG54RWFSR3MwOWxHTkVZ?oc=5</link>
-      <guid isPermaLink="false">CBMiuwFBVV95cUxQT3FfS2FZLWlyQ3V5SHlLR0lFN3h3bWlyQmdBZU5GRFlLWWhfSDFBaXgzU3A0al9nQVozcUlxZndwaUtFOHRNZU10OHlzbE5mVkVpakw1MlM1dlNUYWhMbkRzSlBkSXdQTjJyNl8xMG5ZWF90NlJZeE1lR0RWb3lEMHBxMXZxb01BelI2ZkVxaUE0M3RTNDQ1UXVvdXZzYVl2SG01RWRRVElOY0lScG54RWFSR3MwOWxHTkVZ</guid>
-      <pubDate>Thu, 26 Oct 2023 07:00:00 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxQT3FfS2FZLWlyQ3V5SHlLR0lFN3h3bWlyQmdBZU5GRFlLWWhfSDFBaXgzU3A0al9nQVozcUlxZndwaUtFOHRNZU10OHlzbE5mVkVpakw1MlM1dlNUYWhMbkRzSlBkSXdQTjJyNl8xMG5ZWF90NlJZeE1lR0RWb3lEMHBxMXZxb01BelI2ZkVxaUE0M3RTNDQ1UXVvdXZzYVl2SG01RWRRVElOY0lScG54RWFSR3MwOWxHTkVZ?oc=5" target="_blank"&gt;LLMフレームワークLangChain入門 〜生成AIアプリ開発手法とベクトル検索&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
-      <source url="https://speakerdeck.com">Speaker Deck</source>
-    </item>
-    <item>
       <title>AIアシスタントの活用で品質の向上と開発ワークフローのスピードアップ - Speaker Deck</title>
       <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUFhURFpTRGdRWi1EdkwtekRaQ1pGc210eGhud0pvcEtObENCb0FkWkVHS0d3VTYyX3MwWHlzOEZhdlM0cDRCSFpYYXpTeUh0YWxPaC1zR0tTQzE0VmRESHpKVFIwT0Ezc1QtZ2Y5QzA0UUtNN2RXNjM3Y3o0N2JfcFBZdnRrVnYySHdTUFhua0o2SnpjNE93cUE5NEVvQUxSN0EwbTljcFo2VzQ?oc=5</link>
       <guid isPermaLink="false">CBMiqwFBVV95cUxQUFhURFpTRGdRWi1EdkwtekRaQ1pGc210eGhud0pvcEtObENCb0FkWkVHS0d3VTYyX3MwWHlzOEZhdlM0cDRCSFpYYXpTeUh0YWxPaC1zR0tTQzE0VmRESHpKVFIwT0Ezc1QtZ2Y5QzA0UUtNN2RXNjM3Y3o0N2JfcFBZdnRrVnYySHdTUFhua0o2SnpjNE93cUE5NEVvQUxSN0EwbTljcFo2VzQ</guid>
@@ -328,19 +328,19 @@
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
-      <title>WEBエンジニア向けAI活用入門 - Speaker Deck</title>
-      <link>https://news.google.com/rss/articles/CBMifEFVX3lxTE15NTNZY05jRHk5dUNxR3pqLU5oU1hpSFIyWkFKTEt3UVUyV1dha1N6d0E2czRaamZCeklIZ2ZTbEMzTHVFNUJCc0g1TGV2cm1qYTQyYzdOQTAzWThhbGlzT3MwV0l5dHh1TWkzeGtzZ2xJWURXblc5YmxiM0I?oc=5</link>
-      <guid isPermaLink="false">CBMifEFVX3lxTE15NTNZY05jRHk5dUNxR3pqLU5oU1hpSFIyWkFKTEt3UVUyV1dha1N6d0E2czRaamZCeklIZ2ZTbEMzTHVFNUJCc0g1TGV2cm1qYTQyYzdOQTAzWThhbGlzT3MwV0l5dHh1TWkzeGtzZ2xJWURXblc5YmxiM0I</guid>
-      <pubDate>Thu, 24 Oct 2024 07:00:00 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMifEFVX3lxTE15NTNZY05jRHk5dUNxR3pqLU5oU1hpSFIyWkFKTEt3UVUyV1dha1N6d0E2czRaamZCeklIZ2ZTbEMzTHVFNUJCc0g1TGV2cm1qYTQyYzdOQTAzWThhbGlzT3MwV0l5dHh1TWkzeGtzZ2xJWURXblc5YmxiM0I?oc=5" target="_blank"&gt;WEBエンジニア向けAI活用入門&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
-      <source url="https://speakerdeck.com">Speaker Deck</source>
-    </item>
-    <item>
       <title>AI Labの進めるクリエイティブ自動生成の研究【CADC2022】 - Speaker Deck</title>
       <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxNdXVGak1CdjhLdzFadm9uVGJIeC01a21xTHV4MnBRLWoyOG5kSHhpU1lvWDIwUFBqdFJCUTFpek94QkNaU3NkcENTR3FMcEkxVFRWNjBWaTA0QUhiUHRrU1FURnFaZ3BXUUZuTlpSazhvSXh6cEc0bEVsMmduZmtJYjgzd3dZeVN2VVI3c1RMSUdMSV92TDhYRjUySnhFLVdHbnlGUGIxX2k5VzJ0Rjg3a056OFN3OG8?oc=5</link>
       <guid isPermaLink="false">CBMitwFBVV95cUxNdXVGak1CdjhLdzFadm9uVGJIeC01a21xTHV4MnBRLWoyOG5kSHhpU1lvWDIwUFBqdFJCUTFpek94QkNaU3NkcENTR3FMcEkxVFRWNjBWaTA0QUhiUHRrU1FURnFaZ3BXUUZuTlpSazhvSXh6cEc0bEVsMmduZmtJYjgzd3dZeVN2VVI3c1RMSUdMSV92TDhYRjUySnhFLVdHbnlGUGIxX2k5VzJ0Rjg3a056OFN3OG8</guid>
       <pubDate>Thu, 24 Mar 2022 07:00:00 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxNdXVGak1CdjhLdzFadm9uVGJIeC01a21xTHV4MnBRLWoyOG5kSHhpU1lvWDIwUFBqdFJCUTFpek94QkNaU3NkcENTR3FMcEkxVFRWNjBWaTA0QUhiUHRrU1FURnFaZ3BXUUZuTlpSazhvSXh6cEc0bEVsMmduZmtJYjgzd3dZeVN2VVI3c1RMSUdMSV92TDhYRjUySnhFLVdHbnlGUGIxX2k5VzJ0Rjg3a056OFN3OG8?oc=5" target="_blank"&gt;AI Labの進めるクリエイティブ自動生成の研究【CADC2022】&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
+      <source url="https://speakerdeck.com">Speaker Deck</source>
+    </item>
+    <item>
+      <title>質とスピード（AWS Dev Day 2023 Tokyo 特別編、質疑応答用資料付き） / Quality and Speed AWS Dev Day 2023 Tokyo Edition - Speaker Deck</title>
+      <link>https://news.google.com/rss/articles/CBMihAFBVV95cUxQelNuTkwxdXFNMFZ0a3JfUnNIa2RxenNRY2kwWmZQd2ZNWWpxMmJUdXJWMFJybVJhNWsxUzBzTndUUjBDMVdhQ1J4U1VoQ0hUZEZBeWpkNUlFR01DMVFhOVpKaXJpNlRXZnBnQ2tIV0NaX1hfeG5aY0tYOGxWMHU5bnk2SGM?oc=5</link>
+      <guid isPermaLink="false">CBMihAFBVV95cUxQelNuTkwxdXFNMFZ0a3JfUnNIa2RxenNRY2kwWmZQd2ZNWWpxMmJUdXJWMFJybVJhNWsxUzBzTndUUjBDMVdhQ1J4U1VoQ0hUZEZBeWpkNUlFR01DMVFhOVpKaXJpNlRXZnBnQ2tIV0NaX1hfeG5aY0tYOGxWMHU5bnk2SGM</guid>
+      <pubDate>Thu, 22 Jun 2023 07:00:00 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQelNuTkwxdXFNMFZ0a3JfUnNIa2RxenNRY2kwWmZQd2ZNWWpxMmJUdXJWMFJybVJhNWsxUzBzTndUUjBDMVdhQ1J4U1VoQ0hUZEZBeWpkNUlFR01DMVFhOVpKaXJpNlRXZnBnQ2tIV0NaX1hfeG5aY0tYOGxWMHU5bnk2SGM?oc=5" target="_blank"&gt;質とスピード（AWS Dev Day 2023 Tokyo 特別編、質疑応答用資料付き） / Quality and Speed AWS Dev Day 2023 Tokyo Edition&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
