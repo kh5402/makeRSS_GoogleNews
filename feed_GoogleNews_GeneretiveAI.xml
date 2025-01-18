@@ -6,7 +6,7 @@
     <language>ja</language>
     <webMaster>news-webmaster@google.com</webMaster>
     <copyright>Copyright © 2025 Google. All rights reserved. This XML feed is made available solely for the purpose of rendering Google News results within a personal feed reader for personal, non-commercial use. Any other use of the feed is expressly prohibited. By accessing this feed or using these results in any manner whatsoever, you agree to be bound by the foregoing restrictions.</copyright>
-    <lastBuildDate>Sat, 18 Jan 2025 08:21:35 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jan 2025 09:17:23 GMT</lastBuildDate>
     <image>
       <title>Google ニュース</title>
       <url>https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w256</url>
@@ -15,14 +15,6 @@
       <width>256</width>
     </image>
     <description>Google ニュース</description>
-    <item>
-      <title>三菱重工が「exaBase IRアシスタント」を導入 ～生成AI x IR業務特化型を活用し、資本市場との対話をより充実したものに - エクサウィザーズ</title>
-      <link>https://news.google.com/rss/articles/CBMiT0FVX3lxTE94MVVVUU5RZm9sU2ZGOTg4bGhpczA5dkxIMXBud1JUYTJyZlFydFVjM2JiOTQ2UUFXNU02blVTOXZyWEtHOVVOczRwNlZzTms?oc=5</link>
-      <guid isPermaLink="false">CBMiT0FVX3lxTE94MVVVUU5RZm9sU2ZGOTg4bGhpczA5dkxIMXBud1JUYTJyZlFydFVjM2JiOTQ2UUFXNU02blVTOXZyWEtHOVVOczRwNlZzTms</guid>
-      <pubDate>Wed, 15 Jan 2025 23:34:09 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiT0FVX3lxTE94MVVVUU5RZm9sU2ZGOTg4bGhpczA5dkxIMXBud1JUYTJyZlFydFVjM2JiOTQ2UUFXNU02blVTOXZyWEtHOVVOczRwNlZzTms?oc=5" target="_blank"&gt;三菱重工が「exaBase IRアシスタント」を導入 ～生成AI x IR業務特化型を活用し、資本市場との対話をより充実したものに&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;エクサウィザーズ&lt;/font&gt;</description>
-      <source url="https://exawizards.com">エクサウィザーズ</source>
-    </item>
     <item>
       <title>AIエージェント分野でもメタが存在感、「Llama Stack」が与える強烈インパクト - ビジネス＋IT</title>
       <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE5mY0F0dVJsN0otV0RENmhLZkNFcjY4S3U3SzNCN25waHlzZDVqOXJlUmFZcW1yRENWbEJLWHBNNlA0dWlfbk1ZWDB6eV9lUkZ6dVgw?oc=5</link>
@@ -168,6 +160,14 @@
       <source url="https://kn.itmedia.co.jp">キーマンズネット</source>
     </item>
     <item>
+      <title>トヨタと組むNVIDIA、生成AIの次は自動運転に必須の“世界AI” - 日経ビジネスオンライン</title>
+      <link>https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1LbkhGVVlKQUlBQTE1YWwxUjd2WVQ3NTNmcnlKQTl6dldxV1hIWGJMbWZpcDVPcWdvNXJfSkFrbHlfZ2xrcFBYNzNIQmZoekhBeDNpQjZLejlrTkZhMjVsZTlQNkp3NmM?oc=5</link>
+      <guid isPermaLink="false">CBMiZ0FVX3lxTE1LbkhGVVlKQUlBQTE1YWwxUjd2WVQ3NTNmcnlKQTl6dldxV1hIWGJMbWZpcDVPcWdvNXJfSkFrbHlfZ2xrcFBYNzNIQmZoekhBeDNpQjZLejlrTkZhMjVsZTlQNkp3NmM</guid>
+      <pubDate>Thu, 16 Jan 2025 20:00:00 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1LbkhGVVlKQUlBQTE1YWwxUjd2WVQ3NTNmcnlKQTl6dldxV1hIWGJMbWZpcDVPcWdvNXJfSkFrbHlfZ2xrcFBYNzNIQmZoekhBeDNpQjZLejlrTkZhMjVsZTlQNkp3NmM?oc=5" target="_blank"&gt;トヨタと組むNVIDIA、生成AIの次は自動運転に必須の“世界AI”&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;日経ビジネスオンライン&lt;/font&gt;</description>
+      <source url="https://business.nikkei.com">日経ビジネスオンライン</source>
+    </item>
+    <item>
       <title>生成AIがぶち壊すプログラミングの「奥が深い症候群」、真のコード民主化が実現 - ITpro</title>
       <link>https://news.google.com/rss/articles/CBMibEFVX3lxTE1DOHdJUzRWZVV1cHZFQU51YzR5bmdIcUJnajFlam1OTVg0S04yY2I4R0ZtVGVTOGV0VHJEbm1NTFZwME5PRGhQSGJEOWVGUXpUdTNWWVM1X0F5T0M1NjRqVmNQYjlaSlBtdmhENg?oc=5</link>
       <guid isPermaLink="false">CBMibEFVX3lxTE1DOHdJUzRWZVV1cHZFQU51YzR5bmdIcUJnajFlam1OTVg0S04yY2I4R0ZtVGVTOGV0VHJEbm1NTFZwME5PRGhQSGJEOWVGUXpUdTNWWVM1X0F5T0M1NjRqVmNQYjlaSlBtdmhENg</guid>
@@ -192,14 +192,6 @@
       <source url="https://www.publickey1.jp">Publickey</source>
     </item>
     <item>
-      <title>OpenAI、期限内にオプトアウトツール提供ならず AI学習データ使用をクリエーターが管理 - Musicman | 音楽業界総合情報サイト</title>
-      <link>https://news.google.com/rss/articles/CBMiVEFVX3lxTFBhajZwTGowaUJTWlNzWHo3ODI0eUphQ216VUFWbVV0bXdCU3h5dGRvT183SE5pN1gtVV9vY25sRzc3OUdGTnRROWZiejFMMDZsdUFTRQ?oc=5</link>
-      <guid isPermaLink="false">CBMiVEFVX3lxTFBhajZwTGowaUJTWlNzWHo3ODI0eUphQ216VUFWbVV0bXdCU3h5dGRvT183SE5pN1gtVV9vY25sRzc3OUdGTnRROWZiejFMMDZsdUFTRQ</guid>
-      <pubDate>Thu, 16 Jan 2025 09:24:37 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiVEFVX3lxTFBhajZwTGowaUJTWlNzWHo3ODI0eUphQ216VUFWbVV0bXdCU3h5dGRvT183SE5pN1gtVV9vY25sRzc3OUdGTnRROWZiejFMMDZsdUFTRQ?oc=5" target="_blank"&gt;OpenAI、期限内にオプトアウトツール提供ならず AI学習データ使用をクリエーターが管理&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Musicman | 音楽業界総合情報サイト&lt;/font&gt;</description>
-      <source url="https://www.musicman.co.jp">Musicman | 音楽業界総合情報サイト</source>
-    </item>
-    <item>
       <title>最大52TOPSのAI性能を持つPCIeカード型AIアクセラレータ - PC Watch</title>
       <link>https://news.google.com/rss/articles/CBMiY0FVX3lxTFBhNlhsTjFzU05kRUloOVVIRWx3YjJSY0NDdGtfTTZ2QUxpRHdSS0tUUTRDcXlKeURXcU9paDcxRThjSGVFNE1VcUNjUmF4YVF5U2hXM3ZYVDlrRU1jOER2V28wdw?oc=5</link>
       <guid isPermaLink="false">CBMiY0FVX3lxTFBhNlhsTjFzU05kRUloOVVIRWx3YjJSY0NDdGtfTTZ2QUxpRHdSS0tUUTRDcXlKeURXcU9paDcxRThjSGVFNE1VcUNjUmF4YVF5U2hXM3ZYVDlrRU1jOER2V28wdw</guid>
@@ -208,20 +200,12 @@
       <source url="https://pc.watch.impress.co.jp">PC Watch</source>
     </item>
     <item>
-      <title>明治安田生命、全営業職員にAI アクセンチュアが支援 - 日本経済新聞</title>
-      <link>https://news.google.com/rss/articles/CBMibEFVX3lxTE42RXpySFJGWVdjajdkb3ZUSmpCUmVGYmd0eng0TEFobzFvWVprdkJaVEV4WWVidFVKdEx3dWpxYm1UQ0REMEpMY0VKam8tWDNCVDNHZEs2dE9fcVd5eGR6N1B2QjhNcU54Vkt4cg?oc=5</link>
-      <guid isPermaLink="false">CBMibEFVX3lxTE42RXpySFJGWVdjajdkb3ZUSmpCUmVGYmd0eng0TEFobzFvWVprdkJaVEV4WWVidFVKdEx3dWpxYm1UQ0REMEpMY0VKam8tWDNCVDNHZEs2dE9fcVd5eGR6N1B2QjhNcU54Vkt4cg</guid>
-      <pubDate>Thu, 16 Jan 2025 08:45:48 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMibEFVX3lxTE42RXpySFJGWVdjajdkb3ZUSmpCUmVGYmd0eng0TEFobzFvWVprdkJaVEV4WWVidFVKdEx3dWpxYm1UQ0REMEpMY0VKam8tWDNCVDNHZEs2dE9fcVd5eGR6N1B2QjhNcU54Vkt4cg?oc=5" target="_blank"&gt;明治安田生命、全営業職員にAI アクセンチュアが支援&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;日本経済新聞&lt;/font&gt;</description>
-      <source url="https://www.nikkei.com">日本経済新聞</source>
-    </item>
-    <item>
-      <title>AI生成のブラッド・ピットさんを本物と思い込んだ仏女性、1億3000万円超だまし取られる - BBC</title>
+      <title>AI生成のブラッド・ピットさんを本物と思い込んだ仏女性、1億3000万円超だまし取られる - BBC.com</title>
       <link>https://news.google.com/rss/articles/CBMiX0FVX3lxTFBuZF9LSWFYUWM3UjBkWW81WTVabnB3OG9jcjJZckc0bVg2dGVNNVMxc0k0ei1qZnVEN3owSndaTmFSS1FfTVlqVklfaHBVQmcyMS10VzFfOURxbUpfUmY00gFkQVVfeXFMT3Q1YVg3TlpOTHRYNGhSc3hKRDA1VVY3RXRhTTJPYWhVLTdob3hRbFlDRURidTBGd3VtYjdsTFpMdktVT01mM3g5SWpuSVlSeWZNX1RZN1RtMFZWdEtLZ0tjVlJpdQ?oc=5</link>
       <guid isPermaLink="false">CBMiX0FVX3lxTFBuZF9LSWFYUWM3UjBkWW81WTVabnB3OG9jcjJZckc0bVg2dGVNNVMxc0k0ei1qZnVEN3owSndaTmFSS1FfTVlqVklfaHBVQmcyMS10VzFfOURxbUpfUmY00gFkQVVfeXFMT3Q1YVg3TlpOTHRYNGhSc3hKRDA1VVY3RXRhTTJPYWhVLTdob3hRbFlDRURidTBGd3VtYjdsTFpMdktVT01mM3g5SWpuSVlSeWZNX1RZN1RtMFZWdEtLZ0tjVlJpdQ</guid>
       <pubDate>Thu, 16 Jan 2025 07:44:56 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiX0FVX3lxTFBuZF9LSWFYUWM3UjBkWW81WTVabnB3OG9jcjJZckc0bVg2dGVNNVMxc0k0ei1qZnVEN3owSndaTmFSS1FfTVlqVklfaHBVQmcyMS10VzFfOURxbUpfUmY00gFkQVVfeXFMT3Q1YVg3TlpOTHRYNGhSc3hKRDA1VVY3RXRhTTJPYWhVLTdob3hRbFlDRURidTBGd3VtYjdsTFpMdktVT01mM3g5SWpuSVlSeWZNX1RZN1RtMFZWdEtLZ0tjVlJpdQ?oc=5" target="_blank"&gt;AI生成のブラッド・ピットさんを本物と思い込んだ仏女性、1億3000万円超だまし取られる&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;BBC&lt;/font&gt;</description>
-      <source url="https://www.bbc.com">BBC</source>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiX0FVX3lxTFBuZF9LSWFYUWM3UjBkWW81WTVabnB3OG9jcjJZckc0bVg2dGVNNVMxc0k0ei1qZnVEN3owSndaTmFSS1FfTVlqVklfaHBVQmcyMS10VzFfOURxbUpfUmY00gFkQVVfeXFMT3Q1YVg3TlpOTHRYNGhSc3hKRDA1VVY3RXRhTTJPYWhVLTdob3hRbFlDRURidTBGd3VtYjdsTFpMdktVT01mM3g5SWpuSVlSeWZNX1RZN1RtMFZWdEtLZ0tjVlJpdQ?oc=5" target="_blank"&gt;AI生成のブラッド・ピットさんを本物と思い込んだ仏女性、1億3000万円超だまし取られる&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;BBC.com&lt;/font&gt;</description>
+      <source url="https://www.bbc.com">BBC.com</source>
     </item>
     <item>
       <title>明治安田、アクセンチュアと提携－生成ＡＩ活用強化へ300億円 - ブルームバーグ</title>
@@ -264,12 +248,28 @@
       <source url="https://www.nikkei.com">日本経済新聞</source>
     </item>
     <item>
+      <title>Amazonが生成AIで配達を高速化する仕組みとは？ - GIGAZINE（ギガジン）</title>
+      <link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYms0RmN0SUhreGFIMEwxQWRhQ2NuU2VYZ0ZiVWtaSTg2THJaWGE5M2d5LWlpalhDRHhYUmd1UEZrY2luMElHQ1JjNkRRSld0RjUzUndqb2hhZXJRQjQzRTVxZk1pcHhTb09mbGhPSU9FS1lTSEZGOEQtVG5PMVF3cTFCZ3FZRHJ6OEdj?oc=5</link>
+      <guid isPermaLink="false">CBMiiwFBVV95cUxQYms0RmN0SUhreGFIMEwxQWRhQ2NuU2VYZ0ZiVWtaSTg2THJaWGE5M2d5LWlpalhDRHhYUmd1UEZrY2luMElHQ1JjNkRRSld0RjUzUndqb2hhZXJRQjQzRTVxZk1pcHhTb09mbGhPSU9FS1lTSEZGOEQtVG5PMVF3cTFCZ3FZRHJ6OEdj</guid>
+      <pubDate>Sat, 18 Jan 2025 08:05:39 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYms0RmN0SUhreGFIMEwxQWRhQ2NuU2VYZ0ZiVWtaSTg2THJaWGE5M2d5LWlpalhDRHhYUmd1UEZrY2luMElHQ1JjNkRRSld0RjUzUndqb2hhZXJRQjQzRTVxZk1pcHhTb09mbGhPSU9FS1lTSEZGOEQtVG5PMVF3cTFCZ3FZRHJ6OEdj?oc=5" target="_blank"&gt;Amazonが生成AIで配達を高速化する仕組みとは？&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;GIGAZINE（ギガジン）&lt;/font&gt;</description>
+      <source url="https://gigazine.net">GIGAZINE（ギガジン）</source>
+    </item>
+    <item>
       <title>米競争当局、巨大ITの「囲い込み」警戒＝生成AI巡り報告書(時事通信) - Yahoo!ファイナンス</title>
       <link>https://news.google.com/rss/articles/CBMihwFBVV95cUxOU2VEZzdEZTVQbXJfLWxUcHd6YjZkS3dKSkhnMG9udGNZWEVmS1RncjY1X2FCOGIxQ1g3eGp2SlBVNWNqbmlXZmZiazhPV0Q0eW1ySk9EVXBaLXltMzZBSFJzN3FzcEloYWNRc0dSS1RYbHROWVd5Yi1XcThvQ182b3JoUGRUQXM?oc=5</link>
       <guid isPermaLink="false">CBMihwFBVV95cUxOU2VEZzdEZTVQbXJfLWxUcHd6YjZkS3dKSkhnMG9udGNZWEVmS1RncjY1X2FCOGIxQ1g3eGp2SlBVNWNqbmlXZmZiazhPV0Q0eW1ySk9EVXBaLXltMzZBSFJzN3FzcEloYWNRc0dSS1RYbHROWVd5Yi1XcThvQ182b3JoUGRUQXM</guid>
       <pubDate>Sat, 18 Jan 2025 07:40:00 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMihwFBVV95cUxOU2VEZzdEZTVQbXJfLWxUcHd6YjZkS3dKSkhnMG9udGNZWEVmS1RncjY1X2FCOGIxQ1g3eGp2SlBVNWNqbmlXZmZiazhPV0Q0eW1ySk9EVXBaLXltMzZBSFJzN3FzcEloYWNRc0dSS1RYbHROWVd5Yi1XcThvQ182b3JoUGRUQXM?oc=5" target="_blank"&gt;米競争当局、巨大ITの「囲い込み」警戒＝生成AI巡り報告書(時事通信)&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo!ファイナンス&lt;/font&gt;</description>
       <source url="https://finance.yahoo.co.jp">Yahoo!ファイナンス</source>
+    </item>
+    <item>
+      <title>国際与信判定AI事業を展開するDwilarが世界的なアクセラレーションプログラム「Berkeley SkyDeck」 Showcaseファイナリストに選出 - 紀伊民報</title>
+      <link>https://news.google.com/rss/articles/CBMiT0FVX3lxTE4wM2xwbHcwYnVvN3h1a2p5UklNcFUzVHRBZXpXSW84cWc2MlhoTG1ZU05Ud21DMEc1WTgxVFktcWJiVTdXZEVpR1RLUS1FSlU?oc=5</link>
+      <guid isPermaLink="false">CBMiT0FVX3lxTE4wM2xwbHcwYnVvN3h1a2p5UklNcFUzVHRBZXpXSW84cWc2MlhoTG1ZU05Ud21DMEc1WTgxVFktcWJiVTdXZEVpR1RLUS1FSlU</guid>
+      <pubDate>Sat, 18 Jan 2025 06:46:00 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiT0FVX3lxTE4wM2xwbHcwYnVvN3h1a2p5UklNcFUzVHRBZXpXSW84cWc2MlhoTG1ZU05Ud21DMEc1WTgxVFktcWJiVTdXZEVpR1RLUS1FSlU?oc=5" target="_blank"&gt;国際与信判定AI事業を展開するDwilarが世界的なアクセラレーションプログラム「Berkeley SkyDeck」 Showcaseファイナリストに選出&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;紀伊民報&lt;/font&gt;</description>
+      <source url="https://www.agara.co.jp">紀伊民報</source>
     </item>
     <item>
       <title>自動運転向けAI学習データ、Datatangが出展へ…オートモーティブワールド2025 - CAR CARE PLUS（カーケアプラス）</title>
@@ -286,6 +286,14 @@
       <pubDate>Sat, 18 Jan 2025 06:00:00 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMieEFVX3lxTE9fWThLNGNfRjRkOElPTVNTaFpXTW43Y1ZuVEgxcno5bFg1QXhGWFBKRmNGVlktYnRmQjJpeFpSUXo3SzBNekFoYnpyYkRkVXNxcVA4QUdqZENTVmd6Y0JuaE13eFJGM3J3XzBReTI3a2kwUEhBX3o0Vw?oc=5" target="_blank"&gt;【トップ近況】DeNA・南場智子会長「AIで誰でもIT分野で活躍」 一方で「人間らしい感動は今まで以上に価値がある」とも&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;ZAKZAK&lt;/font&gt;</description>
       <source url="https://www.zakzak.co.jp">ZAKZAK</source>
+    </item>
+    <item>
+      <title>巨大ＩＴの「囲い込み」警戒 生成ＡＩ巡り報告書―米競争当局 - 時事通信ニュース</title>
+      <link>https://news.google.com/rss/articles/CBMiY0FVX3lxTE5SZmRFc3VoSGtJbnRYTXEtd3cyR1dzZ3gwVXJ0SnU2NnJHQUxaM2JoN3VoUDc3WHNxMEo0STBHYkxEWDk1WWVmRm5NdnV6T3Q4MU0tMnVIeFRVcEZxdmJOV3VCdw?oc=5</link>
+      <guid isPermaLink="false">CBMiY0FVX3lxTE5SZmRFc3VoSGtJbnRYTXEtd3cyR1dzZ3gwVXJ0SnU2NnJHQUxaM2JoN3VoUDc3WHNxMEo0STBHYkxEWDk1WWVmRm5NdnV6T3Q4MU0tMnVIeFRVcEZxdmJOV3VCdw</guid>
+      <pubDate>Sat, 18 Jan 2025 05:47:00 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiY0FVX3lxTE5SZmRFc3VoSGtJbnRYTXEtd3cyR1dzZ3gwVXJ0SnU2NnJHQUxaM2JoN3VoUDc3WHNxMEo0STBHYkxEWDk1WWVmRm5NdnV6T3Q4MU0tMnVIeFRVcEZxdmJOV3VCdw?oc=5" target="_blank"&gt;巨大ＩＴの「囲い込み」警戒 生成ＡＩ巡り報告書―米競争当局&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;時事通信ニュース&lt;/font&gt;</description>
+      <source url="https://www.jiji.com">時事通信ニュース</source>
     </item>
     <item>
       <title>巨大ＩＴの「囲い込み」警戒＝生成ＡＩ巡り報告書―米競争当局 - 時事通信ニュース</title>
@@ -320,14 +328,6 @@
       <source url="https://ledge.ai">Ledge.ai | AIトレンドの鉱脈</source>
     </item>
     <item>
-      <title>Amazonが生成AIで配達を高速化する仕組みとは？ - GIGAZINE（ギガジン）</title>
-      <link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYms0RmN0SUhreGFIMEwxQWRhQ2NuU2VYZ0ZiVWtaSTg2THJaWGE5M2d5LWlpalhDRHhYUmd1UEZrY2luMElHQ1JjNkRRSld0RjUzUndqb2hhZXJRQjQzRTVxZk1pcHhTb09mbGhPSU9FS1lTSEZGOEQtVG5PMVF3cTFCZ3FZRHJ6OEdj?oc=5</link>
-      <guid isPermaLink="false">CBMiiwFBVV95cUxQYms0RmN0SUhreGFIMEwxQWRhQ2NuU2VYZ0ZiVWtaSTg2THJaWGE5M2d5LWlpalhDRHhYUmd1UEZrY2luMElHQ1JjNkRRSld0RjUzUndqb2hhZXJRQjQzRTVxZk1pcHhTb09mbGhPSU9FS1lTSEZGOEQtVG5PMVF3cTFCZ3FZRHJ6OEdj</guid>
-      <pubDate>Sat, 18 Jan 2025 04:15:01 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYms0RmN0SUhreGFIMEwxQWRhQ2NuU2VYZ0ZiVWtaSTg2THJaWGE5M2d5LWlpalhDRHhYUmd1UEZrY2luMElHQ1JjNkRRSld0RjUzUndqb2hhZXJRQjQzRTVxZk1pcHhTb09mbGhPSU9FS1lTSEZGOEQtVG5PMVF3cTFCZ3FZRHJ6OEdj?oc=5" target="_blank"&gt;Amazonが生成AIで配達を高速化する仕組みとは？&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;GIGAZINE（ギガジン）&lt;/font&gt;</description>
-      <source url="https://gigazine.net">GIGAZINE（ギガジン）</source>
-    </item>
-    <item>
       <title>AIアップスケーリング技術が進化を牽引する：NvidiaのDLSSが示す次世代のゲーム体験 - Reinforz Insight</title>
       <link>https://news.google.com/rss/articles/CBMiT0FVX3lxTE5QTy1xWEtSUEVxdEpxRkU3T2Q2b2ZYejJvYUlVSktqQ3B3SjFaRHFIUnJrU0dPSnJyZTE2VTBPbHItSkFHckhFZFNwTEQtdkk?oc=5</link>
       <guid isPermaLink="false">CBMiT0FVX3lxTE5QTy1xWEtSUEVxdEpxRkU3T2Q2b2ZYejJvYUlVSktqQ3B3SjFaRHFIUnJrU0dPSnJyZTE2VTBPbHItSkFHckhFZFNwTEQtdkk</guid>
@@ -336,11 +336,19 @@
       <source url="https://reinforz.co.jp">Reinforz Insight</source>
     </item>
     <item>
+      <title>米サイバーセキュリティ新政策：バイデン大統領令でAI防衛とデジタルID導入へ、2027年までに実装 - innovaTopia</title>
+      <link>https://news.google.com/rss/articles/CBMickFVX3lxTFBuc19Kb0xKSjNxNkNyN1daZHUwcmI3RWZFaHlvN1cyXzBVcURtbjBUY2huejNjZE9lZnBlV3FZbjV4TTV5cm5VYjN4VUpQQzN4VXVTSXY2MWNNLUpZTi1QUElLV2VrZTJlaUl6Y3RtYkNhUQ?oc=5</link>
+      <guid isPermaLink="false">CBMickFVX3lxTFBuc19Kb0xKSjNxNkNyN1daZHUwcmI3RWZFaHlvN1cyXzBVcURtbjBUY2huejNjZE9lZnBlV3FZbjV4TTV5cm5VYjN4VUpQQzN4VXVTSXY2MWNNLUpZTi1QUElLV2VrZTJlaUl6Y3RtYkNhUQ</guid>
+      <pubDate>Sat, 18 Jan 2025 03:07:11 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMickFVX3lxTFBuc19Kb0xKSjNxNkNyN1daZHUwcmI3RWZFaHlvN1cyXzBVcURtbjBUY2huejNjZE9lZnBlV3FZbjV4TTV5cm5VYjN4VUpQQzN4VXVTSXY2MWNNLUpZTi1QUElLV2VrZTJlaUl6Y3RtYkNhUQ?oc=5" target="_blank"&gt;米サイバーセキュリティ新政策：バイデン大統領令でAI防衛とデジタルID導入へ、2027年までに実装&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;innovaTopia&lt;/font&gt;</description>
+      <source url="https://innovatopia.jp">innovaTopia</source>
+    </item>
+    <item>
       <title>MatterGen：Microsoftが開発した次世代材料設計AI – 従来比15倍の効率で新素材を生成 - innovaTopia</title>
-      <link>https://news.google.com/rss/articles/CBMiVkFVX3lxTFBhNGZBeW1YSGZsUUtfRGZ6OEtudk5paTJicENTVllKV1FWVnM4eGMxQVE3RHg4d1RucUxSR0ZmV0RGRE1LZmk1NDVLa1Y1SHVxd2doTVZn?oc=5</link>
-      <guid isPermaLink="false">CBMiVkFVX3lxTFBhNGZBeW1YSGZsUUtfRGZ6OEtudk5paTJicENTVllKV1FWVnM4eGMxQVE3RHg4d1RucUxSR0ZmV0RGRE1LZmk1NDVLa1Y1SHVxd2doTVZn</guid>
+      <link>https://news.google.com/rss/articles/CBMiUkFVX3lxTE9HZUxyUjF6QXhWLWtWWTd1MllWU2NkeXJFYVY1WFhmbWpmbHdZbXR5ZThCOVNpT3VXTEpIRmxJNmlnbWhzZEZrLUZ5ZHhrWlZHT3c?oc=5</link>
+      <guid isPermaLink="false">CBMiUkFVX3lxTE9HZUxyUjF6QXhWLWtWWTd1MllWU2NkeXJFYVY1WFhmbWpmbHdZbXR5ZThCOVNpT3VXTEpIRmxJNmlnbWhzZEZrLUZ5ZHhrWlZHT3c</guid>
       <pubDate>Sat, 18 Jan 2025 02:59:37 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiVkFVX3lxTFBhNGZBeW1YSGZsUUtfRGZ6OEtudk5paTJicENTVllKV1FWVnM4eGMxQVE3RHg4d1RucUxSR0ZmV0RGRE1LZmk1NDVLa1Y1SHVxd2doTVZn?oc=5" target="_blank"&gt;MatterGen：Microsoftが開発した次世代材料設計AI – 従来比15倍の効率で新素材を生成&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;innovaTopia&lt;/font&gt;</description>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiUkFVX3lxTE9HZUxyUjF6QXhWLWtWWTd1MllWU2NkeXJFYVY1WFhmbWpmbHdZbXR5ZThCOVNpT3VXTEpIRmxJNmlnbWhzZEZrLUZ5ZHhrWlZHT3c?oc=5" target="_blank"&gt;MatterGen：Microsoftが開発した次世代材料設計AI – 従来比15倍の効率で新素材を生成&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;innovaTopia&lt;/font&gt;</description>
       <source url="https://innovatopia.jp">innovaTopia</source>
     </item>
     <item>
@@ -390,6 +398,14 @@
       <pubDate>Sat, 18 Jan 2025 02:00:00 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMimwFBVV95cUxOVkVLY2dnOG5VS3Q4bGR1Qzk0MGI2c1JzOXI0emw4X2pDVVdzcnFvY2lBM0F6a0FXWmItM2loVjg0TEtWZUJsYmlfLXAzaTJMdlRXelBVbmFnaXV1NVhNUDBIbnFCTjlGQ0l2T21RZFB2LWpSMnNSUnFfWFVISV9vZy1Jd3ZSa2lyLTFEUDh3b3ZZSXY0ZGxWT2tWWQ?oc=5" target="_blank"&gt;2024年、AIは｢約束の場所｣にたどり着いたのか&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;GIZMODO JAPAN&lt;/font&gt;</description>
       <source url="https://www.gizmodo.jp">GIZMODO JAPAN</source>
+    </item>
+    <item>
+      <title>女性の「キャリアアップ」や「もう一度働きたい」を叶える 無償の「AIスキル」人材育成講座がスゴすぎた！ (1/2) - 女性セブンプラス</title>
+      <link>https://news.google.com/rss/articles/CBMiOEFVX3lxTE9ETEw0U3ZrS053VTNLa0FnNnJVaU5SeVpneEpCLTB2RTdlbUVIcHNrUFJVTnRUR0E0?oc=5</link>
+      <guid isPermaLink="false">CBMiOEFVX3lxTE9ETEw0U3ZrS053VTNLa0FnNnJVaU5SeVpneEpCLTB2RTdlbUVIcHNrUFJVTnRUR0E0</guid>
+      <pubDate>Sat, 18 Jan 2025 02:00:00 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiOEFVX3lxTE9ETEw0U3ZrS053VTNLa0FnNnJVaU5SeVpneEpCLTB2RTdlbUVIcHNrUFJVTnRUR0E0?oc=5" target="_blank"&gt;女性の「キャリアアップ」や「もう一度働きたい」を叶える 無償の「AIスキル」人材育成講座がスゴすぎた！ (1/2)&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;女性セブンプラス&lt;/font&gt;</description>
+      <source url="https://j7p.jp">女性セブンプラス</source>
     </item>
     <item>
       <title>ポーランドの新作映画『プーチン』、AI技術を活用してロシア大統領を描写 - Ledge.ai | AIトレンドの鉱脈</title>
@@ -462,6 +478,14 @@
       <pubDate>Mon, 13 Jan 2025 14:12:59 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiZEFVX3lxTFBhLVJielhNZEJKeHIwalV3a3pnSkFwSV9kS0dDYW1VVVNRMnhfcFFlRF8wUjZGRDVON2h1Z3dXZlNCMF9aRkU1N2VaWGFUT1hBTGcyblJ1T3d5T0JuZjFELUZFWnM?oc=5" target="_blank"&gt;米政府、AI半導体に新たな輸出規制 NVIDIAは反発&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Impress Watch&lt;/font&gt;</description>
       <source url="https://www.watch.impress.co.jp">Impress Watch</source>
+    </item>
+    <item>
+      <title>米政府、AI半導体輸出で数量規制 中国への迂回輸出把握 - 日本経済新聞</title>
+      <link>https://news.google.com/rss/articles/CBMibEFVX3lxTFBwXzFfSnZMQWxYVElUX3hOaHlva3dMQlBFYjYwTC1QRVB1ZDQ1NExtcDZPaXR3UjNhazU5LUVmQnk1TEZ5dVp5WllONElQWkhFRFFFQldVWnd2THNjWVNzTW45dWlGejNIVEdONQ?oc=5</link>
+      <guid isPermaLink="false">CBMibEFVX3lxTFBwXzFfSnZMQWxYVElUX3hOaHlva3dMQlBFYjYwTC1QRVB1ZDQ1NExtcDZPaXR3UjNhazU5LUVmQnk1TEZ5dVp5WllONElQWkhFRFFFQldVWnd2THNjWVNzTW45dWlGejNIVEdONQ</guid>
+      <pubDate>Mon, 13 Jan 2025 11:00:00 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMibEFVX3lxTFBwXzFfSnZMQWxYVElUX3hOaHlva3dMQlBFYjYwTC1QRVB1ZDQ1NExtcDZPaXR3UjNhazU5LUVmQnk1TEZ5dVp5WllONElQWkhFRFFFQldVWnd2THNjWVNzTW45dWlGejNIVEdONQ?oc=5" target="_blank"&gt;米政府、AI半導体輸出で数量規制 中国への迂回輸出把握&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;日本経済新聞&lt;/font&gt;</description>
+      <source url="https://www.nikkei.com">日本経済新聞</source>
     </item>
     <item>
       <title>AI / Data Technology Map - cyberagent.co.jp</title>
@@ -544,12 +568,12 @@
       <source url="https://finance.yahoo.co.jp">Yahoo!ファイナンス</source>
     </item>
     <item>
-      <title>営業の「ツラい業務」をAIが代行 AIエージェントがかなえる“営業3.0”とは - ITmedia</title>
+      <title>営業の「ツラい業務」をAIが代行 AIエージェントがかなえる“営業3.0”とは - ITmedia ビジネスオンライン</title>
       <link>https://news.google.com/rss/articles/CBMickFVX3lxTE5iYTJiU21rNUJxN1lyYXJTel8xUGlFZGVCTk55amo4QzNScEZXTTIzTFhaMnB5RGp1MExIaExjb0JUZVA0ekhIcEtKV2tYdUlMcEdnNkg1Ym1QOFlGcXdtSko3MWdqOWl6ZElBM2VaTEE5Zw?oc=5</link>
       <guid isPermaLink="false">CBMickFVX3lxTE5iYTJiU21rNUJxN1lyYXJTel8xUGlFZGVCTk55amo4QzNScEZXTTIzTFhaMnB5RGp1MExIaExjb0JUZVA0ekhIcEtKV2tYdUlMcEdnNkg1Ym1QOFlGcXdtSko3MWdqOWl6ZElBM2VaTEE5Zw</guid>
       <pubDate>Fri, 17 Jan 2025 19:00:00 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMickFVX3lxTE5iYTJiU21rNUJxN1lyYXJTel8xUGlFZGVCTk55amo4QzNScEZXTTIzTFhaMnB5RGp1MExIaExjb0JUZVA0ekhIcEtKV2tYdUlMcEdnNkg1Ym1QOFlGcXdtSko3MWdqOWl6ZElBM2VaTEE5Zw?oc=5" target="_blank"&gt;営業の「ツラい業務」をAIが代行 AIエージェントがかなえる“営業3.0”とは&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;ITmedia&lt;/font&gt;</description>
-      <source url="https://www.itmedia.co.jp">ITmedia</source>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMickFVX3lxTE5iYTJiU21rNUJxN1lyYXJTel8xUGlFZGVCTk55amo4QzNScEZXTTIzTFhaMnB5RGp1MExIaExjb0JUZVA0ekhIcEtKV2tYdUlMcEdnNkg1Ym1QOFlGcXdtSko3MWdqOWl6ZElBM2VaTEE5Zw?oc=5" target="_blank"&gt;営業の「ツラい業務」をAIが代行 AIエージェントがかなえる“営業3.0”とは&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;ITmedia ビジネスオンライン&lt;/font&gt;</description>
+      <source url="https://www.itmedia.co.jp">ITmedia ビジネスオンライン</source>
     </item>
     <item>
       <title>決算:ディスコの営業益5割増 4〜12月、AI向けけん引 - 日本経済新聞</title>
@@ -568,14 +592,6 @@
       <source url="https://www.yomiuri.co.jp">読売新聞オンライン</source>
     </item>
     <item>
-      <title>AＩ積極活用など 静岡県未来創造会議が鈴木知事に提言書を提出 座長は冨山和彦氏【静岡】 - 日テレNEWS</title>
-      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE9Fd0g0aXpkSFhQaW9wOWtpSjZhdHBlNnhKZFZkbVhDclBQb0tpV0FXamlFemJfZTN6ZDMxSm4wM1JiY2lvMnhIVHBlOURkaThldk5xWmdFNGNRU2JlM1lpX1dMRFRsR2FNb25JNE1lM3hjRXFDNTlIcmtodHJ4Wms?oc=5</link>
-      <guid isPermaLink="false">CBMif0FVX3lxTE9Fd0g0aXpkSFhQaW9wOWtpSjZhdHBlNnhKZFZkbVhDclBQb0tpV0FXamlFemJfZTN6ZDMxSm4wM1JiY2lvMnhIVHBlOURkaThldk5xWmdFNGNRU2JlM1lpX1dMRFRsR2FNb25JNE1lM3hjRXFDNTlIcmtodHJ4Wms</guid>
-      <pubDate>Fri, 17 Jan 2025 12:14:01 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMif0FVX3lxTE9Fd0g0aXpkSFhQaW9wOWtpSjZhdHBlNnhKZFZkbVhDclBQb0tpV0FXamlFemJfZTN6ZDMxSm4wM1JiY2lvMnhIVHBlOURkaThldk5xWmdFNGNRU2JlM1lpX1dMRFRsR2FNb25JNE1lM3hjRXFDNTlIcmtodHJ4Wms?oc=5" target="_blank"&gt;AＩ積極活用など 静岡県未来創造会議が鈴木知事に提言書を提出 座長は冨山和彦氏【静岡】&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;日テレNEWS&lt;/font&gt;</description>
-      <source url="https://news.ntv.co.jp">日テレNEWS</source>
-    </item>
-    <item>
       <title>DNP、法律専門のAI相談サービスを開始。メタバース空間でAIアバターを活用し、悩みの解決を支援 - AIsmiley</title>
       <link>https://news.google.com/rss/articles/CBMie0FVX3lxTE13V0JsQWFyaDBkTjBZTzIzWEltQ1lFMVZsTmRfb04tNUJ4ZVlLVXdydGFUbFoyRmdlNFl3eVd5WWJrakM1X1QwQTJYb25NSXV5bFhqb1ZLUFNzdHRtOHI5YWd6d0NTNGFwYmJuMGJFenROOFJ4TkluN1BBWQ?oc=5</link>
       <guid isPermaLink="false">CBMie0FVX3lxTE13V0JsQWFyaDBkTjBZTzIzWEltQ1lFMVZsTmRfb04tNUJ4ZVlLVXdydGFUbFoyRmdlNFl3eVd5WWJrakM1X1QwQTJYb25NSXV5bFhqb1ZLUFNzdHRtOHI5YWd6d0NTNGFwYmJuMGJFenROOFJ4TkluN1BBWQ</guid>
@@ -590,14 +606,6 @@
       <pubDate>Fri, 17 Jan 2025 08:26:00 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiU0FVX3lxTFBOT3lEMFRMMlpnQjJKNVdNWUtpa3h5QUtMYWJoZHNwT2l6MHJ2dGlyb2Y2SEJ0WWt5SUFqQlZ4SEN1VTUyWThISUR2aEMtWDJyZHZR?oc=5" target="_blank"&gt;「生成AIが持つ事業へのインパクトの大きさを直感」--明治安田、先端技術を全社横断的に活用&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;ZDNET Japan&lt;/font&gt;</description>
       <source url="https://japan.zdnet.com">ZDNET Japan</source>
-    </item>
-    <item>
-      <title>アートネイチャー、生成AIで新たな髪形を提案する「AIヘアスタイルシミュレーター」を運用開始 - AIsmiley</title>
-      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE1LUzBVZU5LWTUtUnF2NGlnTzBUV2hxUEtMWHp5dWxVM0NhbW5qZkNreTdveDV5ZzZXRlFYVE1DN1ByN2JyWVVRLVVjcC1aT05UWnpVc0k3Zk5kVVBwMGxfQVdVMzNKSHI5UGF1VDVKU0NzZjF4Vmc4LTk2aElTdWc?oc=5</link>
-      <guid isPermaLink="false">CBMif0FVX3lxTE1LUzBVZU5LWTUtUnF2NGlnTzBUV2hxUEtMWHp5dWxVM0NhbW5qZkNreTdveDV5ZzZXRlFYVE1DN1ByN2JyWVVRLVVjcC1aT05UWnpVc0k3Zk5kVVBwMGxfQVdVMzNKSHI5UGF1VDVKU0NzZjF4Vmc4LTk2aElTdWc</guid>
-      <pubDate>Fri, 17 Jan 2025 08:15:32 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMif0FVX3lxTE1LUzBVZU5LWTUtUnF2NGlnTzBUV2hxUEtMWHp5dWxVM0NhbW5qZkNreTdveDV5ZzZXRlFYVE1DN1ByN2JyWVVRLVVjcC1aT05UWnpVc0k3Zk5kVVBwMGxfQVdVMzNKSHI5UGF1VDVKU0NzZjF4Vmc4LTk2aElTdWc?oc=5" target="_blank"&gt;アートネイチャー、生成AIで新たな髪形を提案する「AIヘアスタイルシミュレーター」を運用開始&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;AIsmiley&lt;/font&gt;</description>
-      <source url="https://aismiley.co.jp">AIsmiley</source>
     </item>
     <item>
       <title>DeepRoute.aiがスマートと提携し、インテリジェントドライビングを推進 - 共同通信 PRWire</title>
@@ -662,14 +670,6 @@
       <pubDate>Fri, 17 Jan 2025 03:15:00 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMi1AJBVV95cUxNNElsRzFDdGFwcFo5Z28zaW5NMzN5emhBVUFramdrUHM3MDUwb1RrWGFQa3NBN2VQMlNkMkp4UnYtZ1J5OTI2T0VxTUFEQmMtbWcxamotcGI5QU9FSTJOZlBibkVONDROemRHYmlqRHp4Q1NmSjRCSzU2WjcxdDdhMVk5YnpoTkZ2cVk2UG4xc0tuR1pEazB1d0xBVlJLWFNLd1ZRNXctYUwwZnpUM1c1ek5nUEdQUmFqelhmbjFETjB5bVRyZ04wRHV3S2Q4Q0RZVHZIeG90WTllX1AtM2FvM0JrbExPM0x3NzI0U1c0bEQwb1hzZnVBcFFsaEl5cVJJMG8ycmFIUEtYWndkNnBxeHZrbFp3UjVkaDBiZHNSUE5ZdWlJRm1mdUdCV3I0OW1LUWpHVGlEa1J1eE1SV19wdTRoLTZtdVh1NzV6SjlyVE1kSVVK?oc=5" target="_blank"&gt;『AI銘柄スクリーナー』を1月17日に正式リリース&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;JCN Newswire&lt;/font&gt;</description>
       <source url="https://www.jcnnewswire.com">JCN Newswire</source>
-    </item>
-    <item>
-      <title>Impress Watch「AIで記事要約」終了へ 月10万回利用、「APIコストはまかなえている」が…… - ITmedia NEWS</title>
-      <link>https://news.google.com/rss/articles/CBMibEFVX3lxTE1OZ2hqbG01UFJhOGFmNF9kZGFTMUJNb0ZTbi11a1pPVXpBUHJiRjl2SC1WX1RUajQzUjZzNG9nNjM3MHZZUk5KdmVCaV9jOGRFS1FGQTd0eTJMUXhnWkxnTVNic0FYeFhxYms4Sw?oc=5</link>
-      <guid isPermaLink="false">CBMibEFVX3lxTE1OZ2hqbG01UFJhOGFmNF9kZGFTMUJNb0ZTbi11a1pPVXpBUHJiRjl2SC1WX1RUajQzUjZzNG9nNjM3MHZZUk5KdmVCaV9jOGRFS1FGQTd0eTJMUXhnWkxnTVNic0FYeFhxYms4Sw</guid>
-      <pubDate>Fri, 17 Jan 2025 02:42:00 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMibEFVX3lxTE1OZ2hqbG01UFJhOGFmNF9kZGFTMUJNb0ZTbi11a1pPVXpBUHJiRjl2SC1WX1RUajQzUjZzNG9nNjM3MHZZUk5KdmVCaV9jOGRFS1FGQTd0eTJMUXhnWkxnTVNic0FYeFhxYms4Sw?oc=5" target="_blank"&gt;Impress Watch「AIで記事要約」終了へ 月10万回利用、「APIコストはまかなえている」が……&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;ITmedia NEWS&lt;/font&gt;</description>
-      <source url="https://www.itmedia.co.jp">ITmedia NEWS</source>
     </item>
     <item>
       <title>EU AI法の概要と日本企業に必要な対応を解説 - BUSINESS LAWYERS（ビジネスロイヤーズ）</title>
