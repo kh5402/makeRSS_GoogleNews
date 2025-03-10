@@ -6,7 +6,7 @@
     <language>ja</language>
     <webMaster>news-webmaster@google.com</webMaster>
     <copyright>Copyright © 2025 Google. All rights reserved. This XML feed is made available solely for the purpose of rendering Google News results within a personal feed reader for personal, non-commercial use. Any other use of the feed is expressly prohibited. By accessing this feed or using these results in any manner whatsoever, you agree to be bound by the foregoing restrictions.</copyright>
-    <lastBuildDate>Mon, 10 Mar 2025 03:20:01 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Mar 2025 04:19:41 GMT</lastBuildDate>
     <image>
       <title>Google ニュース</title>
       <url>https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w256</url>
@@ -93,6 +93,14 @@
       <guid isPermaLink="false">CBMipwFBVV95cUxNaDVxR000THBUdUEweGpPNlByT0w3STNpb09TeGhaSWVuS204RU5wdnA4ck95cUFHSDIwbVhUTDJVdUFTVDU4b0dHSDJyRm9yMFVXMzBwZERxQVZPdVVVYkZ4QXdfVFVPamt6YUh0dGR5QmpaVktCMnIydF9oM20wYnN6TDdpV1hlYUxZVFFjX3JQRmhEdzJOY0J1ZlR6Sl9JZFNQLXRjdw</guid>
       <pubDate>Wed, 06 Dec 2023 08:00:00 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxNaDVxR000THBUdUEweGpPNlByT0w3STNpb09TeGhaSWVuS204RU5wdnA4ck95cUFHSDIwbVhUTDJVdUFTVDU4b0dHSDJyRm9yMFVXMzBwZERxQVZPdVVVYkZ4QXdfVFVPamt6YUh0dGR5QmpaVktCMnIydF9oM20wYnN6TDdpV1hlYUxZVFFjX3JQRmhEdzJOY0J1ZlR6Sl9JZFNQLXRjdw?oc=5" target="_blank"&gt;AI Transformation に向けた Microsoft Copilot Stack と Data 戦略&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
+      <source url="https://speakerdeck.com">Speaker Deck</source>
+    </item>
+    <item>
+      <title>AWS Step Functions は CDK で書こう！ - Speaker Deck</title>
+      <link>https://news.google.com/rss/articles/CBMia0FVX3lxTE1sREttZkc5Ukg5Y0pzTWZYc3RLNDhrQjlsb0M1THhzRVNJV2xFdkJtZFA5LXMyMEVRekh3QVI1Z1lsT2RVSHR1LUtBSGlGNnlTMmR5aWliNlMyU0hZd1JKUXpLZWYyVmVESnNn?oc=5</link>
+      <guid isPermaLink="false">CBMia0FVX3lxTE1sREttZkc5Ukg5Y0pzTWZYc3RLNDhrQjlsb0M1THhzRVNJV2xFdkJtZFA5LXMyMEVRekh3QVI1Z1lsT2RVSHR1LUtBSGlGNnlTMmR5aWliNlMyU0hZd1JKUXpLZWYyVmVESnNn</guid>
+      <pubDate>Wed, 05 Mar 2025 10:11:41 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMia0FVX3lxTE1sREttZkc5Ukg5Y0pzTWZYc3RLNDhrQjlsb0M1THhzRVNJV2xFdkJtZFA5LXMyMEVRekh3QVI1Z1lsT2RVSHR1LUtBSGlGNnlTMmR5aWliNlMyU0hZd1JKUXpLZWYyVmVESnNn?oc=5" target="_blank"&gt;AWS Step Functions は CDK で書こう！&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
@@ -520,14 +528,6 @@
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
-      <title>職位にかかわらず全員がリーダーシップを発揮するチーム作り / Building a team where everyone can demonstrate leadership, regardless of position - Speaker Deck</title>
-      <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxOWldNVEJuSlFwejFseHBQZnJWTnoxaVBfc2lmemxiLVVFQlptQXBNdGhfQ0dyeVZ3eThFaHBwQWRsTnBLTmdjU2NzMFZMUGpMNHREZjFTTWI5UXZiWHhydTktOG5lVDB3REVwV0V5Nlo2QkY2c1FERDZaYTJHd2dtVkQ0Zy0zV29vS2ZLWnQ0VnB0ZGx2aXc0N0NMRFc0OFhpMDhKTlZIMmMzSkpEZGp4Rjl3UQ?oc=5</link>
-      <guid isPermaLink="false">CBMiswFBVV95cUxOWldNVEJuSlFwejFseHBQZnJWTnoxaVBfc2lmemxiLVVFQlptQXBNdGhfQ0dyeVZ3eThFaHBwQWRsTnBLTmdjU2NzMFZMUGpMNHREZjFTTWI5UXZiWHhydTktOG5lVDB3REVwV0V5Nlo2QkY2c1FERDZaYTJHd2dtVkQ0Zy0zV29vS2ZLWnQ0VnB0ZGx2aXc0N0NMRFc0OFhpMDhKTlZIMmMzSkpEZGp4Rjl3UQ</guid>
-      <pubDate>Sat, 08 Mar 2025 04:41:06 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxOWldNVEJuSlFwejFseHBQZnJWTnoxaVBfc2lmemxiLVVFQlptQXBNdGhfQ0dyeVZ3eThFaHBwQWRsTnBLTmdjU2NzMFZMUGpMNHREZjFTTWI5UXZiWHhydTktOG5lVDB3REVwV0V5Nlo2QkY2c1FERDZaYTJHd2dtVkQ0Zy0zV29vS2ZLWnQ0VnB0ZGx2aXc0N0NMRFc0OFhpMDhKTlZIMmMzSkpEZGp4Rjl3UQ?oc=5" target="_blank"&gt;職位にかかわらず全員がリーダーシップを発揮するチーム作り / Building a team where everyone can demonstrate leadership, regardless of position&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
-      <source url="https://speakerdeck.com">Speaker Deck</source>
-    </item>
-    <item>
       <title>Rust で生成 AI の社内 chatbot をメンテしている話 (LT) - NIFTY Tech Day 2025 - Speaker Deck</title>
       <link>https://news.google.com/rss/articles/CBMiggFBVV95cUxNNFVtLTRpNUduWi1pSFFYQkk5YXF2c2N2SEZQak0wbmhOeExhMnF6RkVzQ3JSRU5iOFlZNmlNV3B5d2Qwb3JsZXNjanNNR0dEa2hRNG5sa0NVNWJNeWNfd2hzSHF5TUQ1ZlRxRnU5dEhRQkU5X3d6WFd0c2x3M0NiMTFR?oc=5</link>
       <guid isPermaLink="false">CBMiggFBVV95cUxNNFVtLTRpNUduWi1pSFFYQkk5YXF2c2N2SEZQak0wbmhOeExhMnF6RkVzQ3JSRU5iOFlZNmlNV3B5d2Qwb3JsZXNjanNNR0dEa2hRNG5sa0NVNWJNeWNfd2hzSHF5TUQ1ZlRxRnU5dEhRQkU5X3d6WFd0c2x3M0NiMTFR</guid>
@@ -541,14 +541,6 @@
       <guid isPermaLink="false">CBMiX0FVX3lxTE5TMTM4VHp5VEdEeGdVcGE5Z3loVHUyTGZ4UnlDZkNFT21xWnVuYzB4ZGhySVVYNU1ZTEZheGJDYUxwblhxU1ZlWTRVRDdWRXVJdGxPYUN2aWt1ZHhUMjhZ</guid>
       <pubDate>Mon, 29 Jan 2024 08:00:00 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiX0FVX3lxTE5TMTM4VHp5VEdEeGdVcGE5Z3loVHUyTGZ4UnlDZkNFT21xWnVuYzB4ZGhySVVYNU1ZTEZheGJDYUxwblhxU1ZlWTRVRDdWRXVJdGxPYUN2aWt1ZHhUMjhZ?oc=5" target="_blank"&gt;生成AIネイティブな プロダクト・UI/UXを考える&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
-      <source url="https://speakerdeck.com">Speaker Deck</source>
-    </item>
-    <item>
-      <title>Vision and Languageの現状と展望（GPT-4） - Speaker Deck</title>
-      <link>https://news.google.com/rss/articles/CBMihgFBVV95cUxNVm14LXNWWHFiUEtXZlVWY2dmZzNQSzB1d05GOEROaGUybU1QZE5aSG1Jb1RETnRKSm05QXBUaGl6SzllaDVvcHY0ZTRjcUpwcDI4LUo1T1pnelFyTmg0WGxycUhNNkhLeXFmZlowbnFXUnl4anhsVVNnanhPRVJRVEFiendJUQ?oc=5</link>
-      <guid isPermaLink="false">CBMihgFBVV95cUxNVm14LXNWWHFiUEtXZlVWY2dmZzNQSzB1d05GOEROaGUybU1QZE5aSG1Jb1RETnRKSm05QXBUaGl6SzllaDVvcHY0ZTRjcUpwcDI4LUo1T1pnelFyTmg0WGxycUhNNkhLeXFmZlowbnFXUnl4anhsVVNnanhPRVJRVEFiendJUQ</guid>
-      <pubDate>Mon, 27 Mar 2023 07:00:00 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMihgFBVV95cUxNVm14LXNWWHFiUEtXZlVWY2dmZzNQSzB1d05GOEROaGUybU1QZE5aSG1Jb1RETnRKSm05QXBUaGl6SzllaDVvcHY0ZTRjcUpwcDI4LUo1T1pnelFyTmg0WGxycUhNNkhLeXFmZlowbnFXUnl4anhsVVNnanhPRVJRVEFiendJUQ?oc=5" target="_blank"&gt;Vision and Languageの現状と展望（GPT-4）&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
@@ -629,6 +621,14 @@
       <guid isPermaLink="false">CBMia0FVX3lxTE51RHpscFpSNHdwZU5ISjY1MjEtTGFqek54enRoOWpxOEVELVFGdXJHX2dLYnZES1RiYnBtM3VLOTRVWmRjSGNCZzNXRXRsOVdiOWxsTG4tQmc4QjRWTkpaMWdXLTVXZXZTWm5r</guid>
       <pubDate>Mon, 03 Mar 2025 12:38:09 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMia0FVX3lxTE51RHpscFpSNHdwZU5ISjY1MjEtTGFqek54enRoOWpxOEVELVFGdXJHX2dLYnZES1RiYnBtM3VLOTRVWmRjSGNCZzNXRXRsOVdiOWxsTG4tQmc4QjRWTkpaMWdXLTVXZXZTWm5r?oc=5" target="_blank"&gt;DevinでAI AWSエンジニア製造計画 序章 〜CDKを添えて〜/devin-load-to-aws-engineer&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
+      <source url="https://speakerdeck.com">Speaker Deck</source>
+    </item>
+    <item>
+      <title>コーパスを丸呑みしたモデルから言語の何がわかるか - Speaker Deck</title>
+      <link>https://news.google.com/rss/articles/CBMingFBVV95cUxQQUdldjhCdmlGcUo3dUtSR3FEUHdWZDhveVdNTzRtdkZWYmFjaUFKbDlRUE51VE9fVWhwcm8yQXQtaVFyeFIxX3phYVdOdGJyYlczY0lvTXF4NWFUWUZMMEdHZWh1cGZucWhvQ0VESmNsbnR2TGR6OXZldjhhYXBvMjlncUJkOS1lOWlMTnN5MW54T1Z6Y3NSNUV0OE5BQQ?oc=5</link>
+      <guid isPermaLink="false">CBMingFBVV95cUxQQUdldjhCdmlGcUo3dUtSR3FEUHdWZDhveVdNTzRtdkZWYmFjaUFKbDlRUE51VE9fVWhwcm8yQXQtaVFyeFIxX3phYVdOdGJyYlczY0lvTXF4NWFUWUZMMEdHZWh1cGZucWhvQ0VESmNsbnR2TGR6OXZldjhhYXBvMjlncUJkOS1lOWlMTnN5MW54T1Z6Y3NSNUV0OE5BQQ</guid>
+      <pubDate>Mon, 03 Mar 2025 06:25:28 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMingFBVV95cUxQQUdldjhCdmlGcUo3dUtSR3FEUHdWZDhveVdNTzRtdkZWYmFjaUFKbDlRUE51VE9fVWhwcm8yQXQtaVFyeFIxX3phYVdOdGJyYlczY0lvTXF4NWFUWUZMMEdHZWh1cGZucWhvQ0VESmNsbnR2TGR6OXZldjhhYXBvMjlncUJkOS1lOWlMTnN5MW54T1Z6Y3NSNUV0OE5BQQ?oc=5" target="_blank"&gt;コーパスを丸呑みしたモデルから言語の何がわかるか&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
