@@ -6,7 +6,7 @@
     <language>ja</language>
     <webMaster>news-webmaster@google.com</webMaster>
     <copyright>Copyright © 2025 Google. All rights reserved. This XML feed is made available solely for the purpose of rendering Google News results within a personal feed reader for personal, non-commercial use. Any other use of the feed is expressly prohibited. By accessing this feed or using these results in any manner whatsoever, you agree to be bound by the foregoing restrictions.</copyright>
-    <lastBuildDate>Thu, 10 Apr 2025 16:27:50 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Apr 2025 17:18:49 GMT</lastBuildDate>
     <image>
       <title>Google ニュース</title>
       <url>https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w256</url>
@@ -80,6 +80,14 @@
       <source url="https://www.nikkei.com">日本経済新聞</source>
     </item>
     <item>
+      <title>note深津氏が予見 大量の「AIエージェント」を率いるスキルが必須に - 日経クロストレンド</title>
+      <link>https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ISEJMZlo0U0xuYmhJcWxabi1DLUprQTFZcTh1bVczQVlpazgyeEdGb2lBWmxfVjBIWjNuZ2pOa0t3dWhKZVJQUTdscVJ1V2NWdnZCTmhyM0FmZXZqQ1lhUEY2N0NMUQ?oc=5</link>
+      <guid isPermaLink="false">CBMiZkFVX3lxTE1ISEJMZlo0U0xuYmhJcWxabi1DLUprQTFZcTh1bVczQVlpazgyeEdGb2lBWmxfVjBIWjNuZ2pOa0t3dWhKZVJQUTdscVJ1V2NWdnZCTmhyM0FmZXZqQ1lhUEY2N0NMUQ</guid>
+      <pubDate>Wed, 09 Apr 2025 15:00:00 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ISEJMZlo0U0xuYmhJcWxabi1DLUprQTFZcTh1bVczQVlpazgyeEdGb2lBWmxfVjBIWjNuZ2pOa0t3dWhKZVJQUTdscVJ1V2NWdnZCTmhyM0FmZXZqQ1lhUEY2N0NMUQ?oc=5" target="_blank"&gt;note深津氏が予見 大量の「AIエージェント」を率いるスキルが必須に&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;日経クロストレンド&lt;/font&gt;</description>
+      <source url="https://xtrend.nikkei.com">日経クロストレンド</source>
+    </item>
+    <item>
       <title>［速報］Google Cloudが複数のAIエージェントを連携させる「Agent2Agentプロトコル」を発表。50社以上がサポートを表明 - Publickey</title>
       <link>https://news.google.com/rss/articles/CBMidEFVX3lxTE9GcnB5cVFyaWNkbkpONmdJT1NIVnRTTnpIbGpXMDFla0dSZnF6dGZKblI4enJUT19vMThaV1o4ejZfR3gyZDc2VTVpUm1wTU5ONTRqakxLWUZWOGlkZ0o3Mi1rWGhPam1sY0prUERnbHRNbkFD?oc=5</link>
       <guid isPermaLink="false">CBMidEFVX3lxTE9GcnB5cVFyaWNkbkpONmdJT1NIVnRTTnpIbGpXMDFla0dSZnF6dGZKblI4enJUT19vMThaV1o4ejZfR3gyZDc2VTVpUm1wTU5ONTRqakxLWUZWOGlkZ0o3Mi1rWGhPam1sY0prUERnbHRNbkFD</guid>
@@ -93,14 +101,6 @@
       <guid isPermaLink="false">CBMiZEFVX3lxTFBGZ2NONDJpa1A2RE9NVzNOaFdoUzdIOGVyTlIxRnZ0aWUta3YwaTcyMklXNzlwT056S1c5Vmx5dzBoX1BSVkw2QkphdWFoODJPTFNISVhxTk1ZT1dxSzB3THBUY0w</guid>
       <pubDate>Wed, 09 Apr 2025 12:01:00 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiZEFVX3lxTFBGZ2NONDJpa1A2RE9NVzNOaFdoUzdIOGVyTlIxRnZ0aWUta3YwaTcyMklXNzlwT056S1c5Vmx5dzBoX1BSVkw2QkphdWFoODJPTFNISVhxTk1ZT1dxSzB3THBUY0w?oc=5" target="_blank"&gt;グーグル、AIエージェントの相互運用新規格「A2A」 50社が賛同&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Impress Watch&lt;/font&gt;</description>
-      <source url="https://www.watch.impress.co.jp">Impress Watch</source>
-    </item>
-    <item>
-      <title>Google Cloud新展開 AIエージェントや新TPU、“Googleスピード”外部開放 - Impress Watch</title>
-      <link>https://news.google.com/rss/articles/CBMiZEFVX3lxTE1IajUwbHp0dDI5R3h3MGhsc2VvenVYSjVJNk8tTmtrNC1teVNMZG5adVdqY3RfbXFiVHVVMlpMS2ExSnlEQUVqdmlEMUZCT1FTdE5YcEs4aHp2UzVKSDZkWHNEQmE?oc=5</link>
-      <guid isPermaLink="false">CBMiZEFVX3lxTE1IajUwbHp0dDI5R3h3MGhsc2VvenVYSjVJNk8tTmtrNC1teVNMZG5adVdqY3RfbXFiVHVVMlpMS2ExSnlEQUVqdmlEMUZCT1FTdE5YcEs4aHp2UzVKSDZkWHNEQmE</guid>
-      <pubDate>Wed, 09 Apr 2025 12:00:00 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiZEFVX3lxTE1IajUwbHp0dDI5R3h3MGhsc2VvenVYSjVJNk8tTmtrNC1teVNMZG5adVdqY3RfbXFiVHVVMlpMS2ExSnlEQUVqdmlEMUZCT1FTdE5YcEs4aHp2UzVKSDZkWHNEQmE?oc=5" target="_blank"&gt;Google Cloud新展開 AIエージェントや新TPU、“Googleスピード”外部開放&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Impress Watch&lt;/font&gt;</description>
       <source url="https://www.watch.impress.co.jp">Impress Watch</source>
     </item>
     <item>
@@ -142,6 +142,14 @@
       <pubDate>Wed, 09 Apr 2025 02:42:30 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiV0FVX3lxTE1JakFReUlYLXpjSExpVVh6ZGR6aC1vVGRrZUZKa0FFb1hMTVlvTGlJa3Z5Tm5ZOVFxQWZoMW9EcjgxZ3IzSzRzbm9odjd3TUZmSW9oMDVMOA?oc=5" target="_blank"&gt;AIが予測するトランプ関税下における日経平均株価 ～年初来安値更新！悲観確率55%の衝撃と年末予測～ | 柏村 祐&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;第一生命経済研究所&lt;/font&gt;</description>
       <source url="https://www.dlri.co.jp">第一生命経済研究所</source>
+    </item>
+    <item>
+      <title>AIによる行政判断､透明性･救済策などルール整備 総務省 - 日本経済新聞</title>
+      <link>https://news.google.com/rss/articles/CBMibEFVX3lxTE5MUXlWRXhxWG9VRkMtSUZDS1prbkV0UVlPQWlNcmZLNVpxWnZFNnlKd0F0Vkh2MjRoS3B1bm95ZzdEdUNJblBfNGFUakpScHJUWlVnM2FSRDFhWmQ4Uk95N2dxZ25TcWdwNkVxNg?oc=5</link>
+      <guid isPermaLink="false">CBMibEFVX3lxTE5MUXlWRXhxWG9VRkMtSUZDS1prbkV0UVlPQWlNcmZLNVpxWnZFNnlKd0F0Vkh2MjRoS3B1bm95ZzdEdUNJblBfNGFUakpScHJUWlVnM2FSRDFhWmQ4Uk95N2dxZ25TcWdwNkVxNg</guid>
+      <pubDate>Wed, 09 Apr 2025 02:30:00 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMibEFVX3lxTE5MUXlWRXhxWG9VRkMtSUZDS1prbkV0UVlPQWlNcmZLNVpxWnZFNnlKd0F0Vkh2MjRoS3B1bm95ZzdEdUNJblBfNGFUakpScHJUWlVnM2FSRDFhWmQ4Uk95N2dxZ25TcWdwNkVxNg?oc=5" target="_blank"&gt;AIによる行政判断､透明性･救済策などルール整備 総務省&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;日本経済新聞&lt;/font&gt;</description>
+      <source url="https://www.nikkei.com">日本経済新聞</source>
     </item>
     <item>
       <title>富士通の超音波解析AI技術を搭載した世界初の冷凍ビンチョウマグロの脂のり検査装置をソノファイが販売開始 - Fujitsu</title>
@@ -216,6 +224,14 @@
       <source url="https://www3.nhk.or.jp">nhk.or.jp</source>
     </item>
     <item>
+      <title>スポーツ庁 競技団体などの強化プラン改定 AI活用など盛り込む - nhk.or.jp</title>
+      <link>https://news.google.com/rss/articles/CBMib0FVX3lxTE0wT040OHdrd2RhbzVfY0tSbmFPVWpUYi1WN01iY2FLNVRKcHA3d0ZLMnctalpBbWtwdl9nTlItbi1XbFpzcmRlVmJGZ01uSGttTkg4ODRkNFJycWFBYVR4VEFybWhWLW9nVG5NS1kwYw?oc=5</link>
+      <guid isPermaLink="false">CBMib0FVX3lxTE0wT040OHdrd2RhbzVfY0tSbmFPVWpUYi1WN01iY2FLNVRKcHA3d0ZLMnctalpBbWtwdl9nTlItbi1XbFpzcmRlVmJGZ01uSGttTkg4ODRkNFJycWFBYVR4VEFybWhWLW9nVG5NS1kwYw</guid>
+      <pubDate>Tue, 08 Apr 2025 08:38:48 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMib0FVX3lxTE0wT040OHdrd2RhbzVfY0tSbmFPVWpUYi1WN01iY2FLNVRKcHA3d0ZLMnctalpBbWtwdl9nTlItbi1XbFpzcmRlVmJGZ01uSGttTkg4ODRkNFJycWFBYVR4VEFybWhWLW9nVG5NS1kwYw?oc=5" target="_blank"&gt;スポーツ庁 競技団体などの強化プラン改定 AI活用など盛り込む&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;nhk.or.jp&lt;/font&gt;</description>
+      <source url="https://www3.nhk.or.jp">nhk.or.jp</source>
+    </item>
+    <item>
       <title>AI暴走止める決め手 識者「ない」 - Yahoo!ニュース</title>
       <link>https://news.google.com/rss/articles/CBMiUEFVX3lxTE5iZkZDQ0Itd0h1enhpOWZ5WjF0UjFWWXRHSk5PWU1adVZHWnhLT0VmR2FYWXZ5OVRfV2xaLUJ3d2JtTVBfd2E1ajVUMTQ1cGhL?oc=5</link>
       <guid isPermaLink="false">CBMiUEFVX3lxTE5iZkZDQ0Itd0h1enhpOWZ5WjF0UjFWWXRHSk5PWU1adVZHWnhLT0VmR2FYWXZ5OVRfV2xaLUJ3d2JtTVBfd2E1ajVUMTQ1cGhL</guid>
@@ -256,20 +272,36 @@
       <source url="https://news.yahoo.co.jp">Yahoo!ニュース</source>
     </item>
     <item>
+      <title>九段理江さん、95％をAIで執筆した小説「影の雨」 芥川賞受賞作と逆 - 好書好日</title>
+      <link>https://news.google.com/rss/articles/CBMiUEFVX3lxTE1TWk1TOXYzZ3BseXM3RXZyT2VmUFAtdkdSLWtQby11WF9nbzFFSG4yaV8yOWhteGhYblFEbmdjbjhtOWt5Z05zdWdROGgzT2dY?oc=5</link>
+      <guid isPermaLink="false">CBMiUEFVX3lxTE1TWk1TOXYzZ3BseXM3RXZyT2VmUFAtdkdSLWtQby11WF9nbzFFSG4yaV8yOWhteGhYblFEbmdjbjhtOWt5Z05zdWdROGgzT2dY</guid>
+      <pubDate>Tue, 08 Apr 2025 01:10:57 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiUEFVX3lxTE1TWk1TOXYzZ3BseXM3RXZyT2VmUFAtdkdSLWtQby11WF9nbzFFSG4yaV8yOWhteGhYblFEbmdjbjhtOWt5Z05zdWdROGgzT2dY?oc=5" target="_blank"&gt;九段理江さん、95％をAIで執筆した小説「影の雨」 芥川賞受賞作と逆&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;好書好日&lt;/font&gt;</description>
+      <source url="https://book.asahi.com">好書好日</source>
+    </item>
+    <item>
+      <title>メッセージ提案/変更！LINEラボ「LINE AIトークサジェスト」展開 - jetstream.blog</title>
+      <link>https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ITE00d0hnRjNFVGNqeWp5cHdnR3dHXzJPWkZhZUozdmFjQ2tlaTRDaEhrLW5CUHZtbkwzWVZrYW55X2JUeTdlWXhOemdxaVU?oc=5</link>
+      <guid isPermaLink="false">CBMiT0FVX3lxTE5ITE00d0hnRjNFVGNqeWp5cHdnR3dHXzJPWkZhZUozdmFjQ2tlaTRDaEhrLW5CUHZtbkwzWVZrYW55X2JUeTdlWXhOemdxaVU</guid>
+      <pubDate>Thu, 10 Apr 2025 16:33:11 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ITE00d0hnRjNFVGNqeWp5cHdnR3dHXzJPWkZhZUozdmFjQ2tlaTRDaEhrLW5CUHZtbkwzWVZrYW55X2JUeTdlWXhOemdxaVU?oc=5" target="_blank"&gt;メッセージ提案/変更！LINEラボ「LINE AIトークサジェスト」展開&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;jetstream.blog&lt;/font&gt;</description>
+      <source url="https://jetstream.blog">jetstream.blog</source>
+    </item>
+    <item>
+      <title>米アルファベット、第7世代のＡＩ用半導体を発表 推論を高速化 - ロイター</title>
+      <link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxNb1JQMFF3TTA3TE9LdDJtcGVWRzhoLUtSb29rYXFjSk1Mb2MxUmRrUEZWQ3g0YW1zc1Via051eUdBNW56azZYMFBKT1hqMjZQRUs3ajEyQWNKbjlSZEVMeWtkdVVjb1lka05KdWRsLXV4UEUyUEVFNzd0ZWdob0JITkVueUYxNWxF?oc=5</link>
+      <guid isPermaLink="false">CBMiiAFBVV95cUxNb1JQMFF3TTA3TE9LdDJtcGVWRzhoLUtSb29rYXFjSk1Mb2MxUmRrUEZWQ3g0YW1zc1Via051eUdBNW56azZYMFBKT1hqMjZQRUs3ajEyQWNKbjlSZEVMeWtkdVVjb1lka05KdWRsLXV4UEUyUEVFNzd0ZWdob0JITkVueUYxNWxF</guid>
+      <pubDate>Thu, 10 Apr 2025 15:30:38 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiiAFBVV95cUxNb1JQMFF3TTA3TE9LdDJtcGVWRzhoLUtSb29rYXFjSk1Mb2MxUmRrUEZWQ3g0YW1zc1Via051eUdBNW56azZYMFBKT1hqMjZQRUs3ajEyQWNKbjlSZEVMeWtkdVVjb1lka05KdWRsLXV4UEUyUEVFNzd0ZWdob0JITkVueUYxNWxF?oc=5" target="_blank"&gt;米アルファベット、第7世代のＡＩ用半導体を発表 推論を高速化&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;ロイター&lt;/font&gt;</description>
+      <source url="https://jp.reuters.com">ロイター</source>
+    </item>
+    <item>
       <title>村上信五「もうどっちがAIかわからなくなるよね」 「AIシンゴ」や「裸眼VR」など"超未来"な最新テクノロジーを体験！『村上信五くんと経済クン』4/12、19放送 - 文化放送</title>
       <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTFBaSU9SajhFR2dLYUM4T0ZhQkdaY1Bxc1ZJckE1SlpoT3RKQ1UwY0ZNZTNfcVFZVDM2X2JBYnE1TnZlZy04YTVsUVZveUx0RC1hcnhj?oc=5</link>
       <guid isPermaLink="false">CBMiU0FVX3lxTFBaSU9SajhFR2dLYUM4T0ZhQkdaY1Bxc1ZJckE1SlpoT3RKQ1UwY0ZNZTNfcVFZVDM2X2JBYnE1TnZlZy04YTVsUVZveUx0RC1hcnhj</guid>
       <pubDate>Thu, 10 Apr 2025 15:27:25 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiU0FVX3lxTFBaSU9SajhFR2dLYUM4T0ZhQkdaY1Bxc1ZJckE1SlpoT3RKQ1UwY0ZNZTNfcVFZVDM2X2JBYnE1TnZlZy04YTVsUVZveUx0RC1hcnhj?oc=5" target="_blank"&gt;村上信五「もうどっちがAIかわからなくなるよね」 「AIシンゴ」や「裸眼VR」など"超未来"な最新テクノロジーを体験！『村上信五くんと経済クン』4/12、19放送&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;文化放送&lt;/font&gt;</description>
       <source url="https://www.joqr.co.jp">文化放送</source>
-    </item>
-    <item>
-      <title>米アルファベット、第7世代のＡＩ用半導体を発表 推論を高速化 - ロイター</title>
-      <link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxNb1JQMFF3TTA3TE9LdDJtcGVWRzhoLUtSb29rYXFjSk1Mb2MxUmRrUEZWQ3g0YW1zc1Via051eUdBNW56azZYMFBKT1hqMjZQRUs3ajEyQWNKbjlSZEVMeWtkdVVjb1lka05KdWRsLXV4UEUyUEVFNzd0ZWdob0JITkVueUYxNWxF?oc=5</link>
-      <guid isPermaLink="false">CBMiiAFBVV95cUxNb1JQMFF3TTA3TE9LdDJtcGVWRzhoLUtSb29rYXFjSk1Mb2MxUmRrUEZWQ3g0YW1zc1Via051eUdBNW56azZYMFBKT1hqMjZQRUs3ajEyQWNKbjlSZEVMeWtkdVVjb1lka05KdWRsLXV4UEUyUEVFNzd0ZWdob0JITkVueUYxNWxF</guid>
-      <pubDate>Thu, 10 Apr 2025 15:18:45 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiiAFBVV95cUxNb1JQMFF3TTA3TE9LdDJtcGVWRzhoLUtSb29rYXFjSk1Mb2MxUmRrUEZWQ3g0YW1zc1Via051eUdBNW56azZYMFBKT1hqMjZQRUs3ajEyQWNKbjlSZEVMeWtkdVVjb1lka05KdWRsLXV4UEUyUEVFNzd0ZWdob0JITkVueUYxNWxF?oc=5" target="_blank"&gt;米アルファベット、第7世代のＡＩ用半導体を発表 推論を高速化&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;ロイター&lt;/font&gt;</description>
-      <source url="https://jp.reuters.com">ロイター</source>
     </item>
     <item>
       <title>NTT、超高精細映像をリアルタイムでAI推論できる「LSI」を開発 解像度制約を4Kに拡張、ドローンなら上空150mから人や物を解析 - ロボスタ</title>
@@ -280,20 +312,20 @@
       <source url="https://robotstart.info">ロボスタ</source>
     </item>
     <item>
-      <title>超高精細映像からのリアルタイムAI推論をエッジ/端末上でも実行可能にするAI推論LSIを開発 ～AI推論の解像度制約を4Kに拡張し、リアルタイムかつ低電力での動作を実現～ - 沖縄タイムス社</title>
-      <link>https://news.google.com/rss/articles/CBMiXkFVX3lxTE9LNGV5SFoxejhnaTNhZ2phcFRiajlhYnRPVTFhdmI1aG1LV1U3UVNKYUdrZjE3WkdmWGdyYXgyODl0RlU3ZHRUbWoyUnNRTkpfRDVJNlRlcUp4cWI1alE?oc=5</link>
-      <guid isPermaLink="false">CBMiXkFVX3lxTE9LNGV5SFoxejhnaTNhZ2phcFRiajlhYnRPVTFhdmI1aG1LV1U3UVNKYUdrZjE3WkdmWGdyYXgyODl0RlU3ZHRUbWoyUnNRTkpfRDVJNlRlcUp4cWI1alE</guid>
-      <pubDate>Thu, 10 Apr 2025 15:00:00 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiXkFVX3lxTE9LNGV5SFoxejhnaTNhZ2phcFRiajlhYnRPVTFhdmI1aG1LV1U3UVNKYUdrZjE3WkdmWGdyYXgyODl0RlU3ZHRUbWoyUnNRTkpfRDVJNlRlcUp4cWI1alE?oc=5" target="_blank"&gt;超高精細映像からのリアルタイムAI推論をエッジ/端末上でも実行可能にするAI推論LSIを開発 ～AI推論の解像度制約を4Kに拡張し、リアルタイムかつ低電力での動作を実現～&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;沖縄タイムス社&lt;/font&gt;</description>
-      <source url="https://www.okinawatimes.co.jp">沖縄タイムス社</source>
-    </item>
-    <item>
       <title>NTT、デバイス上で実行できる「超高精細映像」のAI推論LSI - Impress Watch</title>
       <link>https://news.google.com/rss/articles/CBMiZEFVX3lxTE5aZEVqdjVrb2R4bHEtby1OME05ZF82YjJRdE05SkZwaGx1eHFYTmNRVTBSaFlRV19wZ195QXZLZUJLby1vOG1TZFFlekFoT3dQelVqQTFRcHFXa3V3UnFRVllBY3Y?oc=5</link>
       <guid isPermaLink="false">CBMiZEFVX3lxTE5aZEVqdjVrb2R4bHEtby1OME05ZF82YjJRdE05SkZwaGx1eHFYTmNRVTBSaFlRV19wZ195QXZLZUJLby1vOG1TZFFlekFoT3dQelVqQTFRcHFXa3V3UnFRVllBY3Y</guid>
       <pubDate>Thu, 10 Apr 2025 15:00:00 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiZEFVX3lxTE5aZEVqdjVrb2R4bHEtby1OME05ZF82YjJRdE05SkZwaGx1eHFYTmNRVTBSaFlRV19wZ195QXZLZUJLby1vOG1TZFFlekFoT3dQelVqQTFRcHFXa3V3UnFRVllBY3Y?oc=5" target="_blank"&gt;NTT、デバイス上で実行できる「超高精細映像」のAI推論LSI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Impress Watch&lt;/font&gt;</description>
       <source url="https://www.watch.impress.co.jp">Impress Watch</source>
+    </item>
+    <item>
+      <title>超高精細映像からのリアルタイムAI推論をエッジ/端末上でも実行可能にするAI推論LSIを開発 ～AI推論の解像度制約を4Kに拡張し、リアルタイムかつ低電力での動作を実現 - 新潟日報デジタルプラス</title>
+      <link>https://news.google.com/rss/articles/CBMiXkFVX3lxTE9KRmRGTy1wMy1Sem94UURYZDlwOGlmMklxc3NlZUpGcmtwTHUybzVCNHQ3OEV4X0VCLXVkVHIwbHQ1WmlOc1pSTjNLZ19xY0NPa2ZWT2JZMkdGMjdGenc?oc=5</link>
+      <guid isPermaLink="false">CBMiXkFVX3lxTE9KRmRGTy1wMy1Sem94UURYZDlwOGlmMklxc3NlZUpGcmtwTHUybzVCNHQ3OEV4X0VCLXVkVHIwbHQ1WmlOc1pSTjNLZ19xY0NPa2ZWT2JZMkdGMjdGenc</guid>
+      <pubDate>Thu, 10 Apr 2025 15:00:00 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiXkFVX3lxTE9KRmRGTy1wMy1Sem94UURYZDlwOGlmMklxc3NlZUpGcmtwTHUybzVCNHQ3OEV4X0VCLXVkVHIwbHQ1WmlOc1pSTjNLZ19xY0NPa2ZWT2JZMkdGMjdGenc?oc=5" target="_blank"&gt;超高精細映像からのリアルタイムAI推論をエッジ/端末上でも実行可能にするAI推論LSIを開発 ～AI推論の解像度制約を4Kに拡張し、リアルタイムかつ低電力での動作を実現&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;新潟日報デジタルプラス&lt;/font&gt;</description>
+      <source url="https://www.niigata-nippo.co.jp">新潟日報デジタルプラス</source>
     </item>
     <item>
       <title>10年後、マーケティング部はあるか？ AI時代にマーケターの真価を問う - 日経クロストレンド</title>
@@ -320,12 +352,12 @@
       <source url="https://medical.nikkeibp.co.jp">日経メディカル</source>
     </item>
     <item>
-      <title>【レビュー】Google Pixel 9a、7万円台のAIスマホは不安定な時代に長く輝く - Yahoo!ニュース</title>
-      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE5wY2pYRG9BZFQ1aFZDMFVucWYtd19wNl9oeVdDSzVZMU1HcFdyc0hNMV81OUpvR2JPc2Q2bl9VOERMRWJlcGlsOG55Wm1NTFlpLTNjODNQeG9EQkRyTmdSeWFlUnAwb1BLMWlCUWNlZ0FrRTlYUGFUTGYwMmlIeUU?oc=5</link>
-      <guid isPermaLink="false">CBMif0FVX3lxTE5wY2pYRG9BZFQ1aFZDMFVucWYtd19wNl9oeVdDSzVZMU1HcFdyc0hNMV81OUpvR2JPc2Q2bl9VOERMRWJlcGlsOG55Wm1NTFlpLTNjODNQeG9EQkRyTmdSeWFlUnAwb1BLMWlCUWNlZ0FrRTlYUGFUTGYwMmlIeUU</guid>
-      <pubDate>Thu, 10 Apr 2025 13:00:00 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMif0FVX3lxTE5wY2pYRG9BZFQ1aFZDMFVucWYtd19wNl9oeVdDSzVZMU1HcFdyc0hNMV81OUpvR2JPc2Q2bl9VOERMRWJlcGlsOG55Wm1NTFlpLTNjODNQeG9EQkRyTmdSeWFlUnAwb1BLMWlCUWNlZ0FrRTlYUGFUTGYwMmlIeUU?oc=5" target="_blank"&gt;【レビュー】Google Pixel 9a、7万円台のAIスマホは不安定な時代に長く輝く&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo!ニュース&lt;/font&gt;</description>
-      <source url="https://news.yahoo.co.jp">Yahoo!ニュース</source>
+      <title>AIアシスタントはなぜ、ほとんどが女性なのか？ - Campaign Japan 日本</title>
+      <link>https://news.google.com/rss/articles/CBMixgJBVV95cUxPTHlGank5aXBITm50Y1pOOGNMRWZJYUV3WXNDNkNXTmtTY3hXTTNNVlBRa1RHeWItX3RHMzhXZlhSYmEzc2Etd05GcUFIV3huVWhvS0tCbjN3WnJxcnhabXVKX0lxcWRPQkdWOHJuOUJVRXItY2EtNV9aRW9uQ2ptNk41dDlYbVplQlFWaU4wUWloYUpQR01zNHFHSmkyLTNaazEwUmhfVEYyUFdTVVh3ZVhOYTNsQmxnRkh1Uld1Q0ZhNDJVYnFlZ1N4amNvRVBOVkMxQlUzZjFSdXhXMS1pVXV0TnZhVjM5VGllbDlVNWhadndqV19VTElEMUVYMDZGalRvTWJaRVQ0MWQ0cER5RHoxNVExWktXbGhKQWtkallTWFVGWnZPdVJYUmN4Ym40c0Jadl9VVmtDVmhRcHA2QlBSYWthdw?oc=5</link>
+      <guid isPermaLink="false">CBMixgJBVV95cUxPTHlGank5aXBITm50Y1pOOGNMRWZJYUV3WXNDNkNXTmtTY3hXTTNNVlBRa1RHeWItX3RHMzhXZlhSYmEzc2Etd05GcUFIV3huVWhvS0tCbjN3WnJxcnhabXVKX0lxcWRPQkdWOHJuOUJVRXItY2EtNV9aRW9uQ2ptNk41dDlYbVplQlFWaU4wUWloYUpQR01zNHFHSmkyLTNaazEwUmhfVEYyUFdTVVh3ZVhOYTNsQmxnRkh1Uld1Q0ZhNDJVYnFlZ1N4amNvRVBOVkMxQlUzZjFSdXhXMS1pVXV0TnZhVjM5VGllbDlVNWhadndqV19VTElEMUVYMDZGalRvTWJaRVQ0MWQ0cER5RHoxNVExWktXbGhKQWtkallTWFVGWnZPdVJYUmN4Ym40c0Jadl9VVmtDVmhRcHA2QlBSYWthdw</guid>
+      <pubDate>Thu, 10 Apr 2025 12:53:40 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMixgJBVV95cUxPTHlGank5aXBITm50Y1pOOGNMRWZJYUV3WXNDNkNXTmtTY3hXTTNNVlBRa1RHeWItX3RHMzhXZlhSYmEzc2Etd05GcUFIV3huVWhvS0tCbjN3WnJxcnhabXVKX0lxcWRPQkdWOHJuOUJVRXItY2EtNV9aRW9uQ2ptNk41dDlYbVplQlFWaU4wUWloYUpQR01zNHFHSmkyLTNaazEwUmhfVEYyUFdTVVh3ZVhOYTNsQmxnRkh1Uld1Q0ZhNDJVYnFlZ1N4amNvRVBOVkMxQlUzZjFSdXhXMS1pVXV0TnZhVjM5VGllbDlVNWhadndqV19VTElEMUVYMDZGalRvTWJaRVQ0MWQ0cER5RHoxNVExWktXbGhKQWtkallTWFVGWnZPdVJYUmN4Ym40c0Jadl9VVmtDVmhRcHA2QlBSYWthdw?oc=5" target="_blank"&gt;AIアシスタントはなぜ、ほとんどが女性なのか？&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Campaign Japan 日本&lt;/font&gt;</description>
+      <source url="http://campaignjapan.com">Campaign Japan 日本</source>
     </item>
     <item>
       <title>グーグルが音楽生成ＡＩ「リリア」提供開始…文章入力で３０秒の楽器音、動画・画像・音声ＡＩと組み合わせ可能に - 読売新聞オンライン</title>
@@ -353,10 +385,10 @@
     </item>
     <item>
       <title>【サーモン・ディストピア】AIがサーモン養殖を管理する時代が到来！いずれ人間も……!? - ナゾロジー</title>
-      <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE5QZEJ2MDNqWDNBal9YazI3LWxKNTJ2cVR0dE1ra0FDVGhyMzBlUG8wZXlrZUVvbXhOVTNaM3FJSFo1WkdubEZiSGJubGlwM2ZIa3V3?oc=5</link>
-      <guid isPermaLink="false">CBMiU0FVX3lxTE5QZEJ2MDNqWDNBal9YazI3LWxKNTJ2cVR0dE1ra0FDVGhyMzBlUG8wZXlrZUVvbXhOVTNaM3FJSFo1WkdubEZiSGJubGlwM2ZIa3V3</guid>
+      <link>https://news.google.com/rss/articles/CBMiW0FVX3lxTE5PU3BXbmNnWHFaR2kxajVlRy1jTGJoZ1E4QWJRU3pWR2k1eWEyWkZSZVZUMm1laTdENk1xd1dJZ0RXUzIzRUdCOU1XUWlzSmJvU2NiYTlSSjJ0dzQ?oc=5</link>
+      <guid isPermaLink="false">CBMiW0FVX3lxTE5PU3BXbmNnWHFaR2kxajVlRy1jTGJoZ1E4QWJRU3pWR2k1eWEyWkZSZVZUMm1laTdENk1xd1dJZ0RXUzIzRUdCOU1XUWlzSmJvU2NiYTlSSjJ0dzQ</guid>
       <pubDate>Thu, 10 Apr 2025 11:01:06 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiU0FVX3lxTE5QZEJ2MDNqWDNBal9YazI3LWxKNTJ2cVR0dE1ra0FDVGhyMzBlUG8wZXlrZUVvbXhOVTNaM3FJSFo1WkdubEZiSGJubGlwM2ZIa3V3?oc=5" target="_blank"&gt;【サーモン・ディストピア】AIがサーモン養殖を管理する時代が到来！いずれ人間も……!?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;ナゾロジー&lt;/font&gt;</description>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiW0FVX3lxTE5PU3BXbmNnWHFaR2kxajVlRy1jTGJoZ1E4QWJRU3pWR2k1eWEyWkZSZVZUMm1laTdENk1xd1dJZ0RXUzIzRUdCOU1XUWlzSmJvU2NiYTlSSjJ0dzQ?oc=5" target="_blank"&gt;【サーモン・ディストピア】AIがサーモン養殖を管理する時代が到来！いずれ人間も……!?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;ナゾロジー&lt;/font&gt;</description>
       <source url="https://nazology.kusuguru.co.jp">ナゾロジー</source>
     </item>
     <item>
@@ -366,14 +398,6 @@
       <pubDate>Thu, 10 Apr 2025 11:01:05 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiakFVX3lxTE53SUlVZ19zbFJIc0EyZlQ4cjB1ejlQQXN4R1J2Q09mdlZ2cFFKYWpKUERsZ29PanFvZUJEa0hSUUZQM0xLcDdsVWtZc09veEZvWFoxZWhaVGRhX19VUjRXYUNXTWdUdV90eWc?oc=5" target="_blank"&gt;AI VTuber「紡ネン」のLINEエンタメアカウントが登場！オリジナルスタンプ16種も同時発売です&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;PR TIMES&lt;/font&gt;</description>
       <source url="https://prtimes.jp">PR TIMES</source>
-    </item>
-    <item>
-      <title>【新機能リリース！】AI搭載スライド自動生成サービス「イルシル」に、PDF・画像アップロード機能を搭載しました！ - newscast.jp</title>
-      <link>https://news.google.com/rss/articles/CBMiR0FVX3lxTFBiV1g4NGlDdV9FNWVIdjd5U3hRYTAyWkVSSTU0ZWdSc1BkTnM3ZlFBTWNqQjVLRWh2bTZpa2hoS3d4ZW9PQnNj?oc=5</link>
-      <guid isPermaLink="false">CBMiR0FVX3lxTFBiV1g4NGlDdV9FNWVIdjd5U3hRYTAyWkVSSTU0ZWdSc1BkTnM3ZlFBTWNqQjVLRWh2bTZpa2hoS3d4ZW9PQnNj</guid>
-      <pubDate>Thu, 10 Apr 2025 11:00:00 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiR0FVX3lxTFBiV1g4NGlDdV9FNWVIdjd5U3hRYTAyWkVSSTU0ZWdSc1BkTnM3ZlFBTWNqQjVLRWh2bTZpa2hoS3d4ZW9PQnNj?oc=5" target="_blank"&gt;【新機能リリース！】AI搭載スライド自動生成サービス「イルシル」に、PDF・画像アップロード機能を搭載しました！&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;newscast.jp&lt;/font&gt;</description>
-      <source url="https://newscast.jp">newscast.jp</source>
     </item>
     <item>
       <title>AIに指示するだけでウェブサイトを作れる「AI Website Builder」を使ってみた - GIGAZINE</title>
@@ -536,20 +560,20 @@
       <source url="https://www.asahi.com">朝日新聞</source>
     </item>
     <item>
-      <title>電力需要、AI普及でデータセンター向け2倍 IEA報告 - 日本経済新聞</title>
-      <link>https://news.google.com/rss/articles/CBMibEFVX3lxTE54dVZmOHFGOGVVY2RDeklHUGFTaENOVUxIc25kblAyeXgtUXFIYW53V1JkNDFyRGJFSzlDR2M5elNVbnk0YkRPcW5VNGpmMi1ha2s3YlhlTlZSTEFtbFpsMlg4M2pORVNDbHpEaQ?oc=5</link>
-      <guid isPermaLink="false">CBMibEFVX3lxTE54dVZmOHFGOGVVY2RDeklHUGFTaENOVUxIc25kblAyeXgtUXFIYW53V1JkNDFyRGJFSzlDR2M5elNVbnk0YkRPcW5VNGpmMi1ha2s3YlhlTlZSTEFtbFpsMlg4M2pORVNDbHpEaQ</guid>
-      <pubDate>Thu, 10 Apr 2025 08:00:00 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMibEFVX3lxTE54dVZmOHFGOGVVY2RDeklHUGFTaENOVUxIc25kblAyeXgtUXFIYW53V1JkNDFyRGJFSzlDR2M5elNVbnk0YkRPcW5VNGpmMi1ha2s3YlhlTlZSTEFtbFpsMlg4M2pORVNDbHpEaQ?oc=5" target="_blank"&gt;電力需要、AI普及でデータセンター向け2倍 IEA報告&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;日本経済新聞&lt;/font&gt;</description>
-      <source url="https://www.nikkei.com">日本経済新聞</source>
-    </item>
-    <item>
       <title>トランプ米大統領のAI巨額投資計画「スターゲート」 その思惑とリスク - 日経ビジネス電子版</title>
       <link>https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5fNk5uel92SHA4TXlMNWlEQmdxSmV3T3hKVktvT1Vha2UtRTAwVnZNTUhTeWVlNHZwMVZQUnA3MGRmSXpFc0hDVHVxcFJBZ2xwYm54dnhFM19lM1BIcDNIS1dUTkJtMWs?oc=5</link>
       <guid isPermaLink="false">CBMiZ0FVX3lxTE5fNk5uel92SHA4TXlMNWlEQmdxSmV3T3hKVktvT1Vha2UtRTAwVnZNTUhTeWVlNHZwMVZQUnA3MGRmSXpFc0hDVHVxcFJBZ2xwYm54dnhFM19lM1BIcDNIS1dUTkJtMWs</guid>
       <pubDate>Thu, 10 Apr 2025 08:00:00 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5fNk5uel92SHA4TXlMNWlEQmdxSmV3T3hKVktvT1Vha2UtRTAwVnZNTUhTeWVlNHZwMVZQUnA3MGRmSXpFc0hDVHVxcFJBZ2xwYm54dnhFM19lM1BIcDNIS1dUTkJtMWs?oc=5" target="_blank"&gt;トランプ米大統領のAI巨額投資計画「スターゲート」 その思惑とリスク&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;日経ビジネス電子版&lt;/font&gt;</description>
       <source url="https://business.nikkei.com">日経ビジネス電子版</source>
+    </item>
+    <item>
+      <title>電力需要、AI普及でデータセンター向け2倍 IEA報告 - 日本経済新聞</title>
+      <link>https://news.google.com/rss/articles/CBMibEFVX3lxTE54dVZmOHFGOGVVY2RDeklHUGFTaENOVUxIc25kblAyeXgtUXFIYW53V1JkNDFyRGJFSzlDR2M5elNVbnk0YkRPcW5VNGpmMi1ha2s3YlhlTlZSTEFtbFpsMlg4M2pORVNDbHpEaQ?oc=5</link>
+      <guid isPermaLink="false">CBMibEFVX3lxTE54dVZmOHFGOGVVY2RDeklHUGFTaENOVUxIc25kblAyeXgtUXFIYW53V1JkNDFyRGJFSzlDR2M5elNVbnk0YkRPcW5VNGpmMi1ha2s3YlhlTlZSTEFtbFpsMlg4M2pORVNDbHpEaQ</guid>
+      <pubDate>Thu, 10 Apr 2025 08:00:00 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMibEFVX3lxTE54dVZmOHFGOGVVY2RDeklHUGFTaENOVUxIc25kblAyeXgtUXFIYW53V1JkNDFyRGJFSzlDR2M5elNVbnk0YkRPcW5VNGpmMi1ha2s3YlhlTlZSTEFtbFpsMlg4M2pORVNDbHpEaQ?oc=5" target="_blank"&gt;電力需要、AI普及でデータセンター向け2倍 IEA報告&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;日本経済新聞&lt;/font&gt;</description>
+      <source url="https://www.nikkei.com">日本経済新聞</source>
     </item>
     <item>
       <title>アルファベット、今年750億ドルの設備投資を再表明 ＡＩ強化継続 - ロイター</title>
@@ -592,14 +616,6 @@
       <source url="https://news.yahoo.co.jp">Yahoo!ニュース</source>
     </item>
     <item>
-      <title>ＴＳＭＣ売上高、第1四半期は市場予想上回る42％増 ＡＩブームで - ロイター</title>
-      <link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcko5S1YzNzlrSm15YXJZVDlLaUoxVzk0R1BtVXBSeURpcHM2N25VbkVxNXZEZjNna2IzMGQ0VXZ5NlJtR0VEVlU4a3U2dGtERlpMSUo5cGZkc1ExN0dUODRvR3VYa2Z3VUd5Vm10ZklLMVRfMzZYVGpnU1FFRktrbWJ1dmFFdVRT?oc=5</link>
-      <guid isPermaLink="false">CBMiiAFBVV95cUxOcko5S1YzNzlrSm15YXJZVDlLaUoxVzk0R1BtVXBSeURpcHM2N25VbkVxNXZEZjNna2IzMGQ0VXZ5NlJtR0VEVlU4a3U2dGtERlpMSUo5cGZkc1ExN0dUODRvR3VYa2Z3VUd5Vm10ZklLMVRfMzZYVGpnU1FFRktrbWJ1dmFFdVRT</guid>
-      <pubDate>Thu, 10 Apr 2025 07:29:56 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcko5S1YzNzlrSm15YXJZVDlLaUoxVzk0R1BtVXBSeURpcHM2N25VbkVxNXZEZjNna2IzMGQ0VXZ5NlJtR0VEVlU4a3U2dGtERlpMSUo5cGZkc1ExN0dUODRvR3VYa2Z3VUd5Vm10ZklLMVRfMzZYVGpnU1FFRktrbWJ1dmFFdVRT?oc=5" target="_blank"&gt;ＴＳＭＣ売上高、第1四半期は市場予想上回る42％増 ＡＩブームで&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;ロイター&lt;/font&gt;</description>
-      <source url="https://jp.reuters.com">ロイター</source>
-    </item>
-    <item>
       <title>ATOMOS、PTZカメラ「A-Eye」発表。AI、自動追尾機能搭載 - PRONEWS.jp</title>
       <link>https://news.google.com/rss/articles/CBMiYEFVX3lxTE5FZFRKTl9rZ0E5MUF4YzBDZ1RhSTc0ZWZkWkJ4c0N0MFpMQ3R2NjJkRVlST0FDalpGc1BsMThLOGdJc2wwNWpoMlJ3TVduYWtSUU43bVBBRWRBdGVFdGZiNQ?oc=5</link>
       <guid isPermaLink="false">CBMiYEFVX3lxTE5FZFRKTl9rZ0E5MUF4YzBDZ1RhSTc0ZWZkWkJ4c0N0MFpMQ3R2NjJkRVlST0FDalpGc1BsMThLOGdJc2wwNWpoMlJ3TVduYWtSUU43bVBBRWRBdGVFdGZiNQ</guid>
@@ -614,14 +630,6 @@
       <pubDate>Thu, 10 Apr 2025 07:10:59 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiSEFVX3lxTE02MzFnN2xlRW5Yc1pnX0ROT3FvN2VjdlNLUEpnRFdUYTVaNEIyZlRqUGJKVXhEUHV1TjNFQlpIRVdvOE5aSHJXSw?oc=5" target="_blank"&gt;「エンジニアの実力は肩書きでは測れない」LayerX AI・LLM事業部 CPO 小林 篤に見る“疑念駆動”のキャリアメーク&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Type転職&lt;/font&gt;</description>
       <source url="https://type.jp">Type転職</source>
-    </item>
-    <item>
-      <title>QVCジャパンとNTTドコモが協働 AIショッピングナビゲーターがQVCライブコマースに登場 - ECのミカタ</title>
-      <link>https://news.google.com/rss/articles/CBMiTEFVX3lxTE45ZldDUHV3bGlZd1dvSUthRGwyM1hrcUNtR2k0ZHhSZ3ZlUEFMcE9uWWtPYjc2N19Qai1rQVNBT1FBZzNYLUhBNUVaSFE?oc=5</link>
-      <guid isPermaLink="false">CBMiTEFVX3lxTE45ZldDUHV3bGlZd1dvSUthRGwyM1hrcUNtR2k0ZHhSZ3ZlUEFMcE9uWWtPYjc2N19Qai1rQVNBT1FBZzNYLUhBNUVaSFE</guid>
-      <pubDate>Thu, 10 Apr 2025 07:00:00 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiTEFVX3lxTE45ZldDUHV3bGlZd1dvSUthRGwyM1hrcUNtR2k0ZHhSZ3ZlUEFMcE9uWWtPYjc2N19Qai1rQVNBT1FBZzNYLUhBNUVaSFE?oc=5" target="_blank"&gt;QVCジャパンとNTTドコモが協働 AIショッピングナビゲーターがQVCライブコマースに登場&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;ECのミカタ&lt;/font&gt;</description>
-      <source url="https://ecnomikata.com">ECのミカタ</source>
     </item>
     <item>
       <title>韓国国会図書館（NAL）、AIを活用したサービス拡大の方針を発表 - カレントアウェアネス・ポータル</title>
@@ -734,14 +742,6 @@
       <pubDate>Sun, 06 Apr 2025 08:28:15 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMibEFVX3lxTE12Wk5wT3VYTUZkY1lNeUxmbTBITnduUnJSTnBuNkZYVVFqajJiemJfcTBMenZOeThuZEJpZVZnNnhNUy1Oc202TDZsMGs5X3hYbHZ1S2cxXzRDaGlwN1BERVlReUcyVHZvN2h4Qw?oc=5" target="_blank"&gt;メタが生成AIの最新モデル発表 高性能、オープン型に&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;日本経済新聞&lt;/font&gt;</description>
       <source url="https://www.nikkei.com">日本経済新聞</source>
-    </item>
-    <item>
-      <title>AIで脳波を解読して音声出力 まひで18年話せなかった女性が会話 - 朝日新聞</title>
-      <link>https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9hUi1Da2dtSUJIWTNKYUJLQkU2WE9UQzBQOS1rczNCMWNjcWxXQ2x3dTBHd3Atelk4Y1ZCNjZKNDNSSGhvbFJrb3lVMEUtOEFvOWZIMklxbm5TQlJfaGdyTEZhUGwxSHc?oc=5</link>
-      <guid isPermaLink="false">CBMiZ0FVX3lxTE9hUi1Da2dtSUJIWTNKYUJLQkU2WE9UQzBQOS1rczNCMWNjcWxXQ2x3dTBHd3Atelk4Y1ZCNjZKNDNSSGhvbFJrb3lVMEUtOEFvOWZIMklxbm5TQlJfaGdyTEZhUGwxSHc</guid>
-      <pubDate>Sun, 06 Apr 2025 06:00:00 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9hUi1Da2dtSUJIWTNKYUJLQkU2WE9UQzBQOS1rczNCMWNjcWxXQ2x3dTBHd3Atelk4Y1ZCNjZKNDNSSGhvbFJrb3lVMEUtOEFvOWZIMklxbm5TQlJfaGdyTEZhUGwxSHc?oc=5" target="_blank"&gt;AIで脳波を解読して音声出力 まひで18年話せなかった女性が会話&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;朝日新聞&lt;/font&gt;</description>
-      <source url="https://www.asahi.com">朝日新聞</source>
     </item>
     <item>
       <title>AIで落とし物返却率3倍 京王電鉄 - Yahoo!ニュース</title>
