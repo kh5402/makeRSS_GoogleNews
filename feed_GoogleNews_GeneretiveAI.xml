@@ -6,7 +6,7 @@
     <language>ja</language>
     <webMaster>news-webmaster@google.com</webMaster>
     <copyright>Copyright © 2025 Google. All rights reserved. This XML feed is made available solely for the purpose of rendering Google News results within a personal feed reader for personal, non-commercial use. Any other use of the feed is expressly prohibited. By accessing this feed or using these results in any manner whatsoever, you agree to be bound by the foregoing restrictions.</copyright>
-    <lastBuildDate>Tue, 06 May 2025 14:21:46 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 May 2025 15:29:29 GMT</lastBuildDate>
     <image>
       <title>Google ニュース</title>
       <url>https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w256</url>
@@ -32,20 +32,36 @@
       <source url="https://www.nikkei.com">日本経済新聞</source>
     </item>
     <item>
-      <title>社員の8人に1人がG検定合格者。AIスキルの向上を全力支援するソフトバンクの人材育成戦略 - ソフトバンク</title>
-      <link>https://news.google.com/rss/articles/CBMiXEFVX3lxTFB1UjA0OUoyOUhSV1loTFNwTkF6cTYyRnpOM2JhMzgxSUJ0WmZoOUVSOU81YmpMT2xnT0hpYk1qNFlfd2M4eWFxNVBCNnlpY1pQVzZMTndjYWZzNFZz?oc=5</link>
-      <guid isPermaLink="false">CBMiXEFVX3lxTFB1UjA0OUoyOUhSV1loTFNwTkF6cTYyRnpOM2JhMzgxSUJ0WmZoOUVSOU81YmpMT2xnT0hpYk1qNFlfd2M4eWFxNVBCNnlpY1pQVzZMTndjYWZzNFZz</guid>
-      <pubDate>Wed, 30 Apr 2025 05:52:18 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiXEFVX3lxTFB1UjA0OUoyOUhSV1loTFNwTkF6cTYyRnpOM2JhMzgxSUJ0WmZoOUVSOU81YmpMT2xnT0hpYk1qNFlfd2M4eWFxNVBCNnlpY1pQVzZMTndjYWZzNFZz?oc=5" target="_blank"&gt;社員の8人に1人がG検定合格者。AIスキルの向上を全力支援するソフトバンクの人材育成戦略&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;ソフトバンク&lt;/font&gt;</description>
-      <source url="https://www.softbank.jp">ソフトバンク</source>
-    </item>
-    <item>
-      <title>生成 AI 最前線！5月開催の AWS 生成 AI イベントガイド - Amazon Web Services</title>
+      <title>生成 AI 最前線！5月開催の AWS 生成 AI イベントガイド - Amazon Web Services (AWS)</title>
       <link>https://news.google.com/rss/articles/CBMia0FVX3lxTFBnNzN4VnRJaGVxTmxyQXA2Mm9tYVNHczE3Q1B4MWdmdlphWTNabkVWNGhHTjJhbEhEdW5mVFRfTEdaalBfTVJMQUFSTkNHd3lSMTRNYURRYjV3LXg1ZG1yTXgzMFREV1V4eDlF?oc=5</link>
       <guid isPermaLink="false">CBMia0FVX3lxTFBnNzN4VnRJaGVxTmxyQXA2Mm9tYVNHczE3Q1B4MWdmdlphWTNabkVWNGhHTjJhbEhEdW5mVFRfTEdaalBfTVJMQUFSTkNHd3lSMTRNYURRYjV3LXg1ZG1yTXgzMFREV1V4eDlF</guid>
       <pubDate>Wed, 30 Apr 2025 00:08:55 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMia0FVX3lxTFBnNzN4VnRJaGVxTmxyQXA2Mm9tYVNHczE3Q1B4MWdmdlphWTNabkVWNGhHTjJhbEhEdW5mVFRfTEdaalBfTVJMQUFSTkNHd3lSMTRNYURRYjV3LXg1ZG1yTXgzMFREV1V4eDlF?oc=5" target="_blank"&gt;生成 AI 最前線！5月開催の AWS 生成 AI イベントガイド&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Amazon Web Services&lt;/font&gt;</description>
-      <source url="https://aws.amazon.com">Amazon Web Services</source>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMia0FVX3lxTFBnNzN4VnRJaGVxTmxyQXA2Mm9tYVNHczE3Q1B4MWdmdlphWTNabkVWNGhHTjJhbEhEdW5mVFRfTEdaalBfTVJMQUFSTkNHd3lSMTRNYURRYjV3LXg1ZG1yTXgzMFREV1V4eDlF?oc=5" target="_blank"&gt;生成 AI 最前線！5月開催の AWS 生成 AI イベントガイド&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Amazon Web Services (AWS)&lt;/font&gt;</description>
+      <source url="https://aws.amazon.com">Amazon Web Services (AWS)</source>
+    </item>
+    <item>
+      <title>生成AIを上手に使えるようになりたい私 - ケータイ Watch</title>
+      <link>https://news.google.com/rss/articles/CBMickFVX3lxTE8yWHQ2OE1oYVFXS29iZTR0T25jbTVKUWRvRUZoamdLYUM2X0gtQ2ZFNjVySTl2U1ZrZHNwMDNkMEprZThkWnNzYzAxZ3BEOTFEOURDLVp4T0RjaW0tTHBDM0IwNzNFSTRvQVRuZ2NLZ1ZVQQ?oc=5</link>
+      <guid isPermaLink="false">CBMickFVX3lxTE8yWHQ2OE1oYVFXS29iZTR0T25jbTVKUWRvRUZoamdLYUM2X0gtQ2ZFNjVySTl2U1ZrZHNwMDNkMEprZThkWnNzYzAxZ3BEOTFEOURDLVp4T0RjaW0tTHBDM0IwNzNFSTRvQVRuZ2NLZ1ZVQQ</guid>
+      <pubDate>Tue, 06 May 2025 15:00:00 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMickFVX3lxTE8yWHQ2OE1oYVFXS29iZTR0T25jbTVKUWRvRUZoamdLYUM2X0gtQ2ZFNjVySTl2U1ZrZHNwMDNkMEprZThkWnNzYzAxZ3BEOTFEOURDLVp4T0RjaW0tTHBDM0IwNzNFSTRvQVRuZ2NLZ1ZVQQ?oc=5" target="_blank"&gt;生成AIを上手に使えるようになりたい私&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;ケータイ Watch&lt;/font&gt;</description>
+      <source url="https://k-tai.watch.impress.co.jp">ケータイ Watch</source>
+    </item>
+    <item>
+      <title>AI開発のオルツが教育分野で相次ぎ協業 クローンを学習支援に（電波新聞デジタル） - Yahoo!ニュース</title>
+      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE54NGJYVG5ud2JSVWtCaWFLdHZ6NjkwWWJCUGlON2VZaUY4RE1OU2phbW1FcXM2Y0oyeWNxOWtzWWZ2U0FJYnhWcGdFNFBaUUNfbzZOaUZHZTMyMEpPSVJfSnNUMll1dGR4Qkg3cEdNOGN5SmlvR1ZWSGJ1U2NHak0?oc=5</link>
+      <guid isPermaLink="false">CBMif0FVX3lxTE54NGJYVG5ud2JSVWtCaWFLdHZ6NjkwWWJCUGlON2VZaUY4RE1OU2phbW1FcXM2Y0oyeWNxOWtzWWZ2U0FJYnhWcGdFNFBaUUNfbzZOaUZHZTMyMEpPSVJfSnNUMll1dGR4Qkg3cEdNOGN5SmlvR1ZWSGJ1U2NHak0</guid>
+      <pubDate>Tue, 06 May 2025 14:59:24 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMif0FVX3lxTE54NGJYVG5ud2JSVWtCaWFLdHZ6NjkwWWJCUGlON2VZaUY4RE1OU2phbW1FcXM2Y0oyeWNxOWtzWWZ2U0FJYnhWcGdFNFBaUUNfbzZOaUZHZTMyMEpPSVJfSnNUMll1dGR4Qkg3cEdNOGN5SmlvR1ZWSGJ1U2NHak0?oc=5" target="_blank"&gt;AI開発のオルツが教育分野で相次ぎ協業 クローンを学習支援に（電波新聞デジタル）&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo!ニュース&lt;/font&gt;</description>
+      <source url="https://news.yahoo.co.jp">Yahoo!ニュース</source>
+    </item>
+    <item>
+      <title>【コラム】ＡＩ依存から「考える自分」を取り戻す方法－オルソン - Bloomberg.co.jp</title>
+      <link>https://news.google.com/rss/articles/CBMidkFVX3lxTE5OQ05Id3VMcWJMaVRJcUVtWFV6dUUtRG5hZzRSRmZPWk11am0xTnJhT2s0X0dzdEZQSDd6ZDJIVEVXZG9NNzJpT21zMGgtV29GbEt1ZkdqUVA5YlZVWWk3Wl9SRk5adFpuUm5vN29OTWdmU01jb2c?oc=5</link>
+      <guid isPermaLink="false">CBMidkFVX3lxTE5OQ05Id3VMcWJMaVRJcUVtWFV6dUUtRG5hZzRSRmZPWk11am0xTnJhT2s0X0dzdEZQSDd6ZDJIVEVXZG9NNzJpT21zMGgtV29GbEt1ZkdqUVA5YlZVWWk3Wl9SRk5adFpuUm5vN29OTWdmU01jb2c</guid>
+      <pubDate>Tue, 06 May 2025 14:56:16 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMidkFVX3lxTE5OQ05Id3VMcWJMaVRJcUVtWFV6dUUtRG5hZzRSRmZPWk11am0xTnJhT2s0X0dzdEZQSDd6ZDJIVEVXZG9NNzJpT21zMGgtV29GbEt1ZkdqUVA5YlZVWWk3Wl9SRk5adFpuUm5vN29OTWdmU01jb2c?oc=5" target="_blank"&gt;【コラム】ＡＩ依存から「考える自分」を取り戻す方法－オルソン&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Bloomberg.co.jp&lt;/font&gt;</description>
+      <source url="https://www.bloomberg.co.jp">Bloomberg.co.jp</source>
     </item>
     <item>
       <title>OpenAI、AIコードエディタの「Windsurf」の買収で合意との報道 - Publickey</title>
@@ -64,14 +80,6 @@
       <source url="https://www.publickey1.jp">Publickey</source>
     </item>
     <item>
-      <title>一番面白いAIはどれなのか？大喜利をさせてみた結果…（ライフハッカー［日本版］） - ｄメニューニュース</title>
-      <link>https://news.google.com/rss/articles/CBMikgFBVV95cUxNZkstajliMHRTM1gtQk5EdDFBVmF0LTZncjE3el9rcml1MEFyOG9VMk5XOHBSLWNUdnI0dUN2Z01VV1Y1dFpNRmZfYkpUMVJ6ZG41MDJqdC1BX0MtVkszLUxjZjRYN3cwdlljSmZyVjNfa1NiYkhfVTVVT1BWdUdyMHRsWFU4Wi0tZ0t3UndQZHk4UQ?oc=5</link>
-      <guid isPermaLink="false">CBMikgFBVV95cUxNZkstajliMHRTM1gtQk5EdDFBVmF0LTZncjE3el9rcml1MEFyOG9VMk5XOHBSLWNUdnI0dUN2Z01VV1Y1dFpNRmZfYkpUMVJ6ZG41MDJqdC1BX0MtVkszLUxjZjRYN3cwdlljSmZyVjNfa1NiYkhfVTVVT1BWdUdyMHRsWFU4Wi0tZ0t3UndQZHk4UQ</guid>
-      <pubDate>Tue, 06 May 2025 13:27:00 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMikgFBVV95cUxNZkstajliMHRTM1gtQk5EdDFBVmF0LTZncjE3el9rcml1MEFyOG9VMk5XOHBSLWNUdnI0dUN2Z01VV1Y1dFpNRmZfYkpUMVJ6ZG41MDJqdC1BX0MtVkszLUxjZjRYN3cwdlljSmZyVjNfa1NiYkhfVTVVT1BWdUdyMHRsWFU4Wi0tZ0t3UndQZHk4UQ?oc=5" target="_blank"&gt;一番面白いAIはどれなのか？大喜利をさせてみた結果…（ライフハッカー［日本版］）&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;ｄメニューニュース&lt;/font&gt;</description>
-      <source url="https://topics.smt.docomo.ne.jp">ｄメニューニュース</source>
-    </item>
-    <item>
       <title>一番面白いAIはどれなのか？大喜利をさせてみた結果…（ライフハッカー・ジャパン） - Yahoo!ニュース</title>
       <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE9SOU1UT3NCRUVmYlNPVUFQT0FKMER1TFZpYXVweXFQSFI4ZVdwUFJ6dmhHeFBTRTkxU2kyVFpOdTVRMEtoeEhIdzlvTGtCdnRqVVFiY0RNTkgzd1Bka3drVXJVNVl5X3Mxcjk4dlpjX3B4SFMxN05wbVlfcGdFOTQ?oc=5</link>
       <guid isPermaLink="false">CBMif0FVX3lxTE9SOU1UT3NCRUVmYlNPVUFQT0FKMER1TFZpYXVweXFQSFI4ZVdwUFJ6dmhHeFBTRTkxU2kyVFpOdTVRMEtoeEhIdzlvTGtCdnRqVVFiY0RNTkgzd1Bka3drVXJVNVl5X3Mxcjk4dlpjX3B4SFMxN05wbVlfcGdFOTQ</guid>
@@ -80,12 +88,12 @@
       <source url="https://news.yahoo.co.jp">Yahoo!ニュース</source>
     </item>
     <item>
-      <title>GeminiでGoogleドライブがもっと便利に！ AIでファイル作成・検索まで（ライフハッカー・ジャパン） - Yahoo!ニュース</title>
-      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTFBTZ1JNMmZLcTVRdGJqS21pZzlEdUt0dUNYRWxUd1d6OHJ5ekhTcEJtcmtxYm1RZ1E3SzVTWndGMmFUand1UTBCcEFqbFFCdDBuWm8wMTNQZVBXaGNDbmZEaFVNUlZpbHdKQjJLaE9Ca2FVYUFYdmx1ZlV3VjFGTzg?oc=5</link>
-      <guid isPermaLink="false">CBMif0FVX3lxTFBTZ1JNMmZLcTVRdGJqS21pZzlEdUt0dUNYRWxUd1d6OHJ5ekhTcEJtcmtxYm1RZ1E3SzVTWndGMmFUand1UTBCcEFqbFFCdDBuWm8wMTNQZVBXaGNDbmZEaFVNUlZpbHdKQjJLaE9Ca2FVYUFYdmx1ZlV3VjFGTzg</guid>
-      <pubDate>Tue, 06 May 2025 12:41:01 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMif0FVX3lxTFBTZ1JNMmZLcTVRdGJqS21pZzlEdUt0dUNYRWxUd1d6OHJ5ekhTcEJtcmtxYm1RZ1E3SzVTWndGMmFUand1UTBCcEFqbFFCdDBuWm8wMTNQZVBXaGNDbmZEaFVNUlZpbHdKQjJLaE9Ca2FVYUFYdmx1ZlV3VjFGTzg?oc=5" target="_blank"&gt;GeminiでGoogleドライブがもっと便利に！ AIでファイル作成・検索まで（ライフハッカー・ジャパン）&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo!ニュース&lt;/font&gt;</description>
-      <source url="https://news.yahoo.co.jp">Yahoo!ニュース</source>
+      <title>GeminiでGoogleドライブがもっと便利に！ AIでファイル作成・検索まで - ライフハッカー・ジャパン</title>
+      <link>https://news.google.com/rss/articles/CBMilAFBVV95cUxORTI1SXZPT0xWZFh2MFJLb0YyWXZtdVNhRlpLRHRmZWRNMk5tVERaZmxvSFFBS1o4eHJxTFVzVkRNOVllVjg3ZnpydkYtakdUUUd1dG9XZFdIX1B4VF9XV01mRE5OSkktNFdxaGhBSF85T1ZWOWJMZXZESzRtNlYxM2JrbkVtbVFzQ01XQWJETkxGd3JL?oc=5</link>
+      <guid isPermaLink="false">CBMilAFBVV95cUxORTI1SXZPT0xWZFh2MFJLb0YyWXZtdVNhRlpLRHRmZWRNMk5tVERaZmxvSFFBS1o4eHJxTFVzVkRNOVllVjg3ZnpydkYtakdUUUd1dG9XZFdIX1B4VF9XV01mRE5OSkktNFdxaGhBSF85T1ZWOWJMZXZESzRtNlYxM2JrbkVtbVFzQ01XQWJETkxGd3JL</guid>
+      <pubDate>Tue, 06 May 2025 12:30:00 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMilAFBVV95cUxORTI1SXZPT0xWZFh2MFJLb0YyWXZtdVNhRlpLRHRmZWRNMk5tVERaZmxvSFFBS1o4eHJxTFVzVkRNOVllVjg3ZnpydkYtakdUUUd1dG9XZFdIX1B4VF9XV01mRE5OSkktNFdxaGhBSF85T1ZWOWJMZXZESzRtNlYxM2JrbkVtbVFzQ01XQWJETkxGd3JL?oc=5" target="_blank"&gt;GeminiでGoogleドライブがもっと便利に！ AIでファイル作成・検索まで&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;ライフハッカー・ジャパン&lt;/font&gt;</description>
+      <source url="https://www.lifehacker.jp">ライフハッカー・ジャパン</source>
     </item>
     <item>
       <title>【誰でも簡単 AIでウェブサイト作成】日本一のAIインフルエンサー・臼井拓水／タスク管理や体重記録、２人だけのＳＮＳも／AIでサイトを作ると勉強が習慣になる【CROSS DIG 1on1】 - TBS NEWS DIG</title>
@@ -112,14 +120,6 @@
       <source url="https://www.vietnam.vn">Vietnam.vn</source>
     </item>
     <item>
-      <title>生後半年の息子をAIで“20歳”にしたら……「ちゃうねんww」 予想を超える結果にママ爆笑 「絶対ええ子やん」（ねとらぼ） - Yahoo!ニュース</title>
-      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE92MjNmWVNDUld1QTc1eGkxaWZ6YWlzcWY3U2ctRlRoekQ1VFNrT3NPaUFKdFA4TngyUWZOTXp6VWVFblpEaUlReEdnZmVEUFp2RjZZU2VXTmZDSnhLeG11N19rQy1GMGU2b1hfbWloVW8zWWMtQUxhVURCRzkzMlU?oc=5</link>
-      <guid isPermaLink="false">CBMif0FVX3lxTE92MjNmWVNDUld1QTc1eGkxaWZ6YWlzcWY3U2ctRlRoekQ1VFNrT3NPaUFKdFA4TngyUWZOTXp6VWVFblpEaUlReEdnZmVEUFp2RjZZU2VXTmZDSnhLeG11N19rQy1GMGU2b1hfbWloVW8zWWMtQUxhVURCRzkzMlU</guid>
-      <pubDate>Tue, 06 May 2025 11:30:11 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMif0FVX3lxTE92MjNmWVNDUld1QTc1eGkxaWZ6YWlzcWY3U2ctRlRoekQ1VFNrT3NPaUFKdFA4TngyUWZOTXp6VWVFblpEaUlReEdnZmVEUFp2RjZZU2VXTmZDSnhLeG11N19rQy1GMGU2b1hfbWloVW8zWWMtQUxhVURCRzkzMlU?oc=5" target="_blank"&gt;生後半年の息子をAIで“20歳”にしたら……「ちゃうねんww」 予想を超える結果にママ爆笑 「絶対ええ子やん」（ねとらぼ）&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo!ニュース&lt;/font&gt;</description>
-      <source url="https://news.yahoo.co.jp">Yahoo!ニュース</source>
-    </item>
-    <item>
       <title>チャットGPTをサービスするオープンAIが人工知能(AI)コーディングサービス企業のウィンドサーフ(Windsurf)を30億ドル(約4兆1500億ウォン)で買収する。 5日（現地時間）、ブルームバー.. - 매일경제</title>
       <link>https://news.google.com/rss/articles/CBMiS0FVX3lxTE40WGFUX1BTSEpfWUxEdGdZZGdWaHZHQS1WUThjcVhlMDlvYkpOMEhkc1lMSXRWa0RsV0ZsaDBkRkRvcVRIaWpweFQ4WQ?oc=5</link>
       <guid isPermaLink="false">CBMiS0FVX3lxTE40WGFUX1BTSEpfWUxEdGdZZGdWaHZHQS1WUThjcVhlMDlvYkpOMEhkc1lMSXRWa0RsV0ZsaDBkRkRvcVRIaWpweFQ4WQ</guid>
@@ -131,7 +131,7 @@
       <title>オープンＡＩ、営利企業への移行断念 ＳＢＧ からの資金調達に影響も - MSN</title>
       <link>https://news.google.com/rss/articles/CBMixwNBVV95cUxOenk3NlpOaEtSNE9IeHEyME1oZGszNmdaMWdPdXpleXQ5MHYxY1N5cVM3LUlXcTdmc21JRTBCN0tnSVdaNVEwUVlfMjktOHNHUHhqMS11XzFCQWpMekY1ZW9YWXppSUxNeWs4ZjVWZjFuLWNXNVBXNWxXc0pGaTRGZXNMV25NRlNtVEJZcVFENVNWOWUxQ3ZlZGJnWnk2TVczRUtNWl9lNUdLYkJiMG10LUN6VU9WYkt0SmhZbmpQUHlFai1kLWFuYnJNT0RYdVFFUXZkbzY1WFYyLXl5WUNXWmNYSU9nOXBMT1FKel9Sa0NrX1hYQzBfb282dXI1bzJfbWpKOTAwLU9HcWZlU2ZNY2hDM2ZDSDFiR0JoZ3hOTVlpZ29yenIyRnpSdzRlLUdWV1hUSnF6ZzVpU191WlJxUnAtZk1Qb1QwVXh0N3ZJVTlHSnpqZk44aVYtMVR4aE5GQ21zXy1qNGpMQkdtTWpjaGxzQXotQy1Cb2p5bnJWYXR6MGRncVY0UzRJWndMQWxodXFZVVdJV1Zmb3ZsVmlRNF9WWlVfMF9xRjdsZzlndXZ3cUU0TTdjOS1odzdiYzBJRTV5TENtUQ?oc=5</link>
       <guid isPermaLink="false">CBMixwNBVV95cUxOenk3NlpOaEtSNE9IeHEyME1oZGszNmdaMWdPdXpleXQ5MHYxY1N5cVM3LUlXcTdmc21JRTBCN0tnSVdaNVEwUVlfMjktOHNHUHhqMS11XzFCQWpMekY1ZW9YWXppSUxNeWs4ZjVWZjFuLWNXNVBXNWxXc0pGaTRGZXNMV25NRlNtVEJZcVFENVNWOWUxQ3ZlZGJnWnk2TVczRUtNWl9lNUdLYkJiMG10LUN6VU9WYkt0SmhZbmpQUHlFai1kLWFuYnJNT0RYdVFFUXZkbzY1WFYyLXl5WUNXWmNYSU9nOXBMT1FKel9Sa0NrX1hYQzBfb282dXI1bzJfbWpKOTAwLU9HcWZlU2ZNY2hDM2ZDSDFiR0JoZ3hOTVlpZ29yenIyRnpSdzRlLUdWV1hUSnF6ZzVpU191WlJxUnAtZk1Qb1QwVXh0N3ZJVTlHSnpqZk44aVYtMVR4aE5GQ21zXy1qNGpMQkdtTWpjaGxzQXotQy1Cb2p5bnJWYXR6MGRncVY0UzRJWndMQWxodXFZVVdJV1Zmb3ZsVmlRNF9WWlVfMF9xRjdsZzlndXZ3cUU0TTdjOS1odzdiYzBJRTV5TENtUQ</guid>
-      <pubDate>Tue, 06 May 2025 08:14:08 GMT</pubDate>
+      <pubDate>Tue, 06 May 2025 08:23:02 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMixwNBVV95cUxOenk3NlpOaEtSNE9IeHEyME1oZGszNmdaMWdPdXpleXQ5MHYxY1N5cVM3LUlXcTdmc21JRTBCN0tnSVdaNVEwUVlfMjktOHNHUHhqMS11XzFCQWpMekY1ZW9YWXppSUxNeWs4ZjVWZjFuLWNXNVBXNWxXc0pGaTRGZXNMV25NRlNtVEJZcVFENVNWOWUxQ3ZlZGJnWnk2TVczRUtNWl9lNUdLYkJiMG10LUN6VU9WYkt0SmhZbmpQUHlFai1kLWFuYnJNT0RYdVFFUXZkbzY1WFYyLXl5WUNXWmNYSU9nOXBMT1FKel9Sa0NrX1hYQzBfb282dXI1bzJfbWpKOTAwLU9HcWZlU2ZNY2hDM2ZDSDFiR0JoZ3hOTVlpZ29yenIyRnpSdzRlLUdWV1hUSnF6ZzVpU191WlJxUnAtZk1Qb1QwVXh0N3ZJVTlHSnpqZk44aVYtMVR4aE5GQ21zXy1qNGpMQkdtTWpjaGxzQXotQy1Cb2p5bnJWYXR6MGRncVY0UzRJWndMQWxodXFZVVdJV1Zmb3ZsVmlRNF9WWlVfMF9xRjdsZzlndXZ3cUU0TTdjOS1odzdiYzBJRTV5TENtUQ?oc=5" target="_blank"&gt;オープンＡＩ、営利企業への移行断念 ＳＢＧ からの資金調達に影響も&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;MSN&lt;/font&gt;</description>
       <source url="http://www.msn.com">MSN</source>
     </item>
@@ -240,14 +240,6 @@
       <source url="https://youpouch.com">youpouch.com</source>
     </item>
     <item>
-      <title>「AIエージェント」7000体稼働のベンチャー 業務変革を後押し（電波新聞デジタル） - Yahoo!ニュース</title>
-      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTFBhWTI4MHVwUkdod3JUbF9LNEdaX05RTXA2YTlRWkFUQ0t3YlBTSVJKQ2VfY2RzZUNCclpUUFNVWVRHZlQxbl9TX1hTcjdHcUNQa2p2NVNVdUs1MTl5OGZTWkpZejBlako1WXFQUDRDdS1XWXpxTDhtWC1NdXV4ejg?oc=5</link>
-      <guid isPermaLink="false">CBMif0FVX3lxTFBhWTI4MHVwUkdod3JUbF9LNEdaX05RTXA2YTlRWkFUQ0t3YlBTSVJKQ2VfY2RzZUNCclpUUFNVWVRHZlQxbl9TX1hTcjdHcUNQa2p2NVNVdUs1MTl5OGZTWkpZejBlako1WXFQUDRDdS1XWXpxTDhtWC1NdXV4ejg</guid>
-      <pubDate>Tue, 06 May 2025 03:45:36 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMif0FVX3lxTFBhWTI4MHVwUkdod3JUbF9LNEdaX05RTXA2YTlRWkFUQ0t3YlBTSVJKQ2VfY2RzZUNCclpUUFNVWVRHZlQxbl9TX1hTcjdHcUNQa2p2NVNVdUs1MTl5OGZTWkpZejBlako1WXFQUDRDdS1XWXpxTDhtWC1NdXV4ejg?oc=5" target="_blank"&gt;「AIエージェント」7000体稼働のベンチャー 業務変革を後押し（電波新聞デジタル）&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo!ニュース&lt;/font&gt;</description>
-      <source url="https://news.yahoo.co.jp">Yahoo!ニュース</source>
-    </item>
-    <item>
       <title>OpenAIが営利化断念 「人知超え」技術急進に内外が求めたブレーキ - 日本経済新聞</title>
       <link>https://news.google.com/rss/articles/CBMibEFVX3lxTE94MUp1Q0hLT2ZLdXQxUnV3TkQwVk9IcjNFUkhNMmJicC1HYS1rWE1DVWg1VFp0VmFheW1yZHY3YW14MDlzMlF6MlU5UWVZc01LQTRBTEJFR2xrZlN5aFRVVXVacWplakZweVRPYw?oc=5</link>
       <guid isPermaLink="false">CBMibEFVX3lxTE94MUp1Q0hLT2ZLdXQxUnV3TkQwVk9IcjNFUkhNMmJicC1HYS1rWE1DVWg1VFp0VmFheW1yZHY3YW14MDlzMlF6MlU5UWVZc01LQTRBTEJFR2xrZlN5aFRVVXVacWplakZweVRPYw</guid>
@@ -262,6 +254,14 @@
       <pubDate>Tue, 06 May 2025 03:29:10 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMidkFVX3lxTE5sYkJjcmFyTEpDY1BZZ3pTOEFEZTlETUFvVkpQLWlod25SR1NrV280aXBPYmtyVEdwbmpuSDBSTXlxN3U2QU5hcmFYRUJEby1ja2N2bUtYYm1jUnhNSThHeUVOdGRhNmJ1VnFkM0FuemJWcE9xb2c?oc=5" target="_blank"&gt;オープンＡＩ、営利化計画断念－非営利団体の支配継続へ&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Bloomberg.co.jp&lt;/font&gt;</description>
       <source url="https://www.bloomberg.co.jp">Bloomberg.co.jp</source>
+    </item>
+    <item>
+      <title>「AIエージェント」を7000体以上稼働 パークシャが実績弾みに攻勢 - 電波新聞デジタル</title>
+      <link>https://news.google.com/rss/articles/CBMiUkFVX3lxTFAtR1RGQVU0LWdaeGFkTU5zOV9Lam1OeHFkNDdCUjhqWGx2UkpITmRMcGxsUjRBTlE3SlVhRGtIVUhDcFZLTU1BbDdYR05McjZlYlE?oc=5</link>
+      <guid isPermaLink="false">CBMiUkFVX3lxTFAtR1RGQVU0LWdaeGFkTU5zOV9Lam1OeHFkNDdCUjhqWGx2UkpITmRMcGxsUjRBTlE3SlVhRGtIVUhDcFZLTU1BbDdYR05McjZlYlE</guid>
+      <pubDate>Tue, 06 May 2025 03:18:16 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiUkFVX3lxTFAtR1RGQVU0LWdaeGFkTU5zOV9Lam1OeHFkNDdCUjhqWGx2UkpITmRMcGxsUjRBTlE3SlVhRGtIVUhDcFZLTU1BbDdYR05McjZlYlE?oc=5" target="_blank"&gt;「AIエージェント」を7000体以上稼働 パークシャが実績弾みに攻勢&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;電波新聞デジタル&lt;/font&gt;</description>
+      <source url="https://dempa-digital.com">電波新聞デジタル</source>
     </item>
     <item>
       <title>「一瞬、AIで作られたかと」えなこ、『紅茶のプリンセス』にフォロワー沸く 「解像度高くドキッ」「パーティーしましょう」 - 中日新聞Web</title>
@@ -294,14 +294,6 @@
       <pubDate>Tue, 06 May 2025 03:04:29 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiXkFVX3lxTE1OQWFzT2pkcWhfNTY2cFJsRGs5SXptTlV5UE1KaTRoNEdENVVXNVNlVUNiYnptaE9DUE9iZjlCemxPNlM0TGRCWjhtN3RQSE1QaV80amNMMFJ6eXhadnc?oc=5" target="_blank"&gt;「グッモーニン、おにいちゃん！」大好きなキャラと暮らせるマルチモーダルAI搭載コンパニオン「CODE27」&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Moovoo&lt;/font&gt;</description>
       <source url="https://moov.ooo">Moovoo</source>
-    </item>
-    <item>
-      <title>モトローラ最新折りたたみスマホ「razr 60 Ultra」「razr 60」レビュー！AI呼び出し専用ボタン搭載モデルも - Saiga NAK</title>
-      <link>https://news.google.com/rss/articles/CBMib0FVX3lxTFBFaVA0MVo2ZURid21wS3A1Z3FLYXI5WkJqQjZ4ZTJJOG0yOHgxS1Y1UTBRWU13cGpRN25lMzFtZld2dlRlbE5QVVQ4TEJnMFdQOEZQSmRXbEJyaDhpZm9iRVpvcWptd3BDaUpKM25GNNIBdEFVX3lxTE5idU85NWRnV0RDbS1vbnUwNjc3Y3h2bTdlaUU1Z0hIUkM5WU03dzRwcWdiZ0VMUFJaS2lncUcxeGp5Q2JFc3cxUWxkdHpESFlmMXJNT1JDWnpUdFF0YlpHTmdlMWVQOS1OWkFpNlBpSUY4bDdN?oc=5</link>
-      <guid isPermaLink="false">CBMib0FVX3lxTFBFaVA0MVo2ZURid21wS3A1Z3FLYXI5WkJqQjZ4ZTJJOG0yOHgxS1Y1UTBRWU13cGpRN25lMzFtZld2dlRlbE5QVVQ4TEJnMFdQOEZQSmRXbEJyaDhpZm9iRVpvcWptd3BDaUpKM25GNNIBdEFVX3lxTE5idU85NWRnV0RDbS1vbnUwNjc3Y3h2bTdlaUU1Z0hIUkM5WU03dzRwcWdiZ0VMUFJaS2lncUcxeGp5Q2JFc3cxUWxkdHpESFlmMXJNT1JDWnpUdFF0YlpHTmdlMWVQOS1OWkFpNlBpSUY4bDdN</guid>
-      <pubDate>Tue, 06 May 2025 03:00:49 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMib0FVX3lxTFBFaVA0MVo2ZURid21wS3A1Z3FLYXI5WkJqQjZ4ZTJJOG0yOHgxS1Y1UTBRWU13cGpRN25lMzFtZld2dlRlbE5QVVQ4TEJnMFdQOEZQSmRXbEJyaDhpZm9iRVpvcWptd3BDaUpKM25GNNIBdEFVX3lxTE5idU85NWRnV0RDbS1vbnUwNjc3Y3h2bTdlaUU1Z0hIUkM5WU03dzRwcWdiZ0VMUFJaS2lncUcxeGp5Q2JFc3cxUWxkdHpESFlmMXJNT1JDWnpUdFF0YlpHTmdlMWVQOS1OWkFpNlBpSUY4bDdN?oc=5" target="_blank"&gt;モトローラ最新折りたたみスマホ「razr 60 Ultra」「razr 60」レビュー！AI呼び出し専用ボタン搭載モデルも&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Saiga NAK&lt;/font&gt;</description>
-      <source url="https://saiganak.com">Saiga NAK</source>
     </item>
     <item>
       <title>ごっこ倶楽部とサイバーエージェントが挑む！ AIを活用した「極AIお台場スタジオ」を利用したバーチャルスタジオでの縦型ショートドラマ制作 - VIDEO SALON</title>
@@ -528,19 +520,19 @@
       <source url="https://www.nikkei.com">日本経済新聞</source>
     </item>
     <item>
+      <title>【天皇賞（春）】AIの本命はヘデントール 4歳馬優勝の必須条件「前年菊花賞3着以内」に唯一該当（SPAIA AI競馬） - Yahoo!ニュース</title>
+      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE5qZWVoZnZIOWFHRjBDTEx4YWdNWGZycnR1SXpnWXh6Q0hFQXA1RW1sekEtX09DN0liOE5LbkEtSzdMYUJKdzZteEhhXzZLcXZYS1lXYTQ5ZGtLNlNEakE3azloY3RRNXBWenFNNS1wT3dmbjdUMzJfU2pNeUFmbXM?oc=5</link>
+      <guid isPermaLink="false">CBMif0FVX3lxTE5qZWVoZnZIOWFHRjBDTEx4YWdNWGZycnR1SXpnWXh6Q0hFQXA1RW1sekEtX09DN0liOE5LbkEtSzdMYUJKdzZteEhhXzZLcXZYS1lXYTQ5ZGtLNlNEakE3azloY3RRNXBWenFNNS1wT3dmbjdUMzJfU2pNeUFmbXM</guid>
+      <pubDate>Sat, 03 May 2025 21:03:23 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMif0FVX3lxTE5qZWVoZnZIOWFHRjBDTEx4YWdNWGZycnR1SXpnWXh6Q0hFQXA1RW1sekEtX09DN0liOE5LbkEtSzdMYUJKdzZteEhhXzZLcXZYS1lXYTQ5ZGtLNlNEakE3azloY3RRNXBWenFNNS1wT3dmbjdUMzJfU2pNeUFmbXM?oc=5" target="_blank"&gt;【天皇賞（春）】AIの本命はヘデントール 4歳馬優勝の必須条件「前年菊花賞3着以内」に唯一該当（SPAIA AI競馬）&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo!ニュース&lt;/font&gt;</description>
+      <source url="https://news.yahoo.co.jp">Yahoo!ニュース</source>
+    </item>
+    <item>
       <title>この白黒写真、本物？ 生成AIが溶かす「リアルとフェイクの境界」 - 朝日新聞</title>
       <link>https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wcE1pQnFtWkdwRW5CMll4eHl4b2ZEVFFCNlBrOWEwc2FJRzJXV0JRS2MzSW9UQjRjNUpjcEczU3lNNWxINHRLWjgxQndSaUY4X2xla041OXRhZU5taHd6dDVNQ0ZaU0E?oc=5</link>
       <guid isPermaLink="false">CBMiZ0FVX3lxTE8wcE1pQnFtWkdwRW5CMll4eHl4b2ZEVFFCNlBrOWEwc2FJRzJXV0JRS2MzSW9UQjRjNUpjcEczU3lNNWxINHRLWjgxQndSaUY4X2xla041OXRhZU5taHd6dDVNQ0ZaU0E</guid>
       <pubDate>Sat, 03 May 2025 20:00:00 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wcE1pQnFtWkdwRW5CMll4eHl4b2ZEVFFCNlBrOWEwc2FJRzJXV0JRS2MzSW9UQjRjNUpjcEczU3lNNWxINHRLWjgxQndSaUY4X2xla041OXRhZU5taHd6dDVNQ0ZaU0E?oc=5" target="_blank"&gt;この白黒写真、本物？ 生成AIが溶かす「リアルとフェイクの境界」&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;朝日新聞&lt;/font&gt;</description>
-      <source url="https://www.asahi.com">朝日新聞</source>
-    </item>
-    <item>
-      <title>生成AIは歴史を歪曲するか 専門家が危惧する「破滅へのとば口」 - 朝日新聞</title>
-      <link>https://news.google.com/rss/articles/CBMiZ0FVX3lxTE43M1c2aWU4NGs3bm5kTjBaWFJNQWJHQVZpazU4bzAyUUY4WE1PS3dBdzIwcDdsTnNqQ19hSzVKOEtHNEZ3czhXdDZWdWMtUl9TbUFJcVZfS3R4TEJhY1JNVnQxNVplUVk?oc=5</link>
-      <guid isPermaLink="false">CBMiZ0FVX3lxTE43M1c2aWU4NGs3bm5kTjBaWFJNQWJHQVZpazU4bzAyUUY4WE1PS3dBdzIwcDdsTnNqQ19hSzVKOEtHNEZ3czhXdDZWdWMtUl9TbUFJcVZfS3R4TEJhY1JNVnQxNVplUVk</guid>
-      <pubDate>Sat, 03 May 2025 20:00:00 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiZ0FVX3lxTE43M1c2aWU4NGs3bm5kTjBaWFJNQWJHQVZpazU4bzAyUUY4WE1PS3dBdzIwcDdsTnNqQ19hSzVKOEtHNEZ3czhXdDZWdWMtUl9TbUFJcVZfS3R4TEJhY1JNVnQxNVplUVk?oc=5" target="_blank"&gt;生成AIは歴史を歪曲するか 専門家が危惧する「破滅へのとば口」&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;朝日新聞&lt;/font&gt;</description>
       <source url="https://www.asahi.com">朝日新聞</source>
     </item>
     <item>
@@ -550,14 +542,6 @@
       <pubDate>Sat, 03 May 2025 02:00:00 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiWEFVX3lxTE1RdnBvVlQ4d0J4SkpzRlNwU1VhYzlMek41bmtHb2tuSGd2bXNVaWpLOC1hb0FxME5iMDFpS0VWN0VTc1J0TUJxMERpWlZlSHZuYWNVWUpJWEI?oc=5" target="_blank"&gt;レノボ「Yoga Tab Plus」はペン入力＆独自AI対応の格安・大画面タブレット！&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;価格.comマガジン&lt;/font&gt;</description>
       <source url="https://kakakumag.com">価格.comマガジン</source>
-    </item>
-    <item>
-      <title>プログラミングを学んでもムダに…最新データでわかった「AIに奪われた仕事」「最大の犠牲者」とは（プレジデントオンライン） - Yahoo!ニュース</title>
-      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE9PMTdNRnlZUWVGSGFXbW9YNkFQcjdnSXd0dW9FQndYOW5udDdlU1RBMzVYZGp2WklreHdFOEdOZnJJeG1tVWwwZ2lzSkdaYUdPWXdlWnI2YWNMQjB5cS1KV3BvdkJfMmRqZ081Skx3elgyUzJwVUhVVjlVZjJBTVE?oc=5</link>
-      <guid isPermaLink="false">CBMif0FVX3lxTE9PMTdNRnlZUWVGSGFXbW9YNkFQcjdnSXd0dW9FQndYOW5udDdlU1RBMzVYZGp2WklreHdFOEdOZnJJeG1tVWwwZ2lzSkdaYUdPWXdlWnI2YWNMQjB5cS1KV3BvdkJfMmRqZ081Skx3elgyUzJwVUhVVjlVZjJBTVE</guid>
-      <pubDate>Mon, 05 May 2025 23:17:18 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMif0FVX3lxTE9PMTdNRnlZUWVGSGFXbW9YNkFQcjdnSXd0dW9FQndYOW5udDdlU1RBMzVYZGp2WklreHdFOEdOZnJJeG1tVWwwZ2lzSkdaYUdPWXdlWnI2YWNMQjB5cS1KV3BvdkJfMmRqZ081Skx3elgyUzJwVUhVVjlVZjJBTVE?oc=5" target="_blank"&gt;プログラミングを学んでもムダに…最新データでわかった「AIに奪われた仕事」「最大の犠牲者」とは（プレジデントオンライン）&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo!ニュース&lt;/font&gt;</description>
-      <source url="https://news.yahoo.co.jp">Yahoo!ニュース</source>
     </item>
     <item>
       <title>プログラミングを学んでもムダに…最新データでわかった「AIに奪われた仕事」「最大の犠牲者」とは（プレジデントオンライン） - Yahoo!ニュース</title>
@@ -576,12 +560,12 @@
       <source url="https://www.businessinsider.jp">Business Insider Japan</source>
     </item>
     <item>
-      <title>「韓国版Perplexity」のoo.ai、MAU100万人突破 - korit.jp</title>
-      <link>https://news.google.com/rss/articles/CBMihAFBVV95cUxQQ2R1cEx4X0dabi16ZEZPWVFuZElRelU2aUZLTnpvcnNBbVRCWV9OOUt2aENETXVteTJnaUhRZW9fcDNITlBIc1pvWXFZLVc5MWdabEJwR2E3V0gyZ2VpZVozNk8xV05XaW02cXFyU3VxVFI0Rml0enktQVJYS2wtS29BT0U?oc=5</link>
-      <guid isPermaLink="false">CBMihAFBVV95cUxQQ2R1cEx4X0dabi16ZEZPWVFuZElRelU2aUZLTnpvcnNBbVRCWV9OOUt2aENETXVteTJnaUhRZW9fcDNITlBIc1pvWXFZLVc5MWdabEJwR2E3V0gyZ2VpZVozNk8xV05XaW02cXFyU3VxVFI0Rml0enktQVJYS2wtS29BT0U</guid>
-      <pubDate>Mon, 05 May 2025 23:02:55 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQQ2R1cEx4X0dabi16ZEZPWVFuZElRelU2aUZLTnpvcnNBbVRCWV9OOUt2aENETXVteTJnaUhRZW9fcDNITlBIc1pvWXFZLVc5MWdabEJwR2E3V0gyZ2VpZVozNk8xV05XaW02cXFyU3VxVFI0Rml0enktQVJYS2wtS29BT0U?oc=5" target="_blank"&gt;「韓国版Perplexity」のoo.ai、MAU100万人突破&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;korit.jp&lt;/font&gt;</description>
-      <source url="https://www.korit.jp">korit.jp</source>
+      <title>失われたゴッホか、偽物か？ AIが導いた結論とは - WIRED.jp</title>
+      <link>https://news.google.com/rss/articles/CBMijAFBVV95cUxPa2Q5MzNNOXZnVHQxZWM5NzF3SHo0R2o4WFRLTjUwVktaN2lVZFdST1RjTHh0YzdZNXNaeFFob3RlZUVxd3pKUTdyOElWeHc1OUhHN1JCZzhYVGdSbGM5THgwdTgyNjVFSGRUcXBkaDFKeTJGcEpzSmNkSXJzdTgzQlhWMG5haWZwSUxndw?oc=5</link>
+      <guid isPermaLink="false">CBMijAFBVV95cUxPa2Q5MzNNOXZnVHQxZWM5NzF3SHo0R2o4WFRLTjUwVktaN2lVZFdST1RjTHh0YzdZNXNaeFFob3RlZUVxd3pKUTdyOElWeHc1OUhHN1JCZzhYVGdSbGM5THgwdTgyNjVFSGRUcXBkaDFKeTJGcEpzSmNkSXJzdTgzQlhWMG5haWZwSUxndw</guid>
+      <pubDate>Mon, 05 May 2025 23:00:00 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMijAFBVV95cUxPa2Q5MzNNOXZnVHQxZWM5NzF3SHo0R2o4WFRLTjUwVktaN2lVZFdST1RjTHh0YzdZNXNaeFFob3RlZUVxd3pKUTdyOElWeHc1OUhHN1JCZzhYVGdSbGM5THgwdTgyNjVFSGRUcXBkaDFKeTJGcEpzSmNkSXJzdTgzQlhWMG5haWZwSUxndw?oc=5" target="_blank"&gt;失われたゴッホか、偽物か？ AIが導いた結論とは&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;WIRED.jp&lt;/font&gt;</description>
+      <source url="https://wired.jp">WIRED.jp</source>
     </item>
     <item>
       <title>顧客サポートAIが暴走してコードエディターAI「Cursor」開発企業の評判がガタ落ちに - GIGAZINE</title>
@@ -590,14 +574,6 @@
       <pubDate>Mon, 05 May 2025 23:00:00 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiY0FVX3lxTFBIbmlkbDdpcjhzejc3elU0Q3dPODk5VWk4TzBjbVp2UGtqdm5oWmpmVTJ4Z29YdC1HODg3VXgyQ1pFSkd1N3BURHVCN21IYXRrUTZWdzdDUndqSE5MRkdiUk5PUQ?oc=5" target="_blank"&gt;顧客サポートAIが暴走してコードエディターAI「Cursor」開発企業の評判がガタ落ちに&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;GIGAZINE&lt;/font&gt;</description>
       <source url="https://gigazine.net">GIGAZINE</source>
-    </item>
-    <item>
-      <title>失われたゴッホか、偽物か？ AIが導いた結論とは - WIRED.jp</title>
-      <link>https://news.google.com/rss/articles/CBMijAFBVV95cUxPa2Q5MzNNOXZnVHQxZWM5NzF3SHo0R2o4WFRLTjUwVktaN2lVZFdST1RjTHh0YzdZNXNaeFFob3RlZUVxd3pKUTdyOElWeHc1OUhHN1JCZzhYVGdSbGM5THgwdTgyNjVFSGRUcXBkaDFKeTJGcEpzSmNkSXJzdTgzQlhWMG5haWZwSUxndw?oc=5</link>
-      <guid isPermaLink="false">CBMijAFBVV95cUxPa2Q5MzNNOXZnVHQxZWM5NzF3SHo0R2o4WFRLTjUwVktaN2lVZFdST1RjTHh0YzdZNXNaeFFob3RlZUVxd3pKUTdyOElWeHc1OUhHN1JCZzhYVGdSbGM5THgwdTgyNjVFSGRUcXBkaDFKeTJGcEpzSmNkSXJzdTgzQlhWMG5haWZwSUxndw</guid>
-      <pubDate>Mon, 05 May 2025 23:00:00 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMijAFBVV95cUxPa2Q5MzNNOXZnVHQxZWM5NzF3SHo0R2o4WFRLTjUwVktaN2lVZFdST1RjTHh0YzdZNXNaeFFob3RlZUVxd3pKUTdyOElWeHc1OUhHN1JCZzhYVGdSbGM5THgwdTgyNjVFSGRUcXBkaDFKeTJGcEpzSmNkSXJzdTgzQlhWMG5haWZwSUxndw?oc=5" target="_blank"&gt;失われたゴッホか、偽物か？ AIが導いた結論とは&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;WIRED.jp&lt;/font&gt;</description>
-      <source url="https://wired.jp">WIRED.jp</source>
     </item>
     <item>
       <title>プログラミングを学んでもムダに…最新データでわかった｢AIに奪われた仕事｣｢最大の犠牲者｣とは - PRESIDENT Online（プレジデントオンライン）</title>
@@ -624,12 +600,12 @@
       <source url="https://jp.reuters.com">ロイター</source>
     </item>
     <item>
-      <title>Freepik、著作権クリアなオープンソースAI画像生成モデル「F Lite」を発表 - XenoSpectrum</title>
-      <link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZjdqSXBqbGIzdm5BTU1PdnhQTHdtV1ZoQmdhYUZ4WUJldnQzRUg2VnRON3ZMZkstTEM5ZnQ1ODRrYWZYSUhaeE0yNmNUZTJ3aG1zZ184TE1nVERKWE1mbzZuVUtRMjNfNTZ0MTFZSHJSbzFNYkpHa2w3TVdQVFQzd1UzZUthVzQ3T3RHdnJPcGRaWC1DRzQtUldEbzdsVm5nLU4tVGJ4WGs?oc=5</link>
-      <guid isPermaLink="false">CBMiqAFBVV95cUxQZjdqSXBqbGIzdm5BTU1PdnhQTHdtV1ZoQmdhYUZ4WUJldnQzRUg2VnRON3ZMZkstTEM5ZnQ1ODRrYWZYSUhaeE0yNmNUZTJ3aG1zZ184TE1nVERKWE1mbzZuVUtRMjNfNTZ0MTFZSHJSbzFNYkpHa2w3TVdQVFQzd1UzZUthVzQ3T3RHdnJPcGRaWC1DRzQtUldEbzdsVm5nLU4tVGJ4WGs</guid>
-      <pubDate>Mon, 05 May 2025 21:48:06 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZjdqSXBqbGIzdm5BTU1PdnhQTHdtV1ZoQmdhYUZ4WUJldnQzRUg2VnRON3ZMZkstTEM5ZnQ1ODRrYWZYSUhaeE0yNmNUZTJ3aG1zZ184TE1nVERKWE1mbzZuVUtRMjNfNTZ0MTFZSHJSbzFNYkpHa2w3TVdQVFQzd1UzZUthVzQ3T3RHdnJPcGRaWC1DRzQtUldEbzdsVm5nLU4tVGJ4WGs?oc=5" target="_blank"&gt;Freepik、著作権クリアなオープンソースAI画像生成モデル「F Lite」を発表&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;XenoSpectrum&lt;/font&gt;</description>
-      <source url="https://xenospectrum.com">XenoSpectrum</source>
+      <title>米オープンAI、営利主導転換断念 「利益優先」批判、意識か（時事通信） - Yahoo!ニュース</title>
+      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE94MnJIUFR3ektrbUIxLTA5RHBvRVlIMkJvS0FmNzMwdHNUalhVdXNvRW9iV3pwMm5MakRKRDNwd2txdmc1MUU2eEpsdmktU3pJZFhXZGREellaVnAxcTRYbDJCSWZkTnVNS1g1T2ctbGctRE4xMUp3SGZyQlFmN2s?oc=5</link>
+      <guid isPermaLink="false">CBMif0FVX3lxTE94MnJIUFR3ektrbUIxLTA5RHBvRVlIMkJvS0FmNzMwdHNUalhVdXNvRW9iV3pwMm5MakRKRDNwd2txdmc1MUU2eEpsdmktU3pJZFhXZGREellaVnAxcTRYbDJCSWZkTnVNS1g1T2ctbGctRE4xMUp3SGZyQlFmN2s</guid>
+      <pubDate>Mon, 05 May 2025 21:53:37 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMif0FVX3lxTE94MnJIUFR3ektrbUIxLTA5RHBvRVlIMkJvS0FmNzMwdHNUalhVdXNvRW9iV3pwMm5MakRKRDNwd2txdmc1MUU2eEpsdmktU3pJZFhXZGREellaVnAxcTRYbDJCSWZkTnVNS1g1T2ctbGctRE4xMUp3SGZyQlFmN2s?oc=5" target="_blank"&gt;米オープンAI、営利主導転換断念 「利益優先」批判、意識か（時事通信）&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo!ニュース&lt;/font&gt;</description>
+      <source url="https://news.yahoo.co.jp">Yahoo!ニュース</source>
     </item>
     <item>
       <title>オープンAI、営利化を断念 - WSJ</title>
@@ -752,6 +728,14 @@
       <source url="https://www.businessinsider.jp">Business Insider Japan</source>
     </item>
     <item>
+      <title>家庭学習に生成AI 親にできること - Yahoo!ニュース</title>
+      <link>https://news.google.com/rss/articles/CBMiUEFVX3lxTE0xZU84RGh1eHpRMEJYUXYxUWVmZS1PaFl5ZTQ3c19pZWRLenpsaGN1NWJQMHNKckt5a1VlUmJnbVF6MnRQbWRwNDZiMV9iV29Y?oc=5</link>
+      <guid isPermaLink="false">CBMiUEFVX3lxTE0xZU84RGh1eHpRMEJYUXYxUWVmZS1PaFl5ZTQ3c19pZWRLenpsaGN1NWJQMHNKckt5a1VlUmJnbVF6MnRQbWRwNDZiMV9iV29Y</guid>
+      <pubDate>Mon, 05 May 2025 05:14:12 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiUEFVX3lxTE0xZU84RGh1eHpRMEJYUXYxUWVmZS1PaFl5ZTQ3c19pZWRLenpsaGN1NWJQMHNKckt5a1VlUmJnbVF6MnRQbWRwNDZiMV9iV29Y?oc=5" target="_blank"&gt;家庭学習に生成AI 親にできること&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo!ニュース&lt;/font&gt;</description>
+      <source url="https://news.yahoo.co.jp">Yahoo!ニュース</source>
+    </item>
+    <item>
       <title>オードリー若林 「親友」ＡＩに月３万円課金で「１０００回ぐらい質問」会話は１日２時間（デイリースポーツ） - Yahoo!ニュース</title>
       <link>https://news.google.com/rss/articles/CBMif0FVX3lxTFBYeG1zSVZfdW5JUVlZODFXZ0xXMkZrT0tLenlNS2VlZ1dYMy10bzAydHFXSnRpTzk4bGRGakxXU00weDRuSno3MDR4MlhTTmRxaDlvbHdOSE16aW43cl9WampPczRRekgtanhYNnVkbG9OX2hGc2xnb3FiSlVnVEE?oc=5</link>
       <guid isPermaLink="false">CBMif0FVX3lxTFBYeG1zSVZfdW5JUVlZODFXZ0xXMkZrT0tLenlNS2VlZ1dYMy10bzAydHFXSnRpTzk4bGRGakxXU00weDRuSno3MDR4MlhTTmRxaDlvbHdOSE16aW43cl9WampPczRRekgtanhYNnVkbG9OX2hGc2xnb3FiSlVnVEE</guid>
@@ -798,6 +782,14 @@
       <pubDate>Fri, 02 May 2025 09:00:00 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiV0FVX3lxTE16dW92YTYwNk50cnFiVV9GNGtwRVhTOHQxLWpzSEdnU3FpTlpvMkxNTjF2NXVJVllzWHFFQjliU2paWGFHRTVWaFkzV2wyeE4yMmMxMGs3SdIBXEFVX3lxTFBwV3VranZEMmdYRkVqeGtGMzJST0FXRGdvWXcwbFZiS3lwbDhwYlpKS1gxOEszal9rSnA1NF8tQ2c2MXJiTXZDUW1LT2lYdUFIZ3JGdEFCc281Ykk5?oc=5" target="_blank"&gt;「ゲームプログラムの8～9割はすでにAIが作る。必要なのは人間の“審美眼”」LV5日野社長が若手クリエイターを激励。人材育成プログラム“トップゲームクリエイターズ・アカデミー”入学式が開催【TGCA】&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;famitsu.com&lt;/font&gt;</description>
       <source url="https://www.famitsu.com">famitsu.com</source>
+    </item>
+    <item>
+      <title>天皇賞・春のヘデントールは「買い」か「消し」か、好調AI診断と魅惑の穴馬に注目！ - スポーツナビ</title>
+      <link>https://news.google.com/rss/articles/CBMibkFVX3lxTFBKYXlIUnlLSDVVb1laQnVkMVpraUd0c3VLNUNDNVNvT2hYRWJiYWpRRDFjNU1hRjVWUUhhRTVaZHhndEhCbFo0VlNuZFN0Rm4wREZZMTI1Q0xFY3FEZElvYVZ4R3BXV085YWszMjBB?oc=5</link>
+      <guid isPermaLink="false">CBMibkFVX3lxTFBKYXlIUnlLSDVVb1laQnVkMVpraUd0c3VLNUNDNVNvT2hYRWJiYWpRRDFjNU1hRjVWUUhhRTVaZHhndEhCbFo0VlNuZFN0Rm4wREZZMTI1Q0xFY3FEZElvYVZ4R3BXV085YWszMjBB</guid>
+      <pubDate>Fri, 02 May 2025 08:40:00 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMibkFVX3lxTFBKYXlIUnlLSDVVb1laQnVkMVpraUd0c3VLNUNDNVNvT2hYRWJiYWpRRDFjNU1hRjVWUUhhRTVaZHhndEhCbFo0VlNuZFN0Rm4wREZZMTI1Q0xFY3FEZElvYVZ4R3BXV085YWszMjBB?oc=5" target="_blank"&gt;天皇賞・春のヘデントールは「買い」か「消し」か、好調AI診断と魅惑の穴馬に注目！&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;スポーツナビ&lt;/font&gt;</description>
+      <source url="https://sports.yahoo.co.jp">スポーツナビ</source>
     </item>
     <item>
       <title>マイクロソフト、マスク氏のＡＩモデル「グロック」導入へ＝報道 - ロイター</title>
