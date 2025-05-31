@@ -6,7 +6,7 @@
     <language>ja</language>
     <webMaster>news-webmaster@google.com</webMaster>
     <copyright>Copyright © 2025 Google. All rights reserved. This XML feed is made available solely for the purpose of rendering Google News results within a personal feed reader for personal, non-commercial use. Any other use of the feed is expressly prohibited. By accessing this feed or using these results in any manner whatsoever, you agree to be bound by the foregoing restrictions.</copyright>
-    <lastBuildDate>Sat, 31 May 2025 21:18:56 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 May 2025 22:19:49 GMT</lastBuildDate>
     <image>
       <title>Google ニュース</title>
       <url>https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w256</url>
@@ -181,6 +181,14 @@
       <guid isPermaLink="false">CBMiW0FVX3lxTFAtMU56Wk1FMHR5OG12Sjdlb1Rzb1JmQU1iSDRzRTVlOERtd0NScmY0Wm96ekQ3TnJGMlE4OS1MUzU4blZFUDIwbm9EczlEYnRkMEVjTGVLSDY1U2s</guid>
       <pubDate>Tue, 28 Mar 2023 07:00:00 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiW0FVX3lxTFAtMU56Wk1FMHR5OG12Sjdlb1Rzb1JmQU1iSDRzRTVlOERtd0NScmY0Wm96ekQ3TnJGMlE4OS1MUzU4blZFUDIwbm9EczlEYnRkMEVjTGVLSDY1U2s?oc=5" target="_blank"&gt;ChatGPT 人間のフィードバックから強化学習した対話AI&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
+      <source url="https://speakerdeck.com">Speaker Deck</source>
+    </item>
+    <item>
+      <title>AIにコードを生成するコードを作らせて、再現性を担保しよう！ / Let AI generate code to ensure reproducibility - Speaker Deck</title>
+      <link>https://news.google.com/rss/articles/CBMihAFBVV95cUxQMEVLRTlZUnd3NnRraUN0WjJUby1kbERHcXpWMTVuaFJ0ZXcxLUtMSXpHMkc3a1ZHWWtTTWxXMm9NelgxaGVSVnlVLU9LN0V1QjFXWXZOSmRBUmNiMkNCYmRhSDhDU05sMU9CN1Q0TzRSdGZ2QWxIUTVOMnFoV2N3eVlLWkk?oc=5</link>
+      <guid isPermaLink="false">CBMihAFBVV95cUxQMEVLRTlZUnd3NnRraUN0WjJUby1kbERHcXpWMTVuaFJ0ZXcxLUtMSXpHMkc3a1ZHWWtTTWxXMm9NelgxaGVSVnlVLU9LN0V1QjFXWXZOSmRBUmNiMkNCYmRhSDhDU05sMU9CN1Q0TzRSdGZ2QWxIUTVOMnFoV2N3eVlLWkk</guid>
+      <pubDate>Tue, 27 May 2025 17:31:33 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQMEVLRTlZUnd3NnRraUN0WjJUby1kbERHcXpWMTVuaFJ0ZXcxLUtMSXpHMkc3a1ZHWWtTTWxXMm9NelgxaGVSVnlVLU9LN0V1QjFXWXZOSmRBUmNiMkNCYmRhSDhDU05sMU9CN1Q0TzRSdGZ2QWxIUTVOMnFoV2N3eVlLWkk?oc=5" target="_blank"&gt;AIにコードを生成するコードを作らせて、再現性を担保しよう！ / Let AI generate code to ensure reproducibility&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
@@ -605,14 +613,6 @@
       <guid isPermaLink="false">CBMiXkFVX3lxTFA1bUlyWkpFdmFYLW5QcUhxaEhnSE05NGxoSEpPUXJDb3lvWVBiNUlDUnJlbVlCaFVvcUxBQWstRVM3V3FwYlU4QWlsR0hURGxVWWV5VjFaUXBZTS0xMnc</guid>
       <pubDate>Sat, 24 May 2025 05:28:35 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiXkFVX3lxTFA1bUlyWkpFdmFYLW5QcUhxaEhnSE05NGxoSEpPUXJDb3lvWVBiNUlDUnJlbVlCaFVvcUxBQWstRVM3V3FwYlU4QWlsR0hURGxVWWV5VjFaUXBZTS0xMnc?oc=5" target="_blank"&gt;フロントエンドがTypeScriptなら、バックエンドはPHPでもいいじゃない/php-is-not-bad&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
-      <source url="https://speakerdeck.com">Speaker Deck</source>
-    </item>
-    <item>
-      <title>TypeScriptネイティブ移植観察レポート TSKaigi 2025 - Speaker Deck</title>
-      <link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdkFhYjhQbmtuNVFnQTNHc3lBQ0hxUVE5WnFtcUk2X2tQektDNFMySWpBRU5WNEdqWVBFd1paM2dXdkhSbG9waU5JNVN0Z3dMaU1KSXQwM1prYVNXUnhXTEowWmk5aVpjR3o5VzhSYjFhZDBMSXhrZDZYMi1ZLXZHWnA5aWNxZm1CT3ZB?oc=5</link>
-      <guid isPermaLink="false">CBMiiwFBVV95cUxQdkFhYjhQbmtuNVFnQTNHc3lBQ0hxUVE5WnFtcUk2X2tQektDNFMySWpBRU5WNEdqWVBFd1paM2dXdkhSbG9waU5JNVN0Z3dMaU1KSXQwM1prYVNXUnhXTEowWmk5aVpjR3o5VzhSYjFhZDBMSXhrZDZYMi1ZLXZHWnA5aWNxZm1CT3ZB</guid>
-      <pubDate>Sat, 24 May 2025 03:02:34 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdkFhYjhQbmtuNVFnQTNHc3lBQ0hxUVE5WnFtcUk2X2tQektDNFMySWpBRU5WNEdqWVBFd1paM2dXdkhSbG9waU5JNVN0Z3dMaU1KSXQwM1prYVNXUnhXTEowWmk5aVpjR3o5VzhSYjFhZDBMSXhrZDZYMi1ZLXZHWnA5aWNxZm1CT3ZB?oc=5" target="_blank"&gt;TypeScriptネイティブ移植観察レポート TSKaigi 2025&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
