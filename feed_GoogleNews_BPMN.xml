@@ -6,7 +6,7 @@
     <language>ja</language>
     <webMaster>news-webmaster@google.com</webMaster>
     <copyright>Copyright © 2025 Google. All rights reserved. This XML feed is made available solely for the purpose of rendering Google News results within a personal feed reader for personal, non-commercial use. Any other use of the feed is expressly prohibited. By accessing this feed or using these results in any manner whatsoever, you agree to be bound by the foregoing restrictions.</copyright>
-    <lastBuildDate>Thu, 05 Jun 2025 12:47:22 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Jun 2025 13:34:36 GMT</lastBuildDate>
     <image>
       <title>Google ニュース</title>
       <url>https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w256</url>
@@ -48,14 +48,6 @@
       <source url="https://xtech.nikkei.com">日経クロステック</source>
     </item>
     <item>
-      <title>ネットワーク運用・保守の自動化ソフトウェア「FUJITSU Network Virtuora SP」を販売開始 : 富士通 - Fujitsu</title>
-      <link>https://news.google.com/rss/articles/CBMiWkFVX3lxTE1OSHlBR2lISTlWOEFMb2ZacS1SVFoxejhWYmRlREVLMUtrZzV3eWRyM2RZSmJjMnYxS2I3aW5NZVZ0N3ZvdG1IZ2ZaUEJoRWU5OTk3bkFhZkQxQQ?oc=5</link>
-      <guid isPermaLink="false">CBMiWkFVX3lxTE1OSHlBR2lISTlWOEFMb2ZacS1SVFoxejhWYmRlREVLMUtrZzV3eWRyM2RZSmJjMnYxS2I3aW5NZVZ0N3ZvdG1IZ2ZaUEJoRWU5OTk3bkFhZkQxQQ</guid>
-      <pubDate>Wed, 24 Feb 2016 08:00:00 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE1OSHlBR2lISTlWOEFMb2ZacS1SVFoxejhWYmRlREVLMUtrZzV3eWRyM2RZSmJjMnYxS2I3aW5NZVZ0N3ZvdG1IZ2ZaUEJoRWU5OTk3bkFhZkQxQQ?oc=5" target="_blank"&gt;ネットワーク運用・保守の自動化ソフトウェア「FUJITSU Network Virtuora SP」を販売開始 : 富士通&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Fujitsu&lt;/font&gt;</description>
-      <source url="https://pr.fujitsu.com">Fujitsu</source>
-    </item>
-    <item>
       <title>富士通、BPMNで運用フローを記述してネットワーク運用保守を自動化するソフト - 日経クロステック</title>
       <link>https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Ya3U4R1dwczlUZDFmbTYwY19tLWl0aDlMR1FLZ3NSTURwdEZ2U0tzX0xMX2l3SW9PSzlpTDZSdW5VTURGRXA5WVU5YjJSbWh4ZE4xc25xLXZzUXQxN0V1MQ?oc=5</link>
       <guid isPermaLink="false">CBMiYEFVX3lxTE9Ya3U4R1dwczlUZDFmbTYwY19tLWl0aDlMR1FLZ3NSTURwdEZ2U0tzX0xMX2l3SW9PSzlpTDZSdW5VTURGRXA5WVU5YjJSbWh4ZE4xc25xLXZzUXQxN0V1MQ</guid>
@@ -70,6 +62,14 @@
       <pubDate>Wed, 21 Apr 2010 07:00:00 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPWTltd0YxeUdRRmh0eGkwR3p4QmZjTkQtQ2ZXSDBSNHFzSFppbFR0SlZXSUdYRmt6ZWxmZHJveHUzaEh1Y3FiOUh5Z0VIU1lPbDA0NHZsVnE1QQ?oc=5" target="_blank"&gt;ヒューマンフローとシステムフローを統合するＢＰＭ新製品「DataSpider BPM」を発表─ アプレッソとクエステトラBPM-EAI連携可能なＢＰＭシステムを共同開発 ─&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;valuepress&lt;/font&gt;</description>
       <source url="https://www.value-press.com">valuepress</source>
+    </item>
+    <item>
+      <title>ビジネスプロセスとビジネスルールを統合管理するオープンソースのBPMスイート - 日経クロステック Active</title>
+      <link>https://news.google.com/rss/articles/CBMibkFVX3lxTE5OQ1R1SmVrREM1aGMxVXB2bEVMa3JmazBZSWdNRkFVTG1fREN6aVhYaTRjbFl1VmFLWmNXOUxyczZLZHd1dDczb0NId3BuVklWNm1tUnVqMlRSYTUwYm1sNW1JLTNnMG53enE5ZHln?oc=5</link>
+      <guid isPermaLink="false">CBMibkFVX3lxTE5OQ1R1SmVrREM1aGMxVXB2bEVMa3JmazBZSWdNRkFVTG1fREN6aVhYaTRjbFl1VmFLWmNXOUxyczZLZHd1dDczb0NId3BuVklWNm1tUnVqMlRSYTUwYm1sNW1JLTNnMG53enE5ZHln</guid>
+      <pubDate>Wed, 19 Mar 2014 07:00:00 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMibkFVX3lxTE5OQ1R1SmVrREM1aGMxVXB2bEVMa3JmazBZSWdNRkFVTG1fREN6aVhYaTRjbFl1VmFLWmNXOUxyczZLZHd1dDczb0NId3BuVklWNm1tUnVqMlRSYTUwYm1sNW1JLTNnMG53enE5ZHln?oc=5" target="_blank"&gt;ビジネスプロセスとビジネスルールを統合管理するオープンソースのBPMスイート&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;日経クロステック Active&lt;/font&gt;</description>
+      <source url="https://active.nikkeibp.co.jp">日経クロステック Active</source>
     </item>
     <item>
       <title>BPMN 2.0準拠の業務プロセス設計/実行ソフト「UiPath Maestro」、2025年第2四半期に提供 - 株式会社インプレス</title>
@@ -110,6 +110,14 @@
       <pubDate>Wed, 03 Dec 2008 08:00:00 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Vc1lrS1ZLaVRadzUzVWFXQk1yTDVhNDU4NXRKelBvd1RySnE2b3lJTW55LUh4bFRtUzgyc0FnV2dLZFM0QjR0aGxUZnB4aklOdEhF?oc=5" target="_blank"&gt;SAPジャパン、業務部門とIT部門のギャップをなくすBPMソリューション「SAP NetWeaver BPM」を発売&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;ZDNET Japan&lt;/font&gt;</description>
       <source url="https://japan.zdnet.com">ZDNET Japan</source>
+    </item>
+    <item>
+      <title>エンバカデロ、DB設計ツール新版「ER/Studio XE」、Netezzaを加えた10個のDBに接続 - 株式会社インプレス</title>
+      <link>https://news.google.com/rss/articles/CBMiUkFVX3lxTE5sM1d4NldyWVR6bGdxVGpGdmZvdjFOc1dmX1oxU0VxU1R3aFlkd3VHM3hHZjl2RHVYRUItZ0dWNU1QanhDdzVaTTNpTGIzR0F2T2c?oc=5</link>
+      <guid isPermaLink="false">CBMiUkFVX3lxTE5sM1d4NldyWVR6bGdxVGpGdmZvdjFOc1dmX1oxU0VxU1R3aFlkd3VHM3hHZjl2RHVYRUItZ0dWNU1QanhDdzVaTTNpTGIzR0F2T2c</guid>
+      <pubDate>Tue, 30 Nov 2010 08:00:00 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiUkFVX3lxTE5sM1d4NldyWVR6bGdxVGpGdmZvdjFOc1dmX1oxU0VxU1R3aFlkd3VHM3hHZjl2RHVYRUItZ0dWNU1QanhDdzVaTTNpTGIzR0F2T2c?oc=5" target="_blank"&gt;エンバカデロ、DB設計ツール新版「ER/Studio XE」、Netezzaを加えた10個のDBに接続&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;株式会社インプレス&lt;/font&gt;</description>
+      <source url="https://it.impress.co.jp">株式会社インプレス</source>
     </item>
     <item>
       <title>ビジネスモデリングと“見える化”のいま：「ITアーキテクト塾」レポート（1）（1/3 ページ） - ＠IT 情報マネジメント - ITmedia</title>
@@ -246,14 +254,6 @@
       <pubDate>Thu, 17 Sep 2009 07:00:00 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiakFVX3lxTE9qTzZoY280T29HREpZSWpZSDg5Y25tZThKODd4WF9VVGppMW9pcE54MlUxdzBBMlBia0ZOT3E5Z1VkX1NkcnNna3FFQ1g2Tjl3dmlOTy1yTnhOanhmNnE1NVlTQmlQQk9CQWc?oc=5" target="_blank"&gt;BPMはラウンドトリップが必要、富士通と日揮情報システムが連携：XPDLで双方向にデータ移行 - ＠IT 情報マネジメント&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;ITmedia&lt;/font&gt;</description>
       <source url="https://www.itmedia.co.jp">ITmedia</source>
-    </item>
-    <item>
-      <title>ヌーラボ、クラウド作図ツール「Cacoo」を強化、データベース構成図を自動で作成可能に - 株式会社インプレス</title>
-      <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ySkh4emdXcHluUUZYVGpjdVlnVG5FRVhXU182RlVmcHkxN3c4VXlNR1dZMlByR2VFeklIMmM4dkRPb1ZvamFhcENrOExoRmZyZGxZ?oc=5</link>
-      <guid isPermaLink="false">CBMiU0FVX3lxTE1ySkh4emdXcHluUUZYVGpjdVlnVG5FRVhXU182RlVmcHkxN3c4VXlNR1dZMlByR2VFeklIMmM4dkRPb1ZvamFhcENrOExoRmZyZGxZ</guid>
-      <pubDate>Thu, 16 Apr 2020 07:00:00 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ySkh4emdXcHluUUZYVGpjdVlnVG5FRVhXU182RlVmcHkxN3c4VXlNR1dZMlByR2VFeklIMmM4dkRPb1ZvamFhcENrOExoRmZyZGxZ?oc=5" target="_blank"&gt;ヌーラボ、クラウド作図ツール「Cacoo」を強化、データベース構成図を自動で作成可能に&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;株式会社インプレス&lt;/font&gt;</description>
-      <source url="https://it.impress.co.jp">株式会社インプレス</source>
     </item>
     <item>
       <title>日揮情報が業務モデリングのBPMNを学べるオンライン教育サービスを販売 - 日経クロステック</title>
