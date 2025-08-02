@@ -6,7 +6,7 @@
     <language>ja</language>
     <webMaster>news-webmaster@google.com</webMaster>
     <copyright>Copyright © 2025 Google. All rights reserved. This XML feed is made available solely for the purpose of rendering Google News results within a personal feed reader for personal, non-commercial use. Any other use of the feed is expressly prohibited. By accessing this feed or using these results in any manner whatsoever, you agree to be bound by the foregoing restrictions.</copyright>
-    <lastBuildDate>Sat, 02 Aug 2025 03:37:11 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 02 Aug 2025 04:37:16 GMT</lastBuildDate>
     <image>
       <title>Google ニュース</title>
       <url>https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w256</url>
@@ -85,14 +85,6 @@
       <guid isPermaLink="false">CBMiY0FVX3lxTE9MUFJUQlI1Q041VHUtZHZ6WWoxTThKREhTNkMtUEdVSnlRVndqUnljTkl1OWxWc1hYMnlob19GLWVualZxODFiQ3pRRUlLTGVOM1hEU20yQ0RnU0tJTGRVZlF4UQ</guid>
       <pubDate>Wed, 16 Jul 2025 07:00:00 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiY0FVX3lxTE9MUFJUQlI1Q041VHUtZHZ6WWoxTThKREhTNkMtUEdVSnlRVndqUnljTkl1OWxWc1hYMnlob19GLWVualZxODFiQ3pRRUlLTGVOM1hEU20yQ0RnU0tJTGRVZlF4UQ?oc=5" target="_blank"&gt;Deep Security Conference 2025：生成AI時代のセキュリティ監視 /dsc2025-genai-secmon&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
-      <source url="https://speakerdeck.com">Speaker Deck</source>
-    </item>
-    <item>
-      <title>iframe sandboxでユーザー入力スクリプトを実行する - Speaker Deck</title>
-      <link>https://news.google.com/rss/articles/CBMiigFBVV95cUxOcjhzend1VUxVLTJZcFpzSnd4VmpnQnhzRnBoMG1qeVpNWlV2T2xFTUlNR1A2Zk5seUlsbm9wQVowMTVMUk81ODBlZFBuVTdieVVUMmkybGQwQ01kMzNVRWJkSWdkVXl3X1VaLTVqazJxTl9GUFFJWWxfcGRPbzZ1MzBpaks0OXJQcGc?oc=5</link>
-      <guid isPermaLink="false">CBMiigFBVV95cUxOcjhzend1VUxVLTJZcFpzSnd4VmpnQnhzRnBoMG1qeVpNWlV2T2xFTUlNR1A2Zk5seUlsbm9wQVowMTVMUk81ODBlZFBuVTdieVVUMmkybGQwQ01kMzNVRWJkSWdkVXl3X1VaLTVqazJxTl9GUFFJWWxfcGRPbzZ1MzBpaks0OXJQcGc</guid>
-      <pubDate>Wed, 15 Sep 2021 07:00:00 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiigFBVV95cUxOcjhzend1VUxVLTJZcFpzSnd4VmpnQnhzRnBoMG1qeVpNWlV2T2xFTUlNR1A2Zk5seUlsbm9wQVowMTVMUk81ODBlZFBuVTdieVVUMmkybGQwQ01kMzNVRWJkSWdkVXl3X1VaLTVqazJxTl9GUFFJWWxfcGRPbzZ1MzBpaks0OXJQcGc?oc=5" target="_blank"&gt;iframe sandboxでユーザー入力スクリプトを実行する&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
@@ -248,6 +240,14 @@
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
+      <title>セキュリティ診断AIエージェント Takumi がもたらす変化 - 著名OSS 向け0-dayリサーチを例に - Speaker Deck</title>
+      <link>https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbGdoY0k4TERxOV8yQ0FZS09XZUZIXzMyMTI2UXBvM0VCOG15VDJUTVZTTWFvS3czMkNWVTJJdjQ2cmVHVnpyZ3pMb2VwRWlCdEh0UUtVZjRuRHhXa21pNVAxWUo0RTNoTVZFMGtCWGJ6eEc5TXN6aUQ2R0wwZjJMa3lpMHBMU1hPNGVQTWNNYTBuQm1CSzVvRGtRLW9ZNWxGaVk1YlhGR0pEeGNSR1ZOMmhiYUN0ajAzY29DVnVIV19uV2E5RzBJb0VDanBzNmNk?oc=5</link>
+      <guid isPermaLink="false">CBMi0AFBVV95cUxPbGdoY0k4TERxOV8yQ0FZS09XZUZIXzMyMTI2UXBvM0VCOG15VDJUTVZTTWFvS3czMkNWVTJJdjQ2cmVHVnpyZ3pMb2VwRWlCdEh0UUtVZjRuRHhXa21pNVAxWUo0RTNoTVZFMGtCWGJ6eEc5TXN6aUQ2R0wwZjJMa3lpMHBMU1hPNGVQTWNNYTBuQm1CSzVvRGtRLW9ZNWxGaVk1YlhGR0pEeGNSR1ZOMmhiYUN0ajAzY29DVnVIV19uV2E5RzBJb0VDanBzNmNk</guid>
+      <pubDate>Tue, 01 Jul 2025 07:00:00 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbGdoY0k4TERxOV8yQ0FZS09XZUZIXzMyMTI2UXBvM0VCOG15VDJUTVZTTWFvS3czMkNWVTJJdjQ2cmVHVnpyZ3pMb2VwRWlCdEh0UUtVZjRuRHhXa21pNVAxWUo0RTNoTVZFMGtCWGJ6eEc5TXN6aUQ2R0wwZjJMa3lpMHBMU1hPNGVQTWNNYTBuQm1CSzVvRGtRLW9ZNWxGaVk1YlhGR0pEeGNSR1ZOMmhiYUN0ajAzY29DVnVIV19uV2E5RzBJb0VDanBzNmNk?oc=5" target="_blank"&gt;セキュリティ診断AIエージェント Takumi がもたらす変化 - 著名OSS 向け0-dayリサーチを例に&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
+      <source url="https://speakerdeck.com">Speaker Deck</source>
+    </item>
+    <item>
       <title>Claude Codeが働くAI中心の業務システム構築の挑戦―AIエージェント中心の働き方を目指して - Speaker Deck</title>
       <link>https://news.google.com/rss/articles/CBMi3AFBVV95cUxQU0ZfblY1VlI1VXpRWkduOHVNa1NtSHBlQXNJUkpnbXA0UjVDM1VmTDUxRFprLVdlSkVwRm85QzVWTEI2WEJHbExWZUVhbXNJTFpCZW1wUHliQk1EenBCTEtSVDVrLUpfbTdicmVyOTdHNDNieUNtTk1YcE8ybDN1NE9tMXRVUlFRYVBVMjhDR0MxRXZLM2o1VmZzYkF0SmI3eXE1elFRdlkzc2N2WE9IbXBUWGJQazZOY0lJbWVDZ3l6ZTFjZXBCMUJSQjhzTWljeElTRVRuekpQZThF?oc=5</link>
       <guid isPermaLink="false">CBMi3AFBVV95cUxQU0ZfblY1VlI1VXpRWkduOHVNa1NtSHBlQXNJUkpnbXA0UjVDM1VmTDUxRFprLVdlSkVwRm85QzVWTEI2WEJHbExWZUVhbXNJTFpCZW1wUHliQk1EenBCTEtSVDVrLUpfbTdicmVyOTdHNDNieUNtTk1YcE8ybDN1NE9tMXRVUlFRYVBVMjhDR0MxRXZLM2o1VmZzYkF0SmI3eXE1elFRdlkzc2N2WE9IbXBUWGJQazZOY0lJbWVDZ3l6ZTFjZXBCMUJSQjhzTWljeElTRVRuekpQZThF</guid>
@@ -381,6 +381,14 @@
       <guid isPermaLink="false">CBMihgFBVV95cUxQUEkydlMyb1lOWmpXQy0wWVBGRlREbFBKaTd6c040RGdvWEdZa2RQMjZhTFJGVHVUd1l2WXAyeFJtS2JIQk9wT1RBLUdhczFRVk1YblJ3Ti1kZkUySWlFUDkzMVIxYk1rUndocFBLS0o4SzFMUmJxZDZsSzJ4T2NSVUc4YjF2dw</guid>
       <pubDate>Thu, 10 Jul 2025 07:00:00 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMihgFBVV95cUxQUEkydlMyb1lOWmpXQy0wWVBGRlREbFBKaTd6c040RGdvWEdZa2RQMjZhTFJGVHVUd1l2WXAyeFJtS2JIQk9wT1RBLUdhczFRVk1YblJ3Ti1kZkUySWlFUDkzMVIxYk1rUndocFBLS0o4SzFMUmJxZDZsSzJ4T2NSVUc4YjF2dw?oc=5" target="_blank"&gt;MCPを使ってイベントソーシングのAIコーディングを効率化する / Streamlining Event Sourcing AI Coding with MCP&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
+      <source url="https://speakerdeck.com">Speaker Deck</source>
+    </item>
+    <item>
+      <title>Vertex AIで実現するLLMデータアノテーションの効率化と自動化 - Speaker Deck</title>
+      <link>https://news.google.com/rss/articles/CBMipwFBVV95cUxQN1R6OTduSkVsR0ZlUG45eTFRdjVORnoxbEprODZiczgzR09EYXRYY2U0ZGlaY0FCNEt1WWZvdmotZ01jY0hydHZvRDdUVEs3RVY2Q1pjRVdEcXZrTHNrSFg1akxjLUZHSk9YQ3FBSm1neV9xR2R4b0ZYMUVEVi1uZWVYYUoxWFZ1dzdJOXJnSUJzbVR2RURVRnlyajg0YzhJUnlIMUJ4Yw?oc=5</link>
+      <guid isPermaLink="false">CBMipwFBVV95cUxQN1R6OTduSkVsR0ZlUG45eTFRdjVORnoxbEprODZiczgzR09EYXRYY2U0ZGlaY0FCNEt1WWZvdmotZ01jY0hydHZvRDdUVEs3RVY2Q1pjRVdEcXZrTHNrSFg1akxjLUZHSk9YQ3FBSm1neV9xR2R4b0ZYMUVEVi1uZWVYYUoxWFZ1dzdJOXJnSUJzbVR2RURVRnlyajg0YzhJUnlIMUJ4Yw</guid>
+      <pubDate>Thu, 06 Feb 2025 08:00:00 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxQN1R6OTduSkVsR0ZlUG45eTFRdjVORnoxbEprODZiczgzR09EYXRYY2U0ZGlaY0FCNEt1WWZvdmotZ01jY0hydHZvRDdUVEs3RVY2Q1pjRVdEcXZrTHNrSFg1akxjLUZHSk9YQ3FBSm1neV9xR2R4b0ZYMUVEVi1uZWVYYUoxWFZ1dzdJOXJnSUJzbVR2RURVRnlyajg0YzhJUnlIMUJ4Yw?oc=5" target="_blank"&gt;Vertex AIで実現するLLMデータアノテーションの効率化と自動化&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
@@ -661,14 +669,6 @@
       <guid isPermaLink="false">CBMidkFVX3lxTE53R0l2a3pocnRKQTR3dkRHR0VhSFg5emt4UWp1RHZYcHIzd1NLRmIxLXllTG9nS3JSbVNzR3NLWmd4RF95MDZFSU5SRGhJM1NsVVJnLTdXRFdBTWxWVzYwbzFxNERrUnVnbWpvem4yQzhpVTNEQVE</guid>
       <pubDate>Fri, 25 Jul 2025 07:00:00 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMidkFVX3lxTE53R0l2a3pocnRKQTR3dkRHR0VhSFg5emt4UWp1RHZYcHIzd1NLRmIxLXllTG9nS3JSbVNzR3NLWmd4RF95MDZFSU5SRGhJM1NsVVJnLTdXRFdBTWxWVzYwbzFxNERrUnVnbWpvem4yQzhpVTNEQVE?oc=5" target="_blank"&gt;AIエージェントを支える設計&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
-      <source url="https://speakerdeck.com">Speaker Deck</source>
-    </item>
-    <item>
-      <title>それ CLI フレームワークがなくてもできるよ / Building CLI Tools Without Frameworks - Speaker Deck</title>
-      <link>https://news.google.com/rss/articles/CBMiekFVX3lxTE9tc0FHbjFfLUNxbnc1QVJ1U1FqVURCaEpSUUVReDh3WjFqYjFsbTVOMWs3S05BLXJpdWNFOXVZMzlxbnlQRXFuZ1l5MXY5MzFDNHhudV9SaVdBZEtYRUMwQzRVZ2dqVGJ6QUdRYmNHTERJaDNiV2xCQ1lB?oc=5</link>
-      <guid isPermaLink="false">CBMiekFVX3lxTE9tc0FHbjFfLUNxbnc1QVJ1U1FqVURCaEpSUUVReDh3WjFqYjFsbTVOMWs3S05BLXJpdWNFOXVZMzlxbnlQRXFuZ1l5MXY5MzFDNHhudV9SaVdBZEtYRUMwQzRVZ2dqVGJ6QUdRYmNHTERJaDNiV2xCQ1lB</guid>
-      <pubDate>Fri, 25 Jul 2025 07:00:00 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiekFVX3lxTE9tc0FHbjFfLUNxbnc1QVJ1U1FqVURCaEpSUUVReDh3WjFqYjFsbTVOMWs3S05BLXJpdWNFOXVZMzlxbnlQRXFuZ1l5MXY5MzFDNHhudV9SaVdBZEtYRUMwQzRVZ2dqVGJ6QUdRYmNHTERJaDNiV2xCQ1lB?oc=5" target="_blank"&gt;それ CLI フレームワークがなくてもできるよ / Building CLI Tools Without Frameworks&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
