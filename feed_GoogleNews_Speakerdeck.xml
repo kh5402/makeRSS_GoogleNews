@@ -6,7 +6,7 @@
     <language>ja</language>
     <webMaster>news-webmaster@google.com</webMaster>
     <copyright>Copyright © 2025 Google. All rights reserved. This XML feed is made available solely for the purpose of rendering Google News results within a personal feed reader for personal, non-commercial use. Any other use of the feed is expressly prohibited. By accessing this feed or using these results in any manner whatsoever, you agree to be bound by the foregoing restrictions.</copyright>
-    <lastBuildDate>Mon, 18 Aug 2025 22:18:58 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Aug 2025 23:20:31 GMT</lastBuildDate>
     <image>
       <title>Google ニュース</title>
       <url>https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w256</url>
@@ -344,6 +344,14 @@
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
+      <title>DTD_BQによる生成AIのバッチ処理とデータエンジニアリング - Speaker Deck</title>
+      <link>https://news.google.com/rss/articles/CBMimgFBVV95cUxPa1BjUlY1eEVWMXZvWUxpbG8zX1FWbW1KSG1QRDBnZkdPNG9nYXlsY0xKY3hLR2NfWk9ITmttTHl6ZEpFSDhMT2JKU0ZVWE13cHpBLWEySW1kLVkzNVM5U3V5T0VEMXdBS2diMDVnbm9ZbUR3dUZIS1VVLXFKdXNBUmhoUm1ySFR4b3BlSUwyZDB4dU9qbC1hLVpB?oc=5</link>
+      <guid isPermaLink="false">CBMimgFBVV95cUxPa1BjUlY1eEVWMXZvWUxpbG8zX1FWbW1KSG1QRDBnZkdPNG9nYXlsY0xKY3hLR2NfWk9ITmttTHl6ZEpFSDhMT2JKU0ZVWE13cHpBLWEySW1kLVkzNVM5U3V5T0VEMXdBS2diMDVnbm9ZbUR3dUZIS1VVLXFKdXNBUmhoUm1ySFR4b3BlSUwyZDB4dU9qbC1hLVpB</guid>
+      <pubDate>Thu, 31 Jul 2025 07:00:00 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMimgFBVV95cUxPa1BjUlY1eEVWMXZvWUxpbG8zX1FWbW1KSG1QRDBnZkdPNG9nYXlsY0xKY3hLR2NfWk9ITmttTHl6ZEpFSDhMT2JKU0ZVWE13cHpBLWEySW1kLVkzNVM5U3V5T0VEMXdBS2diMDVnbm9ZbUR3dUZIS1VVLXFKdXNBUmhoUm1ySFR4b3BlSUwyZDB4dU9qbC1hLVpB?oc=5" target="_blank"&gt;DTD_BQによる生成AIのバッチ処理とデータエンジニアリング&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
+      <source url="https://speakerdeck.com">Speaker Deck</source>
+    </item>
+    <item>
       <title>Claude Codeが働くAI中心の業務システム構築の挑戦―AIエージェント中心の働き方を目指して - Speaker Deck</title>
       <link>https://news.google.com/rss/articles/CBMi3AFBVV95cUxQU0ZfblY1VlI1VXpRWkduOHVNa1NtSHBlQXNJUkpnbXA0UjVDM1VmTDUxRFprLVdlSkVwRm85QzVWTEI2WEJHbExWZUVhbXNJTFpCZW1wUHliQk1EenBCTEtSVDVrLUpfbTdicmVyOTdHNDNieUNtTk1YcE8ybDN1NE9tMXRVUlFRYVBVMjhDR0MxRXZLM2o1VmZzYkF0SmI3eXE1elFRdlkzc2N2WE9IbXBUWGJQazZOY0lJbWVDZ3l6ZTFjZXBCMUJSQjhzTWljeElTRVRuekpQZThF?oc=5</link>
       <guid isPermaLink="false">CBMi3AFBVV95cUxQU0ZfblY1VlI1VXpRWkduOHVNa1NtSHBlQXNJUkpnbXA0UjVDM1VmTDUxRFprLVdlSkVwRm85QzVWTEI2WEJHbExWZUVhbXNJTFpCZW1wUHliQk1EenBCTEtSVDVrLUpfbTdicmVyOTdHNDNieUNtTk1YcE8ybDN1NE9tMXRVUlFRYVBVMjhDR0MxRXZLM2o1VmZzYkF0SmI3eXE1elFRdlkzc2N2WE9IbXBUWGJQazZOY0lJbWVDZ3l6ZTFjZXBCMUJSQjhzTWljeElTRVRuekpQZThF</guid>
@@ -640,14 +648,6 @@
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
-      <title>【AIエージェント開発】LLMアプリ開発の1stステップと論文キャッチアップ - 論文を活用したAIエージェント開発の始め方 - Speaker Deck</title>
-      <link>https://news.google.com/rss/articles/CBMi8gFBVV95cUxOTXo4NFpTTGhzS2QwMEx3WUt5TWhzdVA2V3Jsa2hxbGFKMVBLaGllNFlkNWNfM21DbXA4cWdRRk1qX3NocmdCSEdibmFXcVVZcmpKRUpDS2FYY0NfMGo4ZDBzbk45UmEzMHVwdFJKLXVFVEZ2YnNzcWYzZDlyY2NreDRlRTZEMkswQWU2MzlsWG13Y0tqVG1TamxlNUZLeU9RVVhneUZqaXQyZTY2bnZDMUh1UzFEa2lWcV9CNDhHNWpjT1hLQS1oLUpsR1BfdUJoVVhUNm52UGhOU1JyNW5NdjRlOWZJZC1qSWU1Y01DVTNfUQ?oc=5</link>
-      <guid isPermaLink="false">CBMi8gFBVV95cUxOTXo4NFpTTGhzS2QwMEx3WUt5TWhzdVA2V3Jsa2hxbGFKMVBLaGllNFlkNWNfM21DbXA4cWdRRk1qX3NocmdCSEdibmFXcVVZcmpKRUpDS2FYY0NfMGo4ZDBzbk45UmEzMHVwdFJKLXVFVEZ2YnNzcWYzZDlyY2NreDRlRTZEMkswQWU2MzlsWG13Y0tqVG1TamxlNUZLeU9RVVhneUZqaXQyZTY2bnZDMUh1UzFEa2lWcV9CNDhHNWpjT1hLQS1oLUpsR1BfdUJoVVhUNm52UGhOU1JyNW5NdjRlOWZJZC1qSWU1Y01DVTNfUQ</guid>
-      <pubDate>Fri, 28 Mar 2025 07:00:00 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMi8gFBVV95cUxOTXo4NFpTTGhzS2QwMEx3WUt5TWhzdVA2V3Jsa2hxbGFKMVBLaGllNFlkNWNfM21DbXA4cWdRRk1qX3NocmdCSEdibmFXcVVZcmpKRUpDS2FYY0NfMGo4ZDBzbk45UmEzMHVwdFJKLXVFVEZ2YnNzcWYzZDlyY2NreDRlRTZEMkswQWU2MzlsWG13Y0tqVG1TamxlNUZLeU9RVVhneUZqaXQyZTY2bnZDMUh1UzFEa2lWcV9CNDhHNWpjT1hLQS1oLUpsR1BfdUJoVVhUNm52UGhOU1JyNW5NdjRlOWZJZC1qSWU1Y01DVTNfUQ?oc=5" target="_blank"&gt;【AIエージェント開発】LLMアプリ開発の1stステップと論文キャッチアップ - 論文を活用したAIエージェント開発の始め方&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
-      <source url="https://speakerdeck.com">Speaker Deck</source>
-    </item>
-    <item>
       <title>AIエージェントを支える設計 - Speaker Deck</title>
       <link>https://news.google.com/rss/articles/CBMidkFVX3lxTE53R0l2a3pocnRKQTR3dkRHR0VhSFg5emt4UWp1RHZYcHIzd1NLRmIxLXllTG9nS3JSbVNzR3NLWmd4RF95MDZFSU5SRGhJM1NsVVJnLTdXRFdBTWxWVzYwbzFxNERrUnVnbWpvem4yQzhpVTNEQVE?oc=5</link>
       <guid isPermaLink="false">CBMidkFVX3lxTE53R0l2a3pocnRKQTR3dkRHR0VhSFg5emt4UWp1RHZYcHIzd1NLRmIxLXllTG9nS3JSbVNzR3NLWmd4RF95MDZFSU5SRGhJM1NsVVJnLTdXRFdBTWxWVzYwbzFxNERrUnVnbWpvem4yQzhpVTNEQVE</guid>
@@ -712,19 +712,19 @@
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
+      <title>Turing TechTalk #7 E2E自動運転AIの開発プロセス - Speaker Deck</title>
+      <link>https://news.google.com/rss/articles/CBMiowFBVV95cUxOZGlxSDlrVmVpZzlZMEQxMkpuVzdzUElfaHpQem9mdEkzbzlneEQteE9aenI5R2F3bkhJUXVSRmVEMXQxSHFlb21PYnAtbFNiQzRNQmItSmlFY19JcngyeDRxSF9heEJpYmplS2E3NVFYQ29UNUVLMkdLY0xKaU9yQVJkcDkwQVYxSV9kVWk2RXFyXy1sVDBuSHc1UlhlWTI0Uzhj?oc=5</link>
+      <guid isPermaLink="false">CBMiowFBVV95cUxOZGlxSDlrVmVpZzlZMEQxMkpuVzdzUElfaHpQem9mdEkzbzlneEQteE9aenI5R2F3bkhJUXVSRmVEMXQxSHFlb21PYnAtbFNiQzRNQmItSmlFY19JcngyeDRxSF9heEJpYmplS2E3NVFYQ29UNUVLMkdLY0xKaU9yQVJkcDkwQVYxSV9kVWk2RXFyXy1sVDBuSHc1UlhlWTI0Uzhj</guid>
+      <pubDate>Fri, 15 Nov 2024 08:00:00 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiowFBVV95cUxOZGlxSDlrVmVpZzlZMEQxMkpuVzdzUElfaHpQem9mdEkzbzlneEQteE9aenI5R2F3bkhJUXVSRmVEMXQxSHFlb21PYnAtbFNiQzRNQmItSmlFY19JcngyeDRxSF9heEJpYmplS2E3NVFYQ29UNUVLMkdLY0xKaU9yQVJkcDkwQVYxSV9kVWk2RXFyXy1sVDBuSHc1UlhlWTI0Uzhj?oc=5" target="_blank"&gt;Turing TechTalk #7 E2E自動運転AIの開発プロセス&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
+      <source url="https://speakerdeck.com">Speaker Deck</source>
+    </item>
+    <item>
       <title>AI活用のための情報設計 〜もう一段上のAI活用へ〜 - Speaker Deck</title>
       <link>https://news.google.com/rss/articles/CBMiigFBVV95cUxOdHhxbWFzNjdVN2F4cFZNV19QTnhpVGRiWmFHRFozdXg4SGYzRkxBODk5a0hQN19ZYjBLdXh3NHlwUDBkeXBuWVM4RWVVbG11UHJhR3o5N1FsV29XUVk4NVd6d3V6T00zSnRUcG1MTFBFR1Y4UzFlT1JZWTlNamVOeW5KXy1JX3J5dHc?oc=5</link>
       <guid isPermaLink="false">CBMiigFBVV95cUxOdHhxbWFzNjdVN2F4cFZNV19QTnhpVGRiWmFHRFozdXg4SGYzRkxBODk5a0hQN19ZYjBLdXh3NHlwUDBkeXBuWVM4RWVVbG11UHJhR3o5N1FsV29XUVk4NVd6d3V6T00zSnRUcG1MTFBFR1Y4UzFlT1JZWTlNamVOeW5KXy1JX3J5dHc</guid>
       <pubDate>Fri, 15 Aug 2025 03:04:31 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiigFBVV95cUxOdHhxbWFzNjdVN2F4cFZNV19QTnhpVGRiWmFHRFozdXg4SGYzRkxBODk5a0hQN19ZYjBLdXh3NHlwUDBkeXBuWVM4RWVVbG11UHJhR3o5N1FsV29XUVk4NVd6d3V6T00zSnRUcG1MTFBFR1Y4UzFlT1JZWTlNamVOeW5KXy1JX3J5dHc?oc=5" target="_blank"&gt;AI活用のための情報設計 〜もう一段上のAI活用へ〜&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
-      <source url="https://speakerdeck.com">Speaker Deck</source>
-    </item>
-    <item>
-      <title>100% AI コード生成開発！AI Agent 時代の信頼性と開発効率のためのガードレール/sre-next-2025-link-and-motivation - Speaker Deck</title>
-      <link>https://news.google.com/rss/articles/CBMibkFVX3lxTE5JaFVCOUVDZDUyZ2hpNVFaODM3d1hQYmx4MThfbEk5Q05LYmxORTNrZXdxcW1obnBUWUxkWW5PdEpmYjc5c3dfUHEwNTFGa1FUdm5RcTlFOWx3N05HcjV4NWQ2ZnRsS19Mb0FpOV9R?oc=5</link>
-      <guid isPermaLink="false">CBMibkFVX3lxTE5JaFVCOUVDZDUyZ2hpNVFaODM3d1hQYmx4MThfbEk5Q05LYmxORTNrZXdxcW1obnBUWUxkWW5PdEpmYjc5c3dfUHEwNTFGa1FUdm5RcTlFOWx3N05HcjV4NWQ2ZnRsS19Mb0FpOV9R</guid>
-      <pubDate>Fri, 11 Jul 2025 07:00:00 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMibkFVX3lxTE5JaFVCOUVDZDUyZ2hpNVFaODM3d1hQYmx4MThfbEk5Q05LYmxORTNrZXdxcW1obnBUWUxkWW5PdEpmYjc5c3dfUHEwNTFGa1FUdm5RcTlFOWx3N05HcjV4NWQ2ZnRsS19Mb0FpOV9R?oc=5" target="_blank"&gt;100% AI コード生成開発！AI Agent 時代の信頼性と開発効率のためのガードレール/sre-next-2025-link-and-motivation&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
