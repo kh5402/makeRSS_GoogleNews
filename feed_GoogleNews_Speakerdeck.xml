@@ -6,7 +6,7 @@
     <language>ja</language>
     <webMaster>news-webmaster@google.com</webMaster>
     <copyright>Copyright © 2025 Google. All rights reserved. This XML feed is made available solely for the purpose of rendering Google News results within a personal feed reader for personal, non-commercial use. Any other use of the feed is expressly prohibited. By accessing this feed or using these results in any manner whatsoever, you agree to be bound by the foregoing restrictions.</copyright>
-    <lastBuildDate>Thu, 04 Sep 2025 21:18:50 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Sep 2025 22:19:02 GMT</lastBuildDate>
     <image>
       <title>Google ニュース</title>
       <url>https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w256</url>
@@ -77,6 +77,14 @@
       <guid isPermaLink="false">CBMiigFBVV95cUxQRWlBZXM2bHBXbWFZLWFMWXB0TUZneURpRzdUVnp2V2F6TUxsbE5iQ2ZpS184cS1JMkMwM2E1cWctallqdl9TZGxnakhYLTNBTDJKdjFKckRXakhjZHdCNWlvQVRQYkFJR0xGZlpVSWJTSURtR0xwbW54M0s0NXdLNkMxU1VJSkdJZ1E</guid>
       <pubDate>Wed, 20 Aug 2025 07:00:00 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiigFBVV95cUxQRWlBZXM2bHBXbWFZLWFMWXB0TUZneURpRzdUVnp2V2F6TUxsbE5iQ2ZpS184cS1JMkMwM2E1cWctallqdl9TZGxnakhYLTNBTDJKdjFKckRXakhjZHdCNWlvQVRQYkFJR0xGZlpVSWJTSURtR0xwbW54M0s0NXdLNkMxU1VJSkdJZ1E?oc=5" target="_blank"&gt;AI OCR API on Lambdaを Datadogで可視化してみた&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
+      <source url="https://speakerdeck.com">Speaker Deck</source>
+    </item>
+    <item>
+      <title>LangfuseでAIエージェントの 可観測性を高めよう！/Enhancing AI Agent Observability with Langfuse! - Speaker Deck</title>
+      <link>https://news.google.com/rss/articles/CBMigwFBVV95cUxPSXZHNy1adC1lSFR4dzZjRHp2aEF2UFcxNlZIbG5EbTZ1M1I3MzJ3WHVkX0pfS0t0Y2g2U3k5M1lMbGZFRFVhdVJOckJoSFU2cjRXZnMwTkJZbkNuMDJvNGkzYXBjLTgtQkIydl9hVUpTbVZ6ZEpjX0p4bEI0WjU2V0trMA?oc=5</link>
+      <guid isPermaLink="false">CBMigwFBVV95cUxPSXZHNy1adC1lSFR4dzZjRHp2aEF2UFcxNlZIbG5EbTZ1M1I3MzJ3WHVkX0pfS0t0Y2g2U3k5M1lMbGZFRFVhdVJOckJoSFU2cjRXZnMwTkJZbkNuMDJvNGkzYXBjLTgtQkIydl9hVUpTbVZ6ZEpjX0p4bEI0WjU2V0trMA</guid>
+      <pubDate>Wed, 16 Apr 2025 07:00:00 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMigwFBVV95cUxPSXZHNy1adC1lSFR4dzZjRHp2aEF2UFcxNlZIbG5EbTZ1M1I3MzJ3WHVkX0pfS0t0Y2g2U3k5M1lMbGZFRFVhdVJOckJoSFU2cjRXZnMwTkJZbkNuMDJvNGkzYXBjLTgtQkIydl9hVUpTbVZ6ZEpjX0p4bEI0WjU2V0trMA?oc=5" target="_blank"&gt;LangfuseでAIエージェントの 可観測性を高めよう！/Enhancing AI Agent Observability with Langfuse!&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
@@ -216,14 +224,6 @@
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
-      <title>AIエージェント就活入門 - MCPが履歴書になる未来 - Speaker Deck</title>
-      <link>https://news.google.com/rss/articles/CBMijwFBVV95cUxNVXZxWTBMdUtOekp5YUV6X0toa0M4Y3NGaHNEZlhIU196QUUxRmpkbzI3eEFtWms1SFVCdUpQdHNVdEVkU1c5VUFVTm5kWE1CTkdYcWFPZko3NlRPTUFxSFJlMkp5VnZRLXFLRTB0WTZNX1kxbVl6SVc3Q0VxbmF2Ym5YVXJDeUpLYTBYeTE1NA?oc=5</link>
-      <guid isPermaLink="false">CBMijwFBVV95cUxNVXZxWTBMdUtOekp5YUV6X0toa0M4Y3NGaHNEZlhIU196QUUxRmpkbzI3eEFtWms1SFVCdUpQdHNVdEVkU1c5VUFVTm5kWE1CTkdYcWFPZko3NlRPTUFxSFJlMkp5VnZRLXFLRTB0WTZNX1kxbVl6SVc3Q0VxbmF2Ym5YVXJDeUpLYTBYeTE1NA</guid>
-      <pubDate>Tue, 26 Aug 2025 17:39:34 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMijwFBVV95cUxNVXZxWTBMdUtOekp5YUV6X0toa0M4Y3NGaHNEZlhIU196QUUxRmpkbzI3eEFtWms1SFVCdUpQdHNVdEVkU1c5VUFVTm5kWE1CTkdYcWFPZko3NlRPTUFxSFJlMkp5VnZRLXFLRTB0WTZNX1kxbVl6SVc3Q0VxbmF2Ym5YVXJDeUpLYTBYeTE1NA?oc=5" target="_blank"&gt;AIエージェント就活入門 - MCPが履歴書になる未来&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
-      <source url="https://speakerdeck.com">Speaker Deck</source>
-    </item>
-    <item>
       <title>複数のGemini CLIが同時開発する狂気 - Jujutsuが実現するAIエージェント協調の新世界 - Speaker Deck</title>
       <link>https://news.google.com/rss/articles/CBMizgFBVV95cUxQRFZ6SFlZMVB0VlBUSE8xdEdpeTh6SW1IbExMcmRsbVhqOEl6NHlMbDZzQ1hKUnFSM3o1NmRRYXVRcmdVcFRzaUVMYXBob1NNaXFBaXNFMUkxVVZkWW8zUVA2djY1NnNSLXRlVm9ZMFZFN2pjbmViX1RqYnpnSWdrdGdmUnh0QXRwdzhuSzFhbDcyTnZCMnc1NFg1TXBzMEFWUUNxamUzWHVSdTZBMlhKQV9SZzFCbVA4N3Mxa2w4bXRHVlFLTHBEWGRYMnNaUQ?oc=5</link>
       <guid isPermaLink="false">CBMizgFBVV95cUxQRFZ6SFlZMVB0VlBUSE8xdEdpeTh6SW1IbExMcmRsbVhqOEl6NHlMbDZzQ1hKUnFSM3o1NmRRYXVRcmdVcFRzaUVMYXBob1NNaXFBaXNFMUkxVVZkWW8zUVA2djY1NnNSLXRlVm9ZMFZFN2pjbmViX1RqYnpnSWdrdGdmUnh0QXRwdzhuSzFhbDcyTnZCMnc1NFg1TXBzMEFWUUNxamUzWHVSdTZBMlhKQV9SZzFCbVA4N3Mxa2w4bXRHVlFLTHBEWGRYMnNaUQ</guid>
@@ -245,14 +245,6 @@
       <guid isPermaLink="false">CBMiggFBVV95cUxPWWNPNDlTVFBQNjd4djNKbkdmb3NMWURTTHFEdTBtNVZpdzhPRkY4VWZfN0t6eEZjMXdtM29VNWRIX2JzQ01RbkxZZ28yVU5fbnRjWi1FS0lMSngySFVRSUc2VnhEakFjRXI5X1VycUtQRVp2SFBPUVNzeHZXdUItVWxn</guid>
       <pubDate>Tue, 19 Aug 2025 07:00:00 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiggFBVV95cUxPWWNPNDlTVFBQNjd4djNKbkdmb3NMWURTTHFEdTBtNVZpdzhPRkY4VWZfN0t6eEZjMXdtM29VNWRIX2JzQ01RbkxZZ28yVU5fbnRjWi1FS0lMSngySFVRSUc2VnhEakFjRXI5X1VycUtQRVp2SFBPUVNzeHZXdUItVWxn?oc=5" target="_blank"&gt;Exa Enterprise AI _事業紹介資料&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
-      <source url="https://speakerdeck.com">Speaker Deck</source>
-    </item>
-    <item>
-      <title>AIは変更差分からユニットテスト_結合テスト_システムテストでテストすべきことが出せるのか？ - Speaker Deck</title>
-      <link>https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZE5IazFXRndmZ2VRSkJNc0VtamMyNnRsY2pZODhDbUZmVm5DcHFmMVNBbU0zZ0Fpd0ZQLWVQdjBob25oTjI3MkJGTXhZdTJZNjhUVjNFMG5BeGR1LXZaR25ETXQzcC0xREU0VndheEh2dFVuTkFqN21mc01qRTNGT2N2bnJNUkU1Y2Y1bW9mRnZwcE5iazRxOGd5blNrVG0zLTh2SDBoQWd0aDd2SjRMNXBabmw5Zm00c0w4MnZmSUpXSHFoemxZQUg2eVc1OEY0bElfUlF6aw?oc=5</link>
-      <guid isPermaLink="false">CBMi1wFBVV95cUxQZE5IazFXRndmZ2VRSkJNc0VtamMyNnRsY2pZODhDbUZmVm5DcHFmMVNBbU0zZ0Fpd0ZQLWVQdjBob25oTjI3MkJGTXhZdTJZNjhUVjNFMG5BeGR1LXZaR25ETXQzcC0xREU0VndheEh2dFVuTkFqN21mc01qRTNGT2N2bnJNUkU1Y2Y1bW9mRnZwcE5iazRxOGd5blNrVG0zLTh2SDBoQWd0aDd2SjRMNXBabmw5Zm00c0w4MnZmSUpXSHFoemxZQUg2eVc1OEY0bElfUlF6aw</guid>
-      <pubDate>Tue, 19 Aug 2025 07:00:00 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZE5IazFXRndmZ2VRSkJNc0VtamMyNnRsY2pZODhDbUZmVm5DcHFmMVNBbU0zZ0Fpd0ZQLWVQdjBob25oTjI3MkJGTXhZdTJZNjhUVjNFMG5BeGR1LXZaR25ETXQzcC0xREU0VndheEh2dFVuTkFqN21mc01qRTNGT2N2bnJNUkU1Y2Y1bW9mRnZwcE5iazRxOGd5blNrVG0zLTh2SDBoQWd0aDd2SjRMNXBabmw5Zm00c0w4MnZmSUpXSHFoemxZQUg2eVc1OEY0bElfUlF6aw?oc=5" target="_blank"&gt;AIは変更差分からユニットテスト_結合テスト_システムテストでテストすべきことが出せるのか？&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
@@ -533,6 +525,14 @@
       <guid isPermaLink="false">CBMid0FVX3lxTFBPc2FhdGR3T3dBbDdTdnlQOHdYMVZpVTVwa0QyWktncm9VNXBPOFlKZEVTZzBuU2dXR081TDlsWkNLdHJnM2xIaUZPd3VnYXVMWTFFdVFJYTNqVzFsd3RsMUhsT19jREdYVHlmTEFUS2s2b3VLc1BF</guid>
       <pubDate>Sat, 30 Aug 2025 08:44:30 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMid0FVX3lxTFBPc2FhdGR3T3dBbDdTdnlQOHdYMVZpVTVwa0QyWktncm9VNXBPOFlKZEVTZzBuU2dXR081TDlsWkNLdHJnM2xIaUZPd3VnYXVMWTFFdVFJYTNqVzFsd3RsMUhsT19jREdYVHlmTEFUS2s2b3VLc1BF?oc=5" target="_blank"&gt;旅行プランAIエージェント開発の裏側&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
+      <source url="https://speakerdeck.com">Speaker Deck</source>
+    </item>
+    <item>
+      <title>LangChain4jを使った生成AIシステム設計パターン 〜 Javaで構築する最新アーキテクチャ - Speaker Deck</title>
+      <link>https://news.google.com/rss/articles/CBMic0FVX3lxTE9zLWFhVkVteGF5TnBOeXRPcU5DcHU0cGFCSU5OSXY4alNYbGVhY1lHR0hlTkUxN2djNV9aNTZJM1JDSEJWLU80WjFCRHB3QVl1Ry1PWERDQ2Q2dUdodWFudExVUzVvYlJGblVLZmNPTHhwMnM?oc=5</link>
+      <guid isPermaLink="false">CBMic0FVX3lxTE9zLWFhVkVteGF5TnBOeXRPcU5DcHU0cGFCSU5OSXY4alNYbGVhY1lHR0hlTkUxN2djNV9aNTZJM1JDSEJWLU80WjFCRHB3QVl1Ry1PWERDQ2Q2dUdodWFudExVUzVvYlJGblVLZmNPTHhwMnM</guid>
+      <pubDate>Sat, 26 Oct 2024 07:00:00 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMic0FVX3lxTE9zLWFhVkVteGF5TnBOeXRPcU5DcHU0cGFCSU5OSXY4alNYbGVhY1lHR0hlTkUxN2djNV9aNTZJM1JDSEJWLU80WjFCRHB3QVl1Ry1PWERDQ2Q2dUdodWFudExVUzVvYlJGblVLZmNPTHhwMnM?oc=5" target="_blank"&gt;LangChain4jを使った生成AIシステム設計パターン 〜 Javaで構築する最新アーキテクチャ&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
