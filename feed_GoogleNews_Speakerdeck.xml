@@ -6,7 +6,7 @@
     <language>ja</language>
     <webMaster>news-webmaster@google.com</webMaster>
     <copyright>Copyright © 2025 Google. All rights reserved. This XML feed is made available solely for the purpose of rendering Google News results within a personal feed reader for personal, non-commercial use. Any other use of the feed is expressly prohibited. By accessing this feed or using these results in any manner whatsoever, you agree to be bound by the foregoing restrictions.</copyright>
-    <lastBuildDate>Sun, 02 Nov 2025 10:20:09 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Nov 2025 11:16:00 GMT</lastBuildDate>
     <image>
       <title>Google ニュース</title>
       <url>https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w256</url>
@@ -29,14 +29,6 @@
       <guid isPermaLink="false">CBMic0FVX3lxTE1mcXJNLXc4T25SMUNpVklOWWF1Q2g4YUFlUFN6NWlUS0ZrMHh2Z3U3US1zcGplY21OZlh2SnFqM3hab2l1Y1Z4eWl4U2VXR05MZWxkOTFBRTN0bFF4UEZ0ZURLaGVrOXZBdFdpQ3pCem43TTA</guid>
       <pubDate>Wed, 29 Oct 2025 11:59:19 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMic0FVX3lxTE1mcXJNLXc4T25SMUNpVklOWWF1Q2g4YUFlUFN6NWlUS0ZrMHh2Z3U3US1zcGplY21OZlh2SnFqM3hab2l1Y1Z4eWl4U2VXR05MZWxkOTFBRTN0bFF4UEZ0ZURLaGVrOXZBdFdpQ3pCem43TTA?oc=5" target="_blank"&gt;ドメイン駆動設計のエッセンス&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
-      <source url="https://speakerdeck.com">Speaker Deck</source>
-    </item>
-    <item>
-      <title>リアルタイムKPI分析のためのClickHouseとAIエージェント - Speaker Deck</title>
-      <link>https://news.google.com/rss/articles/CBMikAFBVV95cUxNenN2V0ZyalpjZGxoUGJBeGYyQ2NZUk05N3NONjVQRTk2WFVEdDgxMExMNEZOaVJmMnJQbWlPSGFTVThTNlVzclJleHZLSWNxMGZwZEkyaFBzejYyTVRWVVZhSkVmM2g4OTNiS2VzUzJTT3ZpSlNjWHEtVU1sazF1aDdpcDVZMEN2dklVa0V5eUc?oc=5</link>
-      <guid isPermaLink="false">CBMikAFBVV95cUxNenN2V0ZyalpjZGxoUGJBeGYyQ2NZUk05N3NONjVQRTk2WFVEdDgxMExMNEZOaVJmMnJQbWlPSGFTVThTNlVzclJleHZLSWNxMGZwZEkyaFBzejYyTVRWVVZhSkVmM2g4OTNiS2VzUzJTT3ZpSlNjWHEtVU1sazF1aDdpcDVZMEN2dklVa0V5eUc</guid>
-      <pubDate>Wed, 29 Oct 2025 11:58:29 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMikAFBVV95cUxNenN2V0ZyalpjZGxoUGJBeGYyQ2NZUk05N3NONjVQRTk2WFVEdDgxMExMNEZOaVJmMnJQbWlPSGFTVThTNlVzclJleHZLSWNxMGZwZEkyaFBzejYyTVRWVVZhSkVmM2g4OTNiS2VzUzJTT3ZpSlNjWHEtVU1sazF1aDdpcDVZMEN2dklVa0V5eUc?oc=5" target="_blank"&gt;リアルタイムKPI分析のためのClickHouseとAIエージェント&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
@@ -128,11 +120,27 @@
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
+      <title>AIエージェントの「作業場」としてのサンドボックス技術 - Speaker Deck</title>
+      <link>https://news.google.com/rss/articles/CBMilgFBVV95cUxOanVBSkpDMndSNlFPVFd6QmJVOUx5Rm1fakdSQXlCYU9IQnVYbVc5Nkc5OHVDa25Mdi12a0MwY0NTOFNMVmktM1diLUtkTkRnUDRxaW5GVDlHaEx4eXBjcWVwZFZUZ1hiNEhMTUJOclFhOE96ZEtNSk41aFJ0OWE5TzFScVJvOWNLOGQzQXBWdjhiWmhJWGc?oc=5</link>
+      <guid isPermaLink="false">CBMilgFBVV95cUxOanVBSkpDMndSNlFPVFd6QmJVOUx5Rm1fakdSQXlCYU9IQnVYbVc5Nkc5OHVDa25Mdi12a0MwY0NTOFNMVmktM1diLUtkTkRnUDRxaW5GVDlHaEx4eXBjcWVwZFZUZ1hiNEhMTUJOclFhOE96ZEtNSk41aFJ0OWE5TzFScVJvOWNLOGQzQXBWdjhiWmhJWGc</guid>
+      <pubDate>Wed, 16 Jul 2025 07:00:00 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMilgFBVV95cUxOanVBSkpDMndSNlFPVFd6QmJVOUx5Rm1fakdSQXlCYU9IQnVYbVc5Nkc5OHVDa25Mdi12a0MwY0NTOFNMVmktM1diLUtkTkRnUDRxaW5GVDlHaEx4eXBjcWVwZFZUZ1hiNEhMTUJOclFhOE96ZEtNSk41aFJ0OWE5TzFScVJvOWNLOGQzQXBWdjhiWmhJWGc?oc=5" target="_blank"&gt;AIエージェントの「作業場」としてのサンドボックス技術&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
+      <source url="https://speakerdeck.com">Speaker Deck</source>
+    </item>
+    <item>
       <title>エンタメとAIのための3Dパラレルワールド構築（GPU UNITE 2025 特別講演） - Speaker Deck</title>
       <link>https://news.google.com/rss/articles/CBMifkFVX3lxTFBtaEw3MUdWWE4yaUlLVXVmTFFCZ0NLOUU0blhBckwtdC01VXB2N0Jxa2FNdlphbGhlNC1neE9tMll6N2RjdmpzemcyNTNYMjNJV3o3VmtkOFJjaHNrbF85bWhZUl90NVA4UExsYU5ULV9pdzE2cUhBOVpFTkt0Zw?oc=5</link>
       <guid isPermaLink="false">CBMifkFVX3lxTFBtaEw3MUdWWE4yaUlLVXVmTFFCZ0NLOUU0blhBckwtdC01VXB2N0Jxa2FNdlphbGhlNC1neE9tMll6N2RjdmpzemcyNTNYMjNJV3o3VmtkOFJjaHNrbF85bWhZUl90NVA4UExsYU5ULV9pdzE2cUhBOVpFTkt0Zw</guid>
       <pubDate>Wed, 15 Oct 2025 07:00:00 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMifkFVX3lxTFBtaEw3MUdWWE4yaUlLVXVmTFFCZ0NLOUU0blhBckwtdC01VXB2N0Jxa2FNdlphbGhlNC1neE9tMll6N2RjdmpzemcyNTNYMjNJV3o3VmtkOFJjaHNrbF85bWhZUl90NVA4UExsYU5ULV9pdzE2cUhBOVpFTkt0Zw?oc=5" target="_blank"&gt;エンタメとAIのための3Dパラレルワールド構築（GPU UNITE 2025 特別講演）&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
+      <source url="https://speakerdeck.com">Speaker Deck</source>
+    </item>
+    <item>
+      <title>生成AIによるソフトウェア開発の収束地点 - Hack Fes 2025 - Speaker Deck</title>
+      <link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQ2w2bkJXZDZhQnFhaktEcTdJWFZ0NEpFR2pWM2M3dTFOdjZTZm9nbzlfeVp3b01DeVZjMDNKUUJiaFFHUzdmYlFZUTRYZkRHNUYxOFJaQXFLTGpIeXNIWmNNOUs1amRMV2pBLXBUTGlxcFpNNVhJR0FFYlp6a0Zkc1E5TENyRGtLdjVzaGI2X25nM3lfTnVDVG9sRVp2QXREWm1CNVR5QmY?oc=5</link>
+      <guid isPermaLink="false">CBMiqAFBVV95cUxOQ2w2bkJXZDZhQnFhaktEcTdJWFZ0NEpFR2pWM2M3dTFOdjZTZm9nbzlfeVp3b01DeVZjMDNKUUJiaFFHUzdmYlFZUTRYZkRHNUYxOFJaQXFLTGpIeXNIWmNNOUs1amRMV2pBLXBUTGlxcFpNNVhJR0FFYlp6a0Zkc1E5TENyRGtLdjVzaGI2X25nM3lfTnVDVG9sRVp2QXREWm1CNVR5QmY</guid>
+      <pubDate>Wed, 13 Aug 2025 07:00:00 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQ2w2bkJXZDZhQnFhaktEcTdJWFZ0NEpFR2pWM2M3dTFOdjZTZm9nbzlfeVp3b01DeVZjMDNKUUJiaFFHUzdmYlFZUTRYZkRHNUYxOFJaQXFLTGpIeXNIWmNNOUs1amRMV2pBLXBUTGlxcFpNNVhJR0FFYlp6a0Zkc1E5TENyRGtLdjVzaGI2X25nM3lfTnVDVG9sRVp2QXREWm1CNVR5QmY?oc=5" target="_blank"&gt;生成AIによるソフトウェア開発の収束地点 - Hack Fes 2025&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
@@ -397,14 +405,6 @@
       <guid isPermaLink="false">CBMiogFBVV95cUxQMkVQN2xBN3JfcEJVRG5JZ3J6MTUwUWhqU09qeHd4Y0d3czVIaTVmd0Y1d3JoVEdURkxBaDdrYk9QbG05QjkyXy1ManBxd0pQU1BRc21MYVdkUkxXZDl3LUZ5SHRhTnNzRVh6eVZhaTAyNzdkWnZCbVh4RkJpN09zeTkyNzMwYVdMeXZHY2lsc1BKajMxS1VJaVBLajFBWUFibGc</guid>
       <pubDate>Thu, 14 Nov 2024 08:00:00 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMiogFBVV95cUxQMkVQN2xBN3JfcEJVRG5JZ3J6MTUwUWhqU09qeHd4Y0d3czVIaTVmd0Y1d3JoVEdURkxBaDdrYk9QbG05QjkyXy1ManBxd0pQU1BRc21MYVdkUkxXZDl3LUZ5SHRhTnNzRVh6eVZhaTAyNzdkWnZCbVh4RkJpN09zeTkyNzMwYVdMeXZHY2lsc1BKajMxS1VJaVBLajFBWUFibGc?oc=5" target="_blank"&gt;マルチモーダル / AI Agent / LLMOps 3つの技術トレンドで理解するLLMの今後の展望&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
-      <source url="https://speakerdeck.com">Speaker Deck</source>
-    </item>
-    <item>
-      <title>AI_Agent_の作り方_近藤憲児 - Speaker Deck</title>
-      <link>https://news.google.com/rss/articles/CBMiggFBVV95cUxNb0ZxUXZXaWVqR2RKeFEwS1pBSWJpbVcxTjlORnFIMDZTT25DQnVZV2REbTl4UXNXRTlGbVBEZjFjNGxWaVpDOVV6M0F1LVRLcWdqMFk3SEF0eFI1b3R4RlIwbnAxRmhxTXdjTGxOUVlfNklXSnh5RkFMRTNTUUNTVFl3?oc=5</link>
-      <guid isPermaLink="false">CBMiggFBVV95cUxNb0ZxUXZXaWVqR2RKeFEwS1pBSWJpbVcxTjlORnFIMDZTT25DQnVZV2REbTl4UXNXRTlGbVBEZjFjNGxWaVpDOVV6M0F1LVRLcWdqMFk3SEF0eFI1b3R4RlIwbnAxRmhxTXdjTGxOUVlfNklXSnh5RkFMRTNTUUNTVFl3</guid>
-      <pubDate>Thu, 13 Mar 2025 07:00:00 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiggFBVV95cUxNb0ZxUXZXaWVqR2RKeFEwS1pBSWJpbVcxTjlORnFIMDZTT25DQnVZV2REbTl4UXNXRTlGbVBEZjFjNGxWaVpDOVV6M0F1LVRLcWdqMFk3SEF0eFI1b3R4RlIwbnAxRmhxTXdjTGxOUVlfNklXSnh5RkFMRTNTUUNTVFl3?oc=5" target="_blank"&gt;AI_Agent_の作り方_近藤憲児&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
