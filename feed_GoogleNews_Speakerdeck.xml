@@ -6,7 +6,7 @@
     <language>ja</language>
     <webMaster>news-webmaster@google.com</webMaster>
     <copyright>Copyright © 2025 Google. All rights reserved. This XML feed is made available solely for the purpose of rendering Google News results within a personal feed reader for personal, non-commercial use. Any other use of the feed is expressly prohibited. By accessing this feed or using these results in any manner whatsoever, you agree to be bound by the foregoing restrictions.</copyright>
-    <lastBuildDate>Sun, 09 Nov 2025 15:19:06 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 09 Nov 2025 16:24:39 GMT</lastBuildDate>
     <image>
       <title>Google ニュース</title>
       <url>https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w256</url>
@@ -544,6 +544,14 @@
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
+      <title>例外処理を理解して、設計段階からエラーを見つけやすく、起こりにくく - Speaker Deck</title>
+      <link>https://news.google.com/rss/articles/CBMickFVX3lxTE1SS3NtVTR2bWJ4OXB2OWl1NlRTem9tT3dabVVXT0tmZC02clNJakE5U0pPZFZ0eXROYWhCMmVxRjEtcXNaM19PLUR4ZWFreDN5VEJGb092N2VBTENNQXFrSktPRGtVTERQLWhsVzFKYTlGQQ?oc=5</link>
+      <guid isPermaLink="false">CBMickFVX3lxTE1SS3NtVTR2bWJ4OXB2OWl1NlRTem9tT3dabVVXT0tmZC02clNJakE5U0pPZFZ0eXROYWhCMmVxRjEtcXNaM19PLUR4ZWFreDN5VEJGb092N2VBTENNQXFrSktPRGtVTERQLWhsVzFKYTlGQQ</guid>
+      <pubDate>Sat, 08 Nov 2025 06:35:31 GMT</pubDate>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMickFVX3lxTE1SS3NtVTR2bWJ4OXB2OWl1NlRTem9tT3dabVVXT0tmZC02clNJakE5U0pPZFZ0eXROYWhCMmVxRjEtcXNaM19PLUR4ZWFreDN5VEJGb092N2VBTENNQXFrSktPRGtVTERQLWhsVzFKYTlGQQ?oc=5" target="_blank"&gt;例外処理を理解して、設計段階からエラーを見つけやすく、起こりにくく&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
+      <source url="https://speakerdeck.com">Speaker Deck</source>
+    </item>
+    <item>
       <title>Kotlinで型安全にバイテンポラルデータを扱いたい！ ReladomoラッパーをAIと実装してみた話 - Speaker Deck</title>
       <link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZk1XSUR2eWd2c0VDLUxYNmpYV3JuRHFyOGZ1MnZNTWVPLXNVN3pZWmR6emc1QkFiR3c4NTFvdTJEbzUxQmdKZjlwdGRfZXpBOTZnQ1FEZFVyQWJ2TTVGRHBQM3RsQU91SlJNYUZwSlozMEI5OHdtMC1HVjA4WW1sUnh0S1JwSnpoV1hDRmNMLUNjU1VhQkNyYXRBV1lRdDFvNEEwTXNKb1Y2NW5xcWQ5R2FOQUltTWItZzVLQmpXSHZCSzg?oc=5</link>
       <guid isPermaLink="false">CBMiwwFBVV95cUxOZk1XSUR2eWd2c0VDLUxYNmpYV3JuRHFyOGZ1MnZNTWVPLXNVN3pZWmR6emc1QkFiR3c4NTFvdTJEbzUxQmdKZjlwdGRfZXpBOTZnQ1FEZFVyQWJ2TTVGRHBQM3RsQU91SlJNYUZwSlozMEI5OHdtMC1HVjA4WW1sUnh0S1JwSnpoV1hDRmNMLUNjU1VhQkNyYXRBV1lRdDFvNEEwTXNKb1Y2NW5xcWQ5R2FOQUltTWItZzVLQmpXSHZCSzg</guid>
@@ -621,14 +629,6 @@
       <guid isPermaLink="false">CBMihgFBVV95cUxPZHpFa1lCRnNwUUZzcExndVZKZVBsa0lpQnB1SkVrc3BUMnFEN1g0ZFI2UWFzOVFkX3J1Z2I4bGszT3M4S1RIYk5NU0ItUHBKdHdLXzhvUWFGbGxFQjdjQ2hZUjY5UDViZm5ldUtKZjVjNVRnUE5XLVpJMUpCYmN0X1pwdERFQQ</guid>
       <pubDate>Mon, 17 Feb 2025 08:00:00 GMT</pubDate>
       <description>&lt;a href="https://news.google.com/rss/articles/CBMihgFBVV95cUxPZHpFa1lCRnNwUUZzcExndVZKZVBsa0lpQnB1SkVrc3BUMnFEN1g0ZFI2UWFzOVFkX3J1Z2I4bGszT3M4S1RIYk5NU0ItUHBKdHdLXzhvUWFGbGxFQjdjQ2hZUjY5UDViZm5ldUtKZjVjNVRnUE5XLVpJMUpCYmN0X1pwdERFQQ?oc=5" target="_blank"&gt;2024.02.19 W&amp;B AIエージェントLT会 / AIエージェントが業務を代行するための計画と実行 / Algomatic 宮脇&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
-      <source url="https://speakerdeck.com">Speaker Deck</source>
-    </item>
-    <item>
-      <title>ビジネスで活かす生成AIエージェント 〜業務利用を目指して今を俯瞰的に理解しよう〜 - Speaker Deck</title>
-      <link>https://news.google.com/rss/articles/CBMiygFBVV95cUxNSk9TbmJUMk44X2gycXZZMFBFQm5xN3pLcVVVZGVxRG55d3YyNE9QWmk1ckIwN193am1QdUc2UkMyWEV4elJDQk1EcG9nV2VuUnZPVDBydDJfVnUyTGdGY2FpellCQWowV0hsaDRiVF8yRW5LWkVRQlJzMHJvOXpuSktXeUQ2YTJiM3lzcEdvRDlvTkpQMXExYnBkY3ZUc2M5bHk0TGNXQThGMENKWFB2YjVQb09PU0hvYTZvSW5ObG1qMXl0OTRNZnlB?oc=5</link>
-      <guid isPermaLink="false">CBMiygFBVV95cUxNSk9TbmJUMk44X2gycXZZMFBFQm5xN3pLcVVVZGVxRG55d3YyNE9QWmk1ckIwN193am1QdUc2UkMyWEV4elJDQk1EcG9nV2VuUnZPVDBydDJfVnUyTGdGY2FpellCQWowV0hsaDRiVF8yRW5LWkVRQlJzMHJvOXpuSktXeUQ2YTJiM3lzcEdvRDlvTkpQMXExYnBkY3ZUc2M5bHk0TGNXQThGMENKWFB2YjVQb09PU0hvYTZvSW5ObG1qMXl0OTRNZnlB</guid>
-      <pubDate>Mon, 10 Feb 2025 08:00:00 GMT</pubDate>
-      <description>&lt;a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxNSk9TbmJUMk44X2gycXZZMFBFQm5xN3pLcVVVZGVxRG55d3YyNE9QWmk1ckIwN193am1QdUc2UkMyWEV4elJDQk1EcG9nV2VuUnZPVDBydDJfVnUyTGdGY2FpellCQWowV0hsaDRiVF8yRW5LWkVRQlJzMHJvOXpuSktXeUQ2YTJiM3lzcEdvRDlvTkpQMXExYnBkY3ZUc2M5bHk0TGNXQThGMENKWFB2YjVQb09PU0hvYTZvSW5ObG1qMXl0OTRNZnlB?oc=5" target="_blank"&gt;ビジネスで活かす生成AIエージェント 〜業務利用を目指して今を俯瞰的に理解しよう〜&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speaker Deck&lt;/font&gt;</description>
       <source url="https://speakerdeck.com">Speaker Deck</source>
     </item>
     <item>
